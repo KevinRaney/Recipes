@@ -23,7 +23,7 @@ email: OptimalHealth@raney.co
 description: >- # this means to ignore newlines until "baseurl:"
   Check out our easy Lean & Green Recipes here!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://leanandfreen.recipes" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: OptimalHealthKM
 github_username:  KevinRaney
 
