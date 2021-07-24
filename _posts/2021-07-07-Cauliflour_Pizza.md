@@ -4,8 +4,6 @@ title:  "Cauliflower Crust Pepperoni Pizza"
 date:   2021-07-07 10:42:21 -0400
 categories: Recipes Full-Lean-and-Green
 ---
-# Cauliflower Crust Pepperoni Pizza
-
 2 servings
 1 lean, 3 green & 3 condiments 
 
