@@ -28,7 +28,7 @@ twitter_username: OptimalHealthKM
 github_username:  KevinRaney
 
 # Build settings
-theme: minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
