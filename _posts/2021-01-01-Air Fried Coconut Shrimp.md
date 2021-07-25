@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Air Fried Coconut Shrimp
-date:   2021-07-07 10:42:21 -0400
-categories: Recipes Full-Lean-and-Green
+date:   2021-01-01 00:00:00 -0400
+categories: Full-Lean-and-Green
 ---
 # Ingredients:
 

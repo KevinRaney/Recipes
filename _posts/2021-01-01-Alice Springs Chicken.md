@@ -1,6 +1,9 @@
-# Alice Springs Chicken
-
-Alice Springs Chicken
+---
+layout: post
+title: Alice Springs Chicken
+date:   2021-01-01 00:00:00 -0400
+categories: Partial-Lean-and-Green
+---
 
 Yield:
 1 Serving

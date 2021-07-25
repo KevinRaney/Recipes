@@ -1,4 +1,8 @@
-# Cauliflower Crust Pepperoni Pizza
+---
+title: Cauliflower Crust Pepperoni Pizza
+date: 2021-07-02 12:23:43 -4:00
+categories: "FullLean&Green"
+---
 
 2 servings
 1 lean, 3 green & 3 condiments 
