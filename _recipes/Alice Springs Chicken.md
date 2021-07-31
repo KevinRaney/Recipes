@@ -2,20 +2,17 @@
 layout: post
 title: Alice Springs Chicken
 date:   2021-03-10 17:58:00 -0400
-categories: Partial-Lean-and-Green
+is_full_lean_and_green: false
 ---
-
-Yield:
+## Yield
 1 Serving
 
-# Per serving:
-
+## Per Serving
 1 Lean 1 Green
 2.25 Condiments
 1 Healthy Fat
 
-# Ingredients:
-
+## Ingredients
 - 7 oz raw chicken breasts (to yield 4.5 oz cooked)
 - 1 piece of turkey bacon
 - 1/4 cup mushrooms (this is after cooked measurement), sliced
@@ -26,7 +23,7 @@ Yield:
 - 1/8 tsp pepper (1/4 Condiment)
 - 1 tbsp Smokin Joe Jones No Sugar Added BBQ Sauce
 
-# Directions:
+## Directions
 1. Season the chicken with garlic salt and pepper; grill until just done.
 2. Keep the chicken warm. 
 3. Meanwhile, fry the bacon in a skillet until crisp; drain on paper towels. 
@@ -36,4 +33,3 @@ Yield:
 7. Broil until cheese is melted and bubbly.
 
 ![Alice Springs Chicken](/images/Alice%20Springs%20Chicken.png)
-

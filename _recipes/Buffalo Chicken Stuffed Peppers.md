@@ -1,7 +1,6 @@
-# Buffalo Chicken Stuffed Peppers
 ---
 layout: post
-title: 
+title: Buffalo Chicken Stuffed Peppers
 date:   2021-07-30 00:00:00 -0400
 categories: 
 ---

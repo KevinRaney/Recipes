@@ -30,6 +30,7 @@ url: "https://LeanAndGreen.Recipes" # the base hostname & protocol for your site
 collections:
   recipes:
     output: true
+    permalink: /:collection/:name
 
 # Build settings
 theme: minima

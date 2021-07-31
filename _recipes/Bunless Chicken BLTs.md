@@ -1,7 +1,6 @@
-# Bunless Chicken BLTs
 ---
 layout: post
-title: 
+title: Bunless Chicken BLTs
 date:   2021-07-30 00:00:00 -0400
 categories: 
 ---
