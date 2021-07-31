@@ -1,7 +1,6 @@
-# Big Mac Salad
 ---
 layout: post
-title: 
+title: Big Mac Salad
 date:   2021-07-30 00:00:00 -0400
 categories: 
 ---

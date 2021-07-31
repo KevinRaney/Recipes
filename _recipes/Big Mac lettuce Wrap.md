@@ -1,7 +1,6 @@
-# Big Mac lettuce Wrap
 ---
 layout: post
-title: 
+title: Big Mac lettuce Wrap
 date:   2021-07-30 00:00:00 -0400
 categories: 
 ---

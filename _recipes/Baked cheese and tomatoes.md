@@ -1,12 +1,11 @@
-# Baked cheese and tomatoes
 ---
 layout: post
-title: 
+title: Baked cheese and tomatoes
 date:   2021-07-30 00:00:00 -0400
-categories: 
+is_full_lean_and_green: true
 ---
-Baked cheese and tomatoes
 
+## Ingredients
 3 oz goat cheese
 2 oz part skim ricotta cheese
 2.63 oz of cherry tomatoes ( 1 serving of veggies)
@@ -16,7 +15,11 @@ Baked cheese and tomatoes
 1/8 tsp of Italian seasoning (1/4 condiment)
 ½ tsp balsamic vinegar (½ condiment)
 
-Preheat oven to 350. Bake cheese, cherry tomatoes and all seasonings for 30 minutes. Smash tomatoes with a fork. Stir in ricotta cheese. And your noodles.
+## Directions
+1. Preheat oven to 350. 
+2. Bake cheese, cherry tomatoes and all seasonings for 30 minutes. 
+3. Smash tomatoes with a fork. 
+4. Stir in ricotta cheese. And your noodles.
 
 Serves one. 1 lean, 3 greens, 1 ¾ condiments (no healthy fats needed)
 

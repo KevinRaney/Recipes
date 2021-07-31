@@ -1,7 +1,6 @@
-# Buffalo Chicken Wraps
 ---
 layout: post
-title: 
+title: Buffalo Chicken Wraps
 date:   2021-07-30 00:00:00 -0400
 categories: 
 ---

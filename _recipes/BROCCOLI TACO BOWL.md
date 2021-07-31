@@ -1,7 +1,6 @@
-# BROCCOLI TACO BOWL
 ---
 layout: post
-title: 
+title: Broccoli Taco Bowl
 date:   2021-07-30 00:00:00 -0400
 categories: 
 ---

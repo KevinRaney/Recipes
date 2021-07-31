@@ -1,7 +1,6 @@
-# Broccoli Cheese Casserole
 ---
 layout: post
-title: 
+title: Broccoli Cheese Casserole
 date:   2021-07-30 00:00:00 -0400
 categories: 
 ---
