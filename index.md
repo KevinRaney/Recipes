@@ -7,10 +7,6 @@ layout: home
 # Recently Added Recipes
 
 {% for recipe in site.recipes reversed %}
-  <h2>
-    <a href="{{ recipe.url }}">
-      {{ recipe.title }}
-    </a>
-  </h2>
-  <p>{{ recipe.date | date_to_string }}</p>
+<h2><a href="{{ recipe.url }}">{{ recipe.title }}</a></h2>
+<p>{{ recipe.date | date_to_string }}</p>
 {% endfor %}
