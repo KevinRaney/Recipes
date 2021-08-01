@@ -2,6 +2,7 @@
 layout: post
 title: Buffalo Chicken Appetizer
 date:   2021-07-30 00:00:00 -0400
+is_full_lean_and_green: false
 categories: 
 ---
 

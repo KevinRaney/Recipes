@@ -2,6 +2,7 @@
 layout: post
 title: Big Mac lettuce Wrap
 date:   2021-07-30 00:00:00 -0400
+is_full_lean_and_green: false
 categories: 
 ---
 
@@ -33,5 +34,5 @@ Directions:
 3.  To assemble :  Take lettuce leaf and put burger inside.  Top with pickle slices, drizzle with sauce and sprinkle with sesame seeds.
 
 Add one more serving of veggies.
-![Big Mac lettuce Wrap](images/Big%20Mac%20lettuce%20Wrap.png)
+![Big Mac lettuce Wrap](/images/Big%20Mac%20lettuce%20Wrap.png)
 

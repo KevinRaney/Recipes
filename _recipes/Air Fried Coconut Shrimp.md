@@ -2,7 +2,7 @@
 layout: post
 title: Air Fried Coconut Shrimp
 date:   2021-02-01 00:00:00 -0400
-categories: Full-Lean-and-Green
+is_full_lean_and_green: true
 tags: dinner lunch savory
 ---
 # Ingredients:
@@ -30,4 +30,4 @@ Enjoy!
 
 *You could also bake the shrimp at 400 degrees for 15 to 20 min, flipping halfway through.*
 
-![Air Fried Coconut Shrimp 🍤🥥](./images/Air%20Fried%20Coconut%20Shrimp%20🍤🥥.png)
+![Air Fried Coconut Shrimp](/images/Air Fried Coconut Shrimp.png)

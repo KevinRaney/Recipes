@@ -33,4 +33,4 @@ Per serving: 1 Leaner | 3 Green | 1 Healthy Fat | 3 Condiments
 8. Add chicken and spinach and cook until spinach is wilted about 2 minutes.
 9. Serve contents of skillet atop spaghetti squash!
 
-![Lemon Chicken Spaghetti Squash with Spinach & Tomatoes](images/Lemon Chicken Spaghetti Squash with Spinach Tomatoes.jpg)
+![Lemon Chicken Spaghetti Squash with Spinach & Tomatoes](/images/Lemon Chicken Spaghetti Squash with Spinach Tomatoes.jpg)
