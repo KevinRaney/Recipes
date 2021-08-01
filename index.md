@@ -6,7 +6,7 @@ layout: home
 ---
 # Recently Added Recipes
 
-{% for recipe in site.recipes %}
+{% for recipe in site.recipes reversed %}
   <h2>
     <a href="{{ recipe.url }}">
       {{ recipe.title }}
