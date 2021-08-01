@@ -2,7 +2,7 @@
 layout: post
 title: Bell Pepper Nachos
 date:   2021-07-30 00:00:00 -0400
-categories: FullLeanAndGreen
+is_full_lean_and_green: true
 ---
 ## Yield
 1 Servings
@@ -48,4 +48,4 @@ categories: FullLeanAndGreen
 
 > 📝 If you want to use 85 to 94% lean ground beef, omit the guacamole or avocado.
 
-![Bell Pepper Nachos](images/Bell%20Pepper%20Nachos.png)
+![Bell Pepper Nachos](/images/Bell%20Pepper%20Nachos.png)

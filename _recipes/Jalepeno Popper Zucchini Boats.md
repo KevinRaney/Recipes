@@ -2,7 +2,7 @@
 layout: post
 title: Jalepeño Popper Zucchini Boats
 date:   2021-08-01 12:15:00 -0400
-is_full_lean_and_green: false
+is_full_lean_and_green: true
 categories:
   - Spicy
 ---
@@ -34,4 +34,4 @@ Each serving with 1 lean, 3 greens, 1 healthy fat and 3 condiments
 7. Fold in reserved zucchini pieces.
 8. Spoon filling into zucchini and top with remaining ½ of each cheese and bake until cheese is melty, 15 minutes.
 
-![Jalepeño Popper Zucchini Boats](images/Jalepeño Popper Zucchini Boats.jpg)
+![Jalepeño Popper Zucchini Boats](/images/Jalepeño Popper Zucchini Boats.jpg)

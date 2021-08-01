@@ -2,7 +2,7 @@
 layout: post
 title: Basil, feta, and tomato Spaghetti squash
 date:   2021-07-30 00:00:00 -0400
-categories: PartialLeanAndGreen
+is_full_lean_and_green: false
 ---
 ## Ingredients
 - 3 cups prepared spaghetti squash (6 greens)
@@ -24,4 +24,4 @@ categories: PartialLeanAndGreen
 
 3 Servings: Each serving has 1 Complete Green, 1/4 Lean, 1 Condiment and 1 Healthy Fat
 
-![Basil, feta, and tomato Spaghetti squash](images/Basil,%20feta,%20and%20tomato%20Spaghetti%20squash.png)
+![Basil, feta, and tomato Spaghetti squash](/images/Basil,%20feta,%20and%20tomato%20Spaghetti%20squash.png)

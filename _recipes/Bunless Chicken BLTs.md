@@ -2,6 +2,7 @@
 layout: post
 title: Bunless Chicken BLTs
 date:   2021-07-30 00:00:00 -0400
+is_full_lean_and_green: true
 categories: 
 ---
 

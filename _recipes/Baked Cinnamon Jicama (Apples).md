@@ -2,6 +2,7 @@
 layout: post
 title: Baked Cinnamon Jicama (Apples) 
 date:   2021-07-30 00:00:00 -0400
+is_full_lean_and_green: false
 categories: 
 ---
 ## Yield
@@ -28,4 +29,4 @@ Still need 1 lean and 1 green per serving
 5. Mix jicama with melted butter in a medium-sized bowl. Add cinnamon, apple pie spice, and stevia stirring until combined. Pour on to foil-lined pan. Cover with foil. Bake for 20 minutes. Uncover and bake an additional 15 minutes.
 6. The jicama will not get completely soft when baking. Expect to have a slight crisp center when eating and a slightly sweetened taste. Enjoy!
 
-![Baked Cinnamon Jicama (Apples)](images/Baked%20Cinnamon%20Jicama%20(Apples).png)
+![Baked Cinnamon Jicama (Apples)](/images/Baked%20Cinnamon%20Jicama%20(Apples).png)

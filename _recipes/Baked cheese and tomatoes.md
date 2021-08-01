@@ -23,5 +23,5 @@ is_full_lean_and_green: true
 
 Serves one. 1 lean, 3 greens, 1 ¾ condiments (no healthy fats needed)
 
-![Baked cheese and tomatoes](images/Baked%20cheese%20and%20tomatoes.png)
+![Baked cheese and tomatoes](/images/Baked%20cheese%20and%20tomatoes.png)
 

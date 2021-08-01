@@ -2,6 +2,7 @@
 layout: post
 title: Cauliflower Crust Pepperoni Pizza
 date: 2021-07-02 00:00:00 -4:00
+is_full_lean_and_green: true
 categories: "FullLeanAndGreen Pizza"
 ---
 2 servings

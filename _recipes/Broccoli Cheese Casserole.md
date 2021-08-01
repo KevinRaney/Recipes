@@ -2,6 +2,7 @@
 layout: post
 title: Broccoli Cheese Casserole
 date:   2021-07-30 00:00:00 -0400
+is_full_lean_and_green: true
 categories: 
 ---
 
@@ -25,5 +26,5 @@ Ingredients:
 Directions:
 Preheat oven to 350 degrees. Combine all ingredients in a bowl except parmesan cheese and shredded cheddar cheese. Pour into a casserole dish sprayed with nonstick cooking spray. Bake for 40 min. Sprinkle cheddar cheese and parmesan cheese on top. Bake an additional 20 minutes.
 
-![Broccoli Cheese Casserole](images/Broccoli%20Cheese%20Casserole.png)
+![Broccoli Cheese Casserole](/images/Broccoli%20Cheese%20Casserole.png)
 

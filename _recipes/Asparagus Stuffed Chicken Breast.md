@@ -4,9 +4,6 @@ title: Asparagus Stuffed Chicken Breast
 date:   2021-07-30 00:00:00 -0400
 is_full_lean_and_green: true
 ---
-
-![Asparagus Stuffed Chicken Breast](/images/Asparagus%20Stuffed%20Chicken%20Breast.png)
-
 ## Ingredients
 - 4 Skinless boneless chicken breasts about 1 1/2 lb. 
 - 1 Pkg Italian seasoning mix 
@@ -27,3 +24,4 @@ is_full_lean_and_green: true
 5. Close the pocket with a toothpick. 
 6. Heat oil in skillet.Add the chicken to the skillet and sear it until nicely golden brown about 3-5 minutes per side. Move the skillet to the oven and bake the chicken for 15-20 minutes, or until thorough.
 
+![Asparagus Stuffed Chicken Breast](/images/Asparagus%20Stuffed%20Chicken%20Breast.png)

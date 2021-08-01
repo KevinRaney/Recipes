@@ -2,6 +2,7 @@
 layout: post
 title: Broccoli Taco Bowl
 date:   2021-07-30 00:00:00 -0400
+is_full_lean_and_green: true
 categories: 
 ---
 
@@ -33,5 +34,6 @@ DIRECTIONS:
 3. Add your Rotel tomatoes, garlic powder, onion powder, salt, and red pepper flakes and stir well.
 4. When your broccoli is finished cooking then add it to your skillet and toss with the hamburger mixture.
 5. Add everything to a bowl and top with your shredded cheddar cheese.
+
 ![BROCCOLI TACO BOWL](/images/BROCCOLI%20TACO%20BOWL.png)
 
