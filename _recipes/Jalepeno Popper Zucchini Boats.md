@@ -1,5 +1,10 @@
-—-
+---
+layout: post
 title: Jalepeño Popper Zucchini Boats
+date:   2021-08-01 12:15:00 -0400
+is_full_lean_and_green: false
+categories:
+  - Spicy
 —-
 
 Makes 3 servings
