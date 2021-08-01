@@ -3,13 +3,49 @@ layout: post
 title: Jalepeño Popper Zucchini Boats
 date:   2021-08-01 12:15:00 -0400
 is_full_lean_and_green: true
-categories:
-  - Spicy
+lean_and_green:
+ - is_full: true
+ - servings: 3
+ - lean: 1
+ - lean_type: Lean
+ - green: 3
+ - condiment: 3
+ - healthy_fat: 1
+categories: Spicy
 ---
+{% for specs in page.lean_and_green%}
+{% if specs.servings%}
+{% assign serving = specs.servings%}
+{% endif %}
+{% if specs.lean_type %}
+{% assign lean_type = specs.lean_type | capitalize %}
+{% endif  %}
+{% if specs.lean %}
+{% assign lean = specs.lean %}
+{% endif  %}
+{% if specs.green %}
+{% assign green = specs.green %}
+{% endif  %}
+{% if specs.condiment %}
+{% assign condiment = specs.condiment %}
+{% endif %}
+{% if specs.healthy_fat %}
+{% assign healthy_fat = specs.healthy_fat %}
+{% endif %}
+{% endfor %}
 
-Makes 3 servings
 
-Each serving with 1 lean, 3 greens, 1 healthy fat and 3 condiments
+# Nutritional Information
+
+<table>
+<tr><td>Servings</td><td>{{serving}}</td></tr>
+<tr><td>{{ lean_type }}</td><td>{{lean}}</td></tr>
+<tr><td>Greens</td><td>{{green}}</td></tr>
+<tr><td>Healthy Fats</td><td>{{healthy_fat}}</td></tr>
+<tr><td>Condiments</td><td>{{condiment}}</td></tr>
+</table>
+
+{{serving}} serving(s), {{lean}} {{lean_type}}, {{healthy_fat}} healthy fat(s), {{green}} green(s) and {{condiment}} condiment(s). 
 
 # Ingredients
 - 4 zucchini, halved lengthwise (about 16 oz 8 greens)
