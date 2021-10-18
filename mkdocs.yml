@@ -1,3 +1,24 @@
 site_name: Lean & Green Recipes
 site_url: https://leanandgreen.recipes
 copyright: Copyright &copy; 2021 LeanAndGreen.Recipes
+theme:
+  name: 'material'
+  palette:
+    primary: Green
+    accent: Green
+features:
+  - content.code.annotate
+  - content.tabs.link
+  # - header.autohide
+  - navigation.expand
+  - navigation.indexes
+  # - navigation.instant
+  # - navigation.sections
+  - navigation.tabs
+  # - navigation.tabs.sticky
+  - navigation.top
+  - navigation.tracking
+  - search.highlight
+  - search.share
+  - search.suggest
+  - toc.integrate
