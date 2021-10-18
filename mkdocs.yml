@@ -22,3 +22,7 @@ features:
   - search.share
   - search.suggest
   - toc.integrate
+markdown_extensions:
+  - pymdownx.tasklist:
+      custom_checkbox: true
+      clickable_checkbox: true
