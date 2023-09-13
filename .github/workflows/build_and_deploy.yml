@@ -20,7 +20,7 @@ jobs:
       - name: "Save build artifact"
         uses: actions/upload-pages-artifact@v1.0.8
         with:
-          path: ${{ github.workspace }}/bin
+          path: ${{ github.workspace }}/site
 
   deploy:
     needs: build
