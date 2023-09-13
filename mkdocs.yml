@@ -1,6 +1,6 @@
 site_name: Lean & Green Recipes
-site_url: https://leanandgreen.recipes
-copyright: Copyright &copy; 2021 LeanAndGreen.Recipes
+site_url: https://recipes.raney.co
+copyright: Copyright &copy; 2023 Recipes.Raney.co
 theme:
   name: 'material'
   palette:
