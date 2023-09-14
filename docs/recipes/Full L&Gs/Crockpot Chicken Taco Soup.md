@@ -16,8 +16,7 @@
 - [ ] 1/2 teaspoon cumin
 - [ ] 1/4 teaspoon chili powder
 - [ ] 1 clove garlic, minced
-- [ ] 13-14 oz raw chicken breasts - should yield 9 oz
-- [ ] cooked
+- [ ] 13-14 oz raw chicken breasts - should yield 9 oz cooked
 - [ ] 2 cups cabbage, chopped (May need more because of shrinkage)
 - [ ] 2 oz Kraft 2% Mexican Cheese to garnish
 
