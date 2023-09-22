@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: "Checkout code"
         uses: actions/checkout@v1
+      - name: "Pull git lfs"
+        run: git lfs pull
       - name: "Setup Environment"
         run: pip install -r mkdocs.requirements
 
