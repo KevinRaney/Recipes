@@ -1,9 +1,14 @@
 site_name: Lean & Green Recipes
 site_url: https://recipes.raney.co
+repo_url: https://github.com/KevinRaney/Recipes
+edit_uri: edit/main/docs/
+repo_name: KevinRaney/Recipes
 copyright: Copyright &copy; 2023 Recipes.Raney.co
 
 theme:
   name: 'material'
+  icon:
+    repo: fontawesome/brands/github
   palette:        
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
@@ -22,6 +27,8 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
+  features:
+      - content.action.edit
 
 features:
   - content.code.annotate
@@ -45,3 +52,7 @@ markdown_extensions:
       clickable_checkbox: true
 extra:
   generator: false
+
+plugins:
+  - git-revision-date-localized:
+      enable_creation_date: true

@@ -1,11 +1,11 @@
 # Air Fried Coconut Shrimp
 
 ## Ingredients
-* 9 ounces raw shrimp, shell and tails removed (1 Leanest Lean)
-* 1 1/2 tbsp almond flour (1 Healthy Fat)
-* 1 1/2 tbsp unsweetened shredded coconut (1 Healthy Fat)
-* 1 tsp McCormick Perfect Pinch Fiesta Citrus salt free seasoning (2 Condiments)
-* 1 egg white
+- [ ] 9 ounces raw shrimp, shell and tails removed (1 Leanest Lean)
+- [ ] 1 1/2 tbsp almond flour (1 Healthy Fat)
+- [ ] 1 1/2 tbsp unsweetened shredded coconut (1 Healthy Fat)
+- [ ] 1 tsp McCormick Perfect Pinch Fiesta Citrus salt free seasoning (2 Condiments)
+- [ ] 1 egg white
 
 ## Directions
 1. Combine almond flour, unsweetened coconut, and seasonings in medium sized bowl.

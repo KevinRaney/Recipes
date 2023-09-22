@@ -6,19 +6,19 @@ Per serving
 1 1/2 vegetables
 1 condiment
 
-![Pizza Casserole](./Pizza%20Casserole.png)
+![Pizza Casserole](./PizzaCasserole.png)
 
 ## Ingredients:
 
-* 1 1/2 cups (12.69 oz) low sodium diced tomatoes (do not use petite dice) (3 greens)
-* 23.6 ounces uncooked turkey Italian sausage ~Should Yield 20 oz cooked (4 leans)
-* 10 1/4 second sprays Non-stick pan spray
-* 1 tsp. dried oregano (2 condiment)
-* ¼ tsp salt (1 condiment)
-* ½ tsp fresh-ground pepper (1 condiment)
-* 2 1/4 cup (5.72 oz) fresh brown cremini mushrooms, washed and cut into thick slices (4.5 greens)
-* 1 3/4 cups (7 oz) grated Mozzarella cheese (I used part-skim mozzarella)
-* 5 oz turkey pepperoni, cut in half (1 lean)
+- [ ] 1 1/2 cups (12.69 oz) low sodium diced tomatoes (do not use petite dice) (3 greens)
+- [ ] 23.6 ounces uncooked turkey Italian sausage ~Should Yield 20 oz cooked (4 leans)
+- [ ] 10 1/4 second sprays Non-stick pan spray
+- [ ] 1 tsp. dried oregano (2 condiment)
+- [ ] ¼ tsp salt (1 condiment)
+- [ ] ½ tsp fresh-ground pepper (1 condiment)
+- [ ] 2 1/4 cup (5.72 oz) fresh brown cremini mushrooms, washed and cut into thick slices (4.5 greens)
+- [ ] 1 3/4 cups (7 oz) grated Mozzarella cheese (I used part-skim mozzarella)
+- [ ] 5 oz turkey pepperoni, cut in half (1 lean)
 
 ## Directions:
 
