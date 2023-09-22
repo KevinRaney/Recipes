@@ -28,7 +28,7 @@ theme:
         icon: material/brightness-7
         name: Switch to dark mode
   features:
-      - content.action.edit
+    - content.action.edit
 
 features:
   - content.code.annotate
@@ -37,7 +37,7 @@ features:
   - navigation.expand
   - navigation.indexes
   # - navigation.instant
-  # - navigation.sections
+  - navigation.sections
   - navigation.tabs
   # - navigation.tabs.sticky
   - navigation.top
@@ -46,6 +46,7 @@ features:
   - search.share
   - search.suggest
   - toc.integrate
+
 markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
@@ -53,6 +54,6 @@ markdown_extensions:
 extra:
   generator: false
 
-plugins:
-  - git-revision-date-localized:
-      enable_creation_date: true
+# plugins:
+#   - git-revision-date-localized:
+#       enable_creation_date: true
