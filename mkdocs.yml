@@ -3,7 +3,7 @@ site_url: https://recipes.raney.co
 repo_url: https://github.com/KevinRaney/Recipes
 edit_uri: edit/main/docs/
 repo_name: KevinRaney/Recipes
-copyright: Copyright &copy; 2023 Recipes.Raney.co
+copyright: Copyright &copy; 2024 Recipes.Raney.co
 
 theme:
   name: 'material'
