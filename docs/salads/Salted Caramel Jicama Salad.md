@@ -27,7 +27,7 @@ Add a small steak and small salad, and you're good! ;)
 
 1. How to taste walnut halves:
 2. Preheat oven to 350 degrees. Line a baking sheet with foil for easy cleaning up.
- 3. Spread walnut on the prepared baking sheet in a single layer. Roast for 5 to 10 minutes.
+3. Spread walnut on the prepared baking sheet in a single layer. Roast for 5 to 10 minutes.
 4. Frequently stir the nuts to ensure even baking.
 5. Nuts are done when they appear a shade darker and smell toasted.
 6. Let cool and then chop.

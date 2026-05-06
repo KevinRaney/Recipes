@@ -3,7 +3,7 @@
 Makes 7 servings, per serving you enjoy:
 3 Greens | 3 Condiments | 2 Healthy Fats
 
-*add 1 Leanest option (7 oz cooked) for complete L&G meal*
+Add 1 Leanest option (7 oz cooked) for a complete L&G meal.
 
 ## Ingredients
 
