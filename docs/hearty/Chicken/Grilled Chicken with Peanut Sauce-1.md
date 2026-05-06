@@ -17,8 +17,8 @@
 
 ## Directions
 1. Combine all ingredients, except chicken in a small bowl. I added almost 2 tbsp of water but try adding a little at a time to get the desired consistency. Stir until completely blended. Serve with chicken and your favorite steamed veggies.
-2. 2 Servings of Lean with 2.5 Condiments and 1 Snack per Serving (A serving is 6 oz of chicken and 1/2 of the sauce) You still need 1 Healthy Fat,
-3. (1 Healthy Fat is needed per serving. You could marinate the chicken in your favorite dressing that meets the healthy fat requirement. Newman's Own Lighten Up has some great ones such as Sun Dried Tomato, Balsamic, Lime, Red Wine and Olive Oil. You can use 1/4 cup for 2 servings of meat as 1 healthy fat.
+
+2 Servings of Lean with 2.5 Condiments and 1 Snack per Serving (A serving is 6 oz of chicken and 1/2 of the sauce). You still need 1 Healthy Fat per serving. You could marinate the chicken in your favorite dressing that meets the healthy fat requirement. Newman's Own Lighten Up has some great ones such as Sun Dried Tomato, Balsamic, Lime, Red Wine and Olive Oil. You can use 1/4 cup for 2 servings of meat as 1 healthy fat.
 
 ![Grilled Chicken with Peanut Sauce-1](./Grilled%20Chicken%20with%20Peanut%20Sauce-1.png)
 

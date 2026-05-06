@@ -19,10 +19,10 @@ Total Time: 30 minutes
 - [ ] ½ medium-sized avocado, sliced
 
 ## Directions
-1. 1.Combine first six ingredients in a blender, and blend until smooth.
-2. 2.Place chicken in Instant Pot, and pour sauce over top. Secure lid and close pressure valve. Set to 20 minutes at high pressure. Allow pressure to release naturally before opening. Remove chicken and shred, and then toss back in sauce.
-3. 3.Meanwhile, microwave riced cauliflower according to package directions.
-4. 4.To serve: Divide riced cauliflower, chicken, cheese, and avocado evenly amongst four bowls.
+1. Combine first six ingredients in a blender, and blend until smooth.
+2. Place chicken in Instant Pot, and pour sauce over top. Secure lid and close pressure valve. Set to 20 minutes at high pressure. Allow pressure to release naturally before opening. Remove chicken and shred, and then toss back in sauce.
+3. Meanwhile, microwave riced cauliflower according to package directions.
+4. To serve: Divide riced cauliflower, chicken, cheese, and avocado evenly amongst four bowls.
 
 ![Instant Pot Chipotle Chicken & Cauliflower Rice Bowls 🌶🧀🥑](./Instant%20Pot%20Chipotle%20Chicken%20&%20Cauliflower%20Rice%20Bowls%20🌶🧀🥑.png)
 
