@@ -2,9 +2,11 @@
 ⁪
 Makes 4 servings
 Each serving provides: 1 leaner protein, 1 healthy fat, 2 greens, 3 condiments
+
 ### 
 
 ## Ingredients 
+
 ### For the dressing:
 * 2 Tbsp. Ortega taco seasoning, hot or mild
 * 1/2 cup light Ranch
@@ -20,6 +22,7 @@ Each serving provides: 1 leaner protein, 1 healthy fat, 2 greens, 3 condiments
 * 1/2 cup of jalapeño & jicama mixed together
 
 ⁪
+
 ## Directions
 1. In a small bowl, stir together ingredients for dressing then refrigerate until ready to use.
 2. In a large bowl, toss salad ingredients together. Add dressing a little at a time then toss until lightly coated.

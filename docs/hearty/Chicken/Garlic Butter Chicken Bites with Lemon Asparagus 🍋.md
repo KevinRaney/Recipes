@@ -2,7 +2,7 @@
 
 Garlic Butter Chicken Bites with Lemon Asparagus 🍋
 
-Ingredients:
+## Ingredients
 * 36.4 oz boneless, skinless chicken breast, cut into bite-sized chunks (4 leaners)
 * 6 cups (28.32 oz) asparagus, rinsed and trimmed (12 greens)
 * 1 1/2 tbsp butter, softened (3 healthy fats)
@@ -15,12 +15,13 @@ Ingredients:
 * 1 tablespoon minced parsley (1/4 condiment)
 * 1/4 tsp Crushed red chili flakes optional (1/2 condiment)
 * Slices of lemon, for garnish
-For the chicken seasoning:
+
+### For the chicken seasoning
 * 1/4 teaspoon salt (1 condiment)
 * 1/2 teaspoon fresh cracked black pepper (1 condiments)
 * 1 teaspoons onion powder (2 condiments)
 
-DIRECTIONS:
+## Directions
 1. To prepare the chicken bites recipe and asparagus in garlic butter sauce: Start to slice chicken breasts into bite-sized chunks and season with salt, pepper, and onion powder. Let sit in a shallow plate while you prepare the asparagus.
 2. Wash and trim the ends of the asparagus, then blanch them in boiling water for 2 minutes, then soak in ice water to stop the cooking asparagus. This way, asparagus will cook faster and evenly in the skillet. You can skip this step if you have skinny asparagus. Drain and set aside.
 3. Heat half butter and olive oil in a large cast-iron skillet over medium-low heat. Gently stir-fry the chicken bites on all sides until golden brown. Lower the temperature, add one teaspoon minced garlic and Italian seasoning and stir and cook with chicken bites until fragrant. Remove the chicken bites from the skillet and set aside to a plate. You might have to work in batches to avoid crowding the pan and have steamed chicken bites instead of brown.

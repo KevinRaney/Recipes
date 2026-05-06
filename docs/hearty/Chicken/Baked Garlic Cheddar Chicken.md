@@ -15,7 +15,7 @@ Per serving
 * 1/8 Teaspoon salt
 * Eight – 5.2 ounce skinless chicken breast
 
-## Directions:
+## Directions
 1. Preheat oven to 350° F. Grease a 13 x 9 inch baking dish.
 2. Melt butter in a small saucepan over low heat and cook garlic until tender, about 5 minutes.
 3. In a shallow bowl, mix together almond flour, parmesan cheese, cheddar cheese, parsley, oregano, pepper, and salt. Dip each chicken breast in garlic butter to coat, then press into the mixture. Place coated chicken breasts in a prepared baking dish. Drizzle with any remaining butter and sprinkle with any remaining mixture.

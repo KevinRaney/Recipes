@@ -10,7 +10,7 @@ Add 3 greens per serving to make a complete LG
 
 ## Ingredients
 
-In order to make this a compliant LG, use:
+* In order to make this a compliant LG, use:
 
 - [ ] *39oz cooked* chicken breast (~58.5oz raw)
 - [ ] *6oz reduced fat* Swiss or mozzarella

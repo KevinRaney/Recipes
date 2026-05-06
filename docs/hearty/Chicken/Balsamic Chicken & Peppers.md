@@ -6,7 +6,7 @@ Per serving:
 3 Condiments
 1 Healthy fat
 
-## Ingredients:
+## Ingredients
 * 36 oz Chicken breast
 * 2 cup Chopped Bell Peppers
 * 4 tsp Oil, olive
@@ -19,7 +19,7 @@ Per serving:
 * 3 tsp Balsamic Vinegar
 * 1/4 cup Chicken Broth
 
-## Directions:
+## Directions
 1. Preheat oven to 375.
 2. In a bowl add green peppers and onions.
 3. In measuring cup stir balsamic vinegar, Worcestershire, olive oil, broth, minced garlic, and herbs.

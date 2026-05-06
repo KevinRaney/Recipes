@@ -1,6 +1,6 @@
 # Broccoli, Sun-dried Tomato & Chicken Caesar Salad⁣
 ⁠
-## ⁣Ingredients
+## Ingredients
 * 1 ¼ cup of broccoli florets⁣⁠
 * ¼ cup of sun-dried tomatoes (patted and dried of oil)⁣⁠
 * 6 oz of cooked shredded chicken ⁣⁠

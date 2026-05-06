@@ -10,7 +10,7 @@ Per serving:
 2.5 condiments
 .75 optional snack
 
-## Ingredients:
+## Ingredients
 * 2 teaspoons canola oil
 * 30 oz Mori-Nu® Silken extra-firm tofu*, cut into ½” cubes
 * (or 18 ounces chicken, cut into bite-sized pieces)
@@ -22,7 +22,7 @@ Per serving:
 * 3 tsp. low sodium soy sauce
 * 1 Tbsp. rice vinegar
 
-## Directions:
+## Directions
 1. Coat a nonstick pan with 1 teaspoon of oil. Sauté broccoli on medium heat until tender. Set aside in a bowl.
 2. Add another teaspoon of oil to the same pan and cook the garlic and ginger for two minutes or until golden in color. Add chicken and sauté on medium heat until cooked through.
 3. While the chicken is cooking, make the sauce by adding the hot water to the PB2. Whisk until well mixed and then add the stir in the remaining ingredients.

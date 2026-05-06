@@ -10,6 +10,7 @@ Per serving:
 1 Healthy Fat
 
 ## Ingredients
+
 ### Crust
 * 1 cup or 100 grams grated raw cauliflower
 * 1/4 cup egg beaters
@@ -28,6 +29,7 @@ Per serving:
 * 1/4 tsp Molly McButter
 
 ## Directions
+
 ### Crust
 1. Preheat oven to 425 degrees. 
 2. Place parchment paper on a cookie sheet and spray lightly with cooking spray. 

@@ -1,4 +1,5 @@
 # Chicken Stuffed with Spinach, Goat Cheese & Pine Nuts
+
 # 
 
 Makes 4 servings
@@ -7,9 +8,10 @@ Each serving provides:
 1 healthy fat
 1.25 vegetable
 2 condiments
+
 # 
 
-## Ingredients:
+## Ingredients
 * 5 ounces fresh spinach chopped
 * ½ cup - 2 ounces- of crumbled low-fat goat cheese
 * 2 tsp pine nuts, toasted
@@ -22,7 +24,7 @@ Each serving provides:
 * 4 tsp olive oil
 * ½ cup fat-free, low-sodium chicken broth
 
-## Directions:
+## Directions
 1. Preheat the oven to 350 F.
 2. Heat a large nonstick ovenproof skillet over medium-high heat. Add spinach to pan; cook 1 minute or until spinach wilts, tossing constantly. Place spinach in a colander, press until barely moist. Wipe the pan clean.
 3. Combine spinach, cheese, nuts, thyme, lemon juice, and garlic. Cut a horizontal slit through the thickest portion of each chicken breast half to form a pocket. Stuff 3 tablespoons filling into each pocket. Seal with wooden picks. Sprinkle chicken with salt and pepper.

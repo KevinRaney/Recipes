@@ -3,6 +3,7 @@
 Yields: 1 Serving
 Pre serving: 1 Lean|3 Greens|3 Condiments|1 Healthy Fat
 ⁪
+
 ## Ingredients
 * 1 Cup prepared Spaghetti Squash Strands (2 Greens)
 * 1/2 Cup diced Italian tomatoes (1 Green)
@@ -12,7 +13,8 @@ Pre serving: 1 Lean|3 Greens|3 Condiments|1 Healthy Fat
 * 1 Tbsp Wishbone Light Italian Salad Dressing (1.5 Condiments)
 * 2 tsp. Parmesan Cheese, grated (2/3 Condiment)
 
-⁪
+* ⁪
+
 ## Directions
 1. Preheat oven to 350 degrees. Prepare spaghetti squash by oven or microwave.
 2. Marinate chicken in Italian dressing if desired. Spray a nonstick skillet with cooking spray. Add chicken and cook until chicken is no longer pink and cooked thoroughly. Make sure you have 4.5 oz. of chicken when cooked. If you desire more shredded Italian cheese, then use 1/2 Cup cheese and only 3 oz. chicken when cooked. Set aside chicken.

@@ -10,7 +10,7 @@ Per serving:
 1 Optional Snack
 3 Condiments
 
-## Ingredients:
+## Ingredients
 * 1/2 cup chicken broth
 * 1 tsp almond flour
 * 1 tsp rice vinegar
@@ -22,7 +22,7 @@ Per serving:
 * 1 cup zucchini, chopped
 * 1/2 cup scallions, chopped
 
-## Directions:
+## Directions
 1. Whisk together chicken broth, almond flour, rice vinegar, and soy sauce and set aside
 2. Heat peanut oil over medium-high heat in a wok.
 3. Add garlic and ginger and saute briefly

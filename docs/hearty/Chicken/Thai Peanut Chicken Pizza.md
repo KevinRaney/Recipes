@@ -1,7 +1,9 @@
 # Thai Peanut Chicken Pizza
+
 ## 
 
-## Ingredients:
+## Ingredients
+
 ### For the Crust
 * 1 cup raw Cauliflower, grated or 100 grams (2 Greens)
 * 1/4 cup Egg Beaters (1/8 Lean)
@@ -21,7 +23,7 @@
 * 2 tbsp Green Onions or 12.5 grams, thinly sliced (1/4 Green)
 * 1 tbsp Cilantro, chopped (Optional)
 
-## Directions:
+## Directions
 1. Marinade raw chicken in teriyaki and soy sauce overnight. Discard marinade. Grill or cook chicken until done. Chop into small pieces. Make sure you are getting 2.25 oz cooked chicken. Set aside.
 
 1. Preheat oven to 425 degrees. Place parchment paper on a cookie sheet and spray lightly with cooking spray. Combine grated cauliflower, egg beaters, and 1/4 cup cheese until mixed completely. Spoon mixture on prepared pan with parchment paper. Use the back of a spoon to thin out the mixture and form a circle about the size of a dinner plate without the rim. Bake for 25 to 30 minutes. Flip the pizza crust over. Bake for an additional 10 to 15 minutes.

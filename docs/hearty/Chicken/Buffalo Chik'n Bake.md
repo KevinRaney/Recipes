@@ -13,7 +13,8 @@ Per serving:
 2 healthy fats
 
 ⁪
-## Ingredients:
+
+## Ingredients
 * Cooking spray
 * 15 oz Gardein Chik'n Strips (The same amount applies if using Morningstar Farms strips)
 * 1/2 cup Frank's Buffalo Wing sauce
@@ -23,7 +24,7 @@ Per serving:
 * 2 slices of Kraft 2% American cheese
 * 4.8 oz reduced-fat cheddar, shredded
 
-## Directions:
+## Directions
 1. Preheat oven to 350°F.
 2. In a large pan, spray some oil and saute the chik’n strips on medium heat until cooked through about 8 minutes. Leave in pan and set aside.
 3. Prepare buffalo cheese sauce:

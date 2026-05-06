@@ -7,7 +7,7 @@ Per serving
 2/3 condiment
 1 fat
 
-Ingredients:
+## Ingredients
 * 6 chicken breast thinly sliced (raw, butterflied) – total weight 27.3 oz ~Yields 18 oz cooked (3 leaners)
 * 12 oz non-fat plain greek yogurt (1 leanest)
 * 1 cup (2.54 oz) fresh mushrooms sliced (2 greens)
@@ -19,7 +19,7 @@ Ingredients:
 * 1/2 cup chicken broth (1 condiment)
 * 8 ounces mozzarella cheese (2 leans)
 
-Directions: 
+## Directions
 1. In 9x13 pan line chicken in single layer, top with spinach and then mushrooms. 
 2. Sprinkle with seasonings. Whisk greek yogurt with oil and broth. 
 3. Pour over mixture. 

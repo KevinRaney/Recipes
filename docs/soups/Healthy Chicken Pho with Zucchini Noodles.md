@@ -23,7 +23,7 @@ Each serving provides
 * ½ cup chopped basil
 * 2 tsp Ginger root
 
-## Instructions
+## Directions
 1. Preheat oven to 475 degrees F
 2. Chop leeks into large chunks
 3. Peel ginger and slice into small chunks

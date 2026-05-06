@@ -1,8 +1,8 @@
 # Shrimp Salad with Peanut Dressing
 
-## Ingredients:
-1 1/2 cups tri-color coleslaw mix OR 1 1/2 cup shredded cabbage (3 Greens) (adjust if you want to add tomatoes)
-7 oz cooked shrimp - I had the frozen ones in the bag with... tails and shells removed (1 Lean)
+## Ingredients
+* 1 1/2 cups tri-color coleslaw mix OR 1 1/2 cup shredded cabbage (3 Greens) (adjust if you want to add tomatoes)
+* 7 oz cooked shrimp - I had the frozen ones in the bag with... tails and shells removed (1 Lean)
 
 ## Dressing
 * 2 tbsp powdered peanut butter aka PB2 (1 Snack)

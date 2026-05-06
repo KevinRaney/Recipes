@@ -4,17 +4,17 @@
 
 Buffalo Chicken Spaghetti Squash Boats
 
-Ingredients:
-1 medium spaghetti squash, cooked and shredded
-18 oz cooked chicken breast, shredded
-1 cup shredded cabbage
-4 oz reduced fat shredded cheddar cheese
-1/2 cup diced scallions
-1/2 cup hot sauce
-1/4 cup + 2 TBSP reduced fat ranch dressing
+## Ingredients
+* 1 medium spaghetti squash, cooked and shredded
+* 18 oz cooked chicken breast, shredded
+* 1 cup shredded cabbage
+* 4 oz reduced fat shredded cheddar cheese
+* 1/2 cup diced scallions
+* 1/2 cup hot sauce
+* 1/4 cup + 2 TBSP reduced fat ranch dressing
 
-Directions:
-Preheat oven to 350. Place shredded spaghetti squash back in squash shells and place on a baking sheet. 
+## Directions
+1. Preheat oven to 350. Place shredded spaghetti squash back in squash shells and place on a baking sheet.
 
 In large mixing bowl, combine cooked squash with chicken, cabbage, cheese, scallions, hot sauce, and dressing. 
 

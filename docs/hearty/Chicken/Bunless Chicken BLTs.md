@@ -13,7 +13,7 @@ Per serving
 1 ¼ vegetable servings
 1 fat
 
-## Ingredients: 
+## Ingredients
 * 8 slices Jennie-o turkey bacon
 * 2 tablespoons olive oil mayonnaise 
 * 2 Tbsp chopped fresh basil
@@ -21,7 +21,7 @@ Per serving
 * 1 cup baby spinach
 * 2 large tomatoes, cut into 8 slices
 
-## Instructions:
+## Directions
 1. Place 4 slices bacon on a paper towel-lined plate; microwave on High 11/2 to 2 minutes or until crisp. Repeat with remaining bacon.
 2. Combine mayonnaise and basil.
 3. Reheat chicken in the microwave at HIGH 1 to 2 minutes or until heated.

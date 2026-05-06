@@ -1,4 +1,5 @@
 # Green Chile Chicken Enchilada Stuffed Spaghetti Squash
+
 ![Green Chile Chicken Enchilada Stuffed Spaghetti Squash](./Green%20Chile%20Chicken%20Enchilada%20Stuffed%20Spaghetti%20Squash.jpeg)
 
 Makes 3 servings
@@ -17,7 +18,8 @@ per serving:
 * 1/4 cup cottage cheese blended smooth or greek yogurt
 * 1 cup shredded low fat sharp cheddar, mozzarella or Monterey Jack cheese
 
-## Instructions
+## Directions
+
 ### Spaghetti Squash
 1. Preheat oven to 400 degrees and line baking sheet with foil.
 2. Cut the spaghetti squash in half lengthwise, spray the inside with cooking spray and sprinkle with salt and pepper.

@@ -23,7 +23,7 @@ Per serving
 
 ## 
 
-## Directions:
+## Directions
 1. Preheat the oven to 350 degrees. Spray a 9 x 13 inch baking dish with cooking spray. 
 2. In a large pot of boiling salted water, cook the cauliflower for al dente and drain well.
 3. In a large skillet, heat the oil over medium-low heat. 

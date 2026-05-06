@@ -2,7 +2,7 @@
 
 Broccoli and Cheese Stuffed Chicken 🥦🧀
 
-# Ingredients
+## Ingredients
 
 - 1 cups chopped broccoli
 - 1/2 cup chopped tomatoes
@@ -13,7 +13,7 @@ Broccoli and Cheese Stuffed Chicken 🥦🧀
 - 3 Tbsp ground flax seed
 - Spray oil (I used olive oil)
 
-# Directions
+## Directions
 
 1. Preheat oven to 400°
 2. Spray baking dish with oil

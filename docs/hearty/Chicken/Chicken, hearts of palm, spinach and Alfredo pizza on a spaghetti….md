@@ -7,6 +7,7 @@ Serving Size: 1/4 Pizza
 Per serving: 1 Lean protein, 3 greens, 1 Condiment
 
 ## Ingredients
+
 ### Crust
 * 4 ½ cups cooked Spaghetti Squash
 * 3 Eggs

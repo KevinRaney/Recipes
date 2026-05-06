@@ -1,6 +1,7 @@
 # Cheesy Chicken Spaghetti Squash Casserole
 
 ## Ingredients
+
 ### For Chicken
 * 6 to 7 oz raw chicken breasts - should yield 4.5 oz grilled (3/4 Lean)
 * 1/4 tsp Mrs Dash Southwest Chipotle Seasoning or seasoning of your choice (1 Condiment)

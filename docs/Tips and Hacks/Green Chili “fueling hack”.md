@@ -9,6 +9,6 @@
 - [ ] 1/4 t salt 1 condiment 
 
 ## Directions
-Mixed a mashed potato fuel by package. Let set a minute, add 1/2 the fuel and water to pan for your desired consistency .
+1. Mixed a mashed potato fuel by package. Let set a minute, add 1/2 the fuel and water to pan for your desired consistency .
 
 I used no added fat. Came out very good!
