@@ -3,13 +3,21 @@ site_url: https://recipes.raney.co
 repo_url: https://github.com/KevinRaney/Recipes
 edit_uri: edit/main/docs/
 repo_name: KevinRaney/Recipes
-copyright: Copyright &copy; 2024 Recipes.Raney.co
+copyright: Copyright &copy; 2026 Recipes.Raney.co
+
+plugins:
+  - search
+  - awesome-pages
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: date
+      fallback_to_build_date: true
 
 theme:
   name: 'material'
   icon:
     repo: fontawesome/brands/github
-  palette:        
+  palette:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
@@ -49,5 +57,6 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
       clickable_checkbox: true
+
 extra:
   generator: false
