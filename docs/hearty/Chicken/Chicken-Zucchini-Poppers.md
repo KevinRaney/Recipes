@@ -1,7 +1,5 @@
 # Chicken Zucchini Poppers
 
-Chicken Zucchini Poppers
-
 2 servings with each:
 1 leaner
 3 green

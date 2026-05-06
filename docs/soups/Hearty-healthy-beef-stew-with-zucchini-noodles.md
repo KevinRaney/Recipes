@@ -1,7 +1,5 @@
 # Hearty & healthy beef stew with zucchini noodles.
 
-Hearty & healthy beef stew with zucchini noodles.
-
 Makes 6 servings
 Per serving
 1 Lean protein

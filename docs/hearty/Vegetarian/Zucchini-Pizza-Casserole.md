@@ -1,7 +1,5 @@
 # Zucchini Pizza Casserole
 
-Zucchini Pizza Casserole
-
 ## Ingredients
 - [ ] 4 cups shredded zucchini (8 Greens)
 - [ ] 2 eggs (⅔ Lean)

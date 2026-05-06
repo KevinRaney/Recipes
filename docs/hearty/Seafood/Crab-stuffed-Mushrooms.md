@@ -1,9 +1,5 @@
 # Crab-stuffed Mushrooms 🍄 🦀
 
-
-
-Crab-stuffed Mushrooms 🍄 🦀
-
 Yield:
 1 Serving
 

@@ -1,7 +1,5 @@
 # Loaded Cauliflower and Buffalo Chicken Casserole
 
-Loaded Cauliflower and Buffalo Chicken Casserole
-
 Makes 6 servings
 Per serving: 1 leaner protein, 3 vegetables, 1 healthy fat, 3 condiments
 

@@ -1,7 +1,5 @@
 # Cajun Style Shrimp Skillet
 
-Cajun Style Shrimp Skillet
-
 ## Ingredients
 - [ ] 1 tbsp light butter (1 Healthy Fat)
 - [ ] 1 tbsp olive oil (3 Healthy Fats)

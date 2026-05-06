@@ -1,7 +1,5 @@
 # Greek Chicken Burgers with Tzatziki Sauce
 
-Greek Chicken Burgers with Tzatziki Sauce
-
 ## Ingredients
 
 ### For Tzatziki Sauce

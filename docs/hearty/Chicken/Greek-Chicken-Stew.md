@@ -1,7 +1,5 @@
 # Greek Chicken Stew 🍗
 
-Greek Chicken Stew 🍗 
-
 Makes 4 servings
 Per serving
 1 Leaner protein

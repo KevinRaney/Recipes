@@ -1,7 +1,5 @@
 # Laughing cow stuffed chicken
 
-Laughing cow stuffed chicken
-
 Yield:
 
 1 Serving

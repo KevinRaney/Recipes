@@ -1,7 +1,5 @@
 # Mongolian Beef over Cauliflower Rice
 
-Mongolian Beef over Cauliflower Rice
-
 ## Ingredients
 - [ ] 1 pound raw beef round steak, cut into strips - you want 10 oz cooked (2 leans)
 - [ ] 5 tbsp low sodium soy sauce (5 condiments)

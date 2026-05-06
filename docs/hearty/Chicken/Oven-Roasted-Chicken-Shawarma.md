@@ -1,7 +1,5 @@
 # Oven-Roasted Chicken Shawarma
 
-Oven-Roasted Chicken Shawarma
-
 Makes 4 servings
 Each serving provides:
 1 leaner

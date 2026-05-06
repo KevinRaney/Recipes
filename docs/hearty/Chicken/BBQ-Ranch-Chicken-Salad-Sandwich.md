@@ -1,9 +1,5 @@
 # BBQ Ranch Chicken Salad Sandwich
 
-
-
-BBQ Ranch Chicken Salad Sandwich
-
 Yield: 1 Serving
 Per Serving: 1 Lean, 1 healthy fat, 2.4 Condiments
 

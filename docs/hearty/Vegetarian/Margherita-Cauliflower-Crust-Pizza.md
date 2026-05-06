@@ -1,7 +1,5 @@
 # Margherita Cauliflower Crust Pizza
 
-Margherita Cauliflower Crust Pizza
-
 ## Ingredients
 - [ ] 4 cups (19.02 oz) cooked Frozen Riced Cauliflower (6 greens)
 - [ ] 3 Large Eggs (1 lean)

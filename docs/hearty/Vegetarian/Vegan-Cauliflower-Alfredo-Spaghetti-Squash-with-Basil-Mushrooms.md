@@ -1,7 +1,5 @@
 # Vegan Cauliflower Alfredo Spaghetti Squash with Basil & Mushrooms
 
-Vegan Cauliflower Alfredo Spaghetti Squash with Basil & Mushrooms
-
 ## Ingredients
 - [ ] 1 cup (5.26 oz) fresh red bell pepper (diced) - (2 greens)
 - [ ] 1 cup (2.46 oz) fresh white mushrooms (diced) - (2 greens)

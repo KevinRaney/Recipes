@@ -1,7 +1,5 @@
 # Chipotle Chicken with Avocado Salsa
 
-Chipotle Chicken with Avocado Salsa
-
 Makes 2 servings
 Per serving
 1 Leaner protein

@@ -1,7 +1,5 @@
 # Cilantro-Lime Shrimp Wraps
 
-Cilantro-Lime Shrimp Wraps
-
 ## Ingredients
 - [ ] 33.6 oz medium shrimp, peeled and deveined (3 leanest)
 - [ ] 2 tsp. ground cumin (4 condiments)

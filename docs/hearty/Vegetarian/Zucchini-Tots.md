@@ -1,7 +1,5 @@
 # Zucchini Tots!! 🥒
 
-Zucchini Tots!! 🥒
-
 ## Ingredients
 - [ ] 2 cups grated zucchini
 - [ ] 1/2 cup sliced green onions

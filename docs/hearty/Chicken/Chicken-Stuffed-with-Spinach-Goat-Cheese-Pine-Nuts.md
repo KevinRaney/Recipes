@@ -1,15 +1,11 @@
 # Chicken Stuffed with Spinach, Goat Cheese & Pine Nuts
 
-# 
-
 Makes 4 servings
 Each serving provides:
 1 leaner
 1 healthy fat
 1.25 vegetable
 2 condiments
-
-# 
 
 ## Ingredients
 - [ ] 5 ounces fresh spinach chopped

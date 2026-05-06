@@ -1,6 +1,5 @@
 # Tex-Mex Chopped Chicken Salad Recipe
 
-Tex-Mex Chopped Chicken Salad Recipe
 Makes 4 servings:
 · 1 leaner protein
 · 2 greens

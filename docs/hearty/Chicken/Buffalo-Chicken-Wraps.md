@@ -1,7 +1,5 @@
 # Buffalo Chicken Wraps
 
-Buffalo Chicken Wraps
-
 ## Ingredients
 - [ ] 1 1/2 cups low-fat Greek yogurt (1 leaner)
 - [ ] 18 ounces cooked shredded chicken (3 leaners)

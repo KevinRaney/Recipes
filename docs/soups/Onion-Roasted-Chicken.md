@@ -1,7 +1,5 @@
 # Onion Roasted Chicken
 
-Onion Roasted Chicken
-
 Makes 8 servings
 1 protein
 3 condiments

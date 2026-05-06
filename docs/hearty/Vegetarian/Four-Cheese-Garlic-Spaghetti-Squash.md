@@ -1,7 +1,5 @@
 # Four Cheese Garlic Spaghetti Squash
 
-Four Cheese Garlic Spaghetti Squash
-
 Makes 4 servings. Per Serving: ¼ Leaner | 2 Greens | 1 Healthy Fat | 2 Condiments
 
 ## Ingredients

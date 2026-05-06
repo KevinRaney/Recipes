@@ -1,7 +1,5 @@
 # Cauliflower Ranch Chips
 
-Cauliflower Ranch Chips
-
 ## Ingredients
 - [ ] 1 cup (16 tbsp) grated parmesan cheese (16 condiments)
 - [ ] 1 cup (3.08 oz) grated raw cauliflower (1.75 greens)

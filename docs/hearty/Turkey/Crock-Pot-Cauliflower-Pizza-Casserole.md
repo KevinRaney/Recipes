@@ -1,7 +1,5 @@
 # Crock Pot Cauliflower Pizza Casserole
 
-Crock Pot Cauliflower Pizza Casserole
-
 Makes 6 servings 
 Each serving provides: 
 3 green 

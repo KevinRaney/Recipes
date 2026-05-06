@@ -1,7 +1,5 @@
 # Tomato Shrimp Salad
 
-Tomato Shrimp Salad
-
 1 complete Lean & Green
 
 ## Ingredients

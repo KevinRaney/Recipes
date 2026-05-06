@@ -1,7 +1,5 @@
 # Sloppy Joes with Revolution Rolls
 
-Sloppy Joes with Revolution Rolls
-
 Yield:
 3 servings
 

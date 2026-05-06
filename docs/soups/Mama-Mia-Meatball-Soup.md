@@ -1,9 +1,5 @@
 # Mama Mia Meatball Soup
 
-### Mama Mia Meatball Soup
-
-# 
-
 Yield:
 1 Serving
 

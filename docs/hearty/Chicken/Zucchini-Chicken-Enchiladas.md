@@ -1,7 +1,5 @@
 # Zucchini Chicken Enchiladas
 
-Zucchini Chicken Enchiladas
-
 Makes 5 servings
 
 Per serving:

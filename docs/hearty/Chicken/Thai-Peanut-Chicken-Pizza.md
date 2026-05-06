@@ -1,7 +1,5 @@
 # Thai Peanut Chicken Pizza
 
-## 
-
 ## Ingredients
 
 ### For the Crust

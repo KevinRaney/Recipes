@@ -1,7 +1,5 @@
 # Barbacoa Beef
 
-Barbacoa Beef
-
 Makes 4 servings
 Per serving: 1 lean protein, ¼ green, 3 condiments
 

@@ -1,7 +1,5 @@
 # Bell Pepper Nachos
 
-Bell Pepper Nachos
-
 Makes 1 serving:
 1 lean 
 3 green 

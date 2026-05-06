@@ -1,7 +1,5 @@
 # Shepherd's Pie
 
-Shepherd's Pie
-
 Yield:
 
 4 Serving

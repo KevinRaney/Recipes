@@ -1,7 +1,5 @@
 # Mexican Mac and Cheese
 
-Mexican Mac and Cheese
-
 Makes 4 servings
 
 Per Health Plan 1 Serving Yields: 

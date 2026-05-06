@@ -11,8 +11,6 @@ Slightly adapted from Robin Seidel
 - [ ] 1 tbsp low sodium chicken broth or water
 - [ ] Scallions, thinly sliced
 
-## 
-
 ## Directions
 1. Rinse, then pat the scallops dry. Combine lemon pepper, curry powder, coriander and salt. 
 2. Sprinkle both sides of scallops with seasoning blend. 

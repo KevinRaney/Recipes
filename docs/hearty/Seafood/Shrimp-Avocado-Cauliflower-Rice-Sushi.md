@@ -1,7 +1,5 @@
 # Shrimp & Avocado Cauliflower Rice Sushi
 
-Shrimp & Avocado Cauliflower Rice Sushi
-
 Yield:
 2 Servings (2 rolls per serving)
 

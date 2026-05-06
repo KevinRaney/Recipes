@@ -1,7 +1,5 @@
 # My Big Greek Turkey Burger
 
-My Big Greek Turkey Burger
-
 Per serving:
 1 Lean
 3/4 of 1 Green

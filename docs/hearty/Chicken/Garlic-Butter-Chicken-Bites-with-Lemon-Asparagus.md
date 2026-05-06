@@ -1,7 +1,5 @@
 # Garlic Butter Chicken Bites with Lemon Asparagus 🍋
 
-Garlic Butter Chicken Bites with Lemon Asparagus 🍋
-
 ## Ingredients
 - [ ] 36.4 oz boneless, skinless chicken breast, cut into bite-sized chunks (4 leaners)
 - [ ] 6 cups (28.32 oz) asparagus, rinsed and trimmed (12 greens)

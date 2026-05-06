@@ -1,7 +1,5 @@
 # Tomatillo & Green Chile Pork Stew
 
-Tomatillo & Green Chile Pork Stew
-
 ## Ingredients
 - [ ] 2 cloves garlic
 - [ ] 2 scallions, chopped

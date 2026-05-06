@@ -1,7 +1,5 @@
 # Spaghetti Squash Pie
 
-Spaghetti Squash Pie
-
 ## Ingredients
 - [ ] 12 ounces cooked spaghetti squash 
 - [ ] ½ cup leeks, chopped finely 

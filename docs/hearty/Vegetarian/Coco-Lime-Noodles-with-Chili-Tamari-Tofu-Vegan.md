@@ -1,7 +1,5 @@
 # Coco-Lime Noodles with Chili Tamari Tofu (Vegan)
 
-Coco-Lime Noodles with Chili Tamari Tofu (Vegan)
-
 Yield: 2 Servings
 
 Per serving:

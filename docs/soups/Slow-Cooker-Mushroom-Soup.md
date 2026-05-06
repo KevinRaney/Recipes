@@ -1,7 +1,5 @@
 # Slow Cooker Mushroom Soup
 
-Slow Cooker Mushroom Soup
-
 Serves 4
 Per serving: 3 green, 1 fat, ¼ leaner, and ~3 condiments
 

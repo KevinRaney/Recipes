@@ -1,7 +1,5 @@
 # Roasted Veggie Power Bowl with Peanut Sauce
 
-Roasted Veggie Power Bowl with Peanut Sauce
-
 Yield:
 4 servings
 Per serving:

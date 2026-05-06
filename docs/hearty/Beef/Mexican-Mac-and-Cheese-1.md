@@ -1,7 +1,5 @@
 # Mexican Mac and Cheese
 
-Mexican Mac and Cheese
-
 Yield:
 4 Servings
 

@@ -1,7 +1,5 @@
 # Pesto Chicken Bruschetta
 
-Pesto Chicken Bruschetta
-
 ## Ingredients
 - [ ] 4 (6 oz) boneless, skinless chicken breasts
 - [ ] 4 (1 oz) slices part-skim mozzarella cheese

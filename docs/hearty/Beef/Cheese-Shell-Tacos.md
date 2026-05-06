@@ -1,9 +1,5 @@
 # Cheese Shell Tacos
 
-
-
-Cheese Shell Tacos
-
 Yield:
 6 Servings
 

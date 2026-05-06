@@ -1,7 +1,5 @@
 # Lean Parmesan Chicken Strips
 
-Lean Parmesan Chicken Strips
-
 ## Ingredients
 
 - [ ] 18 oz raw boneless, skinless Chicken Breasts

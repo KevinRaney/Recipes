@@ -1,7 +1,5 @@
 # Seared Scallops with Cauliflower Puree
 
-
-
 # Seared Scallops with Cauliflower Puree
 
 Yield:
@@ -11,11 +9,7 @@ Per serving:
 1+1/2 Condiments 
 2 Healthy Fats
 
-## 
-
 ## Cauliflower Puree
-
-## 
 
 ## Ingredients
 - [ ] 1 1/2 cup cooked cauliflower 
@@ -30,8 +24,6 @@ Per serving:
 4. Put puree back in the pot over low heat to keep warm.
 
 ## Scallops
-
-### 
 
 ### Ingredients
 * 9 oz. dry scallops 

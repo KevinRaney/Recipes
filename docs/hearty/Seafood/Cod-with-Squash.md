@@ -1,7 +1,5 @@
 # Cod with Squash
 
-Cod with Squash 
-
 (4 servings: 1 leanest, 2 healthy fats, 3 green, and 1 condiment per serving)
 
 ## Ingredients

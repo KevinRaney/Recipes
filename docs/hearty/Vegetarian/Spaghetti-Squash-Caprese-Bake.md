@@ -1,7 +1,5 @@
 # Spaghetti Squash Caprese Bake
 
-Spaghetti Squash Caprese Bake
-
 Yield:
 
 2 servings 

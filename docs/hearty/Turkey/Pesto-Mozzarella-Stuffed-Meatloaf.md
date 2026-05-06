@@ -1,7 +1,5 @@
 # Pesto & Mozzarella Stuffed Meatloaf
 
-Pesto & Mozzarella Stuffed Meatloaf
-
 Servings 6 servings
 1 lean, 1 1/3 greens, 1 condiment, & 1 healthy fat
 

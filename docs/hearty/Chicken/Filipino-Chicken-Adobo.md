@@ -1,7 +1,5 @@
 # Filipino Chicken Adobo
 
-Filipino Chicken Adobo
-
 ## Ingredients
 - [ ] 3 pounds skinless, boneless chicken breasts
 - [ ] 1/4 cup low sodium soy sauce

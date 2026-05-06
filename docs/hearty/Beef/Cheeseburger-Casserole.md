@@ -21,8 +21,6 @@ Per serving
 - [ ] 2 cups reduced-fat grated cheddar cheese
 - [ ] 1/4 cup chopped dill pickles
 
-## 
-
 ## Directions
 1. Preheat the oven to 350 degrees. Spray a 9 x 13 inch baking dish with cooking spray. 
 2. In a large pot of boiling salted water, cook the cauliflower for al dente and drain well.

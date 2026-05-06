@@ -11,8 +11,6 @@
 - [ ] ½ cup low fat plain Greek yogurt
 - [ ] 4 tomatoes 
 
-## 
-
 ## Directions
 1. In a medium skillet over medium heat Add scallions to ground beef and taco seasoning, breaking up the meat with a wooden spoon. Season with salt and pepper, and cook until the beef is no longer pink, about 6 minutes. Drain fat and set aside.
 2. Flip tomatoes so they are stem-side down. Cut the tomatoes into six wedges, being careful to not cut completely through the tomato. Carefully spread open the wedges.

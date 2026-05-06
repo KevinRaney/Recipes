@@ -1,7 +1,5 @@
 # Crab-Stuffed Cucumbers
 
-Crab-Stuffed Cucumbers
-
 Serves 4
 Per serving 3 green, 1 healthy fat, 1 condiment, and ½ leanest
 

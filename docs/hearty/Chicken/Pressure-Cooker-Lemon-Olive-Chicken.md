@@ -1,7 +1,5 @@
 # Pressure Cooker Lemon Olive Chicken
 
-Pressure Cooker Lemon Olive Chicken
-
 Yield: 4 servings
 Per serving: 1 leaner | 1 healthy fat | 3 condiments
 

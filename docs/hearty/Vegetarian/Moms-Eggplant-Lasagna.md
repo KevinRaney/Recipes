@@ -1,7 +1,5 @@
 # Mom's Eggplant Lasagna
 
-Mom's Eggplant Lasagna
-
 Yield:
 
 8 Servings

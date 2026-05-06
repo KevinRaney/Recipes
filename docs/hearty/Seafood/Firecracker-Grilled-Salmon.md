@@ -1,7 +1,5 @@
 # Firecracker Grilled Salmon
 
-Firecracker Grilled Salmon
-
 ## Ingredients
 - [ ] 1 tablespoon balsamic vinegar (3 condiments)
 - [ ] 2 tablespoons reduced-sodium soy sauce (2 condiments)

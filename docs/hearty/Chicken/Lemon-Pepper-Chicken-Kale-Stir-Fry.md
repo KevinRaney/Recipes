@@ -1,7 +1,5 @@
 # Lemon Pepper Chicken & Kale Stir Fry
 
-Lemon Pepper Chicken & Kale Stir Fry
-
 Yield:
 3 servings
 

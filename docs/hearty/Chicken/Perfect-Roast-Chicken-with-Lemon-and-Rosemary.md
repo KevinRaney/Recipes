@@ -1,7 +1,5 @@
 # Perfect Roast Chicken with Lemon and Rosemary
 
-Perfect Roast Chicken with Lemon and Rosemary
-
 Makes 5 servings
 Per serving
 1 Leaner protein

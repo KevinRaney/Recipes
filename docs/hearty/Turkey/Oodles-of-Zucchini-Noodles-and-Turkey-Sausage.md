@@ -1,7 +1,5 @@
 # Oodles of Zucchini Noodles and Turkey Sausage
 
-Oodles of Zucchini Noodles and Turkey Sausage
-
 Yield:
 3 Servings
 

@@ -1,7 +1,5 @@
 # Mexican Beef and Zucchini Skillet
 
-Mexican Beef and Zucchini Skillet
-
 Yield:
 1 Serving
 

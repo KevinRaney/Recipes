@@ -1,7 +1,5 @@
 # Eggplant Shakshuka
 
-Eggplant Shakshuka
-
 Makes 4 servings
 Each serving provides
 2 green

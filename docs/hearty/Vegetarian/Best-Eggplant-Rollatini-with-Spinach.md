@@ -1,7 +1,5 @@
 # Best Eggplant Rollatini with Spinach
 
-Best Eggplant Rollatini with Spinach
-
 Serves: 5. Each serving provides ~1/2 lean protein, ~2 greens, and ~2 condiments.
 
 ## Ingredients

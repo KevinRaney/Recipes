@@ -1,7 +1,5 @@
 # Jicama Tuna Salad Stuffed Peppers
 
-Jicama Tuna Salad Stuffed Peppers
-
 ## Ingredients
 - [ ] 4.6 oz canned tuna, drained (2/3 Lean)*
 - [ ] 1 1/2 Tbsp lite mayo (1 Healthy Fat)

@@ -1,7 +1,5 @@
 # One-Pot Chicken & Mushroom Cauliflower Rice
 
-One-Pot Chicken & Mushroom Cauliflower Rice
-
 Yield:
 3 servings
 

@@ -1,7 +1,5 @@
 # Cauliflower Crust Grilled Cheese
 
-Cauliflower Crust Grilled Cheese
-
 Yield:
 
 2 servings

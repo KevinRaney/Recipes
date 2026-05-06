@@ -1,7 +1,5 @@
 # Taco Dip
 
-Taco Dip
-
 Servings: 12
 
 Per serving:

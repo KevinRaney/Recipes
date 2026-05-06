@@ -1,7 +1,5 @@
 # Spaghetti Squash Lasagna Casserole
 
-Spaghetti Squash Lasagna Casserole
-
 ## Ingredients
 - [ ] 14.24 oz Spaghetti Squash (8 Greens)
 - [ ] 8 oz part skim ricotta (1 Lean)

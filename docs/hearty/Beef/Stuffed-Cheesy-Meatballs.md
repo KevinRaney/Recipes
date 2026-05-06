@@ -1,7 +1,5 @@
 # Stuffed Cheesy Meatballs
 
-Stuffed Cheesy Meatballs
-
 Makes 1 servings
 Per serving: 1 lean, 3 condiments
 

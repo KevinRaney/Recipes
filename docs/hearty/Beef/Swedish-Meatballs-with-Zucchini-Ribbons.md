@@ -1,7 +1,5 @@
 # Swedish Meatballs with Zucchini Ribbons
 
-Swedish Meatballs with Zucchini Ribbons
-
 Yield:
 1 Serving
 

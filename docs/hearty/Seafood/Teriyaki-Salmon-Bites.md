@@ -1,7 +1,5 @@
 # Teriyaki Salmon Bites
 
-Teriyaki Salmon Bites
-
 Yield: 
 
 2 Serving

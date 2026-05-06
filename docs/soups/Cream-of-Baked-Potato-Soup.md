@@ -1,7 +1,5 @@
 # Cream of Baked “Potato” Soup
 
-Cream of Baked “Potato” Soup
-
 ## Ingredients
 - [ ] 1 1/2 cups cauliflower, fresh
 - [ ] 1 cup chicken broth

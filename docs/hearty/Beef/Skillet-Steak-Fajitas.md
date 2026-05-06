@@ -1,7 +1,5 @@
 # Skillet Steak Fajitas
 
-Skillet Steak Fajitas
-
 Makes 1 serving:
 1 lean
 3 greens

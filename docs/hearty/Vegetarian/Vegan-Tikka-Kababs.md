@@ -1,9 +1,5 @@
 # Vegan Tikka Kababs
 
-
-
-Vegan Tikka Kababs
-
 Yields:
  2 servings - 10 kababs per serving
 

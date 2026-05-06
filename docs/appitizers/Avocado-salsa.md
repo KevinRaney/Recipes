@@ -1,7 +1,5 @@
 # Avocado salsa
 
-
-
 # Avocado salsa
 
 Yield:

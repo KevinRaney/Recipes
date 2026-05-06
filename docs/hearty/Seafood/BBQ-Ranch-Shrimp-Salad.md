@@ -1,7 +1,5 @@
 # BBQ Ranch Shrimp Salad
 
-BBQ Ranch Shrimp Salad 
-
 ## Ingredients
 - [ ] 9 oz raw shrimp ~ should yield 7 oz cooked (1 Leanest)
 - [ ] 1/2 tsp Mrs Dash garlic and herb seasoning (1 Condiment)

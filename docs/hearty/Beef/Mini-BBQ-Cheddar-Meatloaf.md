@@ -1,7 +1,5 @@
 # Mini BBQ Cheddar Meatloaf
 
-Mini BBQ Cheddar Meatloaf
-
 Makes 5 servings
 
 Per serving

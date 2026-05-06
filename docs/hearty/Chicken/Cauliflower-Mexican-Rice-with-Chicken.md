@@ -1,7 +1,5 @@
 # Cauliflower Mexican Rice with Chicken
 
-
-
 # Cauliflower Mexican Rice with Chicken
 
 Yield:

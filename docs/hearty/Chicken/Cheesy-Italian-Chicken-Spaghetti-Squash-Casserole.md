@@ -1,7 +1,5 @@
 # Cheesy Italian Chicken Spaghetti Squash Casserole
 
-Cheesy Italian Chicken Spaghetti Squash Casserole
-
 ## Ingredients
 - [ ] 1 cup (5.46 oz) prepared Spaghetti Squash (2 greens)
 - [ ] 1/2 cup (3.17 oz) diced tomatoes (<5 g carbs per serving) (1 green)

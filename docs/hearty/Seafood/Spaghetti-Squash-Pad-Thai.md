@@ -1,7 +1,5 @@
 # Spaghetti Squash Pad Thai
 
-Spaghetti Squash Pad Thai 
-
 ## Ingredients
 - [ ] 3 1/2 cups spaghetti squash, cooked (7 Greens)
 - [ ] 1 cup cabbage, shredded (2 Greens)

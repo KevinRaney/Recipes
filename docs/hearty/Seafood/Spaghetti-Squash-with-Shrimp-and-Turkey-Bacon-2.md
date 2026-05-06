@@ -1,7 +1,5 @@
 # Spaghetti Squash with Shrimp and Turkey Bacon
 
-Spaghetti Squash with Shrimp and Turkey Bacon
-
 ## Ingredients
 
 - [ ] 1 tsp olive oil (1 Healthy Fat)

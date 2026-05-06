@@ -1,7 +1,5 @@
 # Kabocha Soup
 
-Kabocha Soup
-
 Yield:
 6 servings
 

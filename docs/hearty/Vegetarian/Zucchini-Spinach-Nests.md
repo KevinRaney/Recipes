@@ -1,7 +1,5 @@
 # Zucchini Spinach Nests
 
-
-
 # Zucchini Spinach Nests
 
 Yield: 

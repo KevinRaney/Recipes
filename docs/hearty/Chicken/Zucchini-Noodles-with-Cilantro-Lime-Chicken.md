@@ -1,7 +1,5 @@
 # Zucchini Noodles with Cilantro Lime Chicken
 
-Zucchini Noodles with Cilantro Lime Chicken
-
 Makes 3 servings and per serving you receive:
 1 leaner protein
 3 greens

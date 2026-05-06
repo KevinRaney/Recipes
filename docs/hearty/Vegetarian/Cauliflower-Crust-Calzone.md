@@ -1,7 +1,5 @@
 # Cauliflower Crust Calzone
 
-Cauliflower Crust Calzone
-
 Yield:
 3 servings
 

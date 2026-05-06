@@ -1,7 +1,5 @@
 # Turkey Spaghetti Squash Bake
 
-Turkey Spaghetti Squash Bake
-
 Yield:
 2 servings
 

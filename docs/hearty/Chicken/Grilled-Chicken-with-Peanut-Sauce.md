@@ -1,9 +1,5 @@
 # Grilled Chicken with Peanut Sauce
 
-
-
-Grilled Chicken with Peanut Sauce
-
 2 Servings of Lean | 2.5 Condiments | 1 Snack per Serving
  *A serving is 6 oz of chicken and 1/2 of the sauce)
 You need 1 Healthy Fat

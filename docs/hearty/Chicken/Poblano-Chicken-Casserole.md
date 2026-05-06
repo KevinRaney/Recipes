@@ -1,7 +1,5 @@
 # Poblano Chicken Casserole
 
-
-
 # Poblano Chicken Casserole
 4 servings; Per serving
 1 Lean, 1 healthy fat, 3 green, ¾ condiment

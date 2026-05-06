@@ -1,7 +1,5 @@
 # TERIYAKI BEEF ASPARAGUS SKEWERS
 
-TERIYAKI BEEF ASPARAGUS SKEWERS
-
 Makes 2 servings
 
 Each serving provides:

@@ -1,7 +1,5 @@
 # Dijon Salmon Cakes and Arugula with Lemon-Caper Oil
 
-Dijon Salmon Cakes and Arugula with Lemon-Caper Oil
-
 Yield:
 2 servings
 

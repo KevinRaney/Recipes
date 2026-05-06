@@ -1,7 +1,5 @@
 # Baked Kabocha or Crustless "Pumpkin" Pie
 
-Baked Kabocha or Crustless "Pumpkin" Pie
-
 ## Ingredients
 
 - [ ] 2 cups roasted kabocha squash (4 Greens)

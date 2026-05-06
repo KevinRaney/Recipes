@@ -1,7 +1,5 @@
 # Grilled Buffalo Shrimp
 
-Grilled Buffalo Shrimp
-
 Yield:
 
 1 Serving

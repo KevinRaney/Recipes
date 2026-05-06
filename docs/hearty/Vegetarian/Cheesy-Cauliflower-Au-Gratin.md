@@ -1,7 +1,5 @@
 # Cheesy Cauliflower Au Gratin
 
-Cheesy Cauliflower Au Gratin 
-
 ## Ingredients
 - [ ] 4 cups raw cauliflower florets
 - [ ] 4 tbsp butter

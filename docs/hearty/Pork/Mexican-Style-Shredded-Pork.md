@@ -1,7 +1,5 @@
 # Mexican Style Shredded Pork
 
-Mexican Style Shredded Pork
-
 ## Ingredients
 - [ ] 2 lb pork loin roast (4 Leans)
 - [ ] 1/2 tsp salt (2 Condiments)

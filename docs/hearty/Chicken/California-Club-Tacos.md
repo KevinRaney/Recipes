@@ -1,6 +1,5 @@
 # California Club Tacos
 
-California Club Tacos 
 1 Serving: 1 leaner | 3 greens | 1 healthy fat | 1 condiment
 
 ## Ingredients

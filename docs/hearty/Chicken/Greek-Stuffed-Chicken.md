@@ -1,7 +1,5 @@
 # Greek Stuffed Chicken
 
-Greek Stuffed Chicken 
-
 Makes 4 servings
 
 Per serving:

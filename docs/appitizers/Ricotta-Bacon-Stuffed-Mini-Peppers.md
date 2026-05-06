@@ -1,9 +1,5 @@
 # Ricotta Bacon Stuffed Mini Peppers
 
-
-
-Ricotta Bacon Stuffed Mini Peppers
-
 ## Ingredients
 - [ ] 1 pound assorted mini peppers, about 18 mini peppers* (6 Greens)
 - [ ] 2/3 cup part skim ricotta cheese (2/3 Lean)

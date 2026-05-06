@@ -27,8 +27,6 @@ Makes 1 serving!
 5. Add cheese and melt on top (2 smaller patties or 1 large)
 6. Meanwhile. Mix together the dressing, vinegar, and onion powder.
 
-### 
-
 ### To assemble
 1. Take lettuce leaf and put burger inside.  
 2. Top with pickle slices, drizzle with sauce and sprinkle with sesame seeds.

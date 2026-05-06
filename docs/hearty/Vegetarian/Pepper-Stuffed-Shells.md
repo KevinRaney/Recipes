@@ -1,7 +1,5 @@
 # Pepper Stuffed "Shells"
 
-Pepper Stuffed "Shells"
-
 Makes 4 servings
 Per serving
 1 Lean

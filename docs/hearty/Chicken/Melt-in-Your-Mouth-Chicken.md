@@ -1,7 +1,5 @@
 # Melt in Your Mouth Chicken
 
-Melt in Your Mouth Chicken
-
 Yield:
 4 servings
 

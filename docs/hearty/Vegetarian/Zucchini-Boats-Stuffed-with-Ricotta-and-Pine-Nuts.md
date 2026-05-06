@@ -1,7 +1,5 @@
 # Zucchini Boats Stuffed with Ricotta and Pine Nuts
 
-Zucchini Boats Stuffed with Ricotta and Pine Nuts
-
 Makes 4 servings
 Per serving
 ½ Protein serving

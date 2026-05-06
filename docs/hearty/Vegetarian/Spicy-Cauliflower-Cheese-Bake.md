@@ -1,7 +1,5 @@
 # Spicy Cauliflower Cheese Bake
 
-Spicy Cauliflower Cheese Bake
-
 Yield:
 
 1 Serving

@@ -1,7 +1,5 @@
 # Caprese Chicken Stuffed Peppers
 
-
-
 # Caprese Chicken Stuffed Peppers
 
 Serves: 4;

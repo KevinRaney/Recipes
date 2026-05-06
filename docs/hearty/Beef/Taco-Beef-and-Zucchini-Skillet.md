@@ -1,6 +1,5 @@
 # Taco Beef and Zucchini Skillet
 
-Taco Beef and Zucchini Skillet
 Yield: 1 Serving
 
 Per serving:

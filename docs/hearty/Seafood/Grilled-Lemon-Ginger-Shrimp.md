@@ -1,7 +1,5 @@
 # Grilled Lemon Ginger Shrimp
 
-Grilled Lemon Ginger Shrimp
-
 ## Ingredients
 - [ ] 20 ounces jumbo shrimp, peeled and deveined when cooked - should yield 2 - 7 oz servings cooked (2 Leans)
 - [ ] 1 tbsp olive oil (3 Healthy Fats)

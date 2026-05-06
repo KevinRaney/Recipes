@@ -1,7 +1,5 @@
 # Sun-dried Tomato, Spinach, and Cheese Stuffed Chicken Breast
 
-Sun-dried Tomato, Spinach, and Cheese Stuffed Chicken Breast
-
 ## Ingredients
 - [ ] 18 ounces chicken breasts, boneless and skinless (2 Leaner)
 - [ ] 1/2 cup sun dried tomato, drained and patted dry ~ water packed, cut into strips (2 Greens)

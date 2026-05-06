@@ -1,7 +1,5 @@
 # Spaghetti Squash Alfredo
 
-Spaghetti Squash Alfredo
-
 ## Ingredients
 - [ ] 7 oz turkey, ground, 98% lean
 - [ ] 5.34 oz cooked squash, spaghetti, fresh

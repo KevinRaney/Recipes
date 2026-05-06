@@ -1,7 +1,5 @@
 # Louisiana Hot Crab Dip
 
-Louisiana Hot Crab Dip
-
 Makes 7 servings and per serving you receive:
 3 condiments | 1 healthy fat | 1oz of leanest protein
 

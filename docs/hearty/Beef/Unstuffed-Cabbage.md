@@ -1,7 +1,5 @@
 # Unstuffed Cabbage
 
-Unstuffed Cabbage
-
 ## Ingredients
 - [ ] 25 oz 93% lean ground beef, cooked (5 Leans)
 - [ ] 1/2 tsp onion powder (1 Condiment)

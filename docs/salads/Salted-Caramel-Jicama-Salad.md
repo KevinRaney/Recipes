@@ -1,7 +1,5 @@
 # Salted Caramel Jicama Salad
 
-Salted Caramel Jicama Salad
-
 YIELD:
 4 Servings
 

@@ -1,7 +1,5 @@
 # Spaghetti Squash Carbonara
 
-Spaghetti Squash Carbonara
-
 ## Ingredients
 - [ ] 2 tsp salt
 - [ ] 1 ¼ tsp fresh cracked black pepper

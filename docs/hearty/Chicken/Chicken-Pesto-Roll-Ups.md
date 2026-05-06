@@ -1,7 +1,5 @@
 # Chicken Pesto Roll-Ups
 
-Chicken Pesto Roll-Ups
-
 Makes 6 servings
 Each serving provides:
 1 lean

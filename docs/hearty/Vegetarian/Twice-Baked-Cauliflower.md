@@ -1,7 +1,5 @@
 # Twice Baked Cauliflower
 
-Twice Baked Cauliflower
-
 ## Ingredients
 - [ ] 4 cups cauliflower florets
 - [ ] 3 ounces reduced fat cream cheese, cubed

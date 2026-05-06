@@ -1,7 +1,5 @@
 # Slow Cooker Cashew Chicken
 
-Slow Cooker Cashew Chicken
-
 ## Ingredients
 - [ ] 1 1/2 lbs or 24 oz raw chicken breasts, cut into 1 inch pieces (3 Leaner)
 

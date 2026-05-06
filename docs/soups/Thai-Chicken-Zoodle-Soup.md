@@ -1,7 +1,5 @@
 # Thai Chicken Zoodle Soup
 
-Thai Chicken Zoodle Soup 
-
 ## Ingredients
 
 - [ ] 1/2 Cup (1.76 oz) green onion - (1 green)

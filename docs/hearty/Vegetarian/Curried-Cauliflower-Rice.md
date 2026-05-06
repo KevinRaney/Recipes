@@ -1,7 +1,5 @@
 # Curried Cauliflower Rice
 
-Curried Cauliflower Rice
-
 Yield:
 4 servings
 

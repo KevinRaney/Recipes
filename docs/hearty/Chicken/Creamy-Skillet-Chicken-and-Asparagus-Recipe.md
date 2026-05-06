@@ -1,7 +1,5 @@
 # Creamy Skillet Chicken and Asparagus Recipe ⬇️
 
-Creamy Skillet Chicken and Asparagus Recipe ⬇️ 
-
 ## Ingredients
 - [ ] 4 tsp olive oil (4 healthy fats)
 - [ ] 36.4 oz boneless, skinless chicken breast, cut into 1" chunks ~ Should yield 24 oz cooked (4 leaners)

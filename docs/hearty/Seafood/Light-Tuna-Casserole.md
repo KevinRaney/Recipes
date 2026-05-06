@@ -1,7 +1,5 @@
 # Light Tuna Casserole
 
-Light Tuna Casserole
-
 Yield:
 2 Servings
 

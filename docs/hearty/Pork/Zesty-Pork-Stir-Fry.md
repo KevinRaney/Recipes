@@ -1,7 +1,5 @@
 # Zesty Pork Stir-Fry
 
-Zesty Pork Stir-Fry
-
 Makes 2 servings, each serving is 
 1 lean protein
 3 veggie servings

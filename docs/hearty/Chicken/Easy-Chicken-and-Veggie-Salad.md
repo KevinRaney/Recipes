@@ -1,7 +1,5 @@
 # Easy Chicken and Veggie Salad
 
-Easy Chicken and Veggie Salad
-
 ## Ingredients
 - [ ] 6 oz cooked chicken breast (1 leaner)
 - [ ] 1 cup (1.06 oz) spinach (1 green)

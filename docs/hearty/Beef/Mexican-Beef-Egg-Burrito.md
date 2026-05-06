@@ -1,7 +1,5 @@
 # Mexican Beef Egg Burrito
 
-Mexican Beef Egg Burrito
-
 Yield:
 1 serving
 

@@ -1,7 +1,5 @@
 # PESTO CHICKEN WITH ZUCCHINI NOODLES
 
-PESTO CHICKEN WITH ZUCCHINI NOODLES
-
 Makes 2 servings and per serving you receive:
 1 leaner protein
 3 greens

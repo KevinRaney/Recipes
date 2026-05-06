@@ -3,8 +3,6 @@
 Makes 4 servings
 Each serving provides: 1 leaner protein, 1 healthy fat, 2 greens, 3 condiments
 
-### 
-
 ## Ingredients 
 
 ### For the dressing:

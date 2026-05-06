@@ -1,7 +1,5 @@
 # Peanut Chicken
 
-Peanut Chicken
-
 Makes 2 servings
 
 Per serving:

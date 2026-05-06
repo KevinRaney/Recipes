@@ -1,6 +1,5 @@
 # Rotisserie Style Chicken in the Slow Cooker
 
-Rotisserie Style Chicken in the Slow Cooker
 4 Servings with 1 Lean and 2.3 Condiments per serving
 
 ## Ingredients

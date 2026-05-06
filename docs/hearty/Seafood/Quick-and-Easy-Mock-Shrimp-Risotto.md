@@ -1,7 +1,5 @@
 # Quick and Easy Mock Shrimp "Risotto"
 
-Quick and Easy Mock Shrimp "Risotto"
-
 Yield:
 1 Serving
 

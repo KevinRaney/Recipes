@@ -1,7 +1,5 @@
 # Stuffed Chicken Parmesan Meatloaf
 
-Stuffed Chicken Parmesan Meatloaf
-
 Yield: Makes 8 Servings
 
 Per serving

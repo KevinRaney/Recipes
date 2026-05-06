@@ -1,7 +1,5 @@
 # Jalapeño Popper Chicken Dip
 
-Jalapeño Popper Chicken Dip
-
 Makes 4 servings, per serving you enjoy:
 1 Lean | 1.75 Condiments | 1 Healthy Fat
 

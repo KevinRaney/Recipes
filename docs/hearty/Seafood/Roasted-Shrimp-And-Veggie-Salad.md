@@ -1,7 +1,5 @@
 # Roasted Shrimp And Veggie Salad
 
-Roasted Shrimp And Veggie Salad
-
 Makes 4 servings
 Per serving
 ½ Leanest protein serving

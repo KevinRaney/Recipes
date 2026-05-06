@@ -1,7 +1,5 @@
 # Chicken with Chipotle Mushroom Cream Sauce
 
-Chicken with Chipotle Mushroom Cream Sauce
-
 ## Ingredients
 - [ ] 18 oz Raw Chicken Breasts - should yield 12 oz cooked (2 Leaner)
 - [ ] 1/4 tsp Salt or garlic salt (1 Condiment)

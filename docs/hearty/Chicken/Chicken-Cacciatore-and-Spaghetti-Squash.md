@@ -1,6 +1,5 @@
 # Chicken Cacciatore and Spaghetti Squash
 
-Chicken Cacciatore and Spaghetti Squash
 Makes 6 servings
 Per serving
 ½ protein serving

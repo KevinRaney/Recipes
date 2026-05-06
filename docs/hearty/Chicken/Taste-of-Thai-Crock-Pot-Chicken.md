@@ -12,8 +12,6 @@ Per Serving:
 - [ ] 1/4 tsp ginger
 - [ ] 6 cups cauliflower cooked and grated
 
-## 
-
 ## Directions
 1. Place all ingredients in the crockpot, except cauliflower rice. Stir to roughly mix the ingredients and make sure that the chicken is completely coated with the marinade. Cook on low for 6 hours, no stirring.
 2. To serve, divide the chicken into 4 equal portions of 6 oz each over 1 1/2 cups of cauliflower rice per serving. Stir sauce in the crockpot and then spoon the sauce evenly over each portion.

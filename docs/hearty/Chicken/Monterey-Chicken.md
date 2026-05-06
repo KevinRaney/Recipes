@@ -1,7 +1,5 @@
 # Monterey Chicken
 
-Monterey Chicken
-
 Makes 3 servings
 Each serving provides:
 1 leaner protein

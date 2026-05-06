@@ -1,9 +1,5 @@
 # Mexican Chicken
 
-
-
-Mexican Chicken
-
 makes 3 servings
 per serving:
 1 Lean

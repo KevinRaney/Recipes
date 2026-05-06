@@ -1,7 +1,5 @@
 # Summer Shrimp Salad
 
-Summer Shrimp Salad 
-
 ## Ingredients
 - [ ] 14 ounces jumbo cooked shrimp, peeled, deveined and chopped
 - [ ] 1 1/2 cup tomato, diced

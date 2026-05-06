@@ -1,7 +1,5 @@
 # Instant Pot Chipotle Chicken & Cauliflower Rice Bowls 🌶🧀🥑
 
-Instant Pot Chipotle Chicken & Cauliflower Rice Bowls 🌶🧀🥑
-
 1 Leaner | 1 Healthy Fat | 3 Green | 3 Condiments
 Yield: 4 servings 
 Total Time: 30 minutes

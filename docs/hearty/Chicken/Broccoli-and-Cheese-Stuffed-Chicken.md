@@ -1,7 +1,5 @@
 # Broccoli and Cheese Stuffed Chicken 🥦🧀
 
-Broccoli and Cheese Stuffed Chicken 🥦🧀
-
 ## Ingredients
 
 - [ ] 1 cups chopped broccoli

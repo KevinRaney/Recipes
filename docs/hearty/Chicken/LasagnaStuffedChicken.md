@@ -1,7 +1,5 @@
 # Lasagna Stuffed Chicken
 
-Lasagna Stuffed Chicken
-
 ## Ingredients
 - [ ] 2 – 9.1 ounce raw skinless chicken breast (2 leaners)
 - [ ] 2/3 Cup part skim ricotta cheese (2/3 lean)

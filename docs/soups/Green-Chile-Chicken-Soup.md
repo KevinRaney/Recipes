@@ -1,7 +1,5 @@
 # Green Chile Chicken Soup
 
-Green Chile Chicken Soup
-
 Yield: 2 servings
 Per serving:
 1 Leaner

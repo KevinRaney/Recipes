@@ -18,8 +18,6 @@ Makes 5 servings
 - [ ] 3 tablespoons reduced sugar ketchup 
 - [ ] 1 ½ cups low fat provolone cheese 
 
-## 
-
 ## Directions
 1. Spray skillet, keeping heat high enough brown steak. Remove from skillet, cover and keep warm. 
 2. Add onions. Cook on high until lightly browned on edges.Remove from pan and place over beef, cover and keep warm. Add a little beef broth or water if necessary.

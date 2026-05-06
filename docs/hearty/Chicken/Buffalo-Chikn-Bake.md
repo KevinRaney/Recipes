@@ -1,7 +1,5 @@
 # Buffalo Chik'n Bake
 
-
-
 # Buffalo Chik'n Bake
 
 Yields:

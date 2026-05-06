@@ -1,9 +1,5 @@
 # Buffalo Chicken Spaghetti Squash Boats
 
-
-
-Buffalo Chicken Spaghetti Squash Boats
-
 ## Ingredients
 - [ ] 1 medium spaghetti squash, cooked and shredded
 - [ ] 18 oz cooked chicken breast, shredded
