@@ -10,18 +10,18 @@ Per serving:
 3 Condiments
 
 ## Ingredients
-* 1/2 cup diced canned green chilies
-* 1 tbsp raw onion
-* 1 tbsp jalapeno pepper, raw
-* 1 tsp oil, olive
-* 6 oz chicken, breast, boneless, skinless
-* 1/2 tsp cumin
-* 5 sprays non-stick cooking spray
-* 1 wedge laughing cow light
-* queso fresco wedges
-* 1 clove garlic
-* 2 tbsp cilantro
-* 32 fl oz chicken broth
+- [ ] 1/2 cup diced canned green chilies
+- [ ] 1 tbsp raw onion
+- [ ] 1 tbsp jalapeno pepper, raw
+- [ ] 1 tsp oil, olive
+- [ ] 6 oz chicken, breast, boneless, skinless
+- [ ] 1/2 tsp cumin
+- [ ] 5 sprays non-stick cooking spray
+- [ ] 1 wedge laughing cow light
+- [ ] queso fresco wedges
+- [ ] 1 clove garlic
+- [ ] 2 tbsp cilantro
+- [ ] 32 fl oz chicken broth
 
 ## Directions
 1. Roast a small jalapeno pepper by placing a slit in the side with a knife and spraying with olive oil.

@@ -12,16 +12,16 @@ Per serving:
 3 Condiments
 
 ## Ingredients
-* 2 1/2 cup riced cauliflower
-* 1 tbsp rice vinegar
-* 1/8 tsp zero-calorie sugar substitute
-* 12 oz cooked and peeled shrimp, finely chopped
-* 1/3 cup low-fat, plain greek yogurt
-* 2 tsp sriracha
-* 1/2 medium avocado, cut into 8 even slices
-* 1/2 medium cucumber, cut lengthwise into 4 even slices
-* 4 sheets nori
-* 1 1/2 tbsp sesame seeds
+- [ ] 2 1/2 cup riced cauliflower
+- [ ] 1 tbsp rice vinegar
+- [ ] 1/8 tsp zero-calorie sugar substitute
+- [ ] 12 oz cooked and peeled shrimp, finely chopped
+- [ ] 1/3 cup low-fat, plain greek yogurt
+- [ ] 2 tsp sriracha
+- [ ] 1/2 medium avocado, cut into 8 even slices
+- [ ] 1/2 medium cucumber, cut lengthwise into 4 even slices
+- [ ] 4 sheets nori
+- [ ] 1 1/2 tbsp sesame seeds
 
 ## Directions
 1. In a medium-sized microwave-safe bowl, microwave cauliflower "rice" for 5 minutes, stirring halfway through

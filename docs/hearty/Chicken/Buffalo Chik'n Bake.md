@@ -15,14 +15,14 @@ Per serving:
 ⁪
 
 ## Ingredients
-* Cooking spray
-* 15 oz Gardein Chik'n Strips (The same amount applies if using Morningstar Farms strips)
-* 1/2 cup Frank's Buffalo Wing sauce
-* 1/2 cup Hidden Valley Lite Ranch dressing
-* 4 Tbsp light cream cheese
-* 2 wedges of Laughing Cow White Cheddar cheese
-* 2 slices of Kraft 2% American cheese
-* 4.8 oz reduced-fat cheddar, shredded
+- [ ] Cooking spray
+- [ ] 15 oz Gardein Chik'n Strips (The same amount applies if using Morningstar Farms strips)
+- [ ] 1/2 cup Frank's Buffalo Wing sauce
+- [ ] 1/2 cup Hidden Valley Lite Ranch dressing
+- [ ] 4 Tbsp light cream cheese
+- [ ] 2 wedges of Laughing Cow White Cheddar cheese
+- [ ] 2 slices of Kraft 2% American cheese
+- [ ] 4.8 oz reduced-fat cheddar, shredded
 
 ## Directions
 1. Preheat oven to 350°F.

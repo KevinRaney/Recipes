@@ -6,16 +6,16 @@ Servings 6 servings
 1 lean, 1 1/3 greens, 1 condiment, & 1 healthy fat
 
 ## Ingredients
-* 2 lb. ground turkey
-* 2 eggs
-* 1 t. basil dried
-* 1 t. oregano dried
-* 1 t. salt
-* 1/2 t. garlic powder
-* 1 t. Italian seasoning
-* 8 oz. mozzarella cut into 1-inch strips
-* 1/4 cup pesto
-* 1 c. sugar free spaghetti sauce
+- [ ] 2 lb. ground turkey
+- [ ] 2 eggs
+- [ ] 1 t. basil dried
+- [ ] 1 t. oregano dried
+- [ ] 1 t. salt
+- [ ] 1/2 t. garlic powder
+- [ ] 1 t. Italian seasoning
+- [ ] 8 oz. mozzarella cut into 1-inch strips
+- [ ] 1/4 cup pesto
+- [ ] 1 c. sugar free spaghetti sauce
 
 ## Directions
 1. 1 Preheat oven to 350 degrees.

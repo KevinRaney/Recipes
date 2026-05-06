@@ -12,9 +12,9 @@ Per serving:
 
 ## Ingredients
 
-* 11.2 ounce raw, peeled and cleaned shrimp-should yield 7 ounces cooked
-* 1/4 cup Frank's Hot Sauce
-* 1 tbsp light butter (ex: Land O Lakes light butter with canola oil
+- [ ] 11.2 ounce raw, peeled and cleaned shrimp-should yield 7 ounces cooked
+- [ ] 1/4 cup Frank's Hot Sauce
+- [ ] 1 tbsp light butter (ex: Land O Lakes light butter with canola oil
 
 ## Directions
 

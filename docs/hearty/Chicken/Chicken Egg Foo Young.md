@@ -1,16 +1,16 @@
 # Chicken Egg Foo Young
 
 ## Ingredients
-* 1.5 teaspoon sesame oil, divided (1.5 Healthy Fats)
-* 1/4 cup chopped green onion (1/2 Green)
-* 1/4 cup chopped celery (1/2 Green)
-* 1 cup cabbage, shredded (2 Greens)
-* 3.5 oz chicken cooked (1/2 Lean)
-* 1 tbsp lite soy sauce (1 Condiment)
-* 1/8 tsp garlic powder (1/4 Condiment)
-* 1/8 tsp onion powder (1/4 Condiment)
-* 1/8 tsp ground red pepper - Optional (1/4 Condiment)
-* 1 cup egg beaters (1/2 Leanest Lean)
+- [ ] 1.5 teaspoon sesame oil, divided (1.5 Healthy Fats)
+- [ ] 1/4 cup chopped green onion (1/2 Green)
+- [ ] 1/4 cup chopped celery (1/2 Green)
+- [ ] 1 cup cabbage, shredded (2 Greens)
+- [ ] 3.5 oz chicken cooked (1/2 Lean)
+- [ ] 1 tbsp lite soy sauce (1 Condiment)
+- [ ] 1/8 tsp garlic powder (1/4 Condiment)
+- [ ] 1/8 tsp onion powder (1/4 Condiment)
+- [ ] 1/8 tsp ground red pepper - Optional (1/4 Condiment)
+- [ ] 1 cup egg beaters (1/2 Leanest Lean)
 
 ## Directions
 1. In a skillet over medium heat, heat 1 tsp sesame oil and lightly fry celery, cabbage and green onion.

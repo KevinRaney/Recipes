@@ -3,12 +3,12 @@
 Mongolian Beef over Cauliflower Rice
 
 ## Ingredients
-* 1 pound raw beef round steak, cut into strips - you want 10 oz cooked (2 leans)
-* 5 tbsp low sodium soy sauce (5 condiments)
-* 1 Splenda Packet (1 condiment)
-* 1/2 cup water
-* 1 1/2 cup (4.65 oz) broccoli florets - should yield 1 cup (2 greens)
-* 2 cups (8.76 oz) fresh, cooked, grated cauliflower (4 greens)
+- [ ] 1 pound raw beef round steak, cut into strips - you want 10 oz cooked (2 leans)
+- [ ] 5 tbsp low sodium soy sauce (5 condiments)
+- [ ] 1 Splenda Packet (1 condiment)
+- [ ] 1/2 cup water
+- [ ] 1 1/2 cup (4.65 oz) broccoli florets - should yield 1 cup (2 greens)
+- [ ] 2 cups (8.76 oz) fresh, cooked, grated cauliflower (4 greens)
 
 ## Directions
 

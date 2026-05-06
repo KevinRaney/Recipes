@@ -3,23 +3,23 @@
 Vegan Cauliflower Alfredo Spaghetti Squash with Basil & Mushrooms
 
 ## Ingredients
-* 1 cup (5.26 oz) fresh red bell pepper (diced) - (2 greens)
-* 1 cup (2.46 oz) fresh white mushrooms (diced) - (2 greens)
-* ½ cup diced onion - (8 condiments)
-* 1/4 cup fresh basil (diced) - (1/2 condiment)
-* 2 tablespoons coconut(or a different type) oil - (6 healthy fats)
+- [ ] 1 cup (5.26 oz) fresh red bell pepper (diced) - (2 greens)
+- [ ] 1 cup (2.46 oz) fresh white mushrooms (diced) - (2 greens)
+- [ ] ½ cup diced onion - (8 condiments)
+- [ ] 1/4 cup fresh basil (diced) - (1/2 condiment)
+- [ ] 2 tablespoons coconut(or a different type) oil - (6 healthy fats)
 
 ### For the Sauce
-* 5 cups (17.6 oz) raw cauliflower florets (10 greens)
-* 2 cups unsweetened almond milk (2 condiments)
-* 5 cloves organic garlic (freshly crushed) - (5 condiments)
-* 2 tablespoons large flake nutritional yeast - (6 condiments)
-* 1/4 tsp pink himalayan salt - (1 condiment)
-* ¼ tsp cayenne pepper (1/2 condiment)
+- [ ] 5 cups (17.6 oz) raw cauliflower florets (10 greens)
+- [ ] 2 cups unsweetened almond milk (2 condiments)
+- [ ] 5 cloves organic garlic (freshly crushed) - (5 condiments)
+- [ ] 2 tablespoons large flake nutritional yeast - (6 condiments)
+- [ ] 1/4 tsp pink himalayan salt - (1 condiment)
+- [ ] ¼ tsp cayenne pepper (1/2 condiment)
 
 ### For the Spaghetti Squash
-* 5 cups (27.3 oz) cooked spaghetti squash (10 greens)
-* 2 teaspoons organic extra virgin olive oil (2 healthy fats)
+- [ ] 5 cups (27.3 oz) cooked spaghetti squash (10 greens)
+- [ ] 2 teaspoons organic extra virgin olive oil (2 healthy fats)
 
 ## Directions
 1. For the Spaghetti Squash Pasta:

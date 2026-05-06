@@ -10,16 +10,16 @@ Each serving provides
 1 ounce lean
 
 ## Ingredients
-* 3 cups diced eggplant
-* 4 teaspoons olive oil
-* 3 cloves garlic
-* 2 tsp ground cumin
-* 1 tsp smoked paprika
-* 1.5 tsp cinnamon
-* pinch cayenne pepper
-* 1 cup diced tomatoes
-* 4 eggs
-* 1 cup Greek basil leaves, torn basil leaves, or chopped parsley
+- [ ] 3 cups diced eggplant
+- [ ] 4 teaspoons olive oil
+- [ ] 3 cloves garlic
+- [ ] 2 tsp ground cumin
+- [ ] 1 tsp smoked paprika
+- [ ] 1.5 tsp cinnamon
+- [ ] pinch cayenne pepper
+- [ ] 1 cup diced tomatoes
+- [ ] 4 eggs
+- [ ] 1 cup Greek basil leaves, torn basil leaves, or chopped parsley
 
 ## Directions
 1. Cut the eggplant into 1cm dice. Heat the olive oil in a large frying pan or skillet and saute the eggplant pieces for a few minutes until the soften and begin to colour.

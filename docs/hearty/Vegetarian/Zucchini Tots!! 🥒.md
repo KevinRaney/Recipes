@@ -3,14 +3,14 @@
 Zucchini Tots!! 🥒
 
 ## Ingredients
-* 2 cups grated zucchini
-* 1/2 cup sliced green onions
-* 1/2 cup grated Parmesan cheese
-* 2 eggs
-* 1/2 cup cheese (low fat)
-* 1 teaspoon Fresh garlic
-* ¼ tsp Salt
-* ¼ tsp pepper
+- [ ] 2 cups grated zucchini
+- [ ] 1/2 cup sliced green onions
+- [ ] 1/2 cup grated Parmesan cheese
+- [ ] 2 eggs
+- [ ] 1/2 cup cheese (low fat)
+- [ ] 1 teaspoon Fresh garlic
+- [ ] ¼ tsp Salt
+- [ ] ¼ tsp pepper
 
 ## Directions
 1. Preheat oven to 400°F. Spray a baking sheet with cooking spray.

@@ -8,14 +8,14 @@ Makes 3 servings
 ** Need a healthy protein
 
 ## Ingredients
-* 3 cups medium zucchini, cut on the bias into 1/2 inch thick slices
-* 1 tbsp olive oil, for grilling
-* 1/4 tsp kosher salt
-* 1/2 tsp ground black pepper
-* 4 ounces reduced fat crumbled feta cheese
-* 1/2 tbsp lemon zest
-* 4 tsp lemon juice
-* 2 tablespoons minced fresh mint
+- [ ] 3 cups medium zucchini, cut on the bias into 1/2 inch thick slices
+- [ ] 1 tbsp olive oil, for grilling
+- [ ] 1/4 tsp kosher salt
+- [ ] 1/2 tsp ground black pepper
+- [ ] 4 ounces reduced fat crumbled feta cheese
+- [ ] 1/2 tbsp lemon zest
+- [ ] 4 tsp lemon juice
+- [ ] 2 tablespoons minced fresh mint
 
 ## Directions
 1. Preheat a grill or grill pan over high high heat.

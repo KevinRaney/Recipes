@@ -4,20 +4,20 @@ Makes 6 servings
 Each serving provides: 1 lean, 2 condiments, ½ green
 
 ## Ingredients
-* 18 ounces ground turkey
-* 1 pound ground beef
-* 3 eggs
-* ½ teaspoon basil
-* ½ teaspoon thyme
-* ½ teaspoon oregano
-* 2 cloves garlic
-* ½ cup scallions
-* ½ teaspoon salt
-* ¼ teaspoon pepper
-* ½ cup of tomato sauce (less than 5 grams of carbohydrates per ¼ cup)
-* ½ cup reduced-fat parmesan cheese
-* 1 cup reduced-fat Italian cheese
-* ¼ cup parsley
+- [ ] 18 ounces ground turkey
+- [ ] 1 pound ground beef
+- [ ] 3 eggs
+- [ ] ½ teaspoon basil
+- [ ] ½ teaspoon thyme
+- [ ] ½ teaspoon oregano
+- [ ] 2 cloves garlic
+- [ ] ½ cup scallions
+- [ ] ½ teaspoon salt
+- [ ] ¼ teaspoon pepper
+- [ ] ½ cup of tomato sauce (less than 5 grams of carbohydrates per ¼ cup)
+- [ ] ½ cup reduced-fat parmesan cheese
+- [ ] 1 cup reduced-fat Italian cheese
+- [ ] ¼ cup parsley
 
 ## Directions
 1. Preheat the oven to 350 degrees. Lightly grease a loaf pan with cooking spray, set aside.

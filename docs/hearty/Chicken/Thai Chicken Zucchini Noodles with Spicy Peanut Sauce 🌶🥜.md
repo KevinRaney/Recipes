@@ -11,23 +11,23 @@ Per serving:
 ½ optional snack
 
 ## Ingredients
-* 2 teaspoons of grape seed oil
-* 18 ounces of chicken tenders, diced
-* 2 zucchini, spiralized – total weight ¾ pound
-* 1 cup red pepper, julienned
-* ⅓ cup of bean sprouts
-* ¼ cup of fresh cilantro, diced
-* ¼ cup of green onions, diced
-* 2 teaspoons sesame seeds
+- [ ] 2 teaspoons of grape seed oil
+- [ ] 18 ounces of chicken tenders, diced
+- [ ] 2 zucchini, spiralized – total weight ¾ pound
+- [ ] 1 cup red pepper, julienned
+- [ ] ⅓ cup of bean sprouts
+- [ ] ¼ cup of fresh cilantro, diced
+- [ ] ¼ cup of green onions, diced
+- [ ] 2 teaspoons sesame seeds
 
 ### Spicy Peanut Sauce
-* 1 garlic clove, minced
-* 4 tablespoons of PB2
-* 2 Tablespoons lime juice
-* 3 tablespoons tamari sauce
-* 2 tablespoons of fresh cilantro, diced
-* ½ teaspoon of ground ginger
-* ¼ teaspoon of red pepper flakes
+- [ ] 1 garlic clove, minced
+- [ ] 4 tablespoons of PB2
+- [ ] 2 Tablespoons lime juice
+- [ ] 3 tablespoons tamari sauce
+- [ ] 2 tablespoons of fresh cilantro, diced
+- [ ] ½ teaspoon of ground ginger
+- [ ] ¼ teaspoon of red pepper flakes
 
 ## Directions
 1. In a small bowl, whisk together garlic, PB2, tamari, lime juice, ground ginger, and red pepper flakes. Set aside.

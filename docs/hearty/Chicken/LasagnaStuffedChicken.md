@@ -3,15 +3,15 @@
 Lasagna Stuffed Chicken
 
 ## Ingredients
-- 2 – 9.1 ounce raw skinless chicken breast (2 leaners)
-- 2/3 Cup part skim ricotta cheese (2/3 lean)
-- 1 egg (1/3 lean)
-- 2 Teaspoons Italian seasoning (4 condiments)
-- 2 clove garlic (2 condiments)
-- ½ Teaspoon salt (divided) (2 condiments)
-- 1 Cup reduced fat mozzarella cheese (1 lean)
-- 1 Cup low carb marinara sauce (4 greens)
-- Garnish with chopped parsley (optional)
+- [ ] 2 – 9.1 ounce raw skinless chicken breast (2 leaners)
+- [ ] 2/3 Cup part skim ricotta cheese (2/3 lean)
+- [ ] 1 egg (1/3 lean)
+- [ ] 2 Teaspoons Italian seasoning (4 condiments)
+- [ ] 2 clove garlic (2 condiments)
+- [ ] ½ Teaspoon salt (divided) (2 condiments)
+- [ ] 1 Cup reduced fat mozzarella cheese (1 lean)
+- [ ] 1 Cup low carb marinara sauce (4 greens)
+- [ ] Garnish with chopped parsley (optional)
 
 ## Directions
 1. Butterfly chicken breasts and place into a lightly greased baking dish.

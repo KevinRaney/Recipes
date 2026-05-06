@@ -8,23 +8,23 @@ Per Health Plan 1 Serving Yields:
 1 Lean | 3 Greens | 3 Condiments.
 
 ## Ingredients
-* 7.5 oz cooked 93% lean ground beef, fat drained
-* 1 1/2 tsp low sodium taco seasoning mix
-* 5 cups cooked cauliflower, cut into small florets
-* 1/2 cup chopped green chilies
-* 1/2 cup green or red peppers, diced
-* 2 tbsp jalapenos, chopped
+- [ ] 7.5 oz cooked 93% lean ground beef, fat drained
+- [ ] 1 1/2 tsp low sodium taco seasoning mix
+- [ ] 5 cups cooked cauliflower, cut into small florets
+- [ ] 1/2 cup chopped green chilies
+- [ ] 1/2 cup green or red peppers, diced
+- [ ] 2 tbsp jalapenos, chopped
 
 ### For the sauce
-* 1 cup unsweetened cashew milk
-* 3 tbsp reduced fat cream cheese
-* 1 tsp dijon mustard
-* 1 1/2 tbsp Kraft parmesan cheese, grated
-* 1/4 tsp garlic powder
-* 1 1/2 cups shredded reduced fat Mexican or sharp cheddar cheese
+- [ ] 1 cup unsweetened cashew milk
+- [ ] 3 tbsp reduced fat cream cheese
+- [ ] 1 tsp dijon mustard
+- [ ] 1 1/2 tbsp Kraft parmesan cheese, grated
+- [ ] 1/4 tsp garlic powder
+- [ ] 1 1/2 cups shredded reduced fat Mexican or sharp cheddar cheese
 
 ### Topping
-* 1 cup shredded reduced fat Mexican or sharp cheddar cheese
+- [ ] 1 cup shredded reduced fat Mexican or sharp cheddar cheese
 
 ## Directions
 1. Preheat oven to 375 degrees. Spray a 9 inch square casserole dish lightly with cooking spray.

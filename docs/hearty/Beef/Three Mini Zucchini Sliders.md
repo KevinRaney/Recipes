@@ -3,9 +3,9 @@
 (1 Complete Lean & Green w/3 condiments)
 
 ## Ingredients
-* 12oz zucchini sliced into 1/2 inch rounds
-* 6.5oz 90% lean ground beef divided into 3 portions
-* 2 Kerrygold cheddar cheese wedges divided into 3 portions 
+- [ ] 12oz zucchini sliced into 1/2 inch rounds
+- [ ] 6.5oz 90% lean ground beef divided into 3 portions
+- [ ] 2 Kerrygold cheddar cheese wedges divided into 3 portions 
 
 ## Directions
 1. Preheat oven to 425

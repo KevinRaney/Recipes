@@ -10,17 +10,17 @@ Per serving:
 3 condiments
 
 ## Ingredients
-* 3 cups low-sodium chicken broth
-* 1/2 tsp. salt
-* 2 cups kabocha puree
-* 1 cup chopped leeks
-* 1/2 tsp. chopped fresh thyme
-* 1 clove garlic, minced
-* 6 whole black peppercorns
-* 1/2 tsp. freshly ground ginger
-* 1/4 tsp. ground cinnamon
-* 1/8 tsp. ground nutmeg
-* 1/2 cup heavy whipping cream
+- [ ] 3 cups low-sodium chicken broth
+- [ ] 1/2 tsp. salt
+- [ ] 2 cups kabocha puree
+- [ ] 1 cup chopped leeks
+- [ ] 1/2 tsp. chopped fresh thyme
+- [ ] 1 clove garlic, minced
+- [ ] 6 whole black peppercorns
+- [ ] 1/2 tsp. freshly ground ginger
+- [ ] 1/4 tsp. ground cinnamon
+- [ ] 1/8 tsp. ground nutmeg
+- [ ] 1/2 cup heavy whipping cream
 
 ## Directions
 1. In a large pot, combine all ingredients except heavy cream and bring to a boil. Reduce heat to low and simmer for 30 minutes, uncovered.

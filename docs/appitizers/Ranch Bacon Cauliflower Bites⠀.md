@@ -3,12 +3,12 @@
 Ranch Bacon Cauliflower Bites⠀
 
 ## Ingredients
-* 4 cups (14.08 oz) fresh cauliflower (8 greens)
-* 2 large eggs (2/3 lean)
-* 2 tablespoons ranch dressing mix (12 condiments)
-* 1 1/3 cup (5.33 oz) cheddar cheese (1 1/3 lean)
-* 5 oz turkey bacon (1 lean)
-* 1 teaspoon chives⠀
+- [ ] 4 cups (14.08 oz) fresh cauliflower (8 greens)
+- [ ] 2 large eggs (2/3 lean)
+- [ ] 2 tablespoons ranch dressing mix (12 condiments)
+- [ ] 1 1/3 cup (5.33 oz) cheddar cheese (1 1/3 lean)
+- [ ] 5 oz turkey bacon (1 lean)
+- [ ] 1 teaspoon chives⠀
 
 ## Directions
 * Preheat oven to 375°. Pulse cauliflower in a food processor until it forms large crumbs.

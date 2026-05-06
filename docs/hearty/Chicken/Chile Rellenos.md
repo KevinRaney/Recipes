@@ -4,13 +4,13 @@ Yield: 4 Serving
 Per Serving: 1 Lean, 1.5 Greens, 1.25 Condiments
 
 ## Ingredients
-* 12 whole green chiles split downside
-* 6 egg whites
-* 3.5 ounces cooked, shredded chicken
-* 12 oz part-skim mozzarella
-* ½ tsp cream of tartar
-* 1 tsp garlic powder
-* 1 tsp onion powder
+- [ ] 12 whole green chiles split downside
+- [ ] 6 egg whites
+- [ ] 3.5 ounces cooked, shredded chicken
+- [ ] 12 oz part-skim mozzarella
+- [ ] ½ tsp cream of tartar
+- [ ] 1 tsp garlic powder
+- [ ] 1 tsp onion powder
 
 ## Directions
 1. Preheat the oven to 400.

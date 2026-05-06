@@ -9,15 +9,15 @@ Per serving:
 3 Condiments
 
 ## Ingredients 
-* 5-oz lean ground beef (raw weight)
-* 1-oz shredded cheddar cheese
-* 1¼ cup broccoli, cut into bite-sized pieces
-* ¼ cup Rotel tomatoes
-* ¼ teaspoon garlic powder
-* ¼ teaspoon onion powder
-* ¼ teaspoon salt, divided
-* pinch of red pepper flakes
-* 2 tablespoons low sodium chicken stock
+- [ ] 5-oz lean ground beef (raw weight)
+- [ ] 1-oz shredded cheddar cheese
+- [ ] 1¼ cup broccoli, cut into bite-sized pieces
+- [ ] ¼ cup Rotel tomatoes
+- [ ] ¼ teaspoon garlic powder
+- [ ] ¼ teaspoon onion powder
+- [ ] ¼ teaspoon salt, divided
+- [ ] pinch of red pepper flakes
+- [ ] 2 tablespoons low sodium chicken stock
 
 ## Directions
 1. Put your broccoli in a bowl with your chicken stock and cover with plastic wrap. Put in the microwave for 4 minutes, or until tender and cooked.

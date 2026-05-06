@@ -9,16 +9,16 @@ Per serving:
 2 condiments
 
 ## Ingredients
-* 1/2 cup green onion
-* 1 cup zucchini
-* 18 ounces chicken breast
-* 2 teaspoons olive oil
-* 1/2 tsp cinnamon
-* 1/2 tsp ginger
-* 1/2 tsp. turmeric
-* 1/2 tsp cumin
-* 1 14 oz can diced tomatoes
-* 1/4 cup fresh cilantro
+- [ ] 1/2 cup green onion
+- [ ] 1 cup zucchini
+- [ ] 18 ounces chicken breast
+- [ ] 2 teaspoons olive oil
+- [ ] 1/2 tsp cinnamon
+- [ ] 1/2 tsp ginger
+- [ ] 1/2 tsp. turmeric
+- [ ] 1/2 tsp cumin
+- [ ] 1 14 oz can diced tomatoes
+- [ ] 1/4 cup fresh cilantro
 
 ## Directions
 1. Slice green onion and thinly slice zucchini. 

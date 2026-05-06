@@ -1,16 +1,16 @@
 # Crab Cakes
 
 ## Ingredients
-* 14 oz crabmeat
-* 3 eggs
-* 1 Tbsp parsley
-* 2 tsp Dijon mustard
-* 2 tsp lemon juice
-* 1 ½ Tbsp almond flour
-* ¾ tsp old bay – Maryland-style crab seasoning
-* 1 Tbsp light mayonnaise
-* ½ tsp Worcestershire sauce
-* 2 tsp olive oil for frying
+- [ ] 14 oz crabmeat
+- [ ] 3 eggs
+- [ ] 1 Tbsp parsley
+- [ ] 2 tsp Dijon mustard
+- [ ] 2 tsp lemon juice
+- [ ] 1 ½ Tbsp almond flour
+- [ ] ¾ tsp old bay – Maryland-style crab seasoning
+- [ ] 1 Tbsp light mayonnaise
+- [ ] ½ tsp Worcestershire sauce
+- [ ] 2 tsp olive oil for frying
 
 ## Directions
 1. Preheat oven broiler. 

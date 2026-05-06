@@ -9,12 +9,12 @@ Per serving:
 3 condiments
 
 ## Ingredients
-* 27 oz. cooked skinless chicken breast
-* ½ tsp. garlic powder
-* 8 oz. light cream cheese
-* 1 c. jalapeno
-* 4 oz. reduced-fat cheddar
-* 6 slices turkey bacon
+- [ ] 27 oz. cooked skinless chicken breast
+- [ ] ½ tsp. garlic powder
+- [ ] 8 oz. light cream cheese
+- [ ] 1 c. jalapeno
+- [ ] 4 oz. reduced-fat cheddar
+- [ ] 6 slices turkey bacon
 
 ## Directions
 1. Preheat the oven to 375˚F

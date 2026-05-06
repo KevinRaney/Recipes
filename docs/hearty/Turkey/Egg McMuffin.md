@@ -10,13 +10,13 @@ Per Serving:
 
 ## Ingredients
 
-* 5 sprays non-stick spray (split)
-* 2 ½ ounces 95-97% lean ground turkey
-* 2 large eggs
-* ¼ tsp salt
-* ¼ tsp ground black pepper
-* ¼ cup of water
-* 1 heaping tbsp guacamole
+- [ ] 5 sprays non-stick spray (split)
+- [ ] 2 ½ ounces 95-97% lean ground turkey
+- [ ] 2 large eggs
+- [ ] ¼ tsp salt
+- [ ] ¼ tsp ground black pepper
+- [ ] ¼ cup of water
+- [ ] 1 heaping tbsp guacamole
 
 ## Directions
 

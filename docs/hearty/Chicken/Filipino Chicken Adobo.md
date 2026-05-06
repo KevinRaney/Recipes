@@ -3,13 +3,13 @@
 Filipino Chicken Adobo
 
 ## Ingredients
-* 3 pounds skinless, boneless chicken breasts
-* 1/4 cup low sodium soy sauce
-* 1 2/3 cups low fat canned coconut milk
-* 3/4 cup cider vinegar
-* 4 bay leaves
-* 1 tsp pepper
-* 1 scallion
+- [ ] 3 pounds skinless, boneless chicken breasts
+- [ ] 1/4 cup low sodium soy sauce
+- [ ] 1 2/3 cups low fat canned coconut milk
+- [ ] 3/4 cup cider vinegar
+- [ ] 4 bay leaves
+- [ ] 1 tsp pepper
+- [ ] 1 scallion
 
 ## Directions
 1. Toss chicken with soy sauce in a large bowl. Refrigerate for at least 30 minutes.

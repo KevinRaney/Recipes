@@ -15,18 +15,18 @@ Per serving:
 
 ### Crust
 
-* 1 small head cauliflower, cut into small florets (should yield about 3 cups once processed)
-* ½ cup / 1.7 oz / 50 gr mozzarella cheese, shredded
-* 1 free-range egg, lightly beaten
-* ½ teaspoon fine grain sea salt
-* ½ teaspoon oregano
-* ¼ teaspoon ground black pepper
+- [ ] 1 small head cauliflower, cut into small florets (should yield about 3 cups once processed)
+- [ ] ½ cup / 1.7 oz / 50 gr mozzarella cheese, shredded
+- [ ] 1 free-range egg, lightly beaten
+- [ ] ½ teaspoon fine grain sea salt
+- [ ] ½ teaspoon oregano
+- [ ] ¼ teaspoon ground black pepper
 
 ### Filling
 
-* 6 tablespoons thick tomato sauce
-* ½ cup / 1.7 oz / 50 gr mozzarella cheese
-* pinch of salt
+- [ ] 6 tablespoons thick tomato sauce
+- [ ] ½ cup / 1.7 oz / 50 gr mozzarella cheese
+- [ ] pinch of salt
 
 ## Directions
 

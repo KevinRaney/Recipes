@@ -11,27 +11,27 @@ Per serving:
 1 Optional Snack
 
 ## Ingredients
-* 6 Mini sweet bell peppers ~ 186 grams ~ weigh for accuracy (2 1/2 Greens)
-* 3 ounces Taco Seasoned Beef
-* 1/2 cup reduced-fat sharp cheddar cheese
-* 1 tbsp sour cream or 2 tbsp plain non-fat Greek yogurt
-* 1 tbsp guacamole or 3/4 ounce avocado, chopped
-* 1/4 cup shredded lettuce
-* 2 tbsp sliced green onions
+- [ ] 6 Mini sweet bell peppers ~ 186 grams ~ weigh for accuracy (2 1/2 Greens)
+- [ ] 3 ounces Taco Seasoned Beef
+- [ ] 1/2 cup reduced-fat sharp cheddar cheese
+- [ ] 1 tbsp sour cream or 2 tbsp plain non-fat Greek yogurt
+- [ ] 1 tbsp guacamole or 3/4 ounce avocado, chopped
+- [ ] 1/4 cup shredded lettuce
+- [ ] 2 tbsp sliced green onions
 
 ### Optional
-* 1-ounce pickled sliced jalapenos (1 Optional Snack)
+- [ ] 1-ounce pickled sliced jalapenos (1 Optional Snack)
 
 # Taco Seasoned Beef
 
 ## Ingredients
-* 1 lb 95 to 97% lean ground beef (2 Leaner)
-* Taco Seasoning Blend (or 1 tbsp store-bought Taco Seasoning):
-* 1 tsp chili powder (2 Condiments)
-* 1 tsp cumin (1 Condiment)
-* 1/2 tsp garlic powder (1 Condiment)
-* 1/4 tsp salt (1 Condiment)
-* 1/2 tsp black pepper (1 Condiment)
+- [ ] 1 lb 95 to 97% lean ground beef (2 Leaner)
+- [ ] Taco Seasoning Blend (or 1 tbsp store-bought Taco Seasoning):
+- [ ] 1 tsp chili powder (2 Condiments)
+- [ ] 1 tsp cumin (1 Condiment)
+- [ ] 1/2 tsp garlic powder (1 Condiment)
+- [ ] 1/4 tsp salt (1 Condiment)
+- [ ] 1/2 tsp black pepper (1 Condiment)
 
 ## Directions
 1. Preheat oven to 400°.

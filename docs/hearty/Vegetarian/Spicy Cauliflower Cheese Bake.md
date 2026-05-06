@@ -14,11 +14,11 @@ Per serving:
 
 ## Ingredients
 
-* 1 1/2 cups (5.28 oz) cauliflower
-* 1/4 cup (2.15 oz) egg beaters
-* 1/2 cup (4 oz) 2% cottage cheese
-* 1/2 cup (2 oz) 2% skim shredded cheddar cheese (3-6 grams fat/oz)
-* 1/2 tsp Cayenne Pepper
+- [ ] 1 1/2 cups (5.28 oz) cauliflower
+- [ ] 1/4 cup (2.15 oz) egg beaters
+- [ ] 1/2 cup (4 oz) 2% cottage cheese
+- [ ] 1/2 cup (2 oz) 2% skim shredded cheddar cheese (3-6 grams fat/oz)
+- [ ] 1/2 tsp Cayenne Pepper
 
 ## Directions
 

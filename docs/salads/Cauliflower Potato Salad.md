@@ -1,16 +1,16 @@
 # Cauliflower Potato Salad
 
 ## Ingredients
-* 2 1/2 cup cauliflower, cooked and chopped (5 Greens)
-* 1/2 cup celery, chopped (1 Green)
-* 2 hard boiled egg, chopped (2/3 Lean)
-* 3 tbsp light mayo (2 Healthy Fats)
-* 2 tsp dijon mustard (2 Condiments)
-* 1/4 tsp salt (1 Condiment)
-* 1/4 tsp onion powder (1/2 Condiment)
-* 1/8 tsp black pepper (1/4 Condiment)
-* 2-3 pickle spears, chopped (optional snack)
-* sprinkle of paprika
+- [ ] 2 1/2 cup cauliflower, cooked and chopped (5 Greens)
+- [ ] 1/2 cup celery, chopped (1 Green)
+- [ ] 2 hard boiled egg, chopped (2/3 Lean)
+- [ ] 3 tbsp light mayo (2 Healthy Fats)
+- [ ] 2 tsp dijon mustard (2 Condiments)
+- [ ] 1/4 tsp salt (1 Condiment)
+- [ ] 1/4 tsp onion powder (1/2 Condiment)
+- [ ] 1/8 tsp black pepper (1/4 Condiment)
+- [ ] 2-3 pickle spears, chopped (optional snack)
+- [ ] sprinkle of paprika
 
 ## Directions
 1. Steam cauliflower until it reaches the same texture as cooked potatoes. 

@@ -10,16 +10,16 @@ Per Serving:
 1 healthy fat
 
 ## Ingredients
-* 1 cup cucumber, with peel
-* 1 cup red bell pepper
-* 1 cup tomato
-* 8 black olives
-* 1 lb raw boneless skinless chicken breast
-* 2 tbsp onion
-* 1 tsp olive oil
-* 2 tbsp parsley
-* 1 clove garlic
-* 4 tsp lemon juice
+- [ ] 1 cup cucumber, with peel
+- [ ] 1 cup red bell pepper
+- [ ] 1 cup tomato
+- [ ] 8 black olives
+- [ ] 1 lb raw boneless skinless chicken breast
+- [ ] 2 tbsp onion
+- [ ] 1 tsp olive oil
+- [ ] 2 tbsp parsley
+- [ ] 1 clove garlic
+- [ ] 4 tsp lemon juice
 
 ## Directions
 1. Preheat grill to medium-high heat.

@@ -10,15 +10,15 @@ Per serving
 3 condiments
 
 ## Ingredients
-* 1 cup green spring onion cut in thin slices
-* 10 sprays non-stick pan spray
-* ¼ tsp Salt
-* ½ tsp Pepper
-* 1 1/2 pounds Ground Beef
-* 1/2 teaspoon Garlic Powder
-* 1 Egg, whisked
-* 1/4 cup + 4 tablespoons sugar-free BBQ Sauce (divided)
-* 4 ounces Cheddar Cheese, cut into 1/4″ cubes
+- [ ] 1 cup green spring onion cut in thin slices
+- [ ] 10 sprays non-stick pan spray
+- [ ] ¼ tsp Salt
+- [ ] ½ tsp Pepper
+- [ ] 1 1/2 pounds Ground Beef
+- [ ] 1/2 teaspoon Garlic Powder
+- [ ] 1 Egg, whisked
+- [ ] 1/4 cup + 4 tablespoons sugar-free BBQ Sauce (divided)
+- [ ] 4 ounces Cheddar Cheese, cut into 1/4″ cubes
 
 ## Directions
 1. Over medium heat, the non-stick spray in a large skillet. Cut the onion into thin slices and add the onions to the pan. Sprinkle the onions with salt and pepper and stir. Cook the onions, stirring every couple of minutes, until the onions are caramelized. Turn the heat down if you notice the onions are burning. Once caramelized, set the onions aside to slightly cool.

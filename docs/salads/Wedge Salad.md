@@ -9,13 +9,13 @@ Each serving provides
 ## Ingredients
 
 ### Blue Cheese Dressing
-* 6.4 oz. 2% cottage cheese (4/5 leaner)
-* 4 Tablespoons low fat Blue cheese crumbles or 3 Tablespoon regular Blue cheese crumbles (3 condiments)
+- [ ] 6.4 oz. 2% cottage cheese (4/5 leaner)
+- [ ] 4 Tablespoons low fat Blue cheese crumbles or 3 Tablespoon regular Blue cheese crumbles (3 condiments)
 
 ### Salad
-* 1 oz low sodium turkey bacon (1/5 lean)
-* 2 cups (5.08 oz) crisp iceberg lettuce
-* 1/2 cup (2.63 oz) cherry tomatoes
+- [ ] 1 oz low sodium turkey bacon (1/5 lean)
+- [ ] 2 cups (5.08 oz) crisp iceberg lettuce
+- [ ] 1/2 cup (2.63 oz) cherry tomatoes
 
 ## Directions
 

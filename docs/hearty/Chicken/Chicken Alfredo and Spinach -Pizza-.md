@@ -12,21 +12,21 @@ Per serving:
 ## Ingredients
 
 ### Crust
-* 1 cup or 100 grams grated raw cauliflower
-* 1/4 cup egg beaters
-* 1/4 cup Reduced Fat 2% Mozzarella cheese
+- [ ] 1 cup or 100 grams grated raw cauliflower
+- [ ] 1/4 cup egg beaters
+- [ ] 1/4 cup Reduced Fat 2% Mozzarella cheese
 
 ### Toppings
-* 2.25 oz chicken, cooked and chopped
-* 1/4 cup Reduced Fat 2% Mozzarella Cheese
-* 1/2 cup spinach, cooked, drained, and chopped
-* 2 tbsp reduced-fat feta cheese
+- [ ] 2.25 oz chicken, cooked and chopped
+- [ ] 1/4 cup Reduced Fat 2% Mozzarella Cheese
+- [ ] 1/2 cup spinach, cooked, drained, and chopped
+- [ ] 2 tbsp reduced-fat feta cheese
 
 ### Alfredo Sauce
-* 2 Light Garlic and Herb Cheese Wedges
-* 2 tbsp unsweetened almond milk
-* 1 tbsp Reduced Fat Parmesan, grated
-* 1/4 tsp Molly McButter
+- [ ] 2 Light Garlic and Herb Cheese Wedges
+- [ ] 2 tbsp unsweetened almond milk
+- [ ] 1 tbsp Reduced Fat Parmesan, grated
+- [ ] 1/4 tsp Molly McButter
 
 ## Directions
 

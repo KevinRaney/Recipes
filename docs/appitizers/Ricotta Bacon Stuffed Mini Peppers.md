@@ -5,16 +5,16 @@
 Ricotta Bacon Stuffed Mini Peppers
 
 ## Ingredients
-* 1 pound assorted mini peppers, about 18 mini peppers* (6 Greens)
-* 2/3 cup part skim ricotta cheese (2/3 Lean)
-* 1/3 cup reduced fat mozzarella cheese, shredded (1/3 Lean)
-* 4 slices turkey bacon
-* 1 egg, beaten (with turkey bacon ~ 1 Lean)
-* 1/4 cup freshly grated parmesan cheese (4 Condiments)
-* 2 tbsp fresh basil chopped (1/4 Condiment)
-* 2 tbsp fresh parsley, chopped (1/2 Condiment)
-* 1/4 tsp salt ~optional (1 Condiment)
-* 1/8 tsp black pepper (1/4 Condiment)
+- [ ] 1 pound assorted mini peppers, about 18 mini peppers* (6 Greens)
+- [ ] 2/3 cup part skim ricotta cheese (2/3 Lean)
+- [ ] 1/3 cup reduced fat mozzarella cheese, shredded (1/3 Lean)
+- [ ] 4 slices turkey bacon
+- [ ] 1 egg, beaten (with turkey bacon ~ 1 Lean)
+- [ ] 1/4 cup freshly grated parmesan cheese (4 Condiments)
+- [ ] 2 tbsp fresh basil chopped (1/4 Condiment)
+- [ ] 2 tbsp fresh parsley, chopped (1/2 Condiment)
+- [ ] 1/4 tsp salt ~optional (1 Condiment)
+- [ ] 1/8 tsp black pepper (1/4 Condiment)
 
 ## Directions
 1. Preheat oven to 350 degrees. Cook turkey bacon and chop into very small pieces. Set aside. Cut peppers in half lengthwise, removing seeds and ribs. Place on a baking sheet and set aside.

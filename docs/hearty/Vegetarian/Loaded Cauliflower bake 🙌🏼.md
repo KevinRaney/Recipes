@@ -7,15 +7,15 @@
 Loaded Cauliflower bake 🙌🏼
 
 ## Ingredients
-* 3 1/2 cups (12.32oz) cauliflower florets (7 greens)
-* 8 oz shredded sharp cheddar cheese, divided (2 leans)
-* 4 oz shredded Monterey jack cheese, divided (1 leans)
-* 12 oz low-fat plain Greek yogurt (1 leanest)
-* 1 1/2 cups (5.28oz) green onions , sliced (3 greens)
-* 5-1 oz slices turkey bacon, cooked and crumbled (1 lean)
-* 1 clove garlic, grated (1 condiment)
-* 1/2 teaspoon pepper (1 condiment)
-* 1/4 teaspoon salt (1 condiment)
+- [ ] 3 1/2 cups (12.32oz) cauliflower florets (7 greens)
+- [ ] 8 oz shredded sharp cheddar cheese, divided (2 leans)
+- [ ] 4 oz shredded Monterey jack cheese, divided (1 leans)
+- [ ] 12 oz low-fat plain Greek yogurt (1 leanest)
+- [ ] 1 1/2 cups (5.28oz) green onions , sliced (3 greens)
+- [ ] 5-1 oz slices turkey bacon, cooked and crumbled (1 lean)
+- [ ] 1 clove garlic, grated (1 condiment)
+- [ ] 1/2 teaspoon pepper (1 condiment)
+- [ ] 1/4 teaspoon salt (1 condiment)
 
 ## Directions
 1. Preheat oven to 350 degrees

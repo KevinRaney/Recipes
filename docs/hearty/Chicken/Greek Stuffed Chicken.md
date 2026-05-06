@@ -11,21 +11,21 @@ Roughly 2 1/2 condiments
 1 healthy fat
 
 ## Ingredients
-* 4 boneless skinless chicken breasts about 9 oz. each~Yields 6 oz cooked (4 leaners)
-* 1 tbsp extra-virgin olive oil (3 healthy fats)
-* 1 oz shredded Mozzarella cheese (1 healthy fat)
-* 1 tbsp lemon juice (1 1/2 condiments)
-* 1 Tbsp chopped fresh dill
-* 1 Tbsp chopped fresh parsley (1/4 condiment)
-* 2 cloves garlic minced (2 condiments)
-* 1/4 Salt (1 condiment)
-* 1/2 tsp pepper (1 condiment)
-* 1 cup (4 oz) zucchini halved and cut into half moons (2 greens)
-* 1 cup (4 oz) yellow squash halved and cut into half moons (2 greens)
-* 1 cup (5.26 oz) Roma tomato cut into thin slices (or Roasted Red Pepper) (2 greens)
-* 1/2 oz red onion halved and cut into half moons (4 condiments)
-* 2 Tbsp crumbled non-fat Feta cheese (2 condiments)
-* Extra dill and fresh parsley for garnish
+- [ ] 4 boneless skinless chicken breasts about 9 oz. each~Yields 6 oz cooked (4 leaners)
+- [ ] 1 tbsp extra-virgin olive oil (3 healthy fats)
+- [ ] 1 oz shredded Mozzarella cheese (1 healthy fat)
+- [ ] 1 tbsp lemon juice (1 1/2 condiments)
+- [ ] 1 Tbsp chopped fresh dill
+- [ ] 1 Tbsp chopped fresh parsley (1/4 condiment)
+- [ ] 2 cloves garlic minced (2 condiments)
+- [ ] 1/4 Salt (1 condiment)
+- [ ] 1/2 tsp pepper (1 condiment)
+- [ ] 1 cup (4 oz) zucchini halved and cut into half moons (2 greens)
+- [ ] 1 cup (4 oz) yellow squash halved and cut into half moons (2 greens)
+- [ ] 1 cup (5.26 oz) Roma tomato cut into thin slices (or Roasted Red Pepper) (2 greens)
+- [ ] 1/2 oz red onion halved and cut into half moons (4 condiments)
+- [ ] 2 Tbsp crumbled non-fat Feta cheese (2 condiments)
+- [ ] Extra dill and fresh parsley for garnish
 
 ## Directions
 * Preheat oven to 350F. Line a sheet pan with parchment paper or spray with non-stick cooking spray.

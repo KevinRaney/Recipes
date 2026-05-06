@@ -5,23 +5,23 @@
 ## Ingredients
 
 ### For the Crust
-* 1 cup raw Cauliflower, grated or 100 grams (2 Greens)
-* 1/4 cup Egg Beaters (1/8 Lean)
-* 1/4 cup 2% Reduced Fat Mozzarella Cheese, shredded (2/8 Lean)
+- [ ] 1 cup raw Cauliflower, grated or 100 grams (2 Greens)
+- [ ] 1/4 cup Egg Beaters (1/8 Lean)
+- [ ] 1/4 cup 2% Reduced Fat Mozzarella Cheese, shredded (2/8 Lean)
 
 ### Peanut Sauce
-* 2 LEVELED tbsp PB2 or powdered peanut butter (1 Snack. MUST LEVELED!!!)
-* 2 tbsp Walden Farms Sesame Ginger Dressing (1 Condiment)
+- [ ] 2 LEVELED tbsp PB2 or powdered peanut butter (1 Snack. MUST LEVELED!!!)
+- [ ] 2 tbsp Walden Farms Sesame Ginger Dressing (1 Condiment)
 
 ### Toppings:
-* 1 tsp Teriyaki Sauce (1 Condiment)
-* 1 tsp Low Sodium Soy Sauce (1/2 Condiment)
-* 5 oz raw Chicken to yield 2.25 oz Chicken (3/8 Lean)
-* 1/4 cup 2% Reduced Fat Mozzarella Cheese (2/8 Lean)
-* 1/4 cup or 26 grams Bean Sprouts (1/2 Green)
-* 2 tbsp Red Pepper or 18.6 grams, thinly sliced (1/4 Green)
-* 2 tbsp Green Onions or 12.5 grams, thinly sliced (1/4 Green)
-* 1 tbsp Cilantro, chopped (Optional)
+- [ ] 1 tsp Teriyaki Sauce (1 Condiment)
+- [ ] 1 tsp Low Sodium Soy Sauce (1/2 Condiment)
+- [ ] 5 oz raw Chicken to yield 2.25 oz Chicken (3/8 Lean)
+- [ ] 1/4 cup 2% Reduced Fat Mozzarella Cheese (2/8 Lean)
+- [ ] 1/4 cup or 26 grams Bean Sprouts (1/2 Green)
+- [ ] 2 tbsp Red Pepper or 18.6 grams, thinly sliced (1/4 Green)
+- [ ] 2 tbsp Green Onions or 12.5 grams, thinly sliced (1/4 Green)
+- [ ] 1 tbsp Cilantro, chopped (Optional)
 
 ## Directions
 1. Marinade raw chicken in teriyaki and soy sauce overnight. Discard marinade. Grill or cook chicken until done. Chop into small pieces. Make sure you are getting 2.25 oz cooked chicken. Set aside.

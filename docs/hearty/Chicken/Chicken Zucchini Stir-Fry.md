@@ -11,16 +11,16 @@ Per serving:
 3 Condiments
 
 ## Ingredients
-* 1/2 cup chicken broth
-* 1 tsp almond flour
-* 1 tsp rice vinegar
-* 2 tsp soy sauce
-* 1 tsp peanut oil
-* 1 tsp minced garlic
-* 1 tsp minced fresh ginger
-* 9 ounces chicken breasts, cut into strips
-* 1 cup zucchini, chopped
-* 1/2 cup scallions, chopped
+- [ ] 1/2 cup chicken broth
+- [ ] 1 tsp almond flour
+- [ ] 1 tsp rice vinegar
+- [ ] 2 tsp soy sauce
+- [ ] 1 tsp peanut oil
+- [ ] 1 tsp minced garlic
+- [ ] 1 tsp minced fresh ginger
+- [ ] 9 ounces chicken breasts, cut into strips
+- [ ] 1 cup zucchini, chopped
+- [ ] 1/2 cup scallions, chopped
 
 ## Directions
 1. Whisk together chicken broth, almond flour, rice vinegar, and soy sauce and set aside

@@ -11,18 +11,18 @@ Per serving:
 2 condiments
 
 ## Ingredients
-* 8 ounces light cream cheese, softened
-* 1 cup fat-free Greek yogurt
-* 8 oz cooked, shredded chicken breast
-* 1 cup of your favorite salsa
-* 1 tablespoon taco seasoning
-* 1 cup shredded lettuce
-* 1 cup shredded cheddar cheese
-* 1 cup tomato, diced
-* 1 small avocado, diced
-* ½ cup onions, sliced
-* 1 tablespoon sliced olives
-* 1 pound mini bell peppers, sliced in half lengthwise, stems and seeds removed, for serving instead of chips
+- [ ] 8 ounces light cream cheese, softened
+- [ ] 1 cup fat-free Greek yogurt
+- [ ] 8 oz cooked, shredded chicken breast
+- [ ] 1 cup of your favorite salsa
+- [ ] 1 tablespoon taco seasoning
+- [ ] 1 cup shredded lettuce
+- [ ] 1 cup shredded cheddar cheese
+- [ ] 1 cup tomato, diced
+- [ ] 1 small avocado, diced
+- [ ] ½ cup onions, sliced
+- [ ] 1 tablespoon sliced olives
+- [ ] 1 pound mini bell peppers, sliced in half lengthwise, stems and seeds removed, for serving instead of chips
 
 ## Directions
 * Combine softened cream cheese, greek yogurt, chicken, salsa, and taco seasoning until smooth and well combined. 

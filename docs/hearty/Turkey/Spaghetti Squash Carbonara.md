@@ -3,15 +3,15 @@
 Spaghetti Squash Carbonara
 
 ## Ingredients
-* 2 tsp salt
-* 1 ¼ tsp fresh cracked black pepper
-* 4 cups cooked spaghetti squash
-* 4 slices Jennie-O Extra Lean Turkey Bacon
-* 2 tsp minced garlic
-* ¼ cup low-sodium chicken broth
-* 2 egg yolks
-* 1 whole egg
-* ½ cup grated Parmesan Cheese
+- [ ] 2 tsp salt
+- [ ] 1 ¼ tsp fresh cracked black pepper
+- [ ] 4 cups cooked spaghetti squash
+- [ ] 4 slices Jennie-O Extra Lean Turkey Bacon
+- [ ] 2 tsp minced garlic
+- [ ] ¼ cup low-sodium chicken broth
+- [ ] 2 egg yolks
+- [ ] 1 whole egg
+- [ ] ½ cup grated Parmesan Cheese
 
 ## Directions
 1. Preheat the oven to 375 degrees F.

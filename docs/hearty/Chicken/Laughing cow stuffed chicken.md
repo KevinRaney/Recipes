@@ -13,10 +13,10 @@ Per serving:
 1 Healthy Fat
 
 ## Ingredients
-* 6 oz chicken (8 oz before cooked) sliced open and stuffed with one wedge of laughing cow lite cheese
-* 2 servings of broccoli
-* 1 serving of cauliflower
-* Sprinkle with 1 oz shredded cheese
+- [ ] 6 oz chicken (8 oz before cooked) sliced open and stuffed with one wedge of laughing cow lite cheese
+- [ ] 2 servings of broccoli
+- [ ] 1 serving of cauliflower
+- [ ] Sprinkle with 1 oz shredded cheese
 
 ## Directions
 

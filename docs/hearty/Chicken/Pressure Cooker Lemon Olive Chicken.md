@@ -6,15 +6,15 @@ Yield: 4 servings
 Per serving: 1 leaner | 1 healthy fat | 3 condiments
 
 ## Ingredients
-* 2 pounds raw chicken breast
-* 1/2 teaspoon organic cumin
-* ½ teaspoon sea salt (real salt)
-* 1/4 teaspoon black pepper
-* 1 Tbsp butter
-* 1 lemon 1/2 juiced, 1/2 thinly sliced
-* 1 cup chicken bone-broth
-* 2 oz pitted green olives
-* 1/3 cup red onion sliced
+- [ ] 2 pounds raw chicken breast
+- [ ] 1/2 teaspoon organic cumin
+- [ ] ½ teaspoon sea salt (real salt)
+- [ ] 1/4 teaspoon black pepper
+- [ ] 1 Tbsp butter
+- [ ] 1 lemon 1/2 juiced, 1/2 thinly sliced
+- [ ] 1 cup chicken bone-broth
+- [ ] 2 oz pitted green olives
+- [ ] 1/3 cup red onion sliced
 
 ## Directions
 1. Season chicken breasts with sea salt, cumin and black pepper.

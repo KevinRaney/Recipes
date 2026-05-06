@@ -3,18 +3,18 @@
 Pesto Chicken Bruschetta
 
 ## Ingredients
-* 4 (6 oz) boneless, skinless chicken breasts
-* 4 (1 oz) slices part-skim mozzarella cheese
-* 3 cups (15.78 oz) cherry tomatoes
-* 6 cup (6.36 oz) fresh baby spinach
-* 1 tbsp extra virgin olive oil
+- [ ] 4 (6 oz) boneless, skinless chicken breasts
+- [ ] 4 (1 oz) slices part-skim mozzarella cheese
+- [ ] 3 cups (15.78 oz) cherry tomatoes
+- [ ] 6 cup (6.36 oz) fresh baby spinach
+- [ ] 1 tbsp extra virgin olive oil
 
 ### Pesto Ingredients
-* 2 cups packed basil leaves
-* 40 pine nut kernels
-* 1/4 cup of Parmesan Cheese
-* 2 cloves garlic
-* 4 tbsp water
+- [ ] 2 cups packed basil leaves
+- [ ] 40 pine nut kernels
+- [ ] 1/4 cup of Parmesan Cheese
+- [ ] 2 cloves garlic
+- [ ] 4 tbsp water
 
 ## Directions
 1. Pre-heat the oven to 375.

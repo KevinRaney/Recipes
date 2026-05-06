@@ -7,18 +7,18 @@ Per serving
 3 Condiments
 
 ## Ingredients
-* 1 ½ Tablespoon butter
-* 2 Tablespoons almond flour
-* 2 Cups chicken broth
-* ½ Teaspoon salt
-* 1/8 Teaspoon chipotle seasoning
-* ½ Teaspoon oregano
-* ½ Cup green chiles
-* 30 olives
-* 6 / 4 oz. cooked skinless chicken breast
-* ½ Cup and 2 Tablespoons sour cream
-* ½ Cup plain low-fat Greek yogurt
-* 1 2/3 Cup reduced fat Colby jack cheese
+- [ ] 1 ½ Tablespoon butter
+- [ ] 2 Tablespoons almond flour
+- [ ] 2 Cups chicken broth
+- [ ] ½ Teaspoon salt
+- [ ] 1/8 Teaspoon chipotle seasoning
+- [ ] ½ Teaspoon oregano
+- [ ] ½ Cup green chiles
+- [ ] 30 olives
+- [ ] 6 / 4 oz. cooked skinless chicken breast
+- [ ] ½ Cup and 2 Tablespoons sour cream
+- [ ] ½ Cup plain low-fat Greek yogurt
+- [ ] 1 2/3 Cup reduced fat Colby jack cheese
 
 ## Directions
 1. In a large skillet, heat butter over medium heat until melted. Stir in flour, cook for 1 minute and whisk in chicken broth. Continue stirring until smooth and thickened-- about 2-3 minutes.

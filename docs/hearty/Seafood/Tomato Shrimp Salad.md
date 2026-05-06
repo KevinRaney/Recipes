@@ -6,11 +6,11 @@ Tomato Shrimp Salad
 
 ## Ingredients
 
-* 8 oz raw shrimp, peeled and de-veined, or 7 oz fully cooked frozen shrimp, thawed (either starting portion should yield one 7-oz cooked serving)
-* 1 cup romaine lettuce, chopped or shredded
-* ½ cup (1 medium 2-3/5”) tomato, diced
-* ½ cup cucumber, sliced
-* 4 Tbsp Newman’s Own® Lighten Up Sun-Dried Tomato Dressing, divided
+- [ ] 8 oz raw shrimp, peeled and de-veined, or 7 oz fully cooked frozen shrimp, thawed (either starting portion should yield one 7-oz cooked serving)
+- [ ] 1 cup romaine lettuce, chopped or shredded
+- [ ] ½ cup (1 medium 2-3/5”) tomato, diced
+- [ ] ½ cup cucumber, sliced
+- [ ] 4 Tbsp Newman’s Own® Lighten Up Sun-Dried Tomato Dressing, divided
 
 ## Directions
 

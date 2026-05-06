@@ -3,13 +3,13 @@
 Twice Baked Cauliflower
 
 ## Ingredients
-* 4 cups cauliflower florets
-* 3 ounces reduced fat cream cheese, cubed
-* 1/2 cup sour cream
-* 1/4 cup green onion, sliced
-* 1/4 cup Kraft reduced fat parmesan cheese
-* 6 slices turkey bacon, cooked and crumbled
-* 1 cup reduced fat sharp cheddar cheese, divided
+- [ ] 4 cups cauliflower florets
+- [ ] 3 ounces reduced fat cream cheese, cubed
+- [ ] 1/2 cup sour cream
+- [ ] 1/4 cup green onion, sliced
+- [ ] 1/4 cup Kraft reduced fat parmesan cheese
+- [ ] 6 slices turkey bacon, cooked and crumbled
+- [ ] 1 cup reduced fat sharp cheddar cheese, divided
 
 ## Directions
 1. Preheat oven to 350 degrees.

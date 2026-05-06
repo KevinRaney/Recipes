@@ -2,14 +2,14 @@
 Slightly adapted from Robin Seidel
 
 ## Ingredients
-* 9 oz. dry scallops (1 Lean)
-* 1/8 tsp Lemon pepper (1/4 Condiment)
-* 1/8 tsp Curry Powder (1/4 Condiment)
-* 1/8 tsp Coriander (1/4 Condiment)
-* 2 teaspoon olive oil (2 Healthy Fats)
-* 1 tbsp Starport's coconut curry sauce (2 Condiments)
-* 1 tbsp low sodium chicken broth or water
-* Scallions, thinly sliced
+- [ ] 9 oz. dry scallops (1 Lean)
+- [ ] 1/8 tsp Lemon pepper (1/4 Condiment)
+- [ ] 1/8 tsp Curry Powder (1/4 Condiment)
+- [ ] 1/8 tsp Coriander (1/4 Condiment)
+- [ ] 2 teaspoon olive oil (2 Healthy Fats)
+- [ ] 1 tbsp Starport's coconut curry sauce (2 Condiments)
+- [ ] 1 tbsp low sodium chicken broth or water
+- [ ] Scallions, thinly sliced
 
 ## 
 

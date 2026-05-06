@@ -1,15 +1,15 @@
 # TACO STUFFED TOMATOES
 
 ## Ingredients
-* ½ cup scallions
-* 1 ½ pounds ground beef 
-* 1 tablespoon taco seasoning 
-* ¼ teaspoon salt
-* ½ teaspoon pepper 
-* 2/3 cup reduced fat Mexican cheese
-* 1 cup shredded iceburg lettuce 
-* ½ cup low fat plain Greek yogurt
-* 4 tomatoes 
+- [ ] ½ cup scallions
+- [ ] 1 ½ pounds ground beef 
+- [ ] 1 tablespoon taco seasoning 
+- [ ] ¼ teaspoon salt
+- [ ] ½ teaspoon pepper 
+- [ ] 2/3 cup reduced fat Mexican cheese
+- [ ] 1 cup shredded iceburg lettuce 
+- [ ] ½ cup low fat plain Greek yogurt
+- [ ] 4 tomatoes 
 
 ## 
 

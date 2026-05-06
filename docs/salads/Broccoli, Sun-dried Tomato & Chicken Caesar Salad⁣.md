@@ -1,13 +1,13 @@
 # Broccoli, Sun-dried Tomato & Chicken Caesar Salad⁣
 ⁠
 ## Ingredients
-* 1 ¼ cup of broccoli florets⁣⁠
-* ¼ cup of sun-dried tomatoes (patted and dried of oil)⁣⁠
-* 6 oz of cooked shredded chicken ⁣⁠
-* 1 3/4 tbsp Newman’s Own Lite Caesar Dressing⁣⁠
-* 2 Tbsp reduced-fat parmesan cheese ⁣⁠
-* ½ tsp pepper⁣⁠
-* 1 tbsp of capers⁣⁠
+- [ ] 1 ¼ cup of broccoli florets⁣⁠
+- [ ] ¼ cup of sun-dried tomatoes (patted and dried of oil)⁣⁠
+- [ ] 6 oz of cooked shredded chicken ⁣⁠
+- [ ] 1 3/4 tbsp Newman’s Own Lite Caesar Dressing⁣⁠
+- [ ] 2 Tbsp reduced-fat parmesan cheese ⁣⁠
+- [ ] ½ tsp pepper⁣⁠
+- [ ] 1 tbsp of capers⁣⁠
 
 ⁣⁠
 ## Directions⁠

@@ -10,18 +10,18 @@ Still need 1 green per serving
 ## Ingredients
 
 ### For the dressing
-* 2 Tbsp. Ortega taco seasoning, hot or mild
-* 1 cup light Ranch (or sugar free if fat burning)
+- [ ] 2 Tbsp. Ortega taco seasoning, hot or mild
+- [ ] 1 cup light Ranch (or sugar free if fat burning)
 
 ### Salad
-* 24 ounces grilled chicken cooled and diced
-* 4 cups Romaine lettuce, chopped, about 1 head
-* 1/2 cup Roma tomatoes, diced
-* 1/2 cup cucumber, seeded and diced
-* 1/2 cup green onions, sliced
-* 1/4 cup cilantro, chopped
-* 6 Tsp. lime juice
-* 1/2 cup of jalapeño & jicama mixed together
+- [ ] 24 ounces grilled chicken cooled and diced
+- [ ] 4 cups Romaine lettuce, chopped, about 1 head
+- [ ] 1/2 cup Roma tomatoes, diced
+- [ ] 1/2 cup cucumber, seeded and diced
+- [ ] 1/2 cup green onions, sliced
+- [ ] 1/4 cup cilantro, chopped
+- [ ] 6 Tsp. lime juice
+- [ ] 1/2 cup of jalapeño & jicama mixed together
 
 ## Directions
 1. In a small bowl, stir together ingredients for dressing then refrigerate until ready to use.

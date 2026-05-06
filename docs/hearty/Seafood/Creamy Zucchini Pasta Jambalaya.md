@@ -12,16 +12,16 @@ Per serving:
 1 1/2 Healthy fat
 
 ## Ingredients
-* 9.1 oz raw cubes chicken
-* 6 oz cooked shrimp
-* 1 oz (2 slices) low-sodium extra lean turkey bacon
-* 74.5 grams green bell peppers diced small
-* 226 grams raw zucchini spiral cut noodles
-* 50 grams scallions thinly sliced and divided
-* 1.5 tsp olive oil
-* 3 tbsp lite ranch dressing
-* 1.5 tsp Cajun seasoning
-* 1 tbsp Parmesan cheese
+- [ ] 9.1 oz raw cubes chicken
+- [ ] 6 oz cooked shrimp
+- [ ] 1 oz (2 slices) low-sodium extra lean turkey bacon
+- [ ] 74.5 grams green bell peppers diced small
+- [ ] 226 grams raw zucchini spiral cut noodles
+- [ ] 50 grams scallions thinly sliced and divided
+- [ ] 1.5 tsp olive oil
+- [ ] 3 tbsp lite ranch dressing
+- [ ] 1.5 tsp Cajun seasoning
+- [ ] 1 tbsp Parmesan cheese
 
 ## Directions
 1. Season chicken with 1/2 teaspoon Cajun seasoning, season shrimp with 1/2 teaspoon Cajun seasoning.

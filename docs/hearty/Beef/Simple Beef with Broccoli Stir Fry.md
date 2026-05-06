@@ -9,12 +9,12 @@ Per serving:
 3 Condiments
 
 ## Ingredients
-* 1 pound raw beef round steak, cut into strips (10 oz cooked)
-* 1 tbsp + 2 tsp low sodium soy sauce
-* 1 Splenda packet
-* 1/2 cup broccoli florets
-* 1 tsp sesame or olive oil
-* 2 cups cooked, grated cauliflower
+- [ ] 1 pound raw beef round steak, cut into strips (10 oz cooked)
+- [ ] 1 tbsp + 2 tsp low sodium soy sauce
+- [ ] 1 Splenda packet
+- [ ] 1/2 cup broccoli florets
+- [ ] 1 tsp sesame or olive oil
+- [ ] 2 cups cooked, grated cauliflower
 
 ## Directions
 1. Toss steak with soy sauce& let sit 15 minutes

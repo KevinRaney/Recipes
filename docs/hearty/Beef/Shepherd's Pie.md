@@ -14,14 +14,14 @@ Per Serving:
 
 ## Ingredients
 
-* 4 oz cheese, Ricotta, Part-skim
-* 2 tbsp egg substitute, egg beaters
-* 6 oz cheese, mozzarella, reduced-fat
-* 1 1/2 cup tomatoes, crushed, canned
-* 10 oz beef, ground, 95-97% lean 3 tbsp parmesan cheese
-* 1/4 tsp ground black pepper
-* 1/2 tsp garlic salt
-* 1/2 tsp Italian seasoning
+- [ ] 4 oz cheese, Ricotta, Part-skim
+- [ ] 2 tbsp egg substitute, egg beaters
+- [ ] 6 oz cheese, mozzarella, reduced-fat
+- [ ] 1 1/2 cup tomatoes, crushed, canned
+- [ ] 10 oz beef, ground, 95-97% lean 3 tbsp parmesan cheese
+- [ ] 1/4 tsp ground black pepper
+- [ ] 1/2 tsp garlic salt
+- [ ] 1/2 tsp Italian seasoning
 
 ## Directions
 

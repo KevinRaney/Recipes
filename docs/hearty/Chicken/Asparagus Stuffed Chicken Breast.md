@@ -1,16 +1,16 @@
 # Asparagus Stuffed Chicken Breast
 
 ## Ingredients
-* 4 Skinless boneless chicken breasts about 1 1/2 lb. 
-* 1 Pkg Italian seasoning mix 
-* 1 Tsp Garlic Powder 
-* 1 Tsp Smoked Paprika
-* Sea salt and pepper 
-* 12 Asparagus stalks end trimmed 
-* 1 oz sun dried tomatoes
-* 4 slices Mozzarella Cheese 
-* 1 Tbsp Olive Oil 
-* 1 skillet that you can move from the top of the stove to the oven.
+- [ ] 4 Skinless boneless chicken breasts about 1 1/2 lb. 
+- [ ] 1 Pkg Italian seasoning mix 
+- [ ] 1 Tsp Garlic Powder 
+- [ ] 1 Tsp Smoked Paprika
+- [ ] Sea salt and pepper 
+- [ ] 12 Asparagus stalks end trimmed 
+- [ ] 1 oz sun dried tomatoes
+- [ ] 4 slices Mozzarella Cheese 
+- [ ] 1 Tbsp Olive Oil 
+- [ ] 1 skillet that you can move from the top of the stove to the oven.
 
 ## Directions
 1. Preheat your oven to 400 F.

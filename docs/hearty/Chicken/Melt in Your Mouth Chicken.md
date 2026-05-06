@@ -11,12 +11,12 @@ Per serving:
 (You still need 1 Healthy Fat per serving)
 
 ## Ingredients
-* 28 oz raw boneless, skinless, chicken breasts or tenderloins - should cook down to 18 oz
-* 1- 1/2 cups low fat plain Greek yogurt - I used Fage 2% plain Greek yogurt
-* 1 tsp garlic powder
-* 3/4 tsp salt
-* 1/2 tsp pepper
-* 1/4 cup grated Parmesan cheese
+- [ ] 28 oz raw boneless, skinless, chicken breasts or tenderloins - should cook down to 18 oz
+- [ ] 1- 1/2 cups low fat plain Greek yogurt - I used Fage 2% plain Greek yogurt
+- [ ] 1 tsp garlic powder
+- [ ] 3/4 tsp salt
+- [ ] 1/2 tsp pepper
+- [ ] 1/4 cup grated Parmesan cheese
 
 ## Directions
 1. Preheat oven to 350 degrees.

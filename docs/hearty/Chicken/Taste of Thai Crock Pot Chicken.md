@@ -5,12 +5,12 @@ Per Serving:
 (made with salsa that has 1 gram of carbs per 2 tbsp)
 
 ## Ingredients
-* 36 oz chicken breasts, uncooked - yields 24 oz cooked
-* 3/4 cup or 12 tbsp (6 oz) Salsa Verde with 1 carb per 2 tbsp
-* 2 tbsp PB2
-* 1 tbsp + 2 tsp low sodium soy sauce
-* 1/4 tsp ginger
-* 6 cups cauliflower cooked and grated
+- [ ] 36 oz chicken breasts, uncooked - yields 24 oz cooked
+- [ ] 3/4 cup or 12 tbsp (6 oz) Salsa Verde with 1 carb per 2 tbsp
+- [ ] 2 tbsp PB2
+- [ ] 1 tbsp + 2 tsp low sodium soy sauce
+- [ ] 1/4 tsp ginger
+- [ ] 6 cups cauliflower cooked and grated
 
 ## 
 

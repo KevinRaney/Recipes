@@ -14,16 +14,16 @@ Per serving:
 3 Condiments
 
 ## Ingredients
-* 2 1/2 cups grated cooked cauliflower
-* 1/2 cup mild Rotel diced tomatoes
-* 1/4 cup salsa
-* 1/8 tsp salt
-* 1/8 tsp pepper
-* 1/8 tsp garlic powder
-* 1 cup reduced-fat Mexican cheese, grated
-* 9 oz chicken breast (should yield 6 oz cooked), cooked and chopped
-* 1/2 tsp low sodium taco seasoning
-* 1 tsp olive oil
+- [ ] 2 1/2 cups grated cooked cauliflower
+- [ ] 1/2 cup mild Rotel diced tomatoes
+- [ ] 1/4 cup salsa
+- [ ] 1/8 tsp salt
+- [ ] 1/8 tsp pepper
+- [ ] 1/8 tsp garlic powder
+- [ ] 1 cup reduced-fat Mexican cheese, grated
+- [ ] 9 oz chicken breast (should yield 6 oz cooked), cooked and chopped
+- [ ] 1/2 tsp low sodium taco seasoning
+- [ ] 1 tsp olive oil
 
 ## Directions
 1. Season chicken with taco seasoning and toss with olive oil

@@ -10,16 +10,16 @@ Per serving
 1 fat
 
 ## Ingredients
-* 18 oz boneless skinless chicken breast
-* 1 clove garlic
-* 1 T chipotle in adobo sauce
-* ½ T adobo sauce
-* 2 t lime juice, divided
-* 1/2 t cumin
-* 5 sprays Non-stick pan spray
-* 3 oz avocado
-* ½ c Roma tomato
-* 2 T green onion
+- [ ] 18 oz boneless skinless chicken breast
+- [ ] 1 clove garlic
+- [ ] 1 T chipotle in adobo sauce
+- [ ] ½ T adobo sauce
+- [ ] 2 t lime juice, divided
+- [ ] 1/2 t cumin
+- [ ] 5 sprays Non-stick pan spray
+- [ ] 3 oz avocado
+- [ ] ½ c Roma tomato
+- [ ] 2 T green onion
 
 ## Directions
 1. Pound chicken to ½-inch thickness. Combine garlic, chipotle pepper, adobo sauce, 1 tsp lime juice, and cumin; rub all over chicken. Place in a large zip-top plastic freezer bag; seal and chill 8 hours.

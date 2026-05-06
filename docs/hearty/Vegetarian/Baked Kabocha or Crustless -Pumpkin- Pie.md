@@ -4,14 +4,14 @@ Baked Kabocha or Crustless "Pumpkin" Pie
 
 ## Ingredients
 
-* 2 cups roasted kabocha squash (4 Greens)
-* 1/4 cup unsweetened cashew or almond milk (1/4 Condiment)
-* 2 egg whites
-* 1/2 tsp ground cinnamon (1 Condiment)
-* 1/2 tsp pumpkin pie spice (1 Condiment)
-* 1/2 tsp maple or vanilla extract (1/2 Condiment)
-* 1 packet NuStevia (1 Condiment)
-* 28 Walnut halves (4 Snacks
+- [ ] 2 cups roasted kabocha squash (4 Greens)
+- [ ] 1/4 cup unsweetened cashew or almond milk (1/4 Condiment)
+- [ ] 2 egg whites
+- [ ] 1/2 tsp ground cinnamon (1 Condiment)
+- [ ] 1/2 tsp pumpkin pie spice (1 Condiment)
+- [ ] 1/2 tsp maple or vanilla extract (1/2 Condiment)
+- [ ] 1 packet NuStevia (1 Condiment)
+- [ ] 28 Walnut halves (4 Snacks
 
 ## Directions
 

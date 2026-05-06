@@ -6,18 +6,18 @@ Makes 4 servings
 Per serving: 1 lean protein, ¼ green, 3 condiments
 
 ## Ingredients
-* 2 cloves garlic
-* ½ cup green onion
-* 2 teaspoons lime juice
-* 2 tbsp chipotles in adobo sauce
-* ½ tbsp ground cumin
-* ½ tbsp ground oregano
-* ½ tsp ground cloves
-* 1 cup water
-* 20 oz. cooked beef eye of round or bottom round roast, all fat trimmed
-* ¼ tsp kosher salt
-* ½ tsp black pepper
-* 1 bay leaves
+- [ ] 2 cloves garlic
+- [ ] ½ cup green onion
+- [ ] 2 teaspoons lime juice
+- [ ] 2 tbsp chipotles in adobo sauce
+- [ ] ½ tbsp ground cumin
+- [ ] ½ tbsp ground oregano
+- [ ] ½ tsp ground cloves
+- [ ] 1 cup water
+- [ ] 20 oz. cooked beef eye of round or bottom round roast, all fat trimmed
+- [ ] ¼ tsp kosher salt
+- [ ] ½ tsp black pepper
+- [ ] 1 bay leaves
 
 ## Directions
 1. Place garlic, onion, lime juice, cumin, oregano, chipotles, cloves and water in a blender and puree until smooth.

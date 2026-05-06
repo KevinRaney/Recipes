@@ -12,15 +12,15 @@ Per serving:
 2 Healthy Fats
 
 ## Ingredients
-* 1 1/2 cup cooked, grated cauliflower
-* 7 oz peeled, tails removed, cooked shrimp
-* 1 tbsp Land O' Lakes light butter spread with canola oil
-* 2 light garlic and herb Laughing Cow Cheese wedges
-* 1 garlic clove, chopped
-* 1/4 tsp salt
-* 1/8 tsp black pepper
-* 1/2 tsp dried parsley flakes
-* 2 tsp grated Kraft Parmesan Cheese
+- [ ] 1 1/2 cup cooked, grated cauliflower
+- [ ] 7 oz peeled, tails removed, cooked shrimp
+- [ ] 1 tbsp Land O' Lakes light butter spread with canola oil
+- [ ] 2 light garlic and herb Laughing Cow Cheese wedges
+- [ ] 1 garlic clove, chopped
+- [ ] 1/4 tsp salt
+- [ ] 1/8 tsp black pepper
+- [ ] 1/2 tsp dried parsley flakes
+- [ ] 2 tsp grated Kraft Parmesan Cheese
 
 ## Directions
 1. Cook cauliflower. I used frozen cauliflower. Follow the cooking instructions on the back of the package. Drain.

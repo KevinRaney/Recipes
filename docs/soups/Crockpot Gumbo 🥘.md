@@ -1,24 +1,24 @@
 # Crockpot Gumbo 🥘 
 
 ## Ingredients 
-* 3 lbs chicken thighs (boneless, skinless)
-* 1 lb uncooked shrimp thawed and shelled
-* 1 lb Every Day brand turkey keilbasa sausage, cut into rounds 
-* 1/2 c diced bell pepper
-* 1/2 c diced onion
-* 1/2 c diced celery
-* 4 garlic cloves
-* 2 bay leaves
-* 1 cup frozen okra
-* 2 ounces tomato paste
-* 1 can (15 ounces) diced tomatoes
-* 1 heaping Tbs Tony Chachere cajun seasoning
-* ½ tsp pepper
-* ½ tsp cayenne
-* ½ tsp thyme
-* ½ tsp oregano 
+- [ ] 3 lbs chicken thighs (boneless, skinless)
+- [ ] 1 lb uncooked shrimp thawed and shelled
+- [ ] 1 lb Every Day brand turkey keilbasa sausage, cut into rounds 
+- [ ] 1/2 c diced bell pepper
+- [ ] 1/2 c diced onion
+- [ ] 1/2 c diced celery
+- [ ] 4 garlic cloves
+- [ ] 2 bay leaves
+- [ ] 1 cup frozen okra
+- [ ] 2 ounces tomato paste
+- [ ] 1 can (15 ounces) diced tomatoes
+- [ ] 1 heaping Tbs Tony Chachere cajun seasoning
+- [ ] ½ tsp pepper
+- [ ] ½ tsp cayenne
+- [ ] ½ tsp thyme
+- [ ] ½ tsp oregano 
 
-* (2 bags frozen Cauliflower Rice optional: microwaved according to pkg directions for serving)
+- [ ] (2 bags frozen Cauliflower Rice optional: microwaved according to pkg directions for serving)
 
 ## Directions 
 1. Layer Chicken pieces on bottom of crockpot and add all remaining ingredients to the slow cooker EXCEPT the shrimp and cauliflower rice. Do not add water! 

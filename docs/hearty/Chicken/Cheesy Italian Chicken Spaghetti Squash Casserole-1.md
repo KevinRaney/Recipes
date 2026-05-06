@@ -5,15 +5,15 @@ Pre serving: 1 Lean|3 Greens|3 Condiments|1 Healthy Fat
 ⁪
 
 ## Ingredients
-* 1 Cup prepared Spaghetti Squash Strands (2 Greens)
-* 1/2 Cup diced Italian tomatoes (1 Green)
-* 2 Light Laughing Garlic and Herb Cheese Wedges (1 Healthy Fat)
-* 1/4 Cup 2% reduced fat Mozzarella or Italian Cheese Blend, Shredded (1/4 Lean)
-* 7 oz. raw Chicken Breasts, cubed - should yield 4.5 oz cooked (3/4 Lean)
-* 1 Tbsp Wishbone Light Italian Salad Dressing (1.5 Condiments)
-* 2 tsp. Parmesan Cheese, grated (2/3 Condiment)
+- [ ] 1 Cup prepared Spaghetti Squash Strands (2 Greens)
+- [ ] 1/2 Cup diced Italian tomatoes (1 Green)
+- [ ] 2 Light Laughing Garlic and Herb Cheese Wedges (1 Healthy Fat)
+- [ ] 1/4 Cup 2% reduced fat Mozzarella or Italian Cheese Blend, Shredded (1/4 Lean)
+- [ ] 7 oz. raw Chicken Breasts, cubed - should yield 4.5 oz cooked (3/4 Lean)
+- [ ] 1 Tbsp Wishbone Light Italian Salad Dressing (1.5 Condiments)
+- [ ] 2 tsp. Parmesan Cheese, grated (2/3 Condiment)
 
-* ⁪
+- [ ] ⁪
 
 ## Directions
 1. Preheat oven to 350 degrees. Prepare spaghetti squash by oven or microwave.

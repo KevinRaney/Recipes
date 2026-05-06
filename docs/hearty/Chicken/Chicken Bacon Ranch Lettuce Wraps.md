@@ -1,15 +1,15 @@
 # Chicken Bacon Ranch Lettuce Wraps 
 
 ## Ingredients
-* Non-stick pan spray
-* 1 1/4 pounds chicken tenders
-* 1/4 tsp salt
-* 1/2 tsp pepper
-* 6 oz romaine lettuce
-* 4 oz low fat provolone
-* 8 strips low sodium turkey bacon
-* 2 roma tomatoes
-* 1/4 cup Hidden Valley Buttermilk Light Ranch
+- [ ] Non-stick pan spray
+- [ ] 1 1/4 pounds chicken tenders
+- [ ] 1/4 tsp salt
+- [ ] 1/2 tsp pepper
+- [ ] 6 oz romaine lettuce
+- [ ] 4 oz low fat provolone
+- [ ] 8 strips low sodium turkey bacon
+- [ ] 2 roma tomatoes
+- [ ] 1/4 cup Hidden Valley Buttermilk Light Ranch
 
 ## Directions
 1. In a large skillet over medium-high heat, spray with non-stick pan spray. Add chicken and season with salt and pepper. Cook until golden and no longer pink, 8 minutes per side. Let rest 5 minutes, then slice.

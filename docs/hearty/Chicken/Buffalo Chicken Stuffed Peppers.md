@@ -1,14 +1,14 @@
 # Buffalo Chicken Stuffed Peppers
 
 ## Ingredients
-* 12 ounces cooked chicken breasts, chopped or shredded 
-* 1/2 cup celery, chopped 
-* 1 cup reduced fat sharp cheddar cheese, divided 
-* 3 tbsp reduced fat cream cheese 
-* 1/4 cup Frank's hot sauce 
-* 1/4 cup light ranch dressing 
-* 4 bell peppers any color, each cut in half from stem to base, 
-* tops and seeds removed
+- [ ] 12 ounces cooked chicken breasts, chopped or shredded 
+- [ ] 1/2 cup celery, chopped 
+- [ ] 1 cup reduced fat sharp cheddar cheese, divided 
+- [ ] 3 tbsp reduced fat cream cheese 
+- [ ] 1/4 cup Frank's hot sauce 
+- [ ] 1/4 cup light ranch dressing 
+- [ ] 4 bell peppers any color, each cut in half from stem to base, 
+- [ ] tops and seeds removed
 
 ## Directions
 1. Preheat oven to 400 degrees.

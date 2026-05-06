@@ -9,15 +9,15 @@ Each serving provides:
 2 ½ condiments
 
 ## Ingredients
-* 8 cups cauliflower
-* 1 ½ cups marinara (less than 5 grams of carbohydrates per ¼ cup)
-* ¼ teaspoon salt
-* ½ teaspoon pepper
-* 2 ounces turkey pepperoni
-* 1 cup reduced-fat mozzarella
-* 1 tablespoon oregano
-* 1 tablespoon garlic powder
-* 1 teaspoon chili flakes
+- [ ] 8 cups cauliflower
+- [ ] 1 ½ cups marinara (less than 5 grams of carbohydrates per ¼ cup)
+- [ ] ¼ teaspoon salt
+- [ ] ½ teaspoon pepper
+- [ ] 2 ounces turkey pepperoni
+- [ ] 1 cup reduced-fat mozzarella
+- [ ] 1 tablespoon oregano
+- [ ] 1 tablespoon garlic powder
+- [ ] 1 teaspoon chili flakes
 
 ## Directions
 1. In a large bowl, combine cauliflower with marinara, garlic powder, oregano and chili flakes.

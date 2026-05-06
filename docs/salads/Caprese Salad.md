@@ -8,15 +8,15 @@ Per serving:⠀
 ⠀
 
 ## Ingredients
-* 4 oz fresh mozzarella between 3 to 6 g fat per oz, cubed⠀
-* 1 cup baby spinach⠀
-* 1 cup or 180g Roma or heirloom tomatoes, sliced⠀
-* 1/4 cup chopped fresh basil⠀
-* 1/8 tsp salt⠀
-* 1/8 tsp pepper⠀
-* 2 Tbsp Walden Farms Balsamic Vinaigrette Dressing⠀
+- [ ] 4 oz fresh mozzarella between 3 to 6 g fat per oz, cubed⠀
+- [ ] 1 cup baby spinach⠀
+- [ ] 1 cup or 180g Roma or heirloom tomatoes, sliced⠀
+- [ ] 1/4 cup chopped fresh basil⠀
+- [ ] 1/8 tsp salt⠀
+- [ ] 1/8 tsp pepper⠀
+- [ ] 2 Tbsp Walden Farms Balsamic Vinaigrette Dressing⠀
 
-* ⠀
+- [ ] ⠀
 
 ## Directions
 1. Place a bed of greens on a plate. 

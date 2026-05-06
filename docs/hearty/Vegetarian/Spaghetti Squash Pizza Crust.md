@@ -10,15 +10,15 @@ Per serving:
 ## Ingredients
 
 ### Crust
-* 4 cups of spaghetti squash that has been shredded in a food processor
-* 1 cup egg beaters
-* 1 heaping cup of mozzarella cheese
-* Italian seasoning if desired
+- [ ] 4 cups of spaghetti squash that has been shredded in a food processor
+- [ ] 1 cup egg beaters
+- [ ] 1 heaping cup of mozzarella cheese
+- [ ] Italian seasoning if desired
 
 ### Topping
-* 1 cup mozzarella 
-* 8-10 oz of meat depending on what you see
-* 2 cups of veggies (photo shows mushroom, red peppers, and few black olives and onions)
+- [ ] 1 cup mozzarella 
+- [ ] 8-10 oz of meat depending on what you see
+- [ ] 2 cups of veggies (photo shows mushroom, red peppers, and few black olives and onions)
 
 ## Directions
 1. Preheat oven to 400°F

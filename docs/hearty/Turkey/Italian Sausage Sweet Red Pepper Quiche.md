@@ -1,16 +1,16 @@
 # Italian Sausage Sweet Red Pepper Quiche
 
 ## Ingredients
-* 6 ounces cooked Jennie-O Sweet Italian turkey sausage links (1 Lean)
-* 4 eggs (1 1/2 Lean with 2 egg whites)
-* 2 egg whites
-* 1 1/2 cups sweet red bell pepper, chopped (3 Greens)
-* 1 cup unsweetened almond milk (1 Condiment)
-* 1 cup shredded 2% sharp cheddar cheese (1 Lean)
-* 1/4 tsp salt (1 Condiment)
-* 1/4 tsp pepper (1/2 Condiment)
-* 2 tbsp reduced fat grated parmesan cheese (1 Condiment)
-* 1 Lite Cali-flour Foods cauliflower crust (1/2 Lean, 3 Greens)
+- [ ] 6 ounces cooked Jennie-O Sweet Italian turkey sausage links (1 Lean)
+- [ ] 4 eggs (1 1/2 Lean with 2 egg whites)
+- [ ] 2 egg whites
+- [ ] 1 1/2 cups sweet red bell pepper, chopped (3 Greens)
+- [ ] 1 cup unsweetened almond milk (1 Condiment)
+- [ ] 1 cup shredded 2% sharp cheddar cheese (1 Lean)
+- [ ] 1/4 tsp salt (1 Condiment)
+- [ ] 1/4 tsp pepper (1/2 Condiment)
+- [ ] 2 tbsp reduced fat grated parmesan cheese (1 Condiment)
+- [ ] 1 Lite Cali-flour Foods cauliflower crust (1/2 Lean, 3 Greens)
 
 ## Directions
 1. Preheat oven to 350.

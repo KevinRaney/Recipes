@@ -6,19 +6,19 @@ Makes 6 servings
 Per serving: 1 leaner protein, 3 vegetables, 1 healthy fat, 3 condiments
 
 ## Ingredients
-* 27.2 oz boneless, skinless chicken breasts, cut into ½ inch cubes~ Yields 18 oz cooked (3 leaners)
-* 8 cups cauliflower florets (16 greens)
-* 2 tbsp olive oil (6 healthy fats)
-* 1 tsp salt (4 condiments)
-* 1 1/2 tsp ground pepper (3 condiments)
-* 1 1/2 tsp paprika (3 condiments)
-* 1 tbsp garlic powder (6 condiments)
-* 4 tbsp hot sauce or buffalo sauce (2 condiments)
+- [ ] 27.2 oz boneless, skinless chicken breasts, cut into ½ inch cubes~ Yields 18 oz cooked (3 leaners)
+- [ ] 8 cups cauliflower florets (16 greens)
+- [ ] 2 tbsp olive oil (6 healthy fats)
+- [ ] 1 tsp salt (4 condiments)
+- [ ] 1 1/2 tsp ground pepper (3 condiments)
+- [ ] 1 1/2 tsp paprika (3 condiments)
+- [ ] 1 tbsp garlic powder (6 condiments)
+- [ ] 4 tbsp hot sauce or buffalo sauce (2 condiments)
 
 ### Topping
-* 2 cups reduced fat Fiesta Blend cheese or a mix of cheddar and Monterey jack cheese (2 leans)
-* 5 oz Jennie-o Extra Lean turkey bacon, crumbled (1 lean)
-* 1 cup diced green onion (2 greens)
+- [ ] 2 cups reduced fat Fiesta Blend cheese or a mix of cheddar and Monterey jack cheese (2 leans)
+- [ ] 5 oz Jennie-o Extra Lean turkey bacon, crumbled (1 lean)
+- [ ] 1 cup diced green onion (2 greens)
 
 ## Directions
 1. Preheat oven to 400 degrees. In a large bowl mix together the olive oil, salt, pepper, paprika, garlic powder, and hot sauce. Add the cauliflower florets and stir to coat. Scoop the cauliflower into a 9X13 inch baking dish, leaving behind as much of the olive oil/hot sauce mix as possible.

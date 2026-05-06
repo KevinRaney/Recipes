@@ -10,15 +10,15 @@ Per serving:
 1 snack
 
 ## Ingredients
-* 12 oz cooked chicken tenderloins, grilled
-* 1/4 cup PB2 – Powdered Peanut Butter
-* 1/4 tsp garlic powder
-* 1/2 tsp ground ginger
-* 1 tbsp + 1.5 tsp lite soy sauce
-* 1 packet Splenda
-* 1 tbsp apple cider vinegar
-* Additional water
-* 1/4 tsp red pepper flakes
+- [ ] 12 oz cooked chicken tenderloins, grilled
+- [ ] 1/4 cup PB2 – Powdered Peanut Butter
+- [ ] 1/4 tsp garlic powder
+- [ ] 1/2 tsp ground ginger
+- [ ] 1 tbsp + 1.5 tsp lite soy sauce
+- [ ] 1 packet Splenda
+- [ ] 1 tbsp apple cider vinegar
+- [ ] Additional water
+- [ ] 1/4 tsp red pepper flakes
 
 ## Directions
 1. Combine all ingredients, except chicken in a small bowl

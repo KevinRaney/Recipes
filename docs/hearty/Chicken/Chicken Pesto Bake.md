@@ -8,12 +8,12 @@ Per serving
 1 fat
 
 ## Ingredients
-* 13.65 ounces boneless, skinless chicken breast ~Yields 9 oz cooked (1 1/2 leaner)
-* 1/4 tsp salt (1 condiment)
-* ¼ tsp pepper (1/2 condiment)
-* 4 teaspoons pesto (instructions below)
-* 1 cup (6.34 oz) tomato (2 greens)
-* ½ cup part-skim mozzarella (1/2 lean)
+- [ ] 13.65 ounces boneless, skinless chicken breast ~Yields 9 oz cooked (1 1/2 leaner)
+- [ ] 1/4 tsp salt (1 condiment)
+- [ ] ¼ tsp pepper (1/2 condiment)
+- [ ] 4 teaspoons pesto (instructions below)
+- [ ] 1 cup (6.34 oz) tomato (2 greens)
+- [ ] ½ cup part-skim mozzarella (1/2 lean)
 
 ## Directions
 1. Wash chicken and dry with a paper towel. Slice chicken breast horizontally to create 4 thinner cutlets. Season lightly with salt and fresh pepper.

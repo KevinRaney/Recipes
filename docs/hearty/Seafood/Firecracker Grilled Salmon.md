@@ -3,16 +3,16 @@
 Firecracker Grilled Salmon
 
 ## Ingredients
-* 1 tablespoon balsamic vinegar (3 condiments)
-* 2 tablespoons reduced-sodium soy sauce (2 condiments)
-* 1/2 cup (1.76 oz) green onion, thinly sliced (1 green)
-* 10 sprays olive oil spray (1 condiment)
-* 2 tablespoon walden farms maple syrup (1 condiment)
-* 1 garlic clove, minced (1 condiment)
-* 1 teaspoon ground ginger (1 condiment)
-* 1 teaspoon crushed red pepper flakes (2 condiments)
-* 1/4 teaspoon salt (1 condiment)
-* 4 8oz raw salmon fillets (4 leans)
+- [ ] 1 tablespoon balsamic vinegar (3 condiments)
+- [ ] 2 tablespoons reduced-sodium soy sauce (2 condiments)
+- [ ] 1/2 cup (1.76 oz) green onion, thinly sliced (1 green)
+- [ ] 10 sprays olive oil spray (1 condiment)
+- [ ] 2 tablespoon walden farms maple syrup (1 condiment)
+- [ ] 1 garlic clove, minced (1 condiment)
+- [ ] 1 teaspoon ground ginger (1 condiment)
+- [ ] 1 teaspoon crushed red pepper flakes (2 condiments)
+- [ ] 1/4 teaspoon salt (1 condiment)
+- [ ] 4 8oz raw salmon fillets (4 leans)
 
 ## Directions
 1. In a small bowl, combine the first 9 ingredients. Pour 1/4 cup marinade into a large resealable plastic bag. Add the salmon; seal bag and turn to coat. Refrigerate for as long as you want because I don't believe in hard and fast rules. Cover and refrigerate remaining marinade.

@@ -10,11 +10,11 @@ Per serving:
 Still need 1 lean and 1 green per serving
 
 ## Ingredients
-* 3 cups jicama peeled and cubed or you could slice them thin
-* 3 tbsp light Land O' Lakes Butter with Canola Oil, melted
-* 1/4 tsp apple pie spice
-* 1/4 tsp ground cinnamon
-* 3 packets stevia in the raw
+- [ ] 3 cups jicama peeled and cubed or you could slice them thin
+- [ ] 3 tbsp light Land O' Lakes Butter with Canola Oil, melted
+- [ ] 1/4 tsp apple pie spice
+- [ ] 1/4 tsp ground cinnamon
+- [ ] 3 packets stevia in the raw
 
 ## Toppings
 1. 1 tbsp. Walden Farms caramel syrup (1/2 Condiment)

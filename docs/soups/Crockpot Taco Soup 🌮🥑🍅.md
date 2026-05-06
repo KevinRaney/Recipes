@@ -3,13 +3,13 @@
 Crockpot Taco Soup 🌮🥑🍅
 
 ## Ingredients
-* 24 oz raw 95-97 % ground turkey~Yields 18 oz cooked (3 leaners)
-* 3 cups (25.38 oz) can Rotel Diced Tomatoes (6 greens)
-* 4 tbsp low fat cream cheese (2 healthy fats)
-* 1 tbsp taco seasoning (6 condiments)
-* 2 1/2 cups chicken stock (2 1/2 condiments)
-* 1/2 cup chopped cilantro (1/2 condiment)
-* 1 1/2 oz sliced Avocado (1 healthy fat)
+- [ ] 24 oz raw 95-97 % ground turkey~Yields 18 oz cooked (3 leaners)
+- [ ] 3 cups (25.38 oz) can Rotel Diced Tomatoes (6 greens)
+- [ ] 4 tbsp low fat cream cheese (2 healthy fats)
+- [ ] 1 tbsp taco seasoning (6 condiments)
+- [ ] 2 1/2 cups chicken stock (2 1/2 condiments)
+- [ ] 1/2 cup chopped cilantro (1/2 condiment)
+- [ ] 1 1/2 oz sliced Avocado (1 healthy fat)
 
 ## Directions
 

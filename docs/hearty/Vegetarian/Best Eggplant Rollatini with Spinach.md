@@ -5,14 +5,14 @@ Best Eggplant Rollatini with Spinach
 Serves: 5. Each serving provides ~1/2 lean protein, ~2 greens, and ~2 condiments.
 
 ## Ingredients
-* 3.5 cups eggplant (297 grams raw weight)
-* 1.5 cup Walden Farm’s Tomato & Basil Pasta Sauce
-* 1 egg
-* ½ cup part-skim ricotta cheese
-* ¼ cup grated Pecorino cheese
-* 1 cup cooked spinach
-* 1 garlic clove, minced
-* 1 cup shredded part-skim mozzarella cheese
+- [ ] 3.5 cups eggplant (297 grams raw weight)
+- [ ] 1.5 cup Walden Farm’s Tomato & Basil Pasta Sauce
+- [ ] 1 egg
+- [ ] ½ cup part-skim ricotta cheese
+- [ ] ¼ cup grated Pecorino cheese
+- [ ] 1 cup cooked spinach
+- [ ] 1 garlic clove, minced
+- [ ] 1 cup shredded part-skim mozzarella cheese
 
 ## Directions
 1. Cut the 2 ends off the eggplants. Cut the eggplants lengthwise, into 1/4-inch thick slices until you have a total of 10 slices about the same size. It's easiest to do this with a mandolin.

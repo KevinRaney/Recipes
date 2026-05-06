@@ -6,21 +6,21 @@ Yield:
 2 servings
 
 ## Ingredients
-* 3 cups cooked roasted spaghetti squash
-* 1 ½ pound ground turkey
-* ½ cup green spring onion, sliced
-* 1 clove garlic
-* 1/2 cup bell pepper (green would be ideal)
-* 2 cups low sodium canned diced tomato
-* 1 1/2 tsp chili powder
-* 1 tsp cumin
-* 1/4 cup chicken broth
-* 1 tsp red pepper flakes
-* 5-6 basil leaves
-* ¼ teaspoon Sea salt
-* 1 teaspoon oregano
-* 2 tablespoons Parmesan Cheese
-* ¾ cup low-fat Italian Blend Cheese
+- [ ] 3 cups cooked roasted spaghetti squash
+- [ ] 1 ½ pound ground turkey
+- [ ] ½ cup green spring onion, sliced
+- [ ] 1 clove garlic
+- [ ] 1/2 cup bell pepper (green would be ideal)
+- [ ] 2 cups low sodium canned diced tomato
+- [ ] 1 1/2 tsp chili powder
+- [ ] 1 tsp cumin
+- [ ] 1/4 cup chicken broth
+- [ ] 1 tsp red pepper flakes
+- [ ] 5-6 basil leaves
+- [ ] ¼ teaspoon Sea salt
+- [ ] 1 teaspoon oregano
+- [ ] 2 tablespoons Parmesan Cheese
+- [ ] ¾ cup low-fat Italian Blend Cheese
 
 ## Directions
 1. Sauce:

@@ -6,11 +6,11 @@ Makes 1 servings
 Per serving: 1 lean, 3 condiments
 
 ## Ingredients
-* 7 oz 95-97% (raw) lean ground beef
-* 2 tsp Horseradish
-* 5 sprays Non-stick cooking spray
-* 2 wedges Light Laughing Cow
-* Garlic & Herb Cheese
+- [ ] 7 oz 95-97% (raw) lean ground beef
+- [ ] 2 tsp Horseradish
+- [ ] 5 sprays Non-stick cooking spray
+- [ ] 2 wedges Light Laughing Cow
+- [ ] Garlic & Herb Cheese
 
 ## Directions
 1. Preheat the oven to 350 degrees F.

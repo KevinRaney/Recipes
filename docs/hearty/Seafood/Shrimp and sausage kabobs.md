@@ -12,15 +12,15 @@ Each serving provides
 ## Ingredients
 
 ### Kabobs
-* 4 oz. raw shrimp
-* 1 simple truth chicken sausage link
-* 1 teaspoon BBQ seasoning spice or dry rub
+- [ ] 4 oz. raw shrimp
+- [ ] 1 simple truth chicken sausage link
+- [ ] 1 teaspoon BBQ seasoning spice or dry rub
 
 ### Salad
-* 4 oz. raw broccoli florets
-* 1/3 cup fresh chopped red peppers
-* 2 1/2 tablespoons Bolthouse coleslaw dressing
-* 1/2 oz. almond slivers or slices
+- [ ] 4 oz. raw broccoli florets
+- [ ] 1/3 cup fresh chopped red peppers
+- [ ] 2 1/2 tablespoons Bolthouse coleslaw dressing
+- [ ] 1/2 oz. almond slivers or slices
 
 ## Directions
 1. Soak your bamboo skewers overnight to prevent burning while cooking.

@@ -7,14 +7,14 @@ Per serving
 3 Condiments
 
 ## Ingredients
-* 4 cups (10.52 oz) bell peppers~ Roughly 4 peppers (8 Greens)
-* 1 lb cooked 95-97% ground beef, uncooked (2 Leaner)
-* 1 1/2 cups (9.51 oz) frozen riced cauliflower, cooked* (3 Greens)
-* 1 tbsp taco seasoning (6 Condiments)
-* 2 tbsp salsa (2 Condiments)
-* 1/2 cup diced green chiles (1 Green)
-* 1/4 cup enchilada sauce (4 Condiments)
-* 2 cups (8 oz) reduced fat Mexican cheese (2 Lean)
+- [ ] 4 cups (10.52 oz) bell peppers~ Roughly 4 peppers (8 Greens)
+- [ ] 1 lb cooked 95-97% ground beef, uncooked (2 Leaner)
+- [ ] 1 1/2 cups (9.51 oz) frozen riced cauliflower, cooked* (3 Greens)
+- [ ] 1 tbsp taco seasoning (6 Condiments)
+- [ ] 2 tbsp salsa (2 Condiments)
+- [ ] 1/2 cup diced green chiles (1 Green)
+- [ ] 1/4 cup enchilada sauce (4 Condiments)
+- [ ] 2 cups (8 oz) reduced fat Mexican cheese (2 Lean)
 
 ## Directions
 1. Preheat oven to 350F.

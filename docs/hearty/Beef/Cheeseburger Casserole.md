@@ -8,18 +8,18 @@ Per serving
 3 condiments
 
 ## Ingredients 
-* 2 cups cauliflower florets
-* Non-stick pan spray
-* 1 1/2 cups leeks, finely chopped
-* 1 garlic clove, finely chopped
-* 1 ¼ lb lean ground beef (95% lean)
-* 1/2 tsp salt
-* 1/2 tsp black pepper
-* 2 tbsp tomato paste
-* 28 oz low sodium diced tomatoes
-* 4 teaspoons Dijon Mustard
-* 2 cups reduced-fat grated cheddar cheese
-* 1/4 cup chopped dill pickles
+- [ ] 2 cups cauliflower florets
+- [ ] Non-stick pan spray
+- [ ] 1 1/2 cups leeks, finely chopped
+- [ ] 1 garlic clove, finely chopped
+- [ ] 1 ¼ lb lean ground beef (95% lean)
+- [ ] 1/2 tsp salt
+- [ ] 1/2 tsp black pepper
+- [ ] 2 tbsp tomato paste
+- [ ] 28 oz low sodium diced tomatoes
+- [ ] 4 teaspoons Dijon Mustard
+- [ ] 2 cups reduced-fat grated cheddar cheese
+- [ ] 1/4 cup chopped dill pickles
 
 ## 
 

@@ -11,11 +11,11 @@ Per serving:
 3 Condiments
 
 ## Ingredients
-* 5 oz ground beef (93%), cooked
-* 1/2 cup Rotel tomatoes with some of the liquid
-* 1 cup raw zucchini, chopped
-* 2 tbsp salsa
-* 1/2 tsp taco seasoning mix
+- [ ] 5 oz ground beef (93%), cooked
+- [ ] 1/2 cup Rotel tomatoes with some of the liquid
+- [ ] 1 cup raw zucchini, chopped
+- [ ] 2 tbsp salsa
+- [ ] 1/2 tsp taco seasoning mix
 
 ## Directions
 1. Combine ground beef, Rotel tomatoes, Zucchini, salsa, and taco seasoning mix in a medium skillet.

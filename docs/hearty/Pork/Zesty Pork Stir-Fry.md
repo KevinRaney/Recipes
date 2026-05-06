@@ -9,12 +9,12 @@ Makes 2 servings, each serving is
 
 ## Ingredients
 
-* 15 oz raw pork tenderloin, trimmed of fat (should yield two 5-oz cooked servings)
-* 4 cups (1 medium head) bok choy stalks, leaves removed, chopped
-* 2 cups (18 medium) mushrooms, sliced
-* 2 tsp fresh ginger root, grated
-* 2 tsp olive oil
-* Non-stick cooking spray
+- [ ] 15 oz raw pork tenderloin, trimmed of fat (should yield two 5-oz cooked servings)
+- [ ] 4 cups (1 medium head) bok choy stalks, leaves removed, chopped
+- [ ] 2 cups (18 medium) mushrooms, sliced
+- [ ] 2 tsp fresh ginger root, grated
+- [ ] 2 tsp olive oil
+- [ ] Non-stick cooking spray
 
 ## Directions
 

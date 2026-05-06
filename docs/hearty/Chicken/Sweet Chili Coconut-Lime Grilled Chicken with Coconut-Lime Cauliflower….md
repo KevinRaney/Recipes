@@ -3,15 +3,15 @@
 Sweet Chili Coconut-Lime Grilled Chicken with Coconut-Lime Cauliflower Rice
 
 ## Ingredients
-* 3/4 cup unsweetened light coconut milk, divided (3 healthy fats)
-* 2 tsp Frank’s Red Hot sweet chili sauce (4 condiments)
-* 2 Tbs lime juice, divided (6 condiments)
-* ¼ tsp salt (1 condiment)
-* ½ tsp pepper (1 condiment)
-* 36.4 oz chicken breasts~Yields 28 oz cooked (4 leaners)
-* 6 cups (21.12 oz) riced cauliflower (12 greens)
-* 1 teaspoon canola oil (1 healthy fat)
-* 1/4 cup fresh cilantro, chopped
+- [ ] 3/4 cup unsweetened light coconut milk, divided (3 healthy fats)
+- [ ] 2 tsp Frank’s Red Hot sweet chili sauce (4 condiments)
+- [ ] 2 Tbs lime juice, divided (6 condiments)
+- [ ] ¼ tsp salt (1 condiment)
+- [ ] ½ tsp pepper (1 condiment)
+- [ ] 36.4 oz chicken breasts~Yields 28 oz cooked (4 leaners)
+- [ ] 6 cups (21.12 oz) riced cauliflower (12 greens)
+- [ ] 1 teaspoon canola oil (1 healthy fat)
+- [ ] 1/4 cup fresh cilantro, chopped
 
 ## Directions
 

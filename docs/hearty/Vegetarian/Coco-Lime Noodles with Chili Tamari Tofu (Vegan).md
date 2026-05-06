@@ -8,17 +8,17 @@ Per serving:
 1 Lean | 3 Greens | 3 Condiments | 1 Healthy Fat
 
 ## Ingredients
-* 2 kgs Shirataki noodles
-* 2 15 oz packs extra firm tofu ( cubed, drained, and pressed to remove liquid)
-* 1 tbsp slow sodium Tamari( also known as gluten-free soy sauce)
-* 1/4 tsp cayenne pepper
-* 1/2 tsp fresh ginger, minced
-* 1.8 oz scallions, chopped
-* 2.8 oz baby Bella mushrooms, sliced
-* 1/2 cup lite coconut milk ( canned variety)
-* Juice & zest of 1 lime
-* 1/4 tsp red pepper flakes
-* Sprinkling of salt
+- [ ] 2 kgs Shirataki noodles
+- [ ] 2 15 oz packs extra firm tofu ( cubed, drained, and pressed to remove liquid)
+- [ ] 1 tbsp slow sodium Tamari( also known as gluten-free soy sauce)
+- [ ] 1/4 tsp cayenne pepper
+- [ ] 1/2 tsp fresh ginger, minced
+- [ ] 1.8 oz scallions, chopped
+- [ ] 2.8 oz baby Bella mushrooms, sliced
+- [ ] 1/2 cup lite coconut milk ( canned variety)
+- [ ] Juice & zest of 1 lime
+- [ ] 1/4 tsp red pepper flakes
+- [ ] Sprinkling of salt
 
 ## Directions
 1. Preheat oven to 350°F

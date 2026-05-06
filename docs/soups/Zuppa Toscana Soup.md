@@ -2,17 +2,17 @@
 (an adaptation of Olive Garden’s soup)
 
 ## Ingredients
-* 4 slices turkey bacon
-* 1 ½ pound Italian chicken sausage
-* 4 cups cauliflower (cutting florets in half is necessary)
-* ½ cup scallions
-* 4 cloves garlic
-* 4 cups chicken stock
-* ¼ teaspoon salt
-* ¼ teaspoon pepper
-* 2 cups kale
-* 1 ½ cup reduced-fat plain Greek yogurt
-* 3 tablespoons Parmesan cheese
+- [ ] 4 slices turkey bacon
+- [ ] 1 ½ pound Italian chicken sausage
+- [ ] 4 cups cauliflower (cutting florets in half is necessary)
+- [ ] ½ cup scallions
+- [ ] 4 cloves garlic
+- [ ] 4 cups chicken stock
+- [ ] ¼ teaspoon salt
+- [ ] ¼ teaspoon pepper
+- [ ] 2 cups kale
+- [ ] 1 ½ cup reduced-fat plain Greek yogurt
+- [ ] 3 tablespoons Parmesan cheese
 
 ## Directions
 1. In a large pot, cook the turkey bacon until crispy. Drain any grease, set aside. 

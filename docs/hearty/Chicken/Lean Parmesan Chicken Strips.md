@@ -4,13 +4,13 @@ Lean Parmesan Chicken Strips
 
 ## Ingredients
 
-* 18 oz raw boneless, skinless Chicken Breasts
-* 1/4 cup reduced fat grated Parmesan Cheese
-* 1/2 teaspoon Italian Seasoning
-* 1/4 teaspoon Paprika
-* 1/4 tsp Garlic Salt
+- [ ] 18 oz raw boneless, skinless Chicken Breasts
+- [ ] 1/4 cup reduced fat grated Parmesan Cheese
+- [ ] 1/2 teaspoon Italian Seasoning
+- [ ] 1/4 teaspoon Paprika
+- [ ] 1/4 tsp Garlic Salt
 
-* Healthy Fat Dip options: 2 tbsp Light Buttermilk Ranch (Hidden Valley) or 1 tsbp light mayo with a tiny bit of Franks Hot sauce mixed in.
+- [ ] Healthy Fat Dip options: 2 tbsp Light Buttermilk Ranch (Hidden Valley) or 1 tsbp light mayo with a tiny bit of Franks Hot sauce mixed in.
 
 ## Directions
 

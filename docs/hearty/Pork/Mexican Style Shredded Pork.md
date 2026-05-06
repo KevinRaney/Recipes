@@ -3,14 +3,14 @@
 Mexican Style Shredded Pork
 
 ## Ingredients
-* 2 lb pork loin roast (4 Leans)
-* 1/2 tsp salt (2 Condiments)
-* 1/4 tsp pepper (1/2 Condiment)
-* 1/4 tsp garlic powder (1 Condiment)
-* 1/2 tsp chili powder - optional (1/2 Condiment)
-* 2 - 4 oz cans of green chilies (2 Greens)
-* 1/4 cup chipotle salsa (4 Condiments)
-* 1/2 cup water
+- [ ] 2 lb pork loin roast (4 Leans)
+- [ ] 1/2 tsp salt (2 Condiments)
+- [ ] 1/4 tsp pepper (1/2 Condiment)
+- [ ] 1/4 tsp garlic powder (1 Condiment)
+- [ ] 1/2 tsp chili powder - optional (1/2 Condiment)
+- [ ] 2 - 4 oz cans of green chilies (2 Greens)
+- [ ] 1/4 cup chipotle salsa (4 Condiments)
+- [ ] 1/2 cup water
 
 ## Directions
 1. Rinse pork loin and pat dry with a paper towel. Trim it of all visible fat (mine did not have much at all). Season with salt, pepper, chili powder and garlic powder on all sides. Place in the slow cooker.

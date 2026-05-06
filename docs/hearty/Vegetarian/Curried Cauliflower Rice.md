@@ -11,14 +11,14 @@ Per serving:
 1 fat
 
 ## Ingredients
-* 1 head of cauliflower to yield 2 cups of cauliflower "rice"
-* 2 teaspoons olive oil
-* ½ cup diced onion
-* 1 garlic clove, pressed
-* ½ teaspoon curry powder
-* ¼ teaspoon salt or to taste
-* ¼ cup green onions, optional garnish
-* ¼ cup cilantro, optional garnish
+- [ ] 1 head of cauliflower to yield 2 cups of cauliflower "rice"
+- [ ] 2 teaspoons olive oil
+- [ ] ½ cup diced onion
+- [ ] 1 garlic clove, pressed
+- [ ] ½ teaspoon curry powder
+- [ ] ¼ teaspoon salt or to taste
+- [ ] ¼ cup green onions, optional garnish
+- [ ] ¼ cup cilantro, optional garnish
 
 ## Directions
 1. Cut cauliflower florets from center stalk.

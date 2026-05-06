@@ -15,15 +15,15 @@ Per serving:
 You will have to add 4 total healthy fat servings to this recipe to make it a complete lean and green meal. (A suggestion from nutrition support would be to top with ¼ cup sour cream and 3 ounces of avocado!)
 
 ## Ingredients
-* 8 c raw spinach
-* 2 c reduced-fat Mexican cheese blend
-* 1 c egg beaters
-* 10 oz cooked and shredded chicken
-* 1 can diced tomatoes (Ro-Tel)
-* 1 jalapeño- diced
-* ¼ c each green, red, yellow
-* ¼ cup scallions, diced
-* 2 each la Costeña chopped chipotle peppers
+- [ ] 8 c raw spinach
+- [ ] 2 c reduced-fat Mexican cheese blend
+- [ ] 1 c egg beaters
+- [ ] 10 oz cooked and shredded chicken
+- [ ] 1 can diced tomatoes (Ro-Tel)
+- [ ] 1 jalapeño- diced
+- [ ] ¼ c each green, red, yellow
+- [ ] ¼ cup scallions, diced
+- [ ] 2 each la Costeña chopped chipotle peppers
 
 ## Directions
 

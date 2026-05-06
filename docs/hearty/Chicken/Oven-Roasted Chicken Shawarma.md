@@ -10,19 +10,19 @@ Each serving provides:
 3 condiments
 
 ## Ingredients
-* 2 tablespoons lemon juice
-* 4 teaspoons olive oil
-* 1 clove garlic, peeled, smashed and minced
-* ¼ teaspoon kosher salt
-* ½ teaspoons freshly ground black pepper
-* ½ teaspoons ground cumin
-* ½ teaspoons paprika
-* ½ teaspoon turmeric
-* ¼ tsp ground cinnamon
-* ¼ tsp Red pepper flakes, to taste
-* 36 ounces raw boneless, skinless chicken breasts
-* 1 cup scallions
-* 2 tablespoons chopped fresh parsley
+- [ ] 2 tablespoons lemon juice
+- [ ] 4 teaspoons olive oil
+- [ ] 1 clove garlic, peeled, smashed and minced
+- [ ] ¼ teaspoon kosher salt
+- [ ] ½ teaspoons freshly ground black pepper
+- [ ] ½ teaspoons ground cumin
+- [ ] ½ teaspoons paprika
+- [ ] ½ teaspoon turmeric
+- [ ] ¼ tsp ground cinnamon
+- [ ] ¼ tsp Red pepper flakes, to taste
+- [ ] 36 ounces raw boneless, skinless chicken breasts
+- [ ] 1 cup scallions
+- [ ] 2 tablespoons chopped fresh parsley
 
 ## Directions
 1. Prepare a marinade for the chicken. Combine the lemon juice, 3 tsp. olive oil, garlic, salt, pepper, cumin, paprika, turmeric, cinnamon and red pepper flakes in a large bowl, then whisk to combine. Add the chicken and toss well to coat. Cover and store in refrigerator for at least 1 hour and up to 12 hours.

@@ -9,19 +9,19 @@ Per serving
 ½ Optional Snack
 
 ## Ingredients
-* 2 ¼ pounds boneless - skinless chicken breasts (cut into 1 inch pieces)
-* 4 teaspoons almond flour
-* 2 teaspoons sesame oil
-* 3 tablespoons spring onions (chopped)
-* 2 cups diced red pepper
-* 1 cup of zucchini
-* 3 garlic cloves (minced)
-* ½ teaspoon crushed red pepper flakes
-* ½ teaspoon powdered ginger
-* 2 tablespoons rice wine vinegar
-* 2 tablespoons soy sauce
-* 2 teaspoons Splenda
-* 1/3 cup dry roasted peanuts
+- [ ] 2 ¼ pounds boneless - skinless chicken breasts (cut into 1 inch pieces)
+- [ ] 4 teaspoons almond flour
+- [ ] 2 teaspoons sesame oil
+- [ ] 3 tablespoons spring onions (chopped)
+- [ ] 2 cups diced red pepper
+- [ ] 1 cup of zucchini
+- [ ] 3 garlic cloves (minced)
+- [ ] ½ teaspoon crushed red pepper flakes
+- [ ] ½ teaspoon powdered ginger
+- [ ] 2 tablespoons rice wine vinegar
+- [ ] 2 tablespoons soy sauce
+- [ ] 2 teaspoons Splenda
+- [ ] 1/3 cup dry roasted peanuts
 
 ## Directions
 1. Combine chicken and almond flour in a small bowl and toss to coat.

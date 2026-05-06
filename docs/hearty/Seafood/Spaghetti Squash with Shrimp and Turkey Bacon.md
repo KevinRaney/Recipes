@@ -4,15 +4,15 @@ Spaghetti Squash with Shrimp and Turkey Bacon
 
 ## Ingredients
 
-* 1 tsp olive oil (1 Healthy Fat)
-* 1 tbsp light butter (1 Healthy Fat)
-* 1 tsp minced garlic (1 Condiment)
-* 8 oz raw shrimp, tails removed ~ should yield 6 oz cooked (1 Leanest with 1 oz subtracted)
-* 2 slices turkey bacon, cooked and crumbled (1 oz subtracted from shrimp)
-* 1 1/2 cups spaghetti squash, cooked (3 Greens)
-* 1/4 tsp garlic salt or salt (1 Condiment)
-* 1/8 tsp black pepper (1/4 Condiment)
-* 1 tbsp reduced fat parmesan cheese (1/2 Condiment)
+- [ ] 1 tsp olive oil (1 Healthy Fat)
+- [ ] 1 tbsp light butter (1 Healthy Fat)
+- [ ] 1 tsp minced garlic (1 Condiment)
+- [ ] 8 oz raw shrimp, tails removed ~ should yield 6 oz cooked (1 Leanest with 1 oz subtracted)
+- [ ] 2 slices turkey bacon, cooked and crumbled (1 oz subtracted from shrimp)
+- [ ] 1 1/2 cups spaghetti squash, cooked (3 Greens)
+- [ ] 1/4 tsp garlic salt or salt (1 Condiment)
+- [ ] 1/8 tsp black pepper (1/4 Condiment)
+- [ ] 1 tbsp reduced fat parmesan cheese (1/2 Condiment)
 
 ## Directions
 1. In a medium sized skillet over medium heat, add olive oil.

@@ -1,9 +1,9 @@
 # Teriyaki Tuna Kabobs
 
 ## Ingredients
-* 4 Ahi tuna steaks (10 ounces each), cut into 1-1/2-in. chunks (4 leanest)
-* 1 cup (5.26 oz) sweet red pepper, cut into 1-in. pieces (2 greens)
-* 1 cup (6.34 oz) large leeks, cut into 1-in. pieces (2 greens)
+- [ ] 4 Ahi tuna steaks (10 ounces each), cut into 1-1/2-in. chunks (4 leanest)
+- [ ] 1 cup (5.26 oz) sweet red pepper, cut into 1-in. pieces (2 greens)
+- [ ] 1 cup (6.34 oz) large leeks, cut into 1-in. pieces (2 greens)
 
 ## MARINADE/DRESSING:
 * 1/4 cup minced fresh cilantro

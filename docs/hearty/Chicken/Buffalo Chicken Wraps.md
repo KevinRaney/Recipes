@@ -3,16 +3,16 @@
 Buffalo Chicken Wraps
 
 ## Ingredients
-* 1 1/2 cups low-fat Greek yogurt (1 leaner)
-* 18 ounces cooked shredded chicken (3 leaners)
-* 1 cup (3.56 oz) chopped celery (2 greens)
-* 1 cup (5.26 oz) chopped bell pepper (2 greens)
-* 1 cup (1.94 oz) butter lettuce leaves (1 green)
-* 1/8 tsp Salt (1/2 condiment)
-* 1/4 tsp pepper (1/2 condiment)
-* 5 tbsp Frank's hot wings sauce (5 condiments)
-* 2 tbsp lite blue cheese crumbled / divided (2 Condiments)
-* 2 tsp ranch dressing powder (4 condiments)
+- [ ] 1 1/2 cups low-fat Greek yogurt (1 leaner)
+- [ ] 18 ounces cooked shredded chicken (3 leaners)
+- [ ] 1 cup (3.56 oz) chopped celery (2 greens)
+- [ ] 1 cup (5.26 oz) chopped bell pepper (2 greens)
+- [ ] 1 cup (1.94 oz) butter lettuce leaves (1 green)
+- [ ] 1/8 tsp Salt (1/2 condiment)
+- [ ] 1/4 tsp pepper (1/2 condiment)
+- [ ] 5 tbsp Frank's hot wings sauce (5 condiments)
+- [ ] 2 tbsp lite blue cheese crumbled / divided (2 Condiments)
+- [ ] 2 tsp ranch dressing powder (4 condiments)
 
 ## Directions
 1. In a large bowl add Greek yogurt, Frank's Sauce, 1/2 Blue Cheese, and ranch dressing powder. Mix well.

@@ -13,16 +13,16 @@ Per serving:
 3 condiments
 
 ## Ingredients
-* Non-stick pan spray
-* 1 cup chopped leeks or scallions
-* 2 tsp chili powder
-* 2 tsp cumin
-* 3 garlic cloves
-* 2 ¼ lbs chuck steak
-* 15 ounces canned low sodium diced tomato
-* 4 ounce can green chilies
-* 32 oz chicken broth
-* 1 cup cilantro
+- [ ] Non-stick pan spray
+- [ ] 1 cup chopped leeks or scallions
+- [ ] 2 tsp chili powder
+- [ ] 2 tsp cumin
+- [ ] 3 garlic cloves
+- [ ] 2 ¼ lbs chuck steak
+- [ ] 15 ounces canned low sodium diced tomato
+- [ ] 4 ounce can green chilies
+- [ ] 32 oz chicken broth
+- [ ] 1 cup cilantro
 
 ## Directions
 1. Sauté the leeks or scallions over medium heat. Stir in the chili powder and cumin. Add meat until brown. Add garlic and sauté one minute. Add remaining ingredients and bring to a boil and cover until meat is soft.

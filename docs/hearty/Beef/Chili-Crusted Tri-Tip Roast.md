@@ -4,15 +4,15 @@
 1 Lean | 3 Condiments.
 
 ## Ingredients
-* 1 beef tri-tip roast 32 ounces raw
-* ½ tsp salt
-* ½ tsp pepper
-* Rub:
-* 2 teaspoons chili powder
-* 2 teaspoons ground cumin
-* 1 teaspoon onion powder
-* 1/2 teaspoon garlic powder
-* 1/4 teaspoon pepper
+- [ ] 1 beef tri-tip roast 32 ounces raw
+- [ ] ½ tsp salt
+- [ ] ½ tsp pepper
+- [ ] Rub:
+- [ ] 2 teaspoons chili powder
+- [ ] 2 teaspoons ground cumin
+- [ ] 1 teaspoon onion powder
+- [ ] 1/2 teaspoon garlic powder
+- [ ] 1/4 teaspoon pepper
 
 ## Directions
 1. Heat oven to 425F. Combine rub ingredients in small bowl; press evenly onto all surfaces of beef roast.

@@ -10,15 +10,15 @@ Per serving:
 1 healthy fat
 
 ## Ingredients
-* 20 oz frozen cauliflower florets (about 4 cups)
-* 4 oz low-fat cream cheese, softened
-* 1 lb cooked chicken, shredded
-* ½ cup Salsa Verde
-* ½ tsp kosher salt
-* ⅛ tsp ground black pepper
-* 1 cup shredded sharp reduced-fat cheddar cheese
-* ¼ cup low-fat plain Greek yogurt
-* 1 Tbsp chopped fresh cilantro (optional)
+- [ ] 20 oz frozen cauliflower florets (about 4 cups)
+- [ ] 4 oz low-fat cream cheese, softened
+- [ ] 1 lb cooked chicken, shredded
+- [ ] ½ cup Salsa Verde
+- [ ] ½ tsp kosher salt
+- [ ] ⅛ tsp ground black pepper
+- [ ] 1 cup shredded sharp reduced-fat cheddar cheese
+- [ ] ¼ cup low-fat plain Greek yogurt
+- [ ] 1 Tbsp chopped fresh cilantro (optional)
 
 ## Directions
 1. Put your cauliflower in a microwave safe dish and cook for 10-12 minutes or until fork tender. Add the cream cheese and microwave for another 30 seconds. Stir.

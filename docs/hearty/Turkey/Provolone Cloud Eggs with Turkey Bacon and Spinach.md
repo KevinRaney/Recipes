@@ -1,13 +1,13 @@
 # Provolone Cloud Eggs with Turkey Bacon and Spinach
 
 ## Ingredients 
-* 8 eggs at room temperature
-* 2 oz. low-fat, shredded provolone
-* 6 pieces lean turkey bacon, diced
-* 12 oz. baby spinach
-* 2 cloves garlic, minced
-* ¼ tsp each or less: salt & pepper
-* Cooking spray
+- [ ] 8 eggs at room temperature
+- [ ] 2 oz. low-fat, shredded provolone
+- [ ] 6 pieces lean turkey bacon, diced
+- [ ] 12 oz. baby spinach
+- [ ] 2 cloves garlic, minced
+- [ ] ¼ tsp each or less: salt & pepper
+- [ ] Cooking spray
 
 ## Directions
 1. Pre-heat oven to 425⁰F. 

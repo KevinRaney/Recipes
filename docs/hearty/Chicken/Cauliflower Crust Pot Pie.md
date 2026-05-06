@@ -7,18 +7,18 @@ Each serving provides:
 3 condiments
 
 ## Ingredients
-* 4 cups Cauliflower
-* 3 tbsp reduced fat Parmesan cheese
-* 1 Egg
-* 1/2 cup cooked leeks
-* 1 1/2 cups Chicken broth
-* 1/4 cup Almond milk, unsweetened
-* 1.5 cup Mixed vegetables (use broccoli/cauliflower mix), frozen
-* 24 oz Chicken, cooked
-* 1 tsp Onion powder
-* 1/2 tsp Black pepper
-* 1/4 tsp Salt
-* 2 tbsp almond flour
+- [ ] 4 cups Cauliflower
+- [ ] 3 tbsp reduced fat Parmesan cheese
+- [ ] 1 Egg
+- [ ] 1/2 cup cooked leeks
+- [ ] 1 1/2 cups Chicken broth
+- [ ] 1/4 cup Almond milk, unsweetened
+- [ ] 1.5 cup Mixed vegetables (use broccoli/cauliflower mix), frozen
+- [ ] 24 oz Chicken, cooked
+- [ ] 1 tsp Onion powder
+- [ ] 1/2 tsp Black pepper
+- [ ] 1/4 tsp Salt
+- [ ] 2 tbsp almond flour
 
 ## Directions
 1. Preheat oven to 400 degrees F. Rice the cauliflower in a food processor and pulse until you achieve a rice-like consistency. Transfer cauliflower "rice" to a bowl and microwave for 5 minutes. Set aside and allow cauliflower to cool for approx 10 min.

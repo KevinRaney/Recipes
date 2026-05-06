@@ -9,15 +9,15 @@ Per serving:
 3 condiments
 
 ## Ingredients
-* 1 1/2 cup (6 oz) fresh zucchini
-* 1 cup part-skim ricotta
-* 1 egg
-* 1/4 c chopped fresh spinach
-* 3/4 cup (6 oz) low carbohydrate marinara sauce. 5 grams of carbohydrates or less per ½ cup)
+- [ ] 1 1/2 cup (6 oz) fresh zucchini
+- [ ] 1 cup part-skim ricotta
+- [ ] 1 egg
+- [ ] 1/4 c chopped fresh spinach
+- [ ] 3/4 cup (6 oz) low carbohydrate marinara sauce. 5 grams of carbohydrates or less per ½ cup)
 
 ### Toppings
-* 3/4 cup (3 oz) low-fat mozzarella
-* 2 T parmesan
+- [ ] 3/4 cup (3 oz) low-fat mozzarella
+- [ ] 2 T parmesan
 
 ## Directions
 1. Preheat the oven to 375°F.

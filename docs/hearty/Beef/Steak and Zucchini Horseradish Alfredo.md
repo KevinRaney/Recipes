@@ -4,15 +4,15 @@ Serves 4
 Per serving: 3 green, 1 lean, ~2.25 condiments
 
 ## Ingredients
-* 6 cups zucchini noodles (about 2 large zucchinis)
-* 1½ lbs raw skirt steak, thinly sliced
-* ¼ cup chicken or vegetable broth
-* ½ tsp potato starch
-* 1 cup unsweetened almond milk
-* 2 tsp horseradish
-* 1 tsp garlic powder
-* ½ tsp soy sauce
-* ¼ tsp each — salt & pepper
+- [ ] 6 cups zucchini noodles (about 2 large zucchinis)
+- [ ] 1½ lbs raw skirt steak, thinly sliced
+- [ ] ¼ cup chicken or vegetable broth
+- [ ] ½ tsp potato starch
+- [ ] 1 cup unsweetened almond milk
+- [ ] 2 tsp horseradish
+- [ ] 1 tsp garlic powder
+- [ ] ½ tsp soy sauce
+- [ ] ¼ tsp each — salt & pepper
 
 ## Directions
 1. Heat a cast iron skillet over high heat for 4-5 minutes. You want the pan to be really hot before you add the steak.

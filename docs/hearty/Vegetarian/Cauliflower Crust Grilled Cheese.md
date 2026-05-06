@@ -14,16 +14,16 @@ Per serving:
 
 ## Ingredients
 
-* Cauliflower crust “bread” slices
-* 10 sprays non-stick pan spray – divided use
-* 1 small head cauliflower, cut into small florets (should yield 3 cups of cauliflower rice)
-* 1 free-range organic egg, lightly beaten
-* ½ cup / 1.7 oz / 50 gr shredded part-skim mozzarella cheese
-* ½ teaspoon fine grain sea salt
-* ¼ teaspoon ground black pepper
-* Grilled cheese
-* 10 sprays non-stick pan spray
-* 1/2 cup / 2 oz / 85 gr low fat sharp cheddar cheese, grated/shredded, room temperature
+- [ ] Cauliflower crust “bread” slices
+- [ ] 10 sprays non-stick pan spray – divided use
+- [ ] 1 small head cauliflower, cut into small florets (should yield 3 cups of cauliflower rice)
+- [ ] 1 free-range organic egg, lightly beaten
+- [ ] ½ cup / 1.7 oz / 50 gr shredded part-skim mozzarella cheese
+- [ ] ½ teaspoon fine grain sea salt
+- [ ] ¼ teaspoon ground black pepper
+- [ ] Grilled cheese
+- [ ] 10 sprays non-stick pan spray
+- [ ] 1/2 cup / 2 oz / 85 gr low fat sharp cheddar cheese, grated/shredded, room temperature
 
 ## Directions
 

@@ -7,17 +7,17 @@
 1 Lean, 1 healthy fat, 3 green, ¾ condiment
 
 ## Ingredients
-* 3 poblano peppers
-* 1 ¼ pounds boneless, skinless chicken breast cut into bite sized pieces
-* 4 teaspoons olive oil
-* 1 cup sliced green spring onion
-* 1/2 tsp. dried guajillo chile (seeded and chopped fine) (optional)
-* 1/4 tsp. dried ancho chile powder (optional)
-* 1/4 tsp. chili powder (or 1/2 tsp. if guajillo and ancho were omitted)
-* 1/4 tsp garlic powder
-* 2 c. Ro-Tel tomatoes and green chilis-solids only
-* 1 c. chopped cilantro
-* 6 oz. low fat Monterrey Jack Cheese (grated)
+- [ ] 3 poblano peppers
+- [ ] 1 ¼ pounds boneless, skinless chicken breast cut into bite sized pieces
+- [ ] 4 teaspoons olive oil
+- [ ] 1 cup sliced green spring onion
+- [ ] 1/2 tsp. dried guajillo chile (seeded and chopped fine) (optional)
+- [ ] 1/4 tsp. dried ancho chile powder (optional)
+- [ ] 1/4 tsp. chili powder (or 1/2 tsp. if guajillo and ancho were omitted)
+- [ ] 1/4 tsp garlic powder
+- [ ] 2 c. Ro-Tel tomatoes and green chilis-solids only
+- [ ] 1 c. chopped cilantro
+- [ ] 6 oz. low fat Monterrey Jack Cheese (grated)
 
 ## Directions
 1. Preheat oven to 450 degrees.

@@ -3,16 +3,16 @@
 Margherita Cauliflower Crust Pizza
 
 ## Ingredients
-* 4 cups (19.02 oz) cooked Frozen Riced Cauliflower (6 greens)
-* 3 Large Eggs (1 lean)
-* 1/2 tsp Salt (2 condiments)
-* 1/2 tsp Pepper (1 condiment)
-* 1 1/3 cups (5.33 oz) Low fat Shredded Mozzarella (1 1/3 lean)
-* 10 1/4 sec sprays Canola Oil Spray (1 condiment)
-* 4 oz fresh mozzarella (2/3 leaner)
-* 1/2 cup Fresh Chopped Basil Leaves (1/2 condiment)
-* 1/2 cup (3.17 oz) sliced Roma Tomatoes (1 green)
-* 1/2 cup low carb marinara sauce (2 greens)
+- [ ] 4 cups (19.02 oz) cooked Frozen Riced Cauliflower (6 greens)
+- [ ] 3 Large Eggs (1 lean)
+- [ ] 1/2 tsp Salt (2 condiments)
+- [ ] 1/2 tsp Pepper (1 condiment)
+- [ ] 1 1/3 cups (5.33 oz) Low fat Shredded Mozzarella (1 1/3 lean)
+- [ ] 10 1/4 sec sprays Canola Oil Spray (1 condiment)
+- [ ] 4 oz fresh mozzarella (2/3 leaner)
+- [ ] 1/2 cup Fresh Chopped Basil Leaves (1/2 condiment)
+- [ ] 1/2 cup (3.17 oz) sliced Roma Tomatoes (1 green)
+- [ ] 1/2 cup low carb marinara sauce (2 greens)
 
 ## Directions
 

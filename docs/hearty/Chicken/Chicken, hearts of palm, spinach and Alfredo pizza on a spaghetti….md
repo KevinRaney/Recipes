@@ -9,16 +9,16 @@ Per serving: 1 Lean protein, 3 greens, 1 Condiment
 ## Ingredients
 
 ### Crust
-* 4 ½ cups cooked Spaghetti Squash
-* 3 Eggs
-* 8 oz. grated part-skim Mozzarella Cheese (About 2 Cups)
+- [ ] 4 ½ cups cooked Spaghetti Squash
+- [ ] 3 Eggs
+- [ ] 8 oz. grated part-skim Mozzarella Cheese (About 2 Cups)
 
 ### Topping
-* Non-stick cooking spray
-* 6 oz. cooked chicken (shredded or cut into small pieces)
-* 1 cup baby spinach
-* 1 cup sliced hearts of palm
-* 1 cup Walden Farms Alfredo Sauce
+- [ ] Non-stick cooking spray
+- [ ] 6 oz. cooked chicken (shredded or cut into small pieces)
+- [ ] 1 cup baby spinach
+- [ ] 1 cup sliced hearts of palm
+- [ ] 1 cup Walden Farms Alfredo Sauce
 
 ## Directions
 1. Preheat your oven to 375 degrees F. Lightly coat a large baking sheet with cooking spray. Set aside.

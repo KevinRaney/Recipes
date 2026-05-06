@@ -9,23 +9,23 @@ Per serving:
 3 Condiments
 
 ## Ingredients
-* 5 – 6 ounces cooked skinless chicken breast (30 oz total)
-* 5 Cups zucchini noodles
-* 2 Teaspoons lemon juice
-* 1 Tablespoon lemon zest
-* 2 ½ Tablespoons butter
-* 4 clove garlic
-* 1 Tablespoon Dijon mustard
-* ½ Teaspoon cayenne pepper
-* ¼ Teaspoon paprika
-* ¼ Cup chicken broth
-* 1 Tablespoon hot sauce
-* 2 Tablespoons fresh parsley
-* 1 Tablespoons chive
-* 2 Teaspoon fresh thyme
-* ¼ Teaspoon crushed red pepper
-* ¼ Teaspoon salt
-* ½ Teaspoon pepper
+- [ ] 5 – 6 ounces cooked skinless chicken breast (30 oz total)
+- [ ] 5 Cups zucchini noodles
+- [ ] 2 Teaspoons lemon juice
+- [ ] 1 Tablespoon lemon zest
+- [ ] 2 ½ Tablespoons butter
+- [ ] 4 clove garlic
+- [ ] 1 Tablespoon Dijon mustard
+- [ ] ½ Teaspoon cayenne pepper
+- [ ] ¼ Teaspoon paprika
+- [ ] ¼ Cup chicken broth
+- [ ] 1 Tablespoon hot sauce
+- [ ] 2 Tablespoons fresh parsley
+- [ ] 1 Tablespoons chive
+- [ ] 2 Teaspoon fresh thyme
+- [ ] ¼ Teaspoon crushed red pepper
+- [ ] ¼ Teaspoon salt
+- [ ] ½ Teaspoon pepper
 
 ## Directions
 1. In a large bowl or shallow plate, season and combine chicken strips with salt, and pepper. Set aside.

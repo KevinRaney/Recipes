@@ -5,18 +5,18 @@ Complete Lean & Green Meal: 1 leaner, 1 healthy fat, 3 green, 1 condiment
 Total Time: 60 minutes
 
 ## Ingredients
-* 5½ cups riced cauliflower
-* 2 eggs
-* 1 tbsp low-fat parmesan cheese
-* ¼ tsp salt, divided
-* 1 lb. boneless, skinless chicken breast, cut into very fine strips
-* 10 Kalamata olives, pitted and chopped
-* ½ tsp Italian seasoning
-* ¼ tsp ground black pepper
-* 1 cup reduced-fat, shredded mozzarella
-* ½ cup peeled, seeded, and grated cucumber
-* ½ cup low-fat plain Greek yogurt
-* ½ tsp crushed garlic
+- [ ] 5½ cups riced cauliflower
+- [ ] 2 eggs
+- [ ] 1 tbsp low-fat parmesan cheese
+- [ ] ¼ tsp salt, divided
+- [ ] 1 lb. boneless, skinless chicken breast, cut into very fine strips
+- [ ] 10 Kalamata olives, pitted and chopped
+- [ ] ½ tsp Italian seasoning
+- [ ] ¼ tsp ground black pepper
+- [ ] 1 cup reduced-fat, shredded mozzarella
+- [ ] ½ cup peeled, seeded, and grated cucumber
+- [ ] ½ cup low-fat plain Greek yogurt
+- [ ] ½ tsp crushed garlic
 
 ## Directions
 1. Spread the cauliflower “rice” on a baking sheet lined with parchment paper and bake at 425°F for 30 minutes until golden brown. Remove from the oven and allow to cool (keep oven on and save the parchment paper for later). In a kitchen or paper towel, squeeze the cauliflower to remove any excess moisture.

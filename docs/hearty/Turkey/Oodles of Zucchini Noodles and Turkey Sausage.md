@@ -11,12 +11,12 @@ Per serving:
 1 Condiment
 
 ## Ingredients
-* 18 ounces Jennie-O hot Italian turkey sausage
-* 1 1/2 cups zucchini into noodles
-* 1 1/2 cups peppers
-* 1 1/2 cup no salt added petite diced tomatoes
-* 1 1/2 tsp. Italian dried herbs
-* 1/2 tsp garlic salt
+- [ ] 18 ounces Jennie-O hot Italian turkey sausage
+- [ ] 1 1/2 cups zucchini into noodles
+- [ ] 1 1/2 cups peppers
+- [ ] 1 1/2 cup no salt added petite diced tomatoes
+- [ ] 1 1/2 tsp. Italian dried herbs
+- [ ] 1/2 tsp garlic salt
 
 ## Directions
 1. Cook sausage in a large frying pan

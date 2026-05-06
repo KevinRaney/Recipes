@@ -3,19 +3,19 @@
 ## Ingredients
 
 ### For Chicken
-* 6 to 7 oz raw chicken breasts - should yield 4.5 oz grilled (3/4 Lean)
-* 1/4 tsp Mrs Dash Southwest Chipotle Seasoning or seasoning of your choice (1 Condiment)
+- [ ] 6 to 7 oz raw chicken breasts - should yield 4.5 oz grilled (3/4 Lean)
+- [ ] 1/4 tsp Mrs Dash Southwest Chipotle Seasoning or seasoning of your choice (1 Condiment)
 
 ### For Squash
-* 3 cups spaghetti squash, cooked (6 Greens)
-* 1 tablespoon light butter, melted (1 Healthy Fat)
-* 1/2 tsp garlic powder (1 Condiment)
-* 1/2 teaspoon salt, or to taste (2 Condiments)
-* 1/8 tsp black pepper, to taste (1/4 Condiment)
-* 1 tbsp grated Parmesan cheese (1 Condiment)
-* 3/4 cup 2% Fage Total Greek yogurt (1/2 Lean)
-* 3 oz. cheddar, shredded and divided (3/4 Lean)
-* 1/4 tsp dried basil (1/2 Condiment) or green onion as garnish
+- [ ] 3 cups spaghetti squash, cooked (6 Greens)
+- [ ] 1 tablespoon light butter, melted (1 Healthy Fat)
+- [ ] 1/2 tsp garlic powder (1 Condiment)
+- [ ] 1/2 teaspoon salt, or to taste (2 Condiments)
+- [ ] 1/8 tsp black pepper, to taste (1/4 Condiment)
+- [ ] 1 tbsp grated Parmesan cheese (1 Condiment)
+- [ ] 3/4 cup 2% Fage Total Greek yogurt (1/2 Lean)
+- [ ] 3 oz. cheddar, shredded and divided (3/4 Lean)
+- [ ] 1/4 tsp dried basil (1/2 Condiment) or green onion as garnish
 
 ## Directions
 1. Poke holes on all sides of the spaghetti squash with a metal skewer or a fork. Microwave 7-10 min, depending on size. 

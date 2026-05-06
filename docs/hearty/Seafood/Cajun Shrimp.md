@@ -3,11 +3,11 @@
 Makes 2 Serving
 
 ## Ingredients
-* 14 oz cooked shrimp, thawed (2 Lean)
-* 1 teaspoon cajun seasoning (2 Condiments)
-* 1/4 teaspoon ground red pepper (1/2 Condiment)
-* 1 clove garlic, minced (1 Condiment)
-* 2 teaspoons olive oil (2 Healthy Fats)
+- [ ] 14 oz cooked shrimp, thawed (2 Lean)
+- [ ] 1 teaspoon cajun seasoning (2 Condiments)
+- [ ] 1/4 teaspoon ground red pepper (1/2 Condiment)
+- [ ] 1 clove garlic, minced (1 Condiment)
+- [ ] 2 teaspoons olive oil (2 Healthy Fats)
 
 ## Directions
 1. Sprinkle Cajun seasoning and ground red pepper over shrimp and toss to coat. 

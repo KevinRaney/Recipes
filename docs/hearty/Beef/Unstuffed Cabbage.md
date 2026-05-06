@@ -3,17 +3,17 @@
 Unstuffed Cabbage
 
 ## Ingredients
-* 25 oz 93% lean ground beef, cooked (5 Leans)
-* 1/2 tsp onion powder (1 Condiment)
-* 1/2 tsp garlic powder (1 Condiment)
-* 4 cups cabbage, chopped (8 Greens)
-* 2 (14.5 oz each) cans Great Value Italian diced tomatoes (7 Greens)
-* 1 tbsp. cider vinegar (1/4 Condiment)
-* 1/8 tsp ground cinnamon (1/4 Condiment)
-* 1/2 tsp ground black pepper (1 Condiment)
-* 1 tsp sea salt (4 Condiments)
-* 1 packet stevia - optional (1 Condiment)
-* 1/2 cup water
+- [ ] 25 oz 93% lean ground beef, cooked (5 Leans)
+- [ ] 1/2 tsp onion powder (1 Condiment)
+- [ ] 1/2 tsp garlic powder (1 Condiment)
+- [ ] 4 cups cabbage, chopped (8 Greens)
+- [ ] 2 (14.5 oz each) cans Great Value Italian diced tomatoes (7 Greens)
+- [ ] 1 tbsp. cider vinegar (1/4 Condiment)
+- [ ] 1/8 tsp ground cinnamon (1/4 Condiment)
+- [ ] 1/2 tsp ground black pepper (1 Condiment)
+- [ ] 1 tsp sea salt (4 Condiments)
+- [ ] 1 packet stevia - optional (1 Condiment)
+- [ ] 1/2 cup water
 
 ## Directions
 1. Combine cooked ground beef with cabbage, diced tomatoes, vinegar and water over medium high heat.

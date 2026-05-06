@@ -9,14 +9,14 @@ per serving:
 3 condiments
 
 ## Ingredients
-* 1 spaghetti squash – Use 3 ½ cups cooked squash
-* 10 ounces cooked shredded chicken breast
-* 1/2 cup green enchilada sauce
-* 1 green onion, thinly sliced
-* 4 ounce can diced green chilies
-* 1 tablespoon chopped cilantro (optional)
-* 1/4 cup cottage cheese blended smooth or greek yogurt
-* 1 cup shredded low fat sharp cheddar, mozzarella or Monterey Jack cheese
+- [ ] 1 spaghetti squash – Use 3 ½ cups cooked squash
+- [ ] 10 ounces cooked shredded chicken breast
+- [ ] 1/2 cup green enchilada sauce
+- [ ] 1 green onion, thinly sliced
+- [ ] 4 ounce can diced green chilies
+- [ ] 1 tablespoon chopped cilantro (optional)
+- [ ] 1/4 cup cottage cheese blended smooth or greek yogurt
+- [ ] 1 cup shredded low fat sharp cheddar, mozzarella or Monterey Jack cheese
 
 ## Directions
 

@@ -9,14 +9,14 @@ Per serving
 2 fats
 
 ## Ingredients
-* 20 ounces sashimi grade ahi tuna
-* ½ cup finely chopped green onion
-* 2 tbsp soy sauce
-* 1 tsp sesame oil
-* 1 tsp chili sauce or Sriracha
-* 1 tbsp sesame seeds
-* 4.5 oz avocado, diced
-* 3 cups mixed salad greens (or I like to use cabbage…3/4 cup)
+- [ ] 20 ounces sashimi grade ahi tuna
+- [ ] ½ cup finely chopped green onion
+- [ ] 2 tbsp soy sauce
+- [ ] 1 tsp sesame oil
+- [ ] 1 tsp chili sauce or Sriracha
+- [ ] 1 tbsp sesame seeds
+- [ ] 4.5 oz avocado, diced
+- [ ] 3 cups mixed salad greens (or I like to use cabbage…3/4 cup)
 
 ## Directions
 1. Cut the ahi tuna into small cubes and transfer them to a medium bowl.

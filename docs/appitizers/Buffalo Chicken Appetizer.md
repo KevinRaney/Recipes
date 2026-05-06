@@ -8,13 +8,13 @@ Per Serving:
 ½ Green
 
 ## Ingredients
-* ¼ Cup Frank’s hot sauce
-* 1 Tablespoon mayo
-* ¼ Teaspoon salt
-* ½ Teaspoon pepper
-* 12 ounces chicken breast
-* ½ Cup celery
-* ¼ Cup reduced fat blue cheese
+- [ ] ¼ Cup Frank’s hot sauce
+- [ ] 1 Tablespoon mayo
+- [ ] ¼ Teaspoon salt
+- [ ] ½ Teaspoon pepper
+- [ ] 12 ounces chicken breast
+- [ ] ½ Cup celery
+- [ ] ¼ Cup reduced fat blue cheese
 
 ## Directions 
 1. In a medium bowl, whisk together hot sauce and mayo and season with salt and pepper. 

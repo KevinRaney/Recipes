@@ -9,21 +9,21 @@ Per serving
 3 condiments
 
 ## Ingredients
-* 2.66 pounds beef stew chunks
-* ½ cup leeks
-* ¼ tsp red pepper flakes
-* 2 garlic cloves
-* 1 cup diced celery
-* 1 Tbs Worcestershire sauce
-* 1 tsp thyme
-* ½ tsp cayenne
-* ¼ tsp salt
-* ½ tsp pepper
-* 14 ounces low sodium canned diced tomato
-* 4 cups beef broth
-* 2 bay leaves
-* 2.33 pounds zucchini
-* ¼ cup parsley
+- [ ] 2.66 pounds beef stew chunks
+- [ ] ½ cup leeks
+- [ ] ¼ tsp red pepper flakes
+- [ ] 2 garlic cloves
+- [ ] 1 cup diced celery
+- [ ] 1 Tbs Worcestershire sauce
+- [ ] 1 tsp thyme
+- [ ] ½ tsp cayenne
+- [ ] ¼ tsp salt
+- [ ] ½ tsp pepper
+- [ ] 14 ounces low sodium canned diced tomato
+- [ ] 4 cups beef broth
+- [ ] 2 bay leaves
+- [ ] 2.33 pounds zucchini
+- [ ] ¼ cup parsley
 
 ## Directions
 1. 1.Place a large saucepan over medium heat. Add in the beef chunks and cook until browned. Remove from the saucepan and set aside in a bowl.

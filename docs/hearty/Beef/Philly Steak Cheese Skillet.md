@@ -5,18 +5,18 @@ Makes 5 servings
 3 Condiments
 
 ## Ingredients
-* 1 ½ pounds beef steak
-* ½ cup scallions 
-* 1 cup red pepper 
-* 1 cup green pepper 
-* 1 cup orange/yellow pepper 
-* 1 garlic clove 
-* 2 teaspoons ginger 
-* 1 tablespoon soy sauce 
-* 1 tablespoon Worcestershire sauce 
-* 3 teaspoons sriracha 
-* 3 tablespoons reduced sugar ketchup 
-* 1 ½ cups low fat provolone cheese 
+- [ ] 1 ½ pounds beef steak
+- [ ] ½ cup scallions 
+- [ ] 1 cup red pepper 
+- [ ] 1 cup green pepper 
+- [ ] 1 cup orange/yellow pepper 
+- [ ] 1 garlic clove 
+- [ ] 2 teaspoons ginger 
+- [ ] 1 tablespoon soy sauce 
+- [ ] 1 tablespoon Worcestershire sauce 
+- [ ] 3 teaspoons sriracha 
+- [ ] 3 tablespoons reduced sugar ketchup 
+- [ ] 1 ½ cups low fat provolone cheese 
 
 ## 
 

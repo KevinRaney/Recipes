@@ -9,22 +9,22 @@ Per serving:
 ## Ingredients
 
 ### Chicken
-* 2 lbs raw skinless chicken (once cooked = four 6oz servings)
-* ¼ cup fresh chopped cilantro
-* 4 cloves garlic
-* 1/2 tsp cumin
-* 1 tablespoon lime zest
-* 2 tablespoons lime juice
-* ¼ teaspoon salt
-* ½ teaspoon pepper
+- [ ] 2 lbs raw skinless chicken (once cooked = four 6oz servings)
+- [ ] ¼ cup fresh chopped cilantro
+- [ ] 4 cloves garlic
+- [ ] 1/2 tsp cumin
+- [ ] 1 tablespoon lime zest
+- [ ] 2 tablespoons lime juice
+- [ ] ¼ teaspoon salt
+- [ ] ½ teaspoon pepper
 
 ### Salsa
-* 1 cup tomatoes, chopped
-* 6 ounces avocado
-* 2 tablespoons chopped red onion
-* 1 tablespoon of lime juice
-* 1/4 tsp salt
-* 1/4 tsp pepper
+- [ ] 1 cup tomatoes, chopped
+- [ ] 6 ounces avocado
+- [ ] 2 tablespoons chopped red onion
+- [ ] 1 tablespoon of lime juice
+- [ ] 1/4 tsp salt
+- [ ] 1/4 tsp pepper
 
 ## Directions
 

@@ -3,17 +3,17 @@
 Spaghetti Squash Lasagna Casserole
 
 ## Ingredients
-* 14.24 oz Spaghetti Squash (8 Greens)
-* 8 oz part skim ricotta (1 Lean)
-* 8 oz reduced fat mozzarella cheese, divided (2 Leans)
-* 2 tbsp egg beaters
-* 2 tbsp grated parmesan cheese (2 Condiments)
-* 2 cups Italian diced tomatoes with less than 5 g of carbs per 1/2 cup, divided (4 Greens)
-* 1/4 tsp garlic powder (1/2 Condiment)
-* 1/8 tsp salt (1/2 Condiment)
-* 1/8 tsp pepper (1/4 Condiment)
-* 2 tsp olive oil (1 Healthy Fat)
-* 6 oz Jennie O Italian seasoned ground turkey, cooked or make your own seasoned meat (1 Lean)
+- [ ] 14.24 oz Spaghetti Squash (8 Greens)
+- [ ] 8 oz part skim ricotta (1 Lean)
+- [ ] 8 oz reduced fat mozzarella cheese, divided (2 Leans)
+- [ ] 2 tbsp egg beaters
+- [ ] 2 tbsp grated parmesan cheese (2 Condiments)
+- [ ] 2 cups Italian diced tomatoes with less than 5 g of carbs per 1/2 cup, divided (4 Greens)
+- [ ] 1/4 tsp garlic powder (1/2 Condiment)
+- [ ] 1/8 tsp salt (1/2 Condiment)
+- [ ] 1/8 tsp pepper (1/4 Condiment)
+- [ ] 2 tsp olive oil (1 Healthy Fat)
+- [ ] 6 oz Jennie O Italian seasoned ground turkey, cooked or make your own seasoned meat (1 Lean)
 
 ## Directions
 1. 1 Preheat oven to 400 degrees.

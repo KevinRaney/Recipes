@@ -3,12 +3,12 @@
 Makes 2 servings, each serving gives 2 leaners (6 ounces cooked chicken each), 3 condiments, and 1 healthy fat.
 
 ## Ingredients
-* 18 ounces raw boneless, skinless, chicken breast (equivalent to 12 ounces cooked)
-* 2 2/3 Tablespoons soy sauce
-* 2 tsp Splenda
-* 2 tsp vegetable oil
-* 1 garlic clove, chopped
-* 1 tsp lime zest
+- [ ] 18 ounces raw boneless, skinless, chicken breast (equivalent to 12 ounces cooked)
+- [ ] 2 2/3 Tablespoons soy sauce
+- [ ] 2 tsp Splenda
+- [ ] 2 tsp vegetable oil
+- [ ] 1 garlic clove, chopped
+- [ ] 1 tsp lime zest
 
 ## Directions
 1. In a shallow container, blend soy sauce, splenda, vegetable oil, lime juice, and garlic. Place chicken breast halves into the mixture and turn to coat. Cover and marinate in the refrigerator for at least 30 minutes.

@@ -13,14 +13,14 @@ Per serving:
 1 fat
 
 ## Ingredients
-* 3 teaspoons avocado or extra virgin olive oil
-* 3 Tbsps freshly squeezed lemon juice (I love lots of lemons! Adjust to your taste.)
-* 1.5 tsp freshly ground pepper
-* 1 Tbs lemon zest
-* 1 cup leeks, thinly sliced
-* 9 ounces raw chicken breasts(6oz cooked), cut into 1 1/2-inch cube
-* Non-stick Pam spray
-* 7 cups kale, ribs removed and sliced into strips
+- [ ] 3 teaspoons avocado or extra virgin olive oil
+- [ ] 3 Tbsps freshly squeezed lemon juice (I love lots of lemons! Adjust to your taste.)
+- [ ] 1.5 tsp freshly ground pepper
+- [ ] 1 Tbs lemon zest
+- [ ] 1 cup leeks, thinly sliced
+- [ ] 9 ounces raw chicken breasts(6oz cooked), cut into 1 1/2-inch cube
+- [ ] Non-stick Pam spray
+- [ ] 7 cups kale, ribs removed and sliced into strips
 
 ## Directions
 

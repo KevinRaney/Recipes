@@ -8,15 +8,15 @@ Per serving
 2 Condiments
 
 ## Ingredients
-* 5 cups cauliflower rice
-* 15 ounces cooked 85-94% lean ground beef
-* 2 cups Rao's marinara sauce
-* 1/2 cup sour cream
-* 1 1/2 cup 1% cottage cheese
-* 2 cups reduced fat shredded cheese
-* 1/2 cup green onion
-* 1/2 teaspoon salt
-* 1 teaspoon pepper
+- [ ] 5 cups cauliflower rice
+- [ ] 15 ounces cooked 85-94% lean ground beef
+- [ ] 2 cups Rao's marinara sauce
+- [ ] 1/2 cup sour cream
+- [ ] 1 1/2 cup 1% cottage cheese
+- [ ] 2 cups reduced fat shredded cheese
+- [ ] 1/2 cup green onion
+- [ ] 1/2 teaspoon salt
+- [ ] 1 teaspoon pepper
 
 ## Directions
 1. Preheat oven to 350.

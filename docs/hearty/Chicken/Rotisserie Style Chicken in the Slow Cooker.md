@@ -4,14 +4,14 @@ Rotisserie Style Chicken in the Slow Cooker
 4 Servings with 1 Lean and 2.3 Condiments per serving
 
 ## Ingredients
-* 4 lb whole chicken (4 Leans)
-* 1 tsp salt (4 Condiments)
-* 1 tsp paprika (2 Condiments)
-* 1/2 tsp onion powder (1 Condiment)
-* 1/2 tsp dried thyme leaves (1/2 Condiment)
-* 1/4 tsp cayenne pepper (1/2 Condiment)
-* 1/4 tsp black pepper (1/2 Condiment)
-* 1/2 tsp garlic powder (1 Condiment)
+- [ ] 4 lb whole chicken (4 Leans)
+- [ ] 1 tsp salt (4 Condiments)
+- [ ] 1 tsp paprika (2 Condiments)
+- [ ] 1/2 tsp onion powder (1 Condiment)
+- [ ] 1/2 tsp dried thyme leaves (1/2 Condiment)
+- [ ] 1/4 tsp cayenne pepper (1/2 Condiment)
+- [ ] 1/4 tsp black pepper (1/2 Condiment)
+- [ ] 1/2 tsp garlic powder (1 Condiment)
 
 ## Directions
 1. Wad three to four pieces of aluminum foil into 3 to 4 inch balls, and place them in the bottom of the slow cooker. Mix the spices together and season the chicken. Rub the seasoning under the skin of the breasts and place in the slow cooker on top of the crumpled aluminum foil. Set the slow cooker on Low for about 8 to 10 hours, or until the chicken is no longer pink and the juices run clear.The original directions state to cook the chicken on High for one hour and then low fr 8 to 10 hours but I just cooked it on Low for 9 hours. Remove skin and bones before eating. You can have 5 oz of dark meat (legs, thighs or wings) or 6 oz of white meat (breasts).

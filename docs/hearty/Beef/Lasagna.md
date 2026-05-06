@@ -9,11 +9,11 @@ Per serving:
 1.6 Condiments
 
 ## Ingredients
-* 10 oz cooked 93% ground beef
-* 1 cup canned Italian diced tomatoes
-* 1/4 tsp garlic powder
-* 1/8 tsp salt
-* 1/8 tsp pepper
+- [ ] 10 oz cooked 93% ground beef
+- [ ] 1 cup canned Italian diced tomatoes
+- [ ] 1/4 tsp garlic powder
+- [ ] 1/8 tsp salt
+- [ ] 1/8 tsp pepper
 
 ## Cheese Filling
 * 4 oz or 1/2 cup part-skim ricotta cheese

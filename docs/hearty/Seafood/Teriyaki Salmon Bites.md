@@ -15,14 +15,14 @@ Per Serving
 
 ## Ingredients
 
-* 20 oz. of Salmon Fillets raw or 7 oz. cooked
-* ¼ C. Scallions cut or 1.76 oz.
-* 3 Tbsp. Low Sodium Soy Sauce
-* 2 Tsp Fresh Ginger Root grated
-* ½ Tsp. Red Pepper Flakes
-* 1 Tsp. Garlic Powder
-* ½ Tbsp. Sesame Seeds
-* 1 Tsp. Olive Oil
+- [ ] 20 oz. of Salmon Fillets raw or 7 oz. cooked
+- [ ] ¼ C. Scallions cut or 1.76 oz.
+- [ ] 3 Tbsp. Low Sodium Soy Sauce
+- [ ] 2 Tsp Fresh Ginger Root grated
+- [ ] ½ Tsp. Red Pepper Flakes
+- [ ] 1 Tsp. Garlic Powder
+- [ ] ½ Tbsp. Sesame Seeds
+- [ ] 1 Tsp. Olive Oil
 
 ## Directions
 

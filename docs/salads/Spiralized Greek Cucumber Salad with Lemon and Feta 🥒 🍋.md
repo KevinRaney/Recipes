@@ -9,16 +9,16 @@ Per serving:
 3 condiments
 
 ## Ingredients
-* 1 cup English cucumber
-* 1/4 of green bell pepper, chopped
-* 1/4 cup grape tomatoes, halved
-* 5 pitted kalamata olives
-* 1 tbsp red onion, sliced
-* 2 tablespoons fresh lemon juice
-* 1 oz fresh feta, sliced thick
-* 1/2 tablespoon extra virgin olive oil
-* 1/8 teaspoon kosher salt and ¼ tsp freshly ground black pepper
-* 1/2 teaspoon fresh oregano leaves, minced
+- [ ] 1 cup English cucumber
+- [ ] 1/4 of green bell pepper, chopped
+- [ ] 1/4 cup grape tomatoes, halved
+- [ ] 5 pitted kalamata olives
+- [ ] 1 tbsp red onion, sliced
+- [ ] 2 tablespoons fresh lemon juice
+- [ ] 1 oz fresh feta, sliced thick
+- [ ] 1/2 tablespoon extra virgin olive oil
+- [ ] 1/8 teaspoon kosher salt and ¼ tsp freshly ground black pepper
+- [ ] 1/2 teaspoon fresh oregano leaves, minced
 
 ## Directions
 1. Place the cucumber in a large work bowl along with the bell pepper, tomatoes, olives, and red onion.

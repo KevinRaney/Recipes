@@ -18,10 +18,10 @@ Per serving:
 ## 
 
 ## Ingredients
-* 1 1/2 cup cooked cauliflower 
-* 2 Light Laughing Cow Cheese Wedges 
-* 1/16 tsp (half of 1/8 tsp) Salt 
-* 1/8 tsp pepper 
+- [ ] 1 1/2 cup cooked cauliflower 
+- [ ] 2 Light Laughing Cow Cheese Wedges 
+- [ ] 1/16 tsp (half of 1/8 tsp) Salt 
+- [ ] 1/8 tsp pepper 
 
 ## Directions
 1. Bring a pot of lightly salted water to a boil. 

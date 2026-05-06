@@ -10,16 +10,16 @@ Per serving:
 ½ ounce protein
 
 ## Ingredients
-* 1 medium spaghetti squash – use 2 1/2 cups cooked squash
-* 2 cups chopped scallions
-* 1 cup chopped baby Portobello mushrooms
-* 1 cup no sugar added marinara sauce
-* 1/2 cup water
-* 2 tablespoons extra-virgin olive oil + extra to coat pan
-* 1 teaspoon garlic powder
-* 1/2 teaspoon salt
-* 1/2 teaspoon pepper
-* 3 eggs, whisked
+- [ ] 1 medium spaghetti squash – use 2 1/2 cups cooked squash
+- [ ] 2 cups chopped scallions
+- [ ] 1 cup chopped baby Portobello mushrooms
+- [ ] 1 cup no sugar added marinara sauce
+- [ ] 1/2 cup water
+- [ ] 2 tablespoons extra-virgin olive oil + extra to coat pan
+- [ ] 1 teaspoon garlic powder
+- [ ] 1/2 teaspoon salt
+- [ ] 1/2 teaspoon pepper
+- [ ] 3 eggs, whisked
 
 ## Directions
 1. Preheat the oven to 400°F and grease an 8x8 casserole dish with olive oil.

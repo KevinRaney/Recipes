@@ -11,17 +11,17 @@ Per serving:
 1 vegetable serving
 
 ## Ingredients
-* 10 oz boneless, skinless pink salmon, drained
-* 2 tsp minced scallion (green and white parts)
-* 3/4 tsp lemon zest
-* 3 1/2 tsp plain Greek yogurt
-* 1 tsp Dijon mustard (divided)
-* 1/2 tsp white horseradish (divided)
-* 1 teaspoon wheat germ
-* 3 tbsp diced celery
-* 1/2 tsp capers, chopped
-* 1 teaspoon lemon juice
-* 2 cups baby arugula
+- [ ] 10 oz boneless, skinless pink salmon, drained
+- [ ] 2 tsp minced scallion (green and white parts)
+- [ ] 3/4 tsp lemon zest
+- [ ] 3 1/2 tsp plain Greek yogurt
+- [ ] 1 tsp Dijon mustard (divided)
+- [ ] 1/2 tsp white horseradish (divided)
+- [ ] 1 teaspoon wheat germ
+- [ ] 3 tbsp diced celery
+- [ ] 1/2 tsp capers, chopped
+- [ ] 1 teaspoon lemon juice
+- [ ] 2 cups baby arugula
 
 ## Directions
 

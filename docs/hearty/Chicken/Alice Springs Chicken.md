@@ -9,15 +9,15 @@ Per serving:
 1 Healthy Fat
 
 ## Ingredients
-* 7 oz raw chicken breasts (to yield 4.5 oz cooked)
-* 1 piece of turkey bacon
-* 1/4 cup mushrooms (this is after cooked measurement), sliced
-* 1/4 cup sliced green peppers
-* 1 tablespoon light butter (1 Healthy Fat)
-* 1 ounce or 1/4 cup reduced-fat cheddar cheese, shredded
-* 1/4 tsp garlic salt (1 Condiment)
-* 1/8 tsp pepper (1/4 Condiment)
-* 1 tbsp Smokin Joe Jones No Sugar Added BBQ Sauce
+- [ ] 7 oz raw chicken breasts (to yield 4.5 oz cooked)
+- [ ] 1 piece of turkey bacon
+- [ ] 1/4 cup mushrooms (this is after cooked measurement), sliced
+- [ ] 1/4 cup sliced green peppers
+- [ ] 1 tablespoon light butter (1 Healthy Fat)
+- [ ] 1 ounce or 1/4 cup reduced-fat cheddar cheese, shredded
+- [ ] 1/4 tsp garlic salt (1 Condiment)
+- [ ] 1/8 tsp pepper (1/4 Condiment)
+- [ ] 1 tbsp Smokin Joe Jones No Sugar Added BBQ Sauce
 
 ## Directions
 1. Season the chicken with garlic salt and pepper;

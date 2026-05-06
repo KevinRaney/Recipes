@@ -3,12 +3,12 @@
 Cream of Baked “Potato” Soup
 
 ## Ingredients
-* 1 1/2 cups cauliflower, fresh
-* 1 cup chicken broth
-* 1 wedge light laughing cow cheese ~ I used garlic and herb
-* 1 tbsp fresh chives, chopped
-* 2 tbsp reduced fat cheddar cheese
-* 1 tbsp of Turkey Bacon bits
+- [ ] 1 1/2 cups cauliflower, fresh
+- [ ] 1 cup chicken broth
+- [ ] 1 wedge light laughing cow cheese ~ I used garlic and herb
+- [ ] 1 tbsp fresh chives, chopped
+- [ ] 2 tbsp reduced fat cheddar cheese
+- [ ] 1 tbsp of Turkey Bacon bits
 
 ## Directions
 1. Add the cauliflower and broth to a medium sized pot. Bring to a boil. Reduce heat to a simmer, cover, and cook until the cauliflower is very soft and falling apart, about 15 minutes.

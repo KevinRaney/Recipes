@@ -10,14 +10,14 @@ Per serving:
 1/2 Healthy Fat
 
 ## Ingredients
-* 3 packets Splenda
-* 1 egg
-* 1 tbsp light butter, melted
-* 1 tsp lemon juice
-* 1/4 tsp vanilla extract
-* 1 cup cooked, shredded spaghetti squash
-* 1/4 tsp coconut extract - I didn't have any but I plan to add this next time and leave off the cinnamon
-* Dust of cinnamon
+- [ ] 3 packets Splenda
+- [ ] 1 egg
+- [ ] 1 tbsp light butter, melted
+- [ ] 1 tsp lemon juice
+- [ ] 1/4 tsp vanilla extract
+- [ ] 1 cup cooked, shredded spaghetti squash
+- [ ] 1/4 tsp coconut extract - I didn't have any but I plan to add this next time and leave off the cinnamon
+- [ ] Dust of cinnamon
 
 ## Directions
 1. Preheat oven to 350. 

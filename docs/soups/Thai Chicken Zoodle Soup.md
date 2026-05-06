@@ -4,33 +4,33 @@ Thai Chicken Zoodle Soup
 
 ## Ingredients
 
-* 1/2 Cup (1.76 oz) green onion - (1 green)
+- [ ] 1/2 Cup (1.76 oz) green onion - (1 green)
 
-* 2 cups (7.96 oz) spiralized zucchini - (4 greens)
+- [ ] 2 cups (7.96 oz) spiralized zucchini - (4 greens)
 
-* 1 cup (8.46 oz) canned fire roasted diced tomatoes - (2 greens)
+- [ ] 1 cup (8.46 oz) canned fire roasted diced tomatoes - (2 greens)
 
-* 1 cup (5.26 oz) yellow bell pepper - (2 greens)
+- [ ] 1 cup (5.26 oz) yellow bell pepper - (2 greens)
 
-* 1 cup (5.26 oz) orange bell pepper - (2 greens)
+- [ ] 1 cup (5.26 oz) orange bell pepper - (2 greens)
 
-* 1/2 cup (1.78 oz or 1.83 oz) celery or fresh bean sprouts - (1 green)
+- [ ] 1/2 cup (1.78 oz or 1.83 oz) celery or fresh bean sprouts - (1 green)
 
-* 4 tsp fresh ginger - (2 condiments)
+- [ ] 4 tsp fresh ginger - (2 condiments)
 
-* 1.5 tsp fresh garlic, minced - (1.5 condiments)
+- [ ] 1.5 tsp fresh garlic, minced - (1.5 condiments)
 
-* 3 cups chicken broth (3 t chicken boullion and 3 C water) - (3 condiments)
+- [ ] 3 cups chicken broth (3 t chicken boullion and 3 C water) - (3 condiments)
 
-* 1 tbsp lime juice - (1.5 condiments)
+- [ ] 1 tbsp lime juice - (1.5 condiments)
 
-* 4 tsp red curry paste - (4 condiments)
+- [ ] 4 tsp red curry paste - (4 condiments)
 
-* 24 oz chicken, cooked - (4 leaner)
+- [ ] 24 oz chicken, cooked - (4 leaner)
 
-* 3/4 C lite coconut milk - (3 healthy fats)
+- [ ] 3/4 C lite coconut milk - (3 healthy fats)
 
-* 1.5 tbsp avocado or 1 tsp olive oil - (1 healthy fat)
+- [ ] 1.5 tbsp avocado or 1 tsp olive oil - (1 healthy fat)
 
 ## Directions
 

@@ -9,13 +9,13 @@ Per serving
 1 fat
 
 ## Ingredients
-* 10 ounces shredded chicken
-* 1/2 tsp garlic powder
-* 1/2 tsp Italian seasoning
-* 1 cup low carbohydrate tomato sauce
-* 4 Tbs cream cheese
-* 1/2 cup low fat plain greek yogurt
-* 1/4 cup parmesan cheese
+- [ ] 10 ounces shredded chicken
+- [ ] 1/2 tsp garlic powder
+- [ ] 1/2 tsp Italian seasoning
+- [ ] 1 cup low carbohydrate tomato sauce
+- [ ] 4 Tbs cream cheese
+- [ ] 1/2 cup low fat plain greek yogurt
+- [ ] 1/4 cup parmesan cheese
 
 ## Directions
 1. Preheat oven to 350°.

@@ -15,18 +15,18 @@ per serving:
 ## Ingredients
 
 ### SQUASH
-* 1 ½ cups spaghetti squash
-* ¼ teaspoon salt
-* ½ teaspoon pepper
+- [ ] 1 ½ cups spaghetti squash
+- [ ] ¼ teaspoon salt
+- [ ] ½ teaspoon pepper
 
 ### FILLING
-* 2 cloves garlic, minced
-* ½ cup green onion, diced
-* 1 cup cherry tomato, halved
-* ¼ teaspoon salt
-* ½ teaspoon pepper
-* 8 oz. mini part-skim mozzarella ball (2 LEAN)
-* fresh basil, to garnish
+- [ ] 2 cloves garlic, minced
+- [ ] ½ cup green onion, diced
+- [ ] 1 cup cherry tomato, halved
+- [ ] ¼ teaspoon salt
+- [ ] ½ teaspoon pepper
+- [ ] 8 oz. mini part-skim mozzarella ball (2 LEAN)
+- [ ] fresh basil, to garnish
 
 ## Directions
 

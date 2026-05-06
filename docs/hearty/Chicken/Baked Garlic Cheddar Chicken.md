@@ -4,16 +4,16 @@ Per serving
 1 Leaner | 1 Healthy Fat | ~3 Condiments
 
 ## Ingredients
-* ¼ Cup butter
-* 4 clove garlic
-* ½ Cup almond flour
-* ½ Cup reduced fat parmesan cheese
-* 1 Cup reduced fat cheddar cheese
-* 1 Tablespoon dried parsley
-* ¼ Teaspoon dried oregano
-* ¼ Teaspoon black pepper
-* 1/8 Teaspoon salt
-* Eight – 5.2 ounce skinless chicken breast
+- [ ] ¼ Cup butter
+- [ ] 4 clove garlic
+- [ ] ½ Cup almond flour
+- [ ] ½ Cup reduced fat parmesan cheese
+- [ ] 1 Cup reduced fat cheddar cheese
+- [ ] 1 Tablespoon dried parsley
+- [ ] ¼ Teaspoon dried oregano
+- [ ] ¼ Teaspoon black pepper
+- [ ] 1/8 Teaspoon salt
+- [ ] Eight – 5.2 ounce skinless chicken breast
 
 ## Directions
 1. Preheat oven to 350° F. Grease a 13 x 9 inch baking dish.

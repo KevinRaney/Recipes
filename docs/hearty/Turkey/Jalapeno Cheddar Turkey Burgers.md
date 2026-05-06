@@ -9,14 +9,14 @@ Yield:
 3/4 Fat
 
 ## Ingredients
-* 28 oz lean turkey or beef
-* 2 tbsp minced onion 1/4 tsp salt
-* 1/2 tsp pepper
-* 4 tbsp low-fat cream cheese
-* 2 oz shredded cheddar cheese
-* 1/4 tsp garlic powder
-* 1 fresh jalapeño pepper, diced
-* 1 tbsp olive oil
+- [ ] 28 oz lean turkey or beef
+- [ ] 2 tbsp minced onion 1/4 tsp salt
+- [ ] 1/2 tsp pepper
+- [ ] 4 tbsp low-fat cream cheese
+- [ ] 2 oz shredded cheddar cheese
+- [ ] 1/4 tsp garlic powder
+- [ ] 1 fresh jalapeño pepper, diced
+- [ ] 1 tbsp olive oil
 
 ## Directions
 1. Preheat grill to medium or oven broil to high

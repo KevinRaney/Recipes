@@ -4,14 +4,14 @@ Broccoli and Cheese Stuffed Chicken 🥦🧀
 
 ## Ingredients
 
-- 1 cups chopped broccoli
-- 1/2 cup chopped tomatoes
-- 3 – 9 ounce boneless skinless chicken breasts
-- ½ teaspoon Mrs. Dash Garlic & Herb
-- 3 Tbsp shredded sharp cheddar cheese
-- 3 Tbsp fat-free cream cheese
-- 3 Tbsp ground flax seed
-- Spray oil (I used olive oil)
+- [ ] 1 cups chopped broccoli
+- [ ] 1/2 cup chopped tomatoes
+- [ ] 3 – 9 ounce boneless skinless chicken breasts
+- [ ] ½ teaspoon Mrs. Dash Garlic & Herb
+- [ ] 3 Tbsp shredded sharp cheddar cheese
+- [ ] 3 Tbsp fat-free cream cheese
+- [ ] 3 Tbsp ground flax seed
+- [ ] Spray oil (I used olive oil)
 
 ## Directions
 

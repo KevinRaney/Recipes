@@ -7,12 +7,12 @@ Per serving
 1 ½ condiments
 
 ## Ingredients
-* 1 lb lean ground beef
-* 1 large head of cauliflower 
-* 2 tbsp. almond flour
-* 1 1/2 cup unsweetened almond milk
-* 1 1/2 cups 2 % cheddar cheese, grated (divided)
-* ½ tsp seasoning salt
+- [ ] 1 lb lean ground beef
+- [ ] 1 large head of cauliflower 
+- [ ] 2 tbsp. almond flour
+- [ ] 1 1/2 cup unsweetened almond milk
+- [ ] 1 1/2 cups 2 % cheddar cheese, grated (divided)
+- [ ] ½ tsp seasoning salt
 
 ## Directions
 1. In a large skillet over medium heat, cook ground beef until browned. Drain any excess fat.

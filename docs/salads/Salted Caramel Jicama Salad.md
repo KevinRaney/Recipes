@@ -14,14 +14,14 @@ PER SERVING:
 Add a small steak and small salad, and you're good! ;) 
 
 ## Ingredients
-* 3 cups raw jicama, peeled and chopped (6 Greens)
-* 1 1/2 cups 2% plain Fage Greek yogurt (1 Lean)
-* 1/2 tsp vanilla extract (1/2 Condiment)
-* 1/2 tsp ground cinnamon (1 Condiment)
-* 1 packet stevia (1 Condiment)
-* 2 tbsp Walden Farms caramel syrup, divided (1 Condiment)
-* 1/2 tsp coarse sea salt (2 Condiment)
-* 28 walnut halves (4 Snacks)
+- [ ] 3 cups raw jicama, peeled and chopped (6 Greens)
+- [ ] 1 1/2 cups 2% plain Fage Greek yogurt (1 Lean)
+- [ ] 1/2 tsp vanilla extract (1/2 Condiment)
+- [ ] 1/2 tsp ground cinnamon (1 Condiment)
+- [ ] 1 packet stevia (1 Condiment)
+- [ ] 2 tbsp Walden Farms caramel syrup, divided (1 Condiment)
+- [ ] 1/2 tsp coarse sea salt (2 Condiment)
+- [ ] 28 walnut halves (4 Snacks)
 
 ## Directions
 

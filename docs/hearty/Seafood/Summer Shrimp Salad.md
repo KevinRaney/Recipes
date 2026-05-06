@@ -3,17 +3,17 @@
 Summer Shrimp Salad 
 
 ## Ingredients
-* 14 ounces jumbo cooked shrimp, peeled, deveined and chopped
-* 1 1/2 cup tomato, diced
-* 4 1/2 ounces avocado, diced
-* 1/4 cup jalapeno, seeds removed, diced fine
-* 1/4 cup chopped green onion
-* 2 tablespoons lime juice
-* 1 tsp olive oil
-* 1 tbsp chopped cilantro
-* 1/8 teaspoon salt
-* ¼ teaspoon fresh pepper to taste
-* 1 cup chopped cucumber
+- [ ] 14 ounces jumbo cooked shrimp, peeled, deveined and chopped
+- [ ] 1 1/2 cup tomato, diced
+- [ ] 4 1/2 ounces avocado, diced
+- [ ] 1/4 cup jalapeno, seeds removed, diced fine
+- [ ] 1/4 cup chopped green onion
+- [ ] 2 tablespoons lime juice
+- [ ] 1 tsp olive oil
+- [ ] 1 tbsp chopped cilantro
+- [ ] 1/8 teaspoon salt
+- [ ] ¼ teaspoon fresh pepper to taste
+- [ ] 1 cup chopped cucumber
 
 ## Directions
 1. In a small bowl combine green onion, lime juice, olive oil, pinch of salt and pepper. Let them marinate at least 5 minutes to mellow the flavor of the onion.

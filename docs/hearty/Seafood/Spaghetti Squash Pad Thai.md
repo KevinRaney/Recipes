@@ -3,19 +3,19 @@
 Spaghetti Squash Pad Thai 
 
 ## Ingredients
-* 3 1/2 cups spaghetti squash, cooked (7 Greens)
-* 1 cup cabbage, shredded (2 Greens)
-* 1/4 cup reduced sodium broth (1/4 Condiment)
-* 4 tbsp Powdered Peanut Butter (2 Snacks)
-* 1 tbsp rice wine vinegar (1/2 Condiment)
-* 2 tbsp light soy sauce (3 Condiments)
-* 1/8 tsp red cayenne pepper (1/4 Condiment)
-* 1/4 tsp ground ginger (1/2 Condiment)
-* 1/2 tsp garlic powder (1 Condiment)
+- [ ] 3 1/2 cups spaghetti squash, cooked (7 Greens)
+- [ ] 1 cup cabbage, shredded (2 Greens)
+- [ ] 1/4 cup reduced sodium broth (1/4 Condiment)
+- [ ] 4 tbsp Powdered Peanut Butter (2 Snacks)
+- [ ] 1 tbsp rice wine vinegar (1/2 Condiment)
+- [ ] 2 tbsp light soy sauce (3 Condiments)
+- [ ] 1/8 tsp red cayenne pepper (1/4 Condiment)
+- [ ] 1/4 tsp ground ginger (1/2 Condiment)
+- [ ] 1/2 tsp garlic powder (1 Condiment)
 
 ### Garnishes
-* 2 tbsp dry roasted peanuts, chopped, optional (1 Snack)
-* A few sprigs of Cilantro, chopped
+- [ ] 2 tbsp dry roasted peanuts, chopped, optional (1 Snack)
+- [ ] A few sprigs of Cilantro, chopped
 
 ## Directions
 1. In a small bowl, combine broth, powdered Peanut Butter, rice wine vinegar, soy sauce, red cayenne pepper, ground ginger, and garlic powder.

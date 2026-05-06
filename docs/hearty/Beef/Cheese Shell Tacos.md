@@ -13,15 +13,15 @@ Per Serving:
 Just need to add some greens to this one!  
 
 ## Ingredients
-* 3 cups of freshly shredded low-fat cheddar cheese
+- [ ] 3 cups of freshly shredded low-fat cheddar cheese
 
 ### For the beef taco filling
-* 1 1/4 pound ground beef
-* 1/2 cup onion, diced
-* 3 garlic cloves, chopped
-* 1 jalapeno, seeded and diced
-* 3 tsp taco seasoning
-* 1/3 cup of water (if needed)
+- [ ] 1 1/4 pound ground beef
+- [ ] 1/2 cup onion, diced
+- [ ] 3 garlic cloves, chopped
+- [ ] 1 jalapeno, seeded and diced
+- [ ] 3 tsp taco seasoning
+- [ ] 1/3 cup of water (if needed)
 
 ## Directions
 1. Preheat your oven to 350°F.

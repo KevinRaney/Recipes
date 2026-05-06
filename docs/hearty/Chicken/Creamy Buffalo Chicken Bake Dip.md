@@ -10,13 +10,13 @@ Per serving:
 1 Healthy Fat
 
 ## Ingredients
-* 14 oz Chicken breast
-* 2 oz 2% reduced-fat cheese grated
-* 1/4 cup franks hot wing sauce
-* 1/4 cup light hidden valley ranch
-* 2 tbsp reduced-fat cream cheese
-* 1 1/2 cups celery cut into sticks
-* 1 1/2 cups sliced bell peppers
+- [ ] 14 oz Chicken breast
+- [ ] 2 oz 2% reduced-fat cheese grated
+- [ ] 1/4 cup franks hot wing sauce
+- [ ] 1/4 cup light hidden valley ranch
+- [ ] 2 tbsp reduced-fat cream cheese
+- [ ] 1 1/2 cups celery cut into sticks
+- [ ] 1 1/2 cups sliced bell peppers
 
 ## Directions
 1. Preheat oven to 350°.

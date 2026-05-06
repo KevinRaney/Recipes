@@ -9,15 +9,15 @@ Per serving:
 1-3/4Condiments
 
 ## Ingredients
-* 4 oz cheese, ricotta, part-skim
-* 2 tbsp egg substitute, egg beaters
-* 6 oz cheese, mozzarella, reduced fat
-* 1 1/2 cup tomatoes, crushed, canned
-* 10 oz beef, ground, 95-97% lean
-* 3 tbsp parmesan cheese
-* 1/4 tsp ground black pepper
-* 1/2 tsp garlic salt
-* 1/2 tsp Italian seasonings
+- [ ] 4 oz cheese, ricotta, part-skim
+- [ ] 2 tbsp egg substitute, egg beaters
+- [ ] 6 oz cheese, mozzarella, reduced fat
+- [ ] 1 1/2 cup tomatoes, crushed, canned
+- [ ] 10 oz beef, ground, 95-97% lean
+- [ ] 3 tbsp parmesan cheese
+- [ ] 1/4 tsp ground black pepper
+- [ ] 1/2 tsp garlic salt
+- [ ] 1/2 tsp Italian seasonings
 
 ## Directions
 1. Preheat oven to 350°.

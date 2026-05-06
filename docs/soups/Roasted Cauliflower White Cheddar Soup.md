@@ -13,20 +13,20 @@ Per serving:
 
 ## Ingredients
 
-* 1 large head cauliflower (2 ½ lbs) cored and chopped into small, bite-size pieces
-* 2 Tbsp olive oil
-* ¼ tsp salt
-* ½ tsp freshly ground black pepper
-* 1 cup finely chopped green spring onion
-* 3 tbsp almond flour
-* 1 (14 oz) can low-sodium chicken broth
-* ½ cup low fat plain greek yogurt
-* 1 tsp dried parsley or 1 tbsp chopped fresh
-* ¼ tsp (slightly heaping) dried thyme or 1 tsp chopped fresh
-* 1 bay leaf
-* 1 pct Stevia or Splenda
-* 4 oz shredded sharp white cheddar cheese, shredded
-* 1 oz finely grated parmesan cheese
+- [ ] 1 large head cauliflower (2 ½ lbs) cored and chopped into small, bite-size pieces
+- [ ] 2 Tbsp olive oil
+- [ ] ¼ tsp salt
+- [ ] ½ tsp freshly ground black pepper
+- [ ] 1 cup finely chopped green spring onion
+- [ ] 3 tbsp almond flour
+- [ ] 1 (14 oz) can low-sodium chicken broth
+- [ ] ½ cup low fat plain greek yogurt
+- [ ] 1 tsp dried parsley or 1 tbsp chopped fresh
+- [ ] ¼ tsp (slightly heaping) dried thyme or 1 tsp chopped fresh
+- [ ] 1 bay leaf
+- [ ] 1 pct Stevia or Splenda
+- [ ] 4 oz shredded sharp white cheddar cheese, shredded
+- [ ] 1 oz finely grated parmesan cheese
 
 ## Directions
 

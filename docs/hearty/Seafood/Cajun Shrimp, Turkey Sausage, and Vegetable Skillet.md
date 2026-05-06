@@ -10,16 +10,16 @@ Per Serving:
 1 Healthy Fat
 
 ## Ingredients
-* 28 ounces cooked shrimp
-* 12 ounces Jennie-o turkey sausage
-* 3 Cups zucchini
-* 3 Cups yellow squash
-* 1 Cup asparagus
-* 2 Cups red bell pepper
-* ¼ Teaspoon salt
-* ½ Teaspoon pepper
-* 2 Tablespoons olive oil
-* 2 Tablespoon Cajun seasoning
+- [ ] 28 ounces cooked shrimp
+- [ ] 12 ounces Jennie-o turkey sausage
+- [ ] 3 Cups zucchini
+- [ ] 3 Cups yellow squash
+- [ ] 1 Cup asparagus
+- [ ] 2 Cups red bell pepper
+- [ ] ¼ Teaspoon salt
+- [ ] ½ Teaspoon pepper
+- [ ] 2 Tablespoons olive oil
+- [ ] 2 Tablespoon Cajun seasoning
 
 ## Directions
 1. In a large bowl add the shrimp, sausage, zucchini, yellow squash, asparagus, bell pepper, and salt, and pepper. 

@@ -8,13 +8,13 @@ Each serving provides:
 2 condiments
 
 ## Ingredients
-* 2-9 ounce chicken breasts, boneless skinless
-* ¼ cup mozzarella cheese
-* ¼ cup Monterey/cheddar blend cheese
-* 4 slices Jennie-O Extra Lean turkey bacon
-* ½ tsp garlic powder
-* ½ tsp onion powder
-* ¼ cup sugar-free BBQ sauce
+- [ ] 2-9 ounce chicken breasts, boneless skinless
+- [ ] ¼ cup mozzarella cheese
+- [ ] ¼ cup Monterey/cheddar blend cheese
+- [ ] 4 slices Jennie-O Extra Lean turkey bacon
+- [ ] ½ tsp garlic powder
+- [ ] ½ tsp onion powder
+- [ ] ¼ cup sugar-free BBQ sauce
 
 ## Directions
 1. Before we start grilling, cut turkey bacon in medium dice and cook it in a skillet over medium-low heat until crispy. Set aside. Season chicken breasts with salt, pepper, and the dried spices.

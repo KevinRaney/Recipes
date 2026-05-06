@@ -11,12 +11,12 @@ per serving:
 1 Condiment
 
 ## Ingredients
-* 18 oz boneless, skinless chicken breast-should yield 12 oz cooked
-* 1-2 tsp seasoning for tacos- I used 2 tsp original recipe uses 1 tsp
-* salt (optional)
-* 1/2 cup enchilada sauce (make sure it has less than 5g carbs per serving)
-* 4 oz 2% reduced fay Mexican cheese, shredded
-* 1/2 cup green onions, chopped
+- [ ] 18 oz boneless, skinless chicken breast-should yield 12 oz cooked
+- [ ] 1-2 tsp seasoning for tacos- I used 2 tsp original recipe uses 1 tsp
+- [ ] salt (optional)
+- [ ] 1/2 cup enchilada sauce (make sure it has less than 5g carbs per serving)
+- [ ] 4 oz 2% reduced fay Mexican cheese, shredded
+- [ ] 1/2 cup green onions, chopped
 
 ## Directions
 1. Sprinkle the chicken on both sides with taco seasoning: grill or saute

@@ -10,19 +10,19 @@ Per serving
 1 fat
 
 ## Ingredients
-* 1 Tbs olive oil
-* 1/2 cup leeks, chopped
-* 2 garlic cloves (to taste), minced
-* 36 ounces of boneless, skinless chicken breasts
-* 2 tablespoons red wine vinegar
-* 1 28-ounce can low sodium chopped tomatoes, with juice, pulsed in a food processor
-* ½ teaspoon cinnamon
-* ¼ tsp Salt
-* ½ tsp freshly ground pepper
-* ½ teaspoon dried thyme, or 1 teaspoon fresh thyme leaves
-* 2 cups cauliflower, broken into florets, and sliced about 1/2 inch thick
-* 12 kalamata olives (about 45 grams), rinsed, pitted and cut in half (optional)
-* 1 to 2 tablespoons chopped flat-leaf parsley
+- [ ] 1 Tbs olive oil
+- [ ] 1/2 cup leeks, chopped
+- [ ] 2 garlic cloves (to taste), minced
+- [ ] 36 ounces of boneless, skinless chicken breasts
+- [ ] 2 tablespoons red wine vinegar
+- [ ] 1 28-ounce can low sodium chopped tomatoes, with juice, pulsed in a food processor
+- [ ] ½ teaspoon cinnamon
+- [ ] ¼ tsp Salt
+- [ ] ½ tsp freshly ground pepper
+- [ ] ½ teaspoon dried thyme, or 1 teaspoon fresh thyme leaves
+- [ ] 2 cups cauliflower, broken into florets, and sliced about 1/2 inch thick
+- [ ] 12 kalamata olives (about 45 grams), rinsed, pitted and cut in half (optional)
+- [ ] 1 to 2 tablespoons chopped flat-leaf parsley
 
 ## Directions
 1. Heat 1/2 tablespoon of the oil over medium-high heat in a large, deep, heavy lidded skillet or casserole and brown the chicken, in batches if necessary, about 5 minutes on each side. Remove the pieces to a plate or bowl as they’re browned. Pour off the fat from the pan. Add the vinegar to the pan and scrape up all the bits from the bottom of the pan.

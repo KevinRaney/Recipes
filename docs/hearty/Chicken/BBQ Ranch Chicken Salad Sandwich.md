@@ -8,11 +8,11 @@ Yield: 1 Serving
 Per Serving: 1 Lean, 1 healthy fat, 2.4 Condiments
 
 ## Ingredients
-* 2 Revolution Rolls
-* 3oz chicken breast, grilled and cut into chunks
-* 0.66 ounces of 2% reduced-fat cheddar cheese, shredded
-* 1 tbsp No Sugar Added BBQ Sauce
-* 2 tbsp Light Hidden Valley Ranch Dressing
+- [ ] 2 Revolution Rolls
+- [ ] 3oz chicken breast, grilled and cut into chunks
+- [ ] 0.66 ounces of 2% reduced-fat cheddar cheese, shredded
+- [ ] 1 tbsp No Sugar Added BBQ Sauce
+- [ ] 2 tbsp Light Hidden Valley Ranch Dressing
 
 ## Directions
 1. Combine BBQ sauce, ranching dressing, and cheese to chicken and stir until blended. Serve on two revolution rolls.

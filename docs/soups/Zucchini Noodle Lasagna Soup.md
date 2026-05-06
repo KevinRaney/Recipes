@@ -2,19 +2,19 @@
 Makes 3 servings:
 
 ## Ingredients
-* 1 lb Morningstar Farms Crumbles
-* 3 Garlic cloves, fresh
-* 1 Green bell pepper
-* 1 handful Parsley or basil, fresh
-* 2 (14 oz) jars Tomatoes
-* 1 Yellow bell pepper
-* 1/4 cup yellow onion, diced
-* 3 Zucchini, medium
-* 6 cups Broth, homemade or low sodium
-* 1 tbsp Italian seasoning, dried
-* 2 tbsp Olive oil
-* 3 oz Parmesan
-* 3 TB ricotta cheese
+- [ ] 1 lb Morningstar Farms Crumbles
+- [ ] 3 Garlic cloves, fresh
+- [ ] 1 Green bell pepper
+- [ ] 1 handful Parsley or basil, fresh
+- [ ] 2 (14 oz) jars Tomatoes
+- [ ] 1 Yellow bell pepper
+- [ ] 1/4 cup yellow onion, diced
+- [ ] 3 Zucchini, medium
+- [ ] 6 cups Broth, homemade or low sodium
+- [ ] 1 tbsp Italian seasoning, dried
+- [ ] 2 tbsp Olive oil
+- [ ] 3 oz Parmesan
+- [ ] 3 TB ricotta cheese
 
 ## Directions
 1. Heat oil in a large stockpot over medium heat. Add onion, bell pepper, and garlic, and sauté for 3-4 minutes.

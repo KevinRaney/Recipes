@@ -3,18 +3,18 @@
 Tomatillo & Green Chile Pork Stew
 
 ## Ingredients
-* 2 cloves garlic
-* 2 scallions, chopped
-* 1 lb. tomatillos, trimmed and chopped
-* 2 serrano chilies, seeds and membranes removed, chopped
-* 8 large romaine or green lettuce leaves, divided
-* ½ tsp dried Mexican oregano (may use regular oregano)
-* 1½ lbs. boneless pork loin, cut into bite-sized cubes
-* ¼ tsp each: salt & pepper
-* ¼ cup cilantro, chopped
-* 1 cup sliced radishes
-* 1 jalapeno, seeds and membranes removed, thinly sliced
-* 4 lime wedges
+- [ ] 2 cloves garlic
+- [ ] 2 scallions, chopped
+- [ ] 1 lb. tomatillos, trimmed and chopped
+- [ ] 2 serrano chilies, seeds and membranes removed, chopped
+- [ ] 8 large romaine or green lettuce leaves, divided
+- [ ] ½ tsp dried Mexican oregano (may use regular oregano)
+- [ ] 1½ lbs. boneless pork loin, cut into bite-sized cubes
+- [ ] ¼ tsp each: salt & pepper
+- [ ] ¼ cup cilantro, chopped
+- [ ] 1 cup sliced radishes
+- [ ] 1 jalapeno, seeds and membranes removed, thinly sliced
+- [ ] 4 lime wedges
 
 ## Directions
 1. Combine garlic, scallions, tomatillos, serrano chilies, 4 lettuce leaves, and oregano in a blender; puree until smooth.

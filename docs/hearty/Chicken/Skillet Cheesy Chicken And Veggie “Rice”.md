@@ -9,16 +9,16 @@ Per serving
 1 fat
 
 ## Ingredients
-* 13.65 oz boneless, skinless chicken breast, cubed small ~yields 15 oz cooked (1 1/2 leaner)
-* 1/2 teaspoon kosher salt (2 condiments)
-* 1/4 teaspoon garlic powder (1/2 condiment)
-* ¼ black pepper (1/2 condiment)
-* 2 teaspoons olive oil (2 healthy fats)
-* 2 cloves crushed garlic (2 condiments)
-* 1/4 cup chopped green onion (1/2 green)
-* 1 1/2 cups (5.28 oz) riced cauliflower (3 greens)
-* 1 1/4 cups (3.88 oz) of riced broccoli (2 1/2 greens)
-* • 1/2 cup (2 oz) reduced fat sharp cheddar (1/2 lean)
+- [ ] 13.65 oz boneless, skinless chicken breast, cubed small ~yields 15 oz cooked (1 1/2 leaner)
+- [ ] 1/2 teaspoon kosher salt (2 condiments)
+- [ ] 1/4 teaspoon garlic powder (1/2 condiment)
+- [ ] ¼ black pepper (1/2 condiment)
+- [ ] 2 teaspoons olive oil (2 healthy fats)
+- [ ] 2 cloves crushed garlic (2 condiments)
+- [ ] 1/4 cup chopped green onion (1/2 green)
+- [ ] 1 1/2 cups (5.28 oz) riced cauliflower (3 greens)
+- [ ] 1 1/4 cups (3.88 oz) of riced broccoli (2 1/2 greens)
+- [ ] • 1/2 cup (2 oz) reduced fat sharp cheddar (1/2 lean)
 
 ## Directions
 

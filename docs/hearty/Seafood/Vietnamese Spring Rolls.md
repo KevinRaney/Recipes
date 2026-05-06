@@ -17,16 +17,16 @@ Per serving:
 2 Healthy Fats
 
 ## Ingredients
-* Cooking spray
-* ½ cup finely diced brown mushrooms
-* 7 oz cooked, peeled, and deveined baby shrimp, tails removed
-* 1 oz peanuts, chopped fine
-* 2 tsp hot sauce
-* 1 tsp fish sauce
-* 1 Tbsp fresh mint, chopped
-* ¼ cup fresh cilantro, chopped
-* 3-4 medium-size romaine lettuce leaves, cleaned and dry
-* 1 cup fresh mung bean sprouts
+- [ ] Cooking spray
+- [ ] ½ cup finely diced brown mushrooms
+- [ ] 7 oz cooked, peeled, and deveined baby shrimp, tails removed
+- [ ] 1 oz peanuts, chopped fine
+- [ ] 2 tsp hot sauce
+- [ ] 1 tsp fish sauce
+- [ ] 1 Tbsp fresh mint, chopped
+- [ ] ¼ cup fresh cilantro, chopped
+- [ ] 3-4 medium-size romaine lettuce leaves, cleaned and dry
+- [ ] 1 cup fresh mung bean sprouts
 
 ## Directions
 1. Spray a skillet lightly with non-stick cooking spray, and sauté mushrooms over medium-high heat until tender. Transfer mushrooms to a medium bowl and allow to cool slightly.

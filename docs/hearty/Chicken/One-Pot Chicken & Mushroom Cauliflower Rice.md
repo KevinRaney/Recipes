@@ -11,16 +11,16 @@ Per serving:
 3 condiments
 
 ## Ingredients
-* 6 boneless, skinless chicken thighs, trimmed – total weight 1 ½ pounds OR use chicken breasts
-* ¾ tsp crushed, dried rosemary
-* ½ tsp smoked paprika
-* 1/4 tsp salt
-* ½ tsp ground pepper
-* Olive oil spray
-* ½ cup leeks, chopped
-* 8 oz. crimini mushrooms, sliced
-* 2 cups low-fat chicken broth
-* 2 1/2 cups of cauli rice
+- [ ] 6 boneless, skinless chicken thighs, trimmed – total weight 1 ½ pounds OR use chicken breasts
+- [ ] ¾ tsp crushed, dried rosemary
+- [ ] ½ tsp smoked paprika
+- [ ] 1/4 tsp salt
+- [ ] ½ tsp ground pepper
+- [ ] Olive oil spray
+- [ ] ½ cup leeks, chopped
+- [ ] 8 oz. crimini mushrooms, sliced
+- [ ] 2 cups low-fat chicken broth
+- [ ] 2 1/2 cups of cauli rice
 
 ## Directions
 1. Place the chicken thighs in a medium bowl. Add the rosemary, smoked paprika, salt, and pepper, and toss to coat the chicken.

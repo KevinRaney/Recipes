@@ -7,17 +7,17 @@ Each serving provides
 3 Condiments
 
 ## Ingredients 
-* 9 ounces shredded cooked chicken breast (1 1/2 Leans)
-* 1/2 cup plain low fat Greek yogurt (1/3 Lean)
-* 4 oz chopped green chiles (1 Green)
-* 2 teaspoons taco seasoning (4 Condiments)
-* 3/4 cup canned Rotel diced tomatoes, drained (1 1/2 Greens)
-* 1/4 cup enchilada sauce (4 Condiments)
-* 1/2 cup shredded low fat sharp Cheddar cheese (1/2 Lean)
-* 2/3 cup shredded low fat pepper Jack cheese (2/3 Lean)
-* 4 1/2 ounces Sliced avocado (3 Healthy Fats)
-* 1/2 cup Fresh cilantro (1/2 Condiment)
-* 1/4 cup green spring onion, finely chopped (1/2 Green)
+- [ ] 9 ounces shredded cooked chicken breast (1 1/2 Leans)
+- [ ] 1/2 cup plain low fat Greek yogurt (1/3 Lean)
+- [ ] 4 oz chopped green chiles (1 Green)
+- [ ] 2 teaspoons taco seasoning (4 Condiments)
+- [ ] 3/4 cup canned Rotel diced tomatoes, drained (1 1/2 Greens)
+- [ ] 1/4 cup enchilada sauce (4 Condiments)
+- [ ] 1/2 cup shredded low fat sharp Cheddar cheese (1/2 Lean)
+- [ ] 2/3 cup shredded low fat pepper Jack cheese (2/3 Lean)
+- [ ] 4 1/2 ounces Sliced avocado (3 Healthy Fats)
+- [ ] 1/2 cup Fresh cilantro (1/2 Condiment)
+- [ ] 1/4 cup green spring onion, finely chopped (1/2 Green)
 
 ## Directions
 1. Heat oven to 350°F. Spray 8-inch square (2-quart) or 13×9-inch (3-quart) ceramic or broiler-proof baking dish with 5 sprays cooking spray.

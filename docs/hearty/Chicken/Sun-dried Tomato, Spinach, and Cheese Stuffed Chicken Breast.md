@@ -3,20 +3,20 @@
 Sun-dried Tomato, Spinach, and Cheese Stuffed Chicken Breast
 
 ## Ingredients
-* 18 ounces chicken breasts, boneless and skinless (2 Leaner)
-* 1/2 cup sun dried tomato, drained and patted dry ~ water packed, cut into strips (2 Greens)
-* 4 ounces part-skim mozzarella cheese (1 Lean)
-* 1 cup spinach (1 Green)
-* Non-stick pan spray
+- [ ] 18 ounces chicken breasts, boneless and skinless (2 Leaner)
+- [ ] 1/2 cup sun dried tomato, drained and patted dry ~ water packed, cut into strips (2 Greens)
+- [ ] 4 ounces part-skim mozzarella cheese (1 Lean)
+- [ ] 1 cup spinach (1 Green)
+- [ ] Non-stick pan spray
 
 ### Italian Dressing
-* 1 tbsp Dijon Mustard (3 Condiments)
-* 1 tbsp white wine vinegar (1/4 Condiment)
-* 1 packet Splenda or Stevia (1 Condiment)
-* 2 tsp olive oil (2 Healthy Fats)
-* 1/2 tsp EACH Italian mixed herbs (see notes below) and red pepper flakes
-* ¼ tsp Salt (1 Condiment)
-* ½ tsp pepper (1 Condiment)
+- [ ] 1 tbsp Dijon Mustard (3 Condiments)
+- [ ] 1 tbsp white wine vinegar (1/4 Condiment)
+- [ ] 1 packet Splenda or Stevia (1 Condiment)
+- [ ] 2 tsp olive oil (2 Healthy Fats)
+- [ ] 1/2 tsp EACH Italian mixed herbs (see notes below) and red pepper flakes
+- [ ] ¼ tsp Salt (1 Condiment)
+- [ ] ½ tsp pepper (1 Condiment)
 
 ## Directions
 1. Preheat oven to 350F.

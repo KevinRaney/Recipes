@@ -20,13 +20,13 @@ Per Serving:
 
 ## Ingredients
 
-* Approximately 3 medium-sized eggplants (445 g cooked)
-* 2 14 oz cans of diced tomatoes- less than 5 g of carbs per serving
-* 1/2 tsp Italian seasoning
-* 1.5 packages of Jennie O Hot Italian turkey sausage (22.5 oz cooked))
-* 16 oz 1 or 2% cottage cheese
-* 1/4 egg beaters
-* 1 3/4 low-fat Mozzarella cheese
+- [ ] Approximately 3 medium-sized eggplants (445 g cooked)
+- [ ] 2 14 oz cans of diced tomatoes- less than 5 g of carbs per serving
+- [ ] 1/2 tsp Italian seasoning
+- [ ] 1.5 packages of Jennie O Hot Italian turkey sausage (22.5 oz cooked))
+- [ ] 16 oz 1 or 2% cottage cheese
+- [ ] 1/4 egg beaters
+- [ ] 1 3/4 low-fat Mozzarella cheese
 
 ## Directions
 

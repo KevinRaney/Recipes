@@ -3,18 +3,18 @@
 Chicken with Chipotle Mushroom Cream Sauce
 
 ## Ingredients
-* 18 oz Raw Chicken Breasts - should yield 12 oz cooked (2 Leaner)
-* 1/4 tsp Salt or garlic salt (1 Condiment)
-* 1/8 tsp Pepper (1/4 Condiment)
-* 1 tsp olive oil (1 Healthy Fat)
+- [ ] 18 oz Raw Chicken Breasts - should yield 12 oz cooked (2 Leaner)
+- [ ] 1/4 tsp Salt or garlic salt (1 Condiment)
+- [ ] 1/8 tsp Pepper (1/4 Condiment)
+- [ ] 1 tsp olive oil (1 Healthy Fat)
 
 ### For the Sauce
-* 1 tsp olive oil (1 healthy fat)
-* 1 1/4 Cup (3.8 oz) Mushrooms (2 1/2 Greens)
-* 1/4 cup (.88 oz) scallion, thinly sliced (1/2 green)
-* 1/2 cup lower-sodium chicken broth (1/2 Condiment)
-* 2 wedges Light Queso & Chipotle Laughing Cow cheese (2 condiments)
-* 1/4 tsp dried rosemary (1/4 Condiment)
+- [ ] 1 tsp olive oil (1 healthy fat)
+- [ ] 1 1/4 Cup (3.8 oz) Mushrooms (2 1/2 Greens)
+- [ ] 1/4 cup (.88 oz) scallion, thinly sliced (1/2 green)
+- [ ] 1/2 cup lower-sodium chicken broth (1/2 Condiment)
+- [ ] 2 wedges Light Queso & Chipotle Laughing Cow cheese (2 condiments)
+- [ ] 1/4 tsp dried rosemary (1/4 Condiment)
 
 ## Directions
 1. Season the chicken with salt and pepper. In a large non-stick skillet, heat 1 tsp olive oil over medium heat. Add the chicken and cook until golden brown, about 3-5 minutes per side. Transfer to plate and keep warm with foil tent.

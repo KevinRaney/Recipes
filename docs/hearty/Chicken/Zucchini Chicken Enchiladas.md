@@ -11,18 +11,18 @@ Per serving:
 1 fat
 
 ## Ingredients
-* 1 Tbsp extra-virgin olive oil
-* 1 c leeks, chopped
-* ¼ tsp salt
-* 1 clove garlic, minced
-* 1 tsp ground cumin
-* 1 tsp chili powder
-* 18 oz chicken breast, shredded
-* 1 c red enchilada sauce
-* 2 ½ lbs zucchini halved lengthwise
-* 1 c low-fat cheddar cheese, shredded
-* 1 c low-fat Monterey jack cheese, shredded
-* 2 Tbsp sour cream
+- [ ] 1 Tbsp extra-virgin olive oil
+- [ ] 1 c leeks, chopped
+- [ ] ¼ tsp salt
+- [ ] 1 clove garlic, minced
+- [ ] 1 tsp ground cumin
+- [ ] 1 tsp chili powder
+- [ ] 18 oz chicken breast, shredded
+- [ ] 1 c red enchilada sauce
+- [ ] 2 ½ lbs zucchini halved lengthwise
+- [ ] 1 c low-fat cheddar cheese, shredded
+- [ ] 1 c low-fat Monterey jack cheese, shredded
+- [ ] 2 Tbsp sour cream
 
 ## Directions
 1. Preheat oven to 350. Heat oil in large skillet over medium. Add leeks & salt. Cook 5 min, then add garlic, cumin, & chili powder & combine. Add shredded chicken and ¾ c. enchilada sauce, stir well.

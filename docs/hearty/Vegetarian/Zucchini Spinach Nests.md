@@ -14,15 +14,15 @@ Per serving:
 2/3 fat serving
 
 ## Ingredients
-* 2 3/4 pounds large Zucchini in spiralized (or Vegetti or Paderno)
-* 1 tsp salt
-* ¼ - ½ tsp pepper
-* 2½ tsp garlic powder
-* 2½ tsp onion powder
-* 4 tsp vegetable oil
-* Cooking Spray
-* 4 cups of frozen spinach thawed (yields 2 cups cooked )
-* 4 large eggs/8 egg whites
+- [ ] 2 3/4 pounds large Zucchini in spiralized (or Vegetti or Paderno)
+- [ ] 1 tsp salt
+- [ ] ¼ - ½ tsp pepper
+- [ ] 2½ tsp garlic powder
+- [ ] 2½ tsp onion powder
+- [ ] 4 tsp vegetable oil
+- [ ] Cooking Spray
+- [ ] 4 cups of frozen spinach thawed (yields 2 cups cooked )
+- [ ] 4 large eggs/8 egg whites
 
 ## Directions
 1. Preheat oven at 400F

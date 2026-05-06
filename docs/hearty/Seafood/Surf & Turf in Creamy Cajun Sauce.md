@@ -1,19 +1,19 @@
 # Surf & Turf in Creamy Cajun Sauce
 
 ## Ingredients 
-* 1 tsp olive oil
-* 5 ounces steak
-* 7 ounces shrimp
-* 10.5 ounces cauliflower
-* 1/2 tbsp butter 
-* 1/4 cup veg broth
-* 1 cup almond milk
-* 1/2 tsp cajun seasoning
-* 1 tsp dijon mustard
-* 1 clove garlic
-* 2 TBSP reduced fat parmesan cheese
-* 1 tsp lemon juice
-* Sprinkle parsley 
+- [ ] 1 tsp olive oil
+- [ ] 5 ounces steak
+- [ ] 7 ounces shrimp
+- [ ] 10.5 ounces cauliflower
+- [ ] 1/2 tbsp butter 
+- [ ] 1/4 cup veg broth
+- [ ] 1 cup almond milk
+- [ ] 1/2 tsp cajun seasoning
+- [ ] 1 tsp dijon mustard
+- [ ] 1 clove garlic
+- [ ] 2 TBSP reduced fat parmesan cheese
+- [ ] 1 tsp lemon juice
+- [ ] Sprinkle parsley 
 
 ## Directions
 1. Heat the oil in a large skillet over medium-high heat, add the steaks and sear until lightly browned on both sides and cooked to the desired level of doneness, before setting aside.

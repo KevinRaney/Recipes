@@ -13,15 +13,15 @@ Total Time: 30 minutes
 
 ## Ingredients
 
-* 1½ cups cauliflower florets
-* 1½ cups broccoli florets
-* 1½ cups red cabbage, cut into bite-sized pieces
-* 1 large bell pepper (any color), seeds and membranes removed, chopped
-* ¼ tsp each: salt & pepper
-* 3½ lbs. firm tofu, sliced into ¼ - ½ inch blocks
-* 2 tbsp powdered peanut butter
-* 3 tbsp water
-* ½ tbsp sambal
+- [ ] 1½ cups cauliflower florets
+- [ ] 1½ cups broccoli florets
+- [ ] 1½ cups red cabbage, cut into bite-sized pieces
+- [ ] 1 large bell pepper (any color), seeds and membranes removed, chopped
+- [ ] ¼ tsp each: salt & pepper
+- [ ] 3½ lbs. firm tofu, sliced into ¼ - ½ inch blocks
+- [ ] 2 tbsp powdered peanut butter
+- [ ] 3 tbsp water
+- [ ] ½ tbsp sambal
 
 ## Directions
 

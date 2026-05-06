@@ -13,16 +13,16 @@ Per serving:
 1/2 healthy fat 
 
 ## Ingredients
- * 20 Trader Joe's Meatless Meatballs
- * 1 tsp olive oil
- * 1/2 tsp garlic, minced
- * 1 tsp ginger, minced
- * 1/4 tsp garam masala powder
- * 1/4 tsp chili powder
- * Pinch of turmeric
- * 1/2 tsp cumin powder
- * 1/2 tsp coriander powder
- * A pinch of dried Fenugreek leaves
+ - [ ] 20 Trader Joe's Meatless Meatballs
+ - [ ] 1 tsp olive oil
+ - [ ] 1/2 tsp garlic, minced
+ - [ ] 1 tsp ginger, minced
+ - [ ] 1/4 tsp garam masala powder
+ - [ ] 1/4 tsp chili powder
+ - [ ] Pinch of turmeric
+ - [ ] 1/2 tsp cumin powder
+ - [ ] 1/2 tsp coriander powder
+ - [ ] A pinch of dried Fenugreek leaves
 
 ## Directions
 1. Preheat oven to 450°F.

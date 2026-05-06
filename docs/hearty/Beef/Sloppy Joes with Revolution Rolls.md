@@ -12,22 +12,22 @@ Per serving:
 ## Ingredients
 
 ### For the beef
-* 8.75 oz 93% lean ground beef, cooked and drained of fat
-* 1/4 cup reduced-fat sharp cheddar cheese Or use 10 oz of lean ground beef if omitting the cheese
+- [ ] 8.75 oz 93% lean ground beef, cooked and drained of fat
+- [ ] 1/4 cup reduced-fat sharp cheddar cheese Or use 10 oz of lean ground beef if omitting the cheese
 
 ### For the sauce
-* 3 tbsp reduced sugar ketchup
-* 1 tbsp yellow mustard
-* 1/2 tbsp apple cider vinegar
-* 1 tbsp Walden Farms pancake syrup
-* 1/2 tsp chili powder
-* 1/8 tsp salt
+- [ ] 3 tbsp reduced sugar ketchup
+- [ ] 1 tbsp yellow mustard
+- [ ] 1/2 tbsp apple cider vinegar
+- [ ] 1 tbsp Walden Farms pancake syrup
+- [ ] 1/2 tsp chili powder
+- [ ] 1/8 tsp salt
 
 ### For the rolls
-* 3 eggs at room temp
-* 3 Tbsp light cream cheese at room temp
-* Pinch cream of tartar, white vinegar or lemon juice
-* 1 packet Splenda (optional) - we did not use this in ours
+- [ ] 3 eggs at room temp
+- [ ] 3 Tbsp light cream cheese at room temp
+- [ ] Pinch cream of tartar, white vinegar or lemon juice
+- [ ] 1 packet Splenda (optional) - we did not use this in ours
 
 ## Directions
 1. For the beef:

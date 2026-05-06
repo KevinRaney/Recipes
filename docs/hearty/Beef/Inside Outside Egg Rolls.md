@@ -1,16 +1,16 @@
 # Inside Outside Egg Rolls
 
 ## Ingredients
-* 1 cup cabbage, shredded (2 Greens)
-* 1/4 cup celery, chopped (1/2 Green)
-* 1/4 cup scallions, chopped (1/2 Green)
-* 6 oz raw 93% lean ground beef or pork - you need 4.3 oz cooked (7/8 Lean)
-* 1/4 cup egg beaters (1/8 Lean)
-* 1/8 tsp ground ginger (1/4 Condiment)
-* 1/8 tsp garlic powder (1/2 Condiment)
-* 1/8 tsp Chinese five spice blend (1/4 Condiment)
-* 2 tsp soy sauce (2 Condiments)
-* Lettuce Leaves (Optional)
+- [ ] 1 cup cabbage, shredded (2 Greens)
+- [ ] 1/4 cup celery, chopped (1/2 Green)
+- [ ] 1/4 cup scallions, chopped (1/2 Green)
+- [ ] 6 oz raw 93% lean ground beef or pork - you need 4.3 oz cooked (7/8 Lean)
+- [ ] 1/4 cup egg beaters (1/8 Lean)
+- [ ] 1/8 tsp ground ginger (1/4 Condiment)
+- [ ] 1/8 tsp garlic powder (1/2 Condiment)
+- [ ] 1/8 tsp Chinese five spice blend (1/4 Condiment)
+- [ ] 2 tsp soy sauce (2 Condiments)
+- [ ] Lettuce Leaves (Optional)
 
 ## Directions
 1. Combine shredded cabbage, celery, and scallions. Toss together. Set aside.

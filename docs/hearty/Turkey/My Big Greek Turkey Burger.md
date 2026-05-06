@@ -8,13 +8,13 @@ Per serving:
 3 Condiments
 
 ## Ingredients
-* 7 oz raw, ground turkey, 85%-94% lean (should yield 3.75 oz cooked serving
-* 1 oz reduced fat feta cheese
-* 1/2 tsp oregano
-* 1/4 tsp garlic powder
-* 1/4 tsp salt
-* 1/4 cup red pepper, chopped
-* 1/4 cup Baby spinach leaves, chopped
+- [ ] 7 oz raw, ground turkey, 85%-94% lean (should yield 3.75 oz cooked serving
+- [ ] 1 oz reduced fat feta cheese
+- [ ] 1/2 tsp oregano
+- [ ] 1/4 tsp garlic powder
+- [ ] 1/4 tsp salt
+- [ ] 1/4 cup red pepper, chopped
+- [ ] 1/4 cup Baby spinach leaves, chopped
 
 ## Directions
 1. Place turkey, feta, red pepper, spinach and seasonings into a mixing bowl. Mix until just combined.

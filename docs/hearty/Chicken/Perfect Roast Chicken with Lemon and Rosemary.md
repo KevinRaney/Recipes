@@ -8,17 +8,17 @@ Per serving
 2 Condiments
 
 ## Ingredients
-* 1 Tbsp olive oil
-* Grated zest of 1 lemon
-* 1 Tbsp chopped rosemary
-* 1/2 tsp garlic powder
-* ½ Fat serving
-* 1/4 tsp pepper
-* 1 4-pound chicken, rinsed and patted dry
-* 2 lemons, cut in quarters
-* 1 tsp salt
-* 1 medium onion, chopped
-* 1 celery rib, chopped
+- [ ] 1 Tbsp olive oil
+- [ ] Grated zest of 1 lemon
+- [ ] 1 Tbsp chopped rosemary
+- [ ] 1/2 tsp garlic powder
+- [ ] ½ Fat serving
+- [ ] 1/4 tsp pepper
+- [ ] 1 4-pound chicken, rinsed and patted dry
+- [ ] 2 lemons, cut in quarters
+- [ ] 1 tsp salt
+- [ ] 1 medium onion, chopped
+- [ ] 1 celery rib, chopped
 
 ## Directions
 1. Preheat oven to 350°F

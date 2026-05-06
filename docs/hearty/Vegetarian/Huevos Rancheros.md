@@ -1,14 +1,14 @@
 # Huevos Rancheros
 
 ## Ingredients
-* 2 cups Egg Beaters
-* ½ cup each: raw jalapeño (sliced), tomato (sliced) & green bell pepper (sliced)
-* 1 thin slice onion (sliced down the middle of an onion, yielding 1 tablespoon)
-* ½ cup cilantro leaves
-* 1 clove garlic (minced)
-* 1 tsp trans-free margarine
-* 1 tsp olive oil
-* Dash of black pepper
+- [ ] 2 cups Egg Beaters
+- [ ] ½ cup each: raw jalapeño (sliced), tomato (sliced) & green bell pepper (sliced)
+- [ ] 1 thin slice onion (sliced down the middle of an onion, yielding 1 tablespoon)
+- [ ] ½ cup cilantro leaves
+- [ ] 1 clove garlic (minced)
+- [ ] 1 tsp trans-free margarine
+- [ ] 1 tsp olive oil
+- [ ] Dash of black pepper
 
 ## Directions
 1. Heat margarine in small skillet.

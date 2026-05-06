@@ -6,15 +6,15 @@ Each  1 leaner + 1 green + 2/3 fat + 2 condiments
 Add 2 greens to each serving to make a complete LG
 
 ## Ingredients
-* *22 oz cooked 95-97% lean* Ground beef
-* *3c* Bell peppers chopped (6 greens) 
-* *1/4c* Onion chopped (4 condiments) 
-* 2 tsp. Minced garlic (2 condiments)
-* 1 tsp. Seasoned salt (4 condiments) 
-* 8 *1oz* Slices *reduced fat* provolone cheese (2 lean) 
-* 4 Large Eggs (1.33 lean) 
-* ¼ C. Heavy whipping cream (4 fats) 
-* *1 tsp* Worcestershire sauce (2 condiments) 
+- [ ] *22 oz cooked 95-97% lean* Ground beef
+- [ ] *3c* Bell peppers chopped (6 greens) 
+- [ ] *1/4c* Onion chopped (4 condiments) 
+- [ ] 2 tsp. Minced garlic (2 condiments)
+- [ ] 1 tsp. Seasoned salt (4 condiments) 
+- [ ] 8 *1oz* Slices *reduced fat* provolone cheese (2 lean) 
+- [ ] 4 Large Eggs (1.33 lean) 
+- [ ] ¼ C. Heavy whipping cream (4 fats) 
+- [ ] *1 tsp* Worcestershire sauce (2 condiments) 
 
 ## Directions
 1. Preheat the oven to 350 degrees.

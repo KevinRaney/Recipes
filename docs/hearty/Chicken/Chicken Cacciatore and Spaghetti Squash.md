@@ -8,17 +8,17 @@ Per serving
 2 2/3 condiments
 
 ## Ingredients
-* 4 ½ cups cooked Spaghetti Squash
-* 1 ¾ pounds chicken breasts, trimmed of fat and chopped (should be about 14 oz when cooked)
-* 1 ½ cups low-sugar tomato sauce – Rao’s marinara is a good brand
-* 1/2 large, bell pepper, sliced
-* 6 1/3 ounces tomato, sliced
-* 1/4 cup medium red onion, sliced
-* 1 tbsp fresh garlic, pressed
-* 1/8 tsp crushed red pepper
-* 1 tbsp Italian seasoning
-* 1/2 tsp salt
-* 1/4 tsp cracked pepper
+- [ ] 4 ½ cups cooked Spaghetti Squash
+- [ ] 1 ¾ pounds chicken breasts, trimmed of fat and chopped (should be about 14 oz when cooked)
+- [ ] 1 ½ cups low-sugar tomato sauce – Rao’s marinara is a good brand
+- [ ] 1/2 large, bell pepper, sliced
+- [ ] 6 1/3 ounces tomato, sliced
+- [ ] 1/4 cup medium red onion, sliced
+- [ ] 1 tbsp fresh garlic, pressed
+- [ ] 1/8 tsp crushed red pepper
+- [ ] 1 tbsp Italian seasoning
+- [ ] 1/2 tsp salt
+- [ ] 1/4 tsp cracked pepper
 
 ## Directions
 1. Preheat oven to 350 degrees. Season squash with some salt and pepper and lay face down on a PAMmed cookie sheet. Bake in oven for 45 min, or until squash is fork tender and releases easily from the shell.

@@ -10,23 +10,23 @@ Per serving
 3 condiments
 
 ## Ingredients
-* For the meatloaf
-* 2 3/4 lbs ground chicken
-* 1 cup no sugar added Marinara Sauce, divided
-* 2 cloves garlic, minced
-* 2 tbsp Italian flat leaf parsley, chopped
-* 1 1/2 tsp Italian seasoning
-* 1 1/2 tsp onion powder
-* 3/4 tsp sea salt
-* 1/2 tsp black pepper
-* For the filling and the topping
-* 1 cup part skim ricotta cheese
-* 1 ½ cup mozzarella cheese, shredded, divided
-* 1/2 cup Parmesan cheese, shredded, divided
-* 2 tbsp Italian flat leaf parsley, chopped
-* 2 tsp chives, chopped
-* 1 clove garlic, minced
-* 1/2 tsp sea salt
+- [ ] For the meatloaf
+- [ ] 2 3/4 lbs ground chicken
+- [ ] 1 cup no sugar added Marinara Sauce, divided
+- [ ] 2 cloves garlic, minced
+- [ ] 2 tbsp Italian flat leaf parsley, chopped
+- [ ] 1 1/2 tsp Italian seasoning
+- [ ] 1 1/2 tsp onion powder
+- [ ] 3/4 tsp sea salt
+- [ ] 1/2 tsp black pepper
+- [ ] For the filling and the topping
+- [ ] 1 cup part skim ricotta cheese
+- [ ] 1 ½ cup mozzarella cheese, shredded, divided
+- [ ] 1/2 cup Parmesan cheese, shredded, divided
+- [ ] 2 tbsp Italian flat leaf parsley, chopped
+- [ ] 2 tsp chives, chopped
+- [ ] 1 clove garlic, minced
+- [ ] 1/2 tsp sea salt
 
 ## Directions
 1. Preheat oven to 400°

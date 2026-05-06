@@ -8,14 +8,14 @@ Per recipe:
 no Healthy Fat required
 
 ## Ingredients
-* 6 Market Pantry Lean Turkey Meatballs, cooked (I baked them for 20 minutes) and sliced into fourths (1/2 Lean)
-* 1/4 cup part-skim ricotta cheese (1/4 Lean)
-* 1/4 cup 2% reduced-fat Mozzarella Cheese (1/4 Lean)
-* 1 cup or 180 grams (cooked weight) yellow squash or zucchini, sliced lengthwise (2 Greens)
-* 1/2 cup Great Value Italian diced tomatoes, less than 5 g of carbs per 1/2 cup (1 Green)
-* 1/4 tsp garlic salt (1 Condiment)
-* 1/4 tsp dried basil (1/4 Condiment)
-* 2 tsp grated parmesan cheese (2/3 Condiment)
+- [ ] 6 Market Pantry Lean Turkey Meatballs, cooked (I baked them for 20 minutes) and sliced into fourths (1/2 Lean)
+- [ ] 1/4 cup part-skim ricotta cheese (1/4 Lean)
+- [ ] 1/4 cup 2% reduced-fat Mozzarella Cheese (1/4 Lean)
+- [ ] 1 cup or 180 grams (cooked weight) yellow squash or zucchini, sliced lengthwise (2 Greens)
+- [ ] 1/2 cup Great Value Italian diced tomatoes, less than 5 g of carbs per 1/2 cup (1 Green)
+- [ ] 1/4 tsp garlic salt (1 Condiment)
+- [ ] 1/4 tsp dried basil (1/4 Condiment)
+- [ ] 2 tsp grated parmesan cheese (2/3 Condiment)
 
 ## Directions
 1. Preheat oven to 350 degrees.

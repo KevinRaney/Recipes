@@ -1,13 +1,13 @@
 # Basil, feta, and tomato Spaghetti squash
 
 ## Ingredients
-* 3 cups prepared spaghetti squash (6 greens)
-* 1 tablespoons olive oil (3 healthy fats)
-* 2 cloves garlic, minced (2 condiments)
-* 1 cup chopped tomatoes (2 greens)
-* 1/2 cup chopped zucchini (1 green)
-* 3/4 cup crumbled reduced fat feta cheese (3/4 Lean)
-* 1 teaspoon basil (1 condiment)
+- [ ] 3 cups prepared spaghetti squash (6 greens)
+- [ ] 1 tablespoons olive oil (3 healthy fats)
+- [ ] 2 cloves garlic, minced (2 condiments)
+- [ ] 1 cup chopped tomatoes (2 greens)
+- [ ] 1/2 cup chopped zucchini (1 green)
+- [ ] 3/4 cup crumbled reduced fat feta cheese (3/4 Lean)
+- [ ] 1 teaspoon basil (1 condiment)
 
 ## Directions
 1. Preheat oven to 350 degrees F (175 degrees C). 

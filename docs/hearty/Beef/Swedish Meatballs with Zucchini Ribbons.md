@@ -11,16 +11,16 @@ Per serving:
 3 Condiments
 
 ## Ingredients
-* 10 Butterballs Italian style lean turkey meatballs, cooked
-* 1/2 cup low sodium beef broth
-* 1 tbsp reduced-fat cream cheese
-* 1 tbsp 2% fage yogurt-optional but it makes it kins of tangy like sour cream
-* 1/8 tsp pepper
-* 1/4 tsp dried parsley
+- [ ] 10 Butterballs Italian style lean turkey meatballs, cooked
+- [ ] 1/2 cup low sodium beef broth
+- [ ] 1 tbsp reduced-fat cream cheese
+- [ ] 1 tbsp 2% fage yogurt-optional but it makes it kins of tangy like sour cream
+- [ ] 1/8 tsp pepper
+- [ ] 1/4 tsp dried parsley
 
-* Zucchini Ribbons
-* 2 medium (you should have 270 grams cooked or 1 1/2 cups cooked) zucchinis
-* 2 tbsp water or beef broth
+- [ ] Zucchini Ribbons
+- [ ] 2 medium (you should have 270 grams cooked or 1 1/2 cups cooked) zucchinis
+- [ ] 2 tbsp water or beef broth
 
 ## Directions
 1. Heat beef and cream cheese over medium heat until cream cheese is melted, stirring occasionally

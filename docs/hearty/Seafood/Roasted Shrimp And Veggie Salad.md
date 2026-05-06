@@ -10,26 +10,26 @@ Per serving
 2 fats
 
 ## Ingredients
-* 1 cup cherry tomatoes, sliced
-* 1 cup celery, diced – (picture shows carrots but they are too high in carbohydrates for my clients in their weight loss phase)
-* 1 cup yellow bell pepper, diced
-* 1 cup green onion, diced
-* 1 cup asparagus, diced
-* 20 ounces raw shrimp
-* ½ tsp chili powder
-* 1/2 tsp oregano
-* ¼ tsp salt
-* ¼ tsp pepper
-* 2 tsp lime juice
-* 2 cups mixed greens
+- [ ] 1 cup cherry tomatoes, sliced
+- [ ] 1 cup celery, diced – (picture shows carrots but they are too high in carbohydrates for my clients in their weight loss phase)
+- [ ] 1 cup yellow bell pepper, diced
+- [ ] 1 cup green onion, diced
+- [ ] 1 cup asparagus, diced
+- [ ] 20 ounces raw shrimp
+- [ ] ½ tsp chili powder
+- [ ] 1/2 tsp oregano
+- [ ] ¼ tsp salt
+- [ ] ¼ tsp pepper
+- [ ] 2 tsp lime juice
+- [ ] 2 cups mixed greens
 
 ### Chili Lime Vinaigrette Dressing
-* 3 tablespoons lime juice
-* 2 Tbs plus 2 teaspoons olive oil
-* 1 packet Splenda or Stevia
-* ½ teaspoon chili powder
-* ¼ tsp salt
-* ¼ tsp pepper
+- [ ] 3 tablespoons lime juice
+- [ ] 2 Tbs plus 2 teaspoons olive oil
+- [ ] 1 packet Splenda or Stevia
+- [ ] ½ teaspoon chili powder
+- [ ] ¼ tsp salt
+- [ ] ¼ tsp pepper
 
 ## Directions
 1. Preheat oven to 400˚F/200˚C.

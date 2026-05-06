@@ -8,10 +8,10 @@ Makes 8 servings
 1 fat
 
 ## Ingredients
-* 8 pieces of bone-in chicken breasts - 6 oz each -cooked
-* 1 1/2 packets French Onion Soup Mix
-* 4 teaspoons olive oil
-* 1/2 tsp garlic powder
+- [ ] 8 pieces of bone-in chicken breasts - 6 oz each -cooked
+- [ ] 1 1/2 packets French Onion Soup Mix
+- [ ] 4 teaspoons olive oil
+- [ ] 1/2 tsp garlic powder
 
 ## Directions
 1. Preheat oven to 425 degrees.

@@ -10,17 +10,17 @@ Per serving
 ¾ fat serving
 
 ## Ingredients
-* 4 medium zucchini, firm and unblemished – total weight 2 1/3 pounds
-* ½ lb low fat ricotta cheese
-* 4 Tbsp Parmesan cheese, shredded (set aside 2 Tbsp for topping)
-* 1 Tbsp olive oil plus extra for drizzling
-* 3 eggs, lightly beaten
-* 2 tsp lemon juice, freshly squeezed
-* 10 basil leaves, washed and patted dry, chopped (reserve 2 Tbsp for topping)
-* 1 large clove garlic, peeled and minced
-* 4 Tbsp pine nuts (reserve half for topping)
-* 1/8 tsp salt
-* ¼ tsp ground pepper
+- [ ] 4 medium zucchini, firm and unblemished – total weight 2 1/3 pounds
+- [ ] ½ lb low fat ricotta cheese
+- [ ] 4 Tbsp Parmesan cheese, shredded (set aside 2 Tbsp for topping)
+- [ ] 1 Tbsp olive oil plus extra for drizzling
+- [ ] 3 eggs, lightly beaten
+- [ ] 2 tsp lemon juice, freshly squeezed
+- [ ] 10 basil leaves, washed and patted dry, chopped (reserve 2 Tbsp for topping)
+- [ ] 1 large clove garlic, peeled and minced
+- [ ] 4 Tbsp pine nuts (reserve half for topping)
+- [ ] 1/8 tsp salt
+- [ ] ¼ tsp ground pepper
 
 ## Directions
 1. Wash zucchini and leave whole and untrimmed.

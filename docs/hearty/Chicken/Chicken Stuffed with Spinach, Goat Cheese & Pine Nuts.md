@@ -12,17 +12,17 @@ Each serving provides:
 # 
 
 ## Ingredients
-* 5 ounces fresh spinach chopped
-* ½ cup - 2 ounces- of crumbled low-fat goat cheese
-* 2 tsp pine nuts, toasted
-* 1 tsp fresh thyme, minced
-* 2 tsp fresh lemon juice
-* 2 garlic cloves, minced
-* 4 (8 ounces) skinless, boneless, chicken breast halves
-* ¼ tsp salt
-* ¼ tsp freshly ground black pepper
-* 4 tsp olive oil
-* ½ cup fat-free, low-sodium chicken broth
+- [ ] 5 ounces fresh spinach chopped
+- [ ] ½ cup - 2 ounces- of crumbled low-fat goat cheese
+- [ ] 2 tsp pine nuts, toasted
+- [ ] 1 tsp fresh thyme, minced
+- [ ] 2 tsp fresh lemon juice
+- [ ] 2 garlic cloves, minced
+- [ ] 4 (8 ounces) skinless, boneless, chicken breast halves
+- [ ] ¼ tsp salt
+- [ ] ¼ tsp freshly ground black pepper
+- [ ] 4 tsp olive oil
+- [ ] ½ cup fat-free, low-sodium chicken broth
 
 ## Directions
 1. Preheat the oven to 350 F.

@@ -3,18 +3,18 @@
 Makes 4 servings
 
 ## Ingredients 
-* 1 c arugula leaves
-* 1/2 c fresh flat-leaf parsley leaves or Cilantro
-* 2 T chopped shallots
-* 2 T fresh lemon or lime juice
-* 2 T extra-virgin olive oil
-* 1/4 t crushed red pepper
-* 1 garlic clove
-* 1/2 t kosher salt, divided
-* Cooking spray
-* 2 t canola oil
-* 38 oz large raw shrimp, peeled and deveined
-* 1/2 t black pepper
+- [ ] 1 c arugula leaves
+- [ ] 1/2 c fresh flat-leaf parsley leaves or Cilantro
+- [ ] 2 T chopped shallots
+- [ ] 2 T fresh lemon or lime juice
+- [ ] 2 T extra-virgin olive oil
+- [ ] 1/4 t crushed red pepper
+- [ ] 1 garlic clove
+- [ ] 1/2 t kosher salt, divided
+- [ ] Cooking spray
+- [ ] 2 t canola oil
+- [ ] 38 oz large raw shrimp, peeled and deveined
+- [ ] 1/2 t black pepper
 
 ## Directions 
 1. Preheat grill to high.

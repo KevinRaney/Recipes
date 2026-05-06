@@ -8,20 +8,20 @@ Each serving provides
 3 condiments
 
 ## Ingredients
-* 2 ¼ lb (raw weight) boneless chicken breast
-* 4tsp olive oil
-* 5 cups of low sodium chicken stock
-* 5 cups of water
-* 1.5 cups leeks
-* 1T fish sauce or substitute 1T low sodium soy sauce
-* 3 cups bok choy
-* 3 medium zucchini spiralized (2 cups)
-* 1 cup bean sprouts
-* 2 tsp whole cloves
-* ½ tsp Anise seed
-* 2 tsp lime juice
-* ½ cup chopped basil
-* 2 tsp Ginger root
+- [ ] 2 ¼ lb (raw weight) boneless chicken breast
+- [ ] 4tsp olive oil
+- [ ] 5 cups of low sodium chicken stock
+- [ ] 5 cups of water
+- [ ] 1.5 cups leeks
+- [ ] 1T fish sauce or substitute 1T low sodium soy sauce
+- [ ] 3 cups bok choy
+- [ ] 3 medium zucchini spiralized (2 cups)
+- [ ] 1 cup bean sprouts
+- [ ] 2 tsp whole cloves
+- [ ] ½ tsp Anise seed
+- [ ] 2 tsp lime juice
+- [ ] ½ cup chopped basil
+- [ ] 2 tsp Ginger root
 
 ## Directions
 1. Preheat oven to 475 degrees F

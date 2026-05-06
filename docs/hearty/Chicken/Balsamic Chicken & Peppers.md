@@ -7,17 +7,17 @@ Per serving:
 1 Healthy fat
 
 ## Ingredients
-* 36 oz Chicken breast
-* 2 cup Chopped Bell Peppers
-* 4 tsp Oil, olive
-* 2 Tbsp Chopped Scallions 
-* 1 tsp Garlic
-* 1/2 tsp Rosemary
-* 1 Tbsp Worcestershire
-* 1 tsp Basil
-* 1/2 tsp Thyme
-* 3 tsp Balsamic Vinegar
-* 1/4 cup Chicken Broth
+- [ ] 36 oz Chicken breast
+- [ ] 2 cup Chopped Bell Peppers
+- [ ] 4 tsp Oil, olive
+- [ ] 2 Tbsp Chopped Scallions 
+- [ ] 1 tsp Garlic
+- [ ] 1/2 tsp Rosemary
+- [ ] 1 Tbsp Worcestershire
+- [ ] 1 tsp Basil
+- [ ] 1/2 tsp Thyme
+- [ ] 3 tsp Balsamic Vinegar
+- [ ] 1/4 cup Chicken Broth
 
 ## Directions
 1. Preheat oven to 375.

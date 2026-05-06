@@ -14,12 +14,12 @@ Per serving
 1 fat
 
 ## Ingredients
-* 8 slices Jennie-o turkey bacon
-* 2 tablespoons olive oil mayonnaise 
-* 2 Tbsp chopped fresh basil
-* 4 cooked chicken breasts – 5 ounces each. I subtract 4 ounces to allow for the bacon
-* 1 cup baby spinach
-* 2 large tomatoes, cut into 8 slices
+- [ ] 8 slices Jennie-o turkey bacon
+- [ ] 2 tablespoons olive oil mayonnaise 
+- [ ] 2 Tbsp chopped fresh basil
+- [ ] 4 cooked chicken breasts – 5 ounces each. I subtract 4 ounces to allow for the bacon
+- [ ] 1 cup baby spinach
+- [ ] 2 large tomatoes, cut into 8 slices
 
 ## Directions
 1. Place 4 slices bacon on a paper towel-lined plate; microwave on High 11/2 to 2 minutes or until crisp. Repeat with remaining bacon.

@@ -12,12 +12,12 @@ Per serving:
 1/2 Healthy Fat
 
 ## Ingredients
-* 2.5 oz 93% ground beef, cooked
-* 1 light queso fresco and chipotle laughing cow cheese
-* 1/4 cup Rotel tomatoes or diced tomatoes
-* 1/2 tsp taco seasoning
-* 1 cup egg beaters
-* 1 tbsp chipotle salsa
+- [ ] 2.5 oz 93% ground beef, cooked
+- [ ] 1 light queso fresco and chipotle laughing cow cheese
+- [ ] 1/4 cup Rotel tomatoes or diced tomatoes
+- [ ] 1/2 tsp taco seasoning
+- [ ] 1 cup egg beaters
+- [ ] 1 tbsp chipotle salsa
 
 ## Directions
 1. Combine cooked ground beef with tomatoes, cheese, and taco seasoning until combined over medium-high heat. Set aside

@@ -8,10 +8,10 @@ Makes 1 serving:
 3 condiments 
 
 ## Ingredients
-* 5 oz cooked Steak (1 lean)
-* 1 1/2 cup (7.89 oz) raw bell peppers (3 greens)
-* 2 tbsp red onion (2 condiments)
-* 1/4 tsp salt (1 condiment)
+- [ ] 5 oz cooked Steak (1 lean)
+- [ ] 1 1/2 cup (7.89 oz) raw bell peppers (3 greens)
+- [ ] 2 tbsp red onion (2 condiments)
+- [ ] 1/4 tsp salt (1 condiment)
 
 ## Directions
 1. On a skillet, sauté bell peppers and onion and set aside.

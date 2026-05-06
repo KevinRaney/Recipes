@@ -6,13 +6,13 @@
 2.5 condiments
 
 ## Ingredients
-* 4 oz cooked chicken, cut into cubes or shredded
-* 2 oz cheese, cheddar, reduced fat, shredded 
-* 1 1/2 cups whole white mushrooms, stems removed 
-* 1/4 tsp salt 
-* 1/8 tsp pepper 
-* 1 Tbsp low-fat cream cheese
-* 1/4 c Cilantro 
+- [ ] 4 oz cooked chicken, cut into cubes or shredded
+- [ ] 2 oz cheese, cheddar, reduced fat, shredded 
+- [ ] 1 1/2 cups whole white mushrooms, stems removed 
+- [ ] 1/4 tsp salt 
+- [ ] 1/8 tsp pepper 
+- [ ] 1 Tbsp low-fat cream cheese
+- [ ] 1/4 c Cilantro 
 
 ## Directions
 1. Preheat oven to 350F. 
