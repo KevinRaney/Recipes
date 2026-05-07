@@ -1,4 +1,4 @@
-# This weather call for some soup!🍂🍁🍂
+# This weather call for some soup!
 
 Crock Pot Beef Soup
 

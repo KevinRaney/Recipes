@@ -1,4 +1,4 @@
-# Loaded Cauliflower bake 🙌🏼
+# Loaded Cauliflower bake
 
 ~~
 ~~

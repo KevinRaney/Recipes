@@ -1,4 +1,4 @@
-# Pot Sticker Burgers 🥟
+# Pot Sticker Burgers
 
 Yield:
 4 servings

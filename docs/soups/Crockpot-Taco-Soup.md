@@ -1,4 +1,4 @@
-# Crockpot Taco Soup 🌮🥑🍅
+# Crockpot Taco Soup
 
 ## Ingredients
 - [ ] 24 oz raw 95-97 % ground turkey~Yields 18 oz cooked (3 leaners)

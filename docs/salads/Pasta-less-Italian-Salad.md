@@ -1,4 +1,4 @@
-# ⁠Pasta-less Italian Salad ⁠
+# Pasta-less Italian Salad
 
 Makes 7 servings, per serving you enjoy:
 3 Greens | 3 Condiments | 2 Healthy Fats

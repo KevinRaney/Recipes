@@ -1,4 +1,4 @@
-# Creamy Skillet Chicken and Asparagus Recipe ⬇️
+# Creamy Skillet Chicken and Asparagus Recipe
 
 ## Ingredients
 - [ ] 4 tsp olive oil (4 healthy fats)

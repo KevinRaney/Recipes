@@ -1,4 +1,4 @@
-# Braised Balsamic Chicken 😋
+# Braised Balsamic Chicken
 
 ## Ingredients
 - [ ] 6 skinless, boneless chicken breast halves – total weight 3 1/3 pounds

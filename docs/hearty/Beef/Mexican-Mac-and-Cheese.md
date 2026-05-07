@@ -1,4 +1,4 @@
-# Mexican Mac and Cheese 🧀🌶
+# Mexican Mac and Cheese
 
 ## Ingredients
 - [ ] 7.5 oz cooked 93% lean ground beef, fat drained (1 1/2 Leans)

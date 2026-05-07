@@ -1,4 +1,4 @@
-# Crockpot Gumbo 🥘 
+# Crockpot Gumbo
 
 ## Ingredients 
 - [ ] 3 lbs chicken thighs (boneless, skinless)

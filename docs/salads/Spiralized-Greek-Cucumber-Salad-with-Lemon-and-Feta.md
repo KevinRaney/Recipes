@@ -1,4 +1,4 @@
-# Spiralized Greek Cucumber Salad with Lemon and Feta 🥒 🍋
+# Spiralized Greek Cucumber Salad with Lemon and Feta
 
 Yield:
 3 servings

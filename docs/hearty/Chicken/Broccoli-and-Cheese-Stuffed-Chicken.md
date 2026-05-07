@@ -1,4 +1,4 @@
-# Broccoli and Cheese Stuffed Chicken 🥦🧀
+# Broccoli and Cheese Stuffed Chicken
 
 ## Ingredients
 

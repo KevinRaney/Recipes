@@ -1,4 +1,4 @@
-# Thai Chicken Zucchini Noodles with Spicy Peanut Sauce 🌶🥜
+# Thai Chicken Zucchini Noodles with Spicy Peanut Sauce
 
 Serves: 4
 Per serving:

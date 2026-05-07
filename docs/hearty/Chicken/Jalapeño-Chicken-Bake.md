@@ -1,4 +1,4 @@
-# Jalapeño Chicken Bake 💥
+# Jalapeño Chicken Bake
 
 Makes 6 servings
 Per serving:

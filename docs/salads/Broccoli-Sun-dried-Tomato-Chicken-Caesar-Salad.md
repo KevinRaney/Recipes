@@ -1,4 +1,4 @@
-# Broccoli, Sun-dried Tomato & Chicken Caesar Salad⁣
+# Broccoli, Sun-dried Tomato & Chicken Caesar Salad
 ⁠
 ## Ingredients
 - [ ] 1 ¼ cup of broccoli florets⁣⁠

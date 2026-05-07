@@ -1,4 +1,4 @@
-# Ranch Bacon Cauliflower Bites⠀
+# Ranch Bacon Cauliflower Bites
 
 ## Ingredients
 - [ ] 4 cups (14.08 oz) fresh cauliflower (8 greens)

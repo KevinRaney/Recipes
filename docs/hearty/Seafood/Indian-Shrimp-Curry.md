@@ -1,4 +1,4 @@
-# Indian Shrimp Curry 🍤🌶
+# Indian Shrimp Curry
 
 Makes 4 servings
 Per serving

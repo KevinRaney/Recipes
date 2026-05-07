@@ -1,4 +1,4 @@
-# Taco 🌮 Salad
+# Taco Salad
 
 ## Ingredients
 - [ ] 3 servings roman lettuce (3 greens)

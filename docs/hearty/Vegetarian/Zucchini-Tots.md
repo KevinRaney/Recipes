@@ -1,4 +1,4 @@
-# Zucchini Tots!! 🥒
+# Zucchini Tots!!
 
 ## Ingredients
 - [ ] 2 cups grated zucchini
