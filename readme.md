@@ -1,7 +1,7 @@
 # Lean & Green Recipes
 
 Source for [recipes.raney.co](https://recipes.raney.co), built with
-[MkDocs](https://www.mkdocs.org/) + [Material](https://squidfunk.github.io/mkdocs-material/).
+[Zensical](https://zensical.org/).
 
 ## Prerequisites
 
@@ -15,7 +15,7 @@ Homebrew's Python is PEP 668 "externally managed", so install dependencies into 
 ```sh
 python3 -m venv .venv
 source .venv/bin/activate
-pip install -r mkdocs.requirements
+pip install -r requirements.txt
 ```
 
 The `.venv/` directory is gitignored. Re-activate it in new shells with `source .venv/bin/activate`; leave it with `deactivate`.
@@ -25,7 +25,7 @@ The `.venv/` directory is gitignored. Re-activate it in new shells with `source 
 With the venv activated:
 
 ```sh
-mkdocs serve
+zensical serve
 ```
 
 ## Lint
@@ -37,16 +37,20 @@ CI runs these before building. To run them locally:
 npx markdownlint-cli2 --config .markdownlint.yaml "docs/**/*.md" "readme.md"
 
 # YAML
-yamllint -c .yamllint.yaml mkdocs.yml .github/workflows
+yamllint -c .yamllint.yaml .github/workflows
 
-# Strict build (fails on warnings, broken links, etc.)
-mkdocs build --strict
+# Build
+zensical build
 ```
 
 ## Deploy
 
-`main` deploys automatically via GitHub Actions. To deploy from a workstation:
+`main` deploys automatically via GitHub Actions, which builds the site with
+`zensical build` and publishes the `site/` artifact to GitHub Pages. There is
+no `gh-deploy` equivalent in Zensical — push to `main` and let CI publish.
 
-```sh
-mkdocs gh-deploy
-```
+## Configuration
+
+Site config lives in [`zensical.toml`](zensical.toml). Recipe content lives
+under [`docs/`](docs/) — files and images stay where they are, and URLs match
+the filesystem layout.
