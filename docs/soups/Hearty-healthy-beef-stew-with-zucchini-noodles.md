@@ -1,4 +1,4 @@
-# Hearty & healthy beef stew with zucchini noodles.
+# Hearty & Healthy Beef Stew with Zucchini Noodles
 
 Makes 6 servings
 Per serving

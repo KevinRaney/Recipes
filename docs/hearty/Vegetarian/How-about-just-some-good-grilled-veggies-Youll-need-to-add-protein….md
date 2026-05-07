@@ -1,6 +1,6 @@
-# How about just some good grilled veggies? You’ll need to add protein…
+# Grilled Zucchini with Lemon and Feta
 
-Grilled zucchini with lemon and feta 
+Note: you'll need to add a protein for a complete meal.
 
 Makes 3 servings
 2 greens

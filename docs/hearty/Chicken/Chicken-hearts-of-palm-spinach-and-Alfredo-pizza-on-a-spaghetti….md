@@ -1,5 +1,3 @@
-# Chicken, hearts of palm, spinach and Alfredo pizza on a spaghetti…
-
 # Chicken, hearts of palm, spinach and Alfredo pizza on a spaghetti squash crust
 
 Makes 4 servings

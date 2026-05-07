@@ -1,6 +1,4 @@
-# Sweet Chili Coconut-Lime Grilled Chicken with Coconut-Lime Cauliflower…
-
-Sweet Chili Coconut-Lime Grilled Chicken with Coconut-Lime Cauliflower Rice
+# Sweet Chili Coconut-Lime Grilled Chicken with Coconut-Lime Cauliflower Rice
 
 ## Ingredients
 - [ ] 3/4 cup unsweetened light coconut milk, divided (3 healthy fats)

@@ -1,6 +1,4 @@
-# This weather call for some soup!
-
-Crock Pot Beef Soup
+# Crock Pot Beef Soup
 
 Yield:
 5 servings
