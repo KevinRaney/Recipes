@@ -32,7 +32,7 @@ jobs:
         uses: ibiqlik/action-yamllint@v3
         with:
           config_file: .yamllint.yaml
-          file_or_dir: mkdocs.yml .github/workflows
+          file_or_dir: .github/workflows
 
   build:
     name: Build
@@ -50,13 +50,13 @@ jobs:
         with:
           python-version: "3.12"
           cache: pip
-          cache-dependency-path: mkdocs.requirements
+          cache-dependency-path: requirements.txt
 
       - name: Install dependencies
-        run: pip install -r mkdocs.requirements
+        run: pip install -r requirements.txt
 
-      - name: Build mkdocs (strict)
-        run: mkdocs build --strict
+      - name: Build site
+        run: zensical build
 
       - name: Upload pages artifact
         uses: actions/upload-pages-artifact@v5
