@@ -1,6 +1,6 @@
 # Big Mac Salad
 
-Yeild: 1 serving
+Yield: 1 serving
 
 Per Serving: 1 Leaner, 3 Greens, 1 Healthy Fat, 3 Condiments & 1/2 Optional Snack
 
