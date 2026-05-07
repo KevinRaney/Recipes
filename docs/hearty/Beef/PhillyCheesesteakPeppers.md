@@ -1,6 +1,6 @@
 # Philly Cheesesteak Stuffed Peppers
 
-## Yeilds
+## Yields
 4 Servings, 1 Lean, 2 Green, 1 Healthy Fat, 2 Condiments
 
 ## Ingredients
