@@ -11,9 +11,7 @@ hide:
 
 Recipes grouped by cuisine. Tags are derived from titles and may be inexact for fusion dishes.
 
-## Mexican
-
-_33 recipes_
+## Mexican (33)
 
 - [Barbacoa Beef](../hearty/Beef/Barbacoa-Beef/)
 - [Broccoli Taco Bowl](../salads/Broccoli-Taco-Bowl/)
@@ -49,9 +47,7 @@ _33 recipes_
 - [TACO STUFFED TOMATOES](../hearty/Beef/TACO-STUFFED-TOMATOES/)
 - [Tomatillo & Green Chile Pork Stew](../soups/Tomatillo-Green-Chile-Pork-Stew/)
 
-## Italian
-
-_30 recipes_
+## Italian (30)
 
 - [Caprese Chicken Stuffed Peppers](../hearty/Chicken/Caprese-Chicken-Stuffed-Peppers/)
 - [Caprese Salad](../salads/Caprese-Salad/)
@@ -84,9 +80,7 @@ _30 recipes_
 - [Vegan Cauliflower Alfredo Spaghetti Squash with Basil & Mushrooms](../hearty/Vegetarian/Vegan-Cauliflower-Alfredo-Spaghetti-Squash-with-Basil-Mushrooms/)
 - [Zucchini Boats Stuffed with Ricotta and Pine Nuts](../hearty/Vegetarian/Zucchini-Boats-Stuffed-with-Ricotta-and-Pine-Nuts/)
 
-## Asian
-
-_26 recipes_
+## Asian (26)
 
 - [Beef Pad Thai (Spaghetti Squash)](../hearty/Beef/Beef-Pad-Thai-Spaghetti-Squash/)
 - [Chicken Zucchini Stir-Fry](../hearty/Chicken/Chicken-Zucchini-Stir-Fry/)
@@ -115,9 +109,7 @@ _26 recipes_
 - [Tofu {or chicken} and Broccoli Stir Fry with Peanut Sauce](../hearty/Chicken/Tofu-or-chicken-and-Broccoli-Stir-Fry-with-Peanut-Sauce/)
 - [Zesty Pork Stir-Fry](../hearty/Pork/Zesty-Pork-Stir-Fry/)
 
-## Mediterranean / Greek
-
-_10 recipes_
+## Mediterranean / Greek (10)
 
 - [Basil, feta, and tomato Spaghetti squash](../hearty/Vegetarian/Basil-feta-and-tomato-Spaghetti-squash/)
 - [Cauliflower Pizza with Chicken & Tzatziki](../hearty/Chicken/Cauliflower-Pizza-with-Chicken-Tzatziki/)
@@ -130,9 +122,7 @@ _10 recipes_
 - [My Big Greek Turkey Burger](../hearty/Turkey/My-Big-Greek-Turkey-Burger/)
 - [Spiralized Greek Cucumber Salad with Lemon and Feta](../salads/Spiralized-Greek-Cucumber-Salad-with-Lemon-and-Feta/)
 
-## Cajun & Creole
-
-_6 recipes_
+## Cajun & Creole (6)
 
 - [Cajun Shrimp](../hearty/Seafood/Cajun-Shrimp/)
 - [Cajun Shrimp, Turkey Sausage, and Vegetable Skillet](../hearty/Seafood/Cajun-Shrimp-Turkey-Sausage-and-Vegetable-Skillet/)
@@ -141,9 +131,7 @@ _6 recipes_
 - [Crockpot Gumbo](../soups/Crockpot-Gumbo/)
 - [Surf & Turf in Creamy Cajun Sauce](../hearty/Seafood/Surf-Turf-in-Creamy-Cajun-Sauce/)
 
-## American comfort
-
-_18 recipes_
+## American comfort (18)
 
 - [BBQ Ranch Chicken Salad Sandwich](../hearty/Chicken/BBQ-Ranch-Chicken-Salad-Sandwich/)
 - [BBQ Ranch Shrimp Salad](../hearty/Seafood/BBQ-Ranch-Shrimp-Salad/)

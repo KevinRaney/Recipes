@@ -133,9 +133,7 @@ def render_dimension(heading: str, intro: str, taxonomy, recipes) -> str:
         items = by_tag(recipes, tag)
         if not items:
             continue
-        out.append(f"## {label}")
-        out.append("")
-        out.append(f"_{len(items)} recipe{'s' if len(items) != 1 else ''}_")
+        out.append(f"## {label} ({len(items)})")
         out.append("")
         for r in items:
             out.append(f"- {link_from_browse(r)}")

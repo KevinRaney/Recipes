@@ -11,9 +11,7 @@ hide:
 
 Recipes grouped by dish style.
 
-## Casseroles
-
-_17 recipes_
+## Casseroles (17)
 
 - [Broccoli Cheese Casserole](../hearty/Vegetarian/Broccoli-Cheese-Casserole/)
 - [Caramelized Onion Spaghetti Squash Casserole](../hearty/Vegetarian/Caramelized-Onion-Spaghetti-Squash-Casserole/)
@@ -33,9 +31,7 @@ _17 recipes_
 - [Spaghetti Squash Lasagna Casserole](../hearty/Turkey/Spaghetti-Squash-Lasagna-Casserole/)
 - [Zucchini Pizza Casserole](../hearty/Vegetarian/Zucchini-Pizza-Casserole/)
 
-## Pizzas
-
-_10 recipes_
+## Pizzas (10)
 
 - [Cauliflower Crust Pepperoni Pizza](../hearty/Turkey/Cauliflower-Crust-Pepperoni-Pizza/)
 - [Cauliflower Pizza with Chicken & Tzatziki](../hearty/Chicken/Cauliflower-Pizza-with-Chicken-Tzatziki/)
@@ -48,15 +44,11 @@ _10 recipes_
 - [Thai Peanut Chicken Pizza](../hearty/Chicken/Thai-Peanut-Chicken-Pizza/)
 - [Zucchini Pizza Casserole](../hearty/Vegetarian/Zucchini-Pizza-Casserole/)
 
-## Burgers
-
-_1 recipe_
+## Burgers (1)
 
 - [My Big Greek Turkey Burger](../hearty/Turkey/My-Big-Greek-Turkey-Burger/)
 
-## Meatballs & meatloaf
-
-_6 recipes_
+## Meatballs & meatloaf (6)
 
 - [Mama Mia Meatball Soup](../soups/Mama-Mia-Meatball-Soup/)
 - [Meatball Lasagna](../hearty/Turkey/Meatball-Lasagna/)
@@ -65,9 +57,7 @@ _6 recipes_
 - [Pesto & Mozzarella Stuffed Meatloaf](../hearty/Turkey/Pesto-Mozzarella-Stuffed-Meatloaf/)
 - [Stuffed Chicken Parmesan Meatloaf](../hearty/Chicken/Stuffed-Chicken-Parmesan-Meatloaf/)
 
-## Stuffed
-
-_24 recipes_
+## Stuffed (24)
 
 - [Asparagus Stuffed Chicken Breast](../hearty/Chicken/Asparagus-Stuffed-Chicken-Breast/)
 - [Broccoli and Cheese Stuffed Chicken](../hearty/Chicken/Broccoli-and-Cheese-Stuffed-Chicken/)
@@ -94,9 +84,7 @@ _24 recipes_
 - [TACO STUFFED TOMATOES](../hearty/Beef/TACO-STUFFED-TOMATOES/)
 - [Zucchini Boats Stuffed with Ricotta and Pine Nuts](../hearty/Vegetarian/Zucchini-Boats-Stuffed-with-Ricotta-and-Pine-Nuts/)
 
-## Wraps
-
-_6 recipes_
+## Wraps (6)
 
 - [Big Mac lettuce Wrap](../hearty/Beef/Big-Mac-lettuce-Wrap/)
 - [Buffalo Chicken Wraps](../hearty/Chicken/Buffalo-Chicken-Wraps-1/)
@@ -105,9 +93,7 @@ _6 recipes_
 - [Cilantro-Lime Shrimp Wraps](../hearty/Seafood/Cilantro-Lime-Shrimp-Wraps/)
 - [Tuna wrap](../hearty/Seafood/Tuna-wrap/)
 
-## Dips
-
-_4 recipes_
+## Dips (4)
 
 - [Creamy Buffalo Chicken Bake Dip](../hearty/Chicken/Creamy-Buffalo-Chicken-Bake-Dip/)
 - [Jalapeño Popper Chicken Dip](../hearty/Chicken/Jalapeño-Popper-Chicken-Dip/)

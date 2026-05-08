@@ -11,31 +11,23 @@ hide:
 
 Recipes grouped by primary cooking method. Many recipes work multiple ways - listings reflect the method called out in the title or directions.
 
-## Air fryer
-
-_3 recipes_
+## Air fryer (3)
 
 - [Air Fried Coconut Shrimp](../appetizers/AirFriedCoconutShrimp/)
 - [Bang Bang Shrimp](../hearty/Seafood/Bang-Bang-Shrimp/)
 - [Blackened Salmon Cauliflower Asparagus soup](../hearty/Seafood/Blackened-Salmon-Cauliflower-Asparagus-soup/)
 
-## Instant Pot
-
-_2 recipes_
+## Instant Pot (2)
 
 - [Barbacoa Beef](../hearty/Beef/Barbacoa-Beef/)
 - [Instant Pot Chipotle Chicken & Cauliflower Rice Bowls](../hearty/Chicken/Instant-Pot-Chipotle-Chicken-Cauliflower-Rice-Bowls/)
 
-## Pressure cooker
-
-_2 recipes_
+## Pressure cooker (2)
 
 - [Barbacoa Beef](../hearty/Beef/Barbacoa-Beef/)
 - [Pressure Cooker Lemon Olive Chicken](../hearty/Chicken/Pressure-Cooker-Lemon-Olive-Chicken/)
 
-## Slow cooker / crockpot
-
-_13 recipes_
+## Slow cooker / crockpot (13)
 
 - [Carne Guisada](../hearty/Beef/Carne-Guisada/)
 - [Crock Pot Beef Soup](../soups/This-weather-call-for-some-soup/)
@@ -51,9 +43,7 @@ _13 recipes_
 - [Taste of Thai Crock Pot Chicken](../hearty/Chicken/Taste-of-Thai-Crock-Pot-Chicken/)
 - [Turkey Chili](../soups/TurkeyChili/)
 
-## Grill
-
-_10 recipes_
+## Grill (10)
 
 - [Cauliflower Crust Grilled Cheese](../hearty/Vegetarian/Cauliflower-Crust-Grilled-Cheese/)
 - [Firecracker Grilled Salmon](../hearty/Seafood/Firecracker-Grilled-Salmon/)
@@ -66,9 +56,7 @@ _10 recipes_
 - [SHAWARMA SPICED GRILLED VEGETABLES](../hearty/Vegetarian/SHAWARMA-SPICED-GRILLED-VEGETABLES/)
 - [Sweet Chili Coconut-Lime Grilled Chicken with Coconut-Lime Cauliflower Rice](../hearty/Chicken/Sweet-Chili-Coconut-Lime-Grilled-Chicken-with-Coconut-Lime-Cauliflower…/)
 
-## Oven & roasted
-
-_27 recipes_
+## Oven & roasted (27)
 
 - [Baked Cheese and Tomatoes](../hearty/Vegetarian/BakedCheeseAndTomatoes/)
 - [Baked Cinnamon Jicama (Apples)](../hearty/Vegetarian/Baked-Cinnamon-Jicama-Apples/)
@@ -98,9 +86,7 @@ _27 recipes_
 - [Turkey Spaghetti Squash Bake](../hearty/Turkey/Turkey-Spaghetti-Squash-Bake/)
 - [Twice Baked Cauliflower](../hearty/Vegetarian/Twice-Baked-Cauliflower/)
 
-## Skillet & stovetop
-
-_14 recipes_
+## Skillet & stovetop (14)
 
 - [Cajun Shrimp, Turkey Sausage, and Vegetable Skillet](../hearty/Seafood/Cajun-Shrimp-Turkey-Sausage-and-Vegetable-Skillet/)
 - [Cajun Style Shrimp Skillet](../hearty/Seafood/Cajun-Style-Shrimp-Skillet/)

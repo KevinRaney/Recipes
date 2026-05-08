@@ -11,9 +11,7 @@ hide:
 
 Recipes grouped by their main protein. Click any tag chip on a recipe page to find similar dishes.
 
-## Beef
-
-_38 recipes_
+## Beef (38)
 
 - [Barbacoa Beef](../hearty/Beef/Barbacoa-Beef/)
 - [Beef Pad Thai (Spaghetti Squash)](../hearty/Beef/Beef-Pad-Thai-Spaghetti-Squash/)
@@ -54,9 +52,7 @@ _38 recipes_
 - [Three Mini Zucchini Sliders](../hearty/Beef/Three-Mini-Zucchini-Sliders/)
 - [Unstuffed Cabbage](../hearty/Beef/Unstuffed-Cabbage/)
 
-## Chicken
-
-_100 recipes_
+## Chicken (100)
 
 - [Alice Springs Chicken](../hearty/Chicken/Alice-Springs-Chicken/)
 - [Almond Maple Chicken](../hearty/Chicken/Almond-Maple-Chicken/)
@@ -159,9 +155,7 @@ _100 recipes_
 - [Zucchini Chicken Enchiladas](../hearty/Chicken/Zucchini-Chicken-Enchiladas/)
 - [Zucchini Noodles with Cilantro Lime Chicken](../hearty/Chicken/Zucchini-Noodles-with-Cilantro-Lime-Chicken/)
 
-## Turkey
-
-_19 recipes_
+## Turkey (19)
 
 - [Cauliflower Crust Pepperoni Pizza](../hearty/Turkey/Cauliflower-Crust-Pepperoni-Pizza/)
 - [Crock Pot Cauliflower Pizza Casserole](../hearty/Turkey/Crock-Pot-Cauliflower-Pizza-Casserole/)
@@ -183,9 +177,7 @@ _19 recipes_
 - [Turkey Tetrazzini](../hearty/Turkey/TurkeyTetrazzini/)
 - [Zucchini Noodles and Turkey Sausage!!](../hearty/Turkey/Zucchini-Noodles-and-Turkey-Sausage/)
 
-## Seafood
-
-_40 recipes_
+## Seafood (40)
 
 - [Bang Bang Shrimp](../hearty/Seafood/Bang-Bang-Shrimp/)
 - [BBQ Ranch Shrimp Salad](../hearty/Seafood/BBQ-Ranch-Shrimp-Salad/)
@@ -228,16 +220,12 @@ _40 recipes_
 - [Tuna wrap](../hearty/Seafood/Tuna-wrap/)
 - [Vietnamese Spring Rolls](../hearty/Seafood/Vietnamese-Spring-Rolls/)
 
-## Pork
-
-_2 recipes_
+## Pork (2)
 
 - [Mexican Style Shredded Pork](../hearty/Pork/Mexican-Style-Shredded-Pork/)
 - [Zesty Pork Stir-Fry](../hearty/Pork/Zesty-Pork-Stir-Fry/)
 
-## Vegetarian
-
-_38 recipes_
+## Vegetarian (38)
 
 - [Baked Cheese and Tomatoes](../hearty/Vegetarian/BakedCheeseAndTomatoes/)
 - [Baked Cinnamon Jicama (Apples)](../hearty/Vegetarian/Baked-Cinnamon-Jicama-Apples/)
