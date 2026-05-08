@@ -1,3 +1,19 @@
+---
+title: "Creamy Zucchini Pasta Jambalaya"
+description: "Creamy Zucchini Pasta Jambalaya - Cajun Lean & Green main featuring seafood."
+tags:
+  - main
+  - seafood
+  - shrimp
+  - zucchini
+  - cajun
+servings: 2
+fueling:
+  lean: 1
+  healthy_fats: 1.5
+  condiments: 2
+  greens: 3
+---
 # Creamy Zucchini Pasta Jambalaya
 
 Yield:

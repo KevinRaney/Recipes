@@ -1,3 +1,18 @@
+---
+title: "Instant Pot Chipotle Chicken & Cauliflower Rice Bowls"
+description: "Instant Pot Chipotle Chicken & Cauliflower Rice Bowls - Mexican Lean & Green main featuring chicken made in the Instant Pot."
+tags:
+  - main
+  - chicken
+  - instant-pot
+  - cauliflower
+  - mexican
+fueling:
+  leaner: 1
+  healthy_fats: 1
+  condiments: 3
+  greens: 3
+---
 # Instant Pot Chipotle Chicken & Cauliflower Rice Bowls
 
 1 Leaner | 1 Healthy Fat | 3 Green | 3 Condiments

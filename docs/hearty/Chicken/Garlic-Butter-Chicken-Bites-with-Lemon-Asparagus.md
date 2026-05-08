@@ -1,3 +1,16 @@
+---
+title: "Garlic Butter Chicken Bites with Lemon Asparagus"
+description: "Garlic Butter Chicken Bites with Lemon Asparagus - Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+servings: 4
+fueling:
+  leaner: 1
+  healthy_fats: 1
+  condiments: 3
+  greens: 3
+---
 # Garlic Butter Chicken Bites with Lemon Asparagus
 
 ## Ingredients

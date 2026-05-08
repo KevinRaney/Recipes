@@ -1,3 +1,18 @@
+---
+title: "Cilantro-Lime Shrimp Wraps"
+description: "Cilantro-Lime Shrimp Wraps - Lean & Green main featuring seafood."
+tags:
+  - main
+  - seafood
+  - shrimp
+  - wraps
+servings: 3
+fueling:
+  leanest: 1
+  healthy_fats: 2
+  condiments: 3
+  greens: 2
+---
 # Cilantro-Lime Shrimp Wraps
 
 ## Ingredients

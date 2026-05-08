@@ -1,3 +1,16 @@
+---
+title: "Slow Cooker Cashew Chicken"
+description: "Slow Cooker Cashew Chicken - Asian Lean & Green main featuring chicken made in the slow cooker."
+tags:
+  - main
+  - chicken
+  - slow-cooker
+  - asian
+fueling:
+  leaner: 1
+  healthy_fats: 1
+  condiments: 3
+---
 # Slow Cooker Cashew Chicken
 
 ## Ingredients

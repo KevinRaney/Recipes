@@ -1,3 +1,17 @@
+---
+title: "Sour Cream Chicken Enchilada Skillet"
+description: "Sour Cream Chicken Enchilada Skillet - Mexican Lean & Green main featuring chicken on the stovetop."
+tags:
+  - main
+  - chicken
+  - stovetop
+  - mexican
+servings: 6
+fueling:
+  leaner: 1
+  healthy_fats: 1
+  condiments: 3
+---
 # Sour Cream Chicken Enchilada Skillet
 
 Makes 6 servings

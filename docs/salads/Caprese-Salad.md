@@ -1,3 +1,15 @@
+---
+title: "Caprese Salad"
+description: "Caprese Salad - Italian Lean & Green salad."
+tags:
+  - salad
+  - italian
+servings: 1
+fueling:
+  lean: 1
+  condiments: 2
+  greens: 3
+---
 # Caprese Salad
 
 Makes 1 serving⠀

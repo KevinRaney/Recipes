@@ -1,3 +1,19 @@
+---
+title: "Loaded Cauliflower and Buffalo Chicken Casserole"
+description: "Loaded Cauliflower and Buffalo Chicken Casserole - American Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - cauliflower
+  - american
+  - casserole
+servings: 6
+fueling:
+  leaner: 1
+  healthy_fats: 1
+  condiments: 3
+  greens: 2
+---
 # Loaded Cauliflower and Buffalo Chicken Casserole
 
 Makes 6 servings

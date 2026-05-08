@@ -1,3 +1,17 @@
+---
+title: "Grilled Chicken with Peanut Sauce"
+description: "Grilled Chicken with Peanut Sauce - Asian Lean & Green main featuring chicken off the grill."
+tags:
+  - main
+  - chicken
+  - grill
+  - asian
+servings: 2
+fueling:
+  lean: 2
+  healthy_fats: 1
+  condiments: 2.5
+---
 # Grilled Chicken with Peanut Sauce
 
 2 Servings of Lean | 2.5 Condiments | 1 Snack per Serving

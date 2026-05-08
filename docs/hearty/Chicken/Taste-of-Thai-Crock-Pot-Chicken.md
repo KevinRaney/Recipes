@@ -1,3 +1,15 @@
+---
+title: "Taste of Thai Crock Pot Chicken"
+description: "Taste of Thai Crock Pot Chicken - Asian Lean & Green main featuring chicken made in the slow cooker."
+tags:
+  - main
+  - chicken
+  - slow-cooker
+  - cauliflower
+  - asian
+fueling:
+  condiments: 3
+---
 # Taste of Thai Crock Pot Chicken
 
 Per Serving:

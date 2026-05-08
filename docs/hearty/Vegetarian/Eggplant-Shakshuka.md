@@ -1,3 +1,16 @@
+---
+title: "Eggplant Shakshuka"
+description: "Eggplant Shakshuka - Vegetarian lean & green main."
+tags:
+  - main
+  - vegetarian
+  - eggplant
+servings: 4
+fueling:
+  healthy_fats: 1
+  condiments: 3
+  greens: 2
+---
 # Eggplant Shakshuka
 
 Makes 4 servings

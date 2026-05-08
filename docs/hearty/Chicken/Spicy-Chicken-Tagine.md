@@ -1,3 +1,15 @@
+---
+title: "Spicy Chicken Tagine"
+description: "Spicy Chicken Tagine - Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - zucchini
+servings: 2
+fueling:
+  leaner: 1
+  condiments: 2
+---
 # Spicy Chicken Tagine
 
 Makes 2 servings

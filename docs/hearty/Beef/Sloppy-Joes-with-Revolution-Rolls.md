@@ -1,3 +1,14 @@
+---
+title: "Sloppy Joes with Revolution Rolls"
+description: "Sloppy Joes with Revolution Rolls - Lean & Green main featuring beef."
+tags:
+  - main
+  - beef
+servings: 3
+fueling:
+  lean: 1
+  condiments: 3
+---
 # Sloppy Joes with Revolution Rolls
 
 Yield:

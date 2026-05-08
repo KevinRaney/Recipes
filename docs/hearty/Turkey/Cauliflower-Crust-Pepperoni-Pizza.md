@@ -1,3 +1,17 @@
+---
+title: "Cauliflower Crust Pepperoni Pizza"
+description: "Cauliflower Crust Pepperoni Pizza - Lean & Green main featuring turkey."
+tags:
+  - main
+  - turkey
+  - cauliflower
+  - pizza
+servings: 1
+fueling:
+  lean: 1
+  condiments: 3
+  greens: 3
+---
 # Cauliflower Crust Pepperoni Pizza
 
 ## Yields

@@ -1,3 +1,16 @@
+---
+title: "TACO STUFFED TOMATOES"
+description: "TACO STUFFED TOMATOES - Mexican Lean & Green main featuring beef."
+tags:
+  - main
+  - beef
+  - mexican
+  - stuffed
+servings: 4
+fueling:
+  lean: 1
+  condiments: 2
+---
 # TACO STUFFED TOMATOES
 
 ## Ingredients

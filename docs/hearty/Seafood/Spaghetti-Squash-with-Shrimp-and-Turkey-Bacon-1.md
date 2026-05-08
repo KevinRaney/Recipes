@@ -1,3 +1,18 @@
+---
+title: "Spaghetti Squash with Shrimp and Turkey Bacon"
+description: "Spaghetti Squash with Shrimp and Turkey Bacon - Lean & Green main featuring seafood."
+tags:
+  - main
+  - seafood
+  - shrimp
+  - spaghetti-squash
+servings: 1
+fueling:
+  leanest: 1
+  healthy_fats: 2
+  condiments: 3
+  greens: 3
+---
 # Spaghetti Squash with Shrimp and Turkey Bacon
 
 ## Ingredients

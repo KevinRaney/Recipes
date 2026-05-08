@@ -1,3 +1,15 @@
+---
+title: "Caramelized Onion Spaghetti Squash Casserole"
+description: "Caramelized Onion Spaghetti Squash Casserole - Vegetarian lean & green main."
+tags:
+  - main
+  - vegetarian
+  - spaghetti-squash
+  - casserole
+servings: 5
+fueling:
+  condiments: 1
+---
 # Caramelized Onion Spaghetti Squash Casserole
 
 Yield:

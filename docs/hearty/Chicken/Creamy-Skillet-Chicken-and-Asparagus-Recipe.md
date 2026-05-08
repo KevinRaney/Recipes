@@ -1,3 +1,17 @@
+---
+title: "Creamy Skillet Chicken and Asparagus Recipe"
+description: "Creamy Skillet Chicken and Asparagus Recipe - Lean & Green main featuring chicken on the stovetop."
+tags:
+  - main
+  - chicken
+  - stovetop
+servings: 4
+fueling:
+  leaner: 1
+  healthy_fats: 1
+  condiments: 2
+  greens: 2
+---
 # Creamy Skillet Chicken and Asparagus Recipe
 
 ## Ingredients

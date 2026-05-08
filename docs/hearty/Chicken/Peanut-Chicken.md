@@ -1,3 +1,14 @@
+---
+title: "Peanut Chicken"
+description: "Peanut Chicken - Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+servings: 2
+fueling:
+  lean: 1
+  condiments: 2.5
+---
 # Peanut Chicken
 
 Makes 2 servings

@@ -1,3 +1,14 @@
+---
+title: "Cauliflower Crust Calzone"
+description: "Cauliflower Crust Calzone - Vegetarian lean & green main."
+tags:
+  - main
+  - vegetarian
+  - cauliflower
+servings: 3
+fueling:
+  condiments: 3
+---
 # Cauliflower Crust Calzone
 
 Yield:

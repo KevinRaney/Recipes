@@ -1,3 +1,18 @@
+---
+title: "Spaghetti Squash Pad Thai"
+description: "Spaghetti Squash Pad Thai - Asian Lean & Green main featuring seafood."
+tags:
+  - main
+  - seafood
+  - shrimp
+  - spaghetti-squash
+  - asian
+servings: 3
+fueling:
+  lean: 1
+  condiments: 2
+  greens: 3
+---
 # Spaghetti Squash Pad Thai
 
 ## Ingredients

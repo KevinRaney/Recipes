@@ -1,3 +1,18 @@
+---
+title: "Quick and Easy Mock Shrimp \"Risotto\""
+description: "Quick and Easy Mock Shrimp \"Risotto\" - Lean & Green main featuring seafood."
+tags:
+  - main
+  - seafood
+  - shrimp
+  - cauliflower
+servings: 1
+fueling:
+  lean: 1
+  healthy_fats: 2
+  condiments: 3
+  greens: 3
+---
 # Quick and Easy Mock Shrimp "Risotto"
 
 Yield:

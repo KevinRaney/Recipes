@@ -1,3 +1,17 @@
+---
+title: "Philly Steak Cheese Skillet"
+description: "Philly Steak Cheese Skillet - American Lean & Green main featuring beef on the stovetop."
+tags:
+  - main
+  - beef
+  - stovetop
+  - american
+servings: 5
+fueling:
+  lean: 1
+  condiments: 3
+  greens: 1.5
+---
 # Philly Steak Cheese Skillet
 Makes 5 servings
 1 Lean

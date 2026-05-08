@@ -1,3 +1,16 @@
+---
+title: "Mom's Eggplant Lasagna"
+description: "Mom's Eggplant Lasagna - Vegetarian lean & green main."
+tags:
+  - main
+  - vegetarian
+  - eggplant
+servings: 8
+fueling:
+  lean: 1
+  condiments: 0.25
+  greens: 2
+---
 # Mom's Eggplant Lasagna
 
 Yield:

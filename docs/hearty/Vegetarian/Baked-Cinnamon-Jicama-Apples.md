@@ -1,3 +1,16 @@
+---
+title: "Baked Cinnamon Jicama (Apples)"
+description: "Baked Cinnamon Jicama (Apples) - Vegetarian lean & green main from the oven."
+tags:
+  - main
+  - vegetarian
+  - oven
+fueling:
+  lean: 1
+  healthy_fats: 1
+  condiments: 1.8
+  greens: 2
+---
 # Baked Cinnamon Jicama (Apples) 
 
 Yield:

@@ -1,3 +1,17 @@
+---
+title: "Chicken Pesto Roll-Ups"
+description: "Chicken Pesto Roll-Ups - Italian Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - italian
+servings: 6
+fueling:
+  lean: 1
+  healthy_fats: 1
+  condiments: 1
+  greens: 1
+---
 # Chicken Pesto Roll-Ups
 
 Makes 6 servings

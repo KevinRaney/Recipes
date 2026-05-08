@@ -1,3 +1,17 @@
+---
+title: "Buffalo Chicken Stuffed Peppers"
+description: "Buffalo Chicken Stuffed Peppers - American Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - american
+  - stuffed
+servings: 3
+fueling:
+  lean: 1
+  condiments: 1.6
+  greens: 3
+---
 # Buffalo Chicken Stuffed Peppers
 
 ## Ingredients

@@ -1,3 +1,17 @@
+---
+title: "Shrimp Salad with Peanut Dressing"
+description: "Shrimp Salad with Peanut Dressing - Lean & Green main featuring seafood."
+tags:
+  - main
+  - seafood
+  - shrimp
+servings: 1
+fueling:
+  lean: 1
+  healthy_fats: 2
+  condiments: 2
+  greens: 3
+---
 # Shrimp Salad with Peanut Dressing
 
 ## Ingredients

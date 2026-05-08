@@ -1,3 +1,17 @@
+---
+title: "Teriyaki Salmon Bites"
+description: "Teriyaki Salmon Bites - Asian Lean & Green main featuring seafood."
+tags:
+  - main
+  - seafood
+  - salmon
+  - asian
+servings: 2
+fueling:
+  lean: 1
+  condiments: 2.75
+  greens: 0.12
+---
 # Teriyaki Salmon Bites
 
 Yield: 

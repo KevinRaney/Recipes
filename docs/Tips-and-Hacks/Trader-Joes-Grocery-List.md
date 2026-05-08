@@ -1,3 +1,9 @@
+---
+title: "Trader Joe’s Grocery List"
+description: "Trader Joe’s Grocery List - Lean & Green tip and plan hack."
+tags:
+  - tip
+---
 # Trader Joe’s Grocery List
 
 ## Meatless Lean Items:

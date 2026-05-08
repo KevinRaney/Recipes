@@ -1,3 +1,16 @@
+---
+title: "Mexican Chicken"
+description: "Mexican Chicken - Mexican Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - mexican
+servings: 3
+fueling:
+  lean: 1
+  condiments: 1
+  greens: 1
+---
 # Mexican Chicken
 
 makes 3 servings

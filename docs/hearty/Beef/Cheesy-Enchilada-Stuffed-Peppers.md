@@ -1,3 +1,18 @@
+---
+title: "Cheesy Enchilada Stuffed Peppers"
+description: "Cheesy Enchilada Stuffed Peppers - Mexican Lean & Green main featuring beef."
+tags:
+  - main
+  - beef
+  - cauliflower
+  - mexican
+  - stuffed
+servings: 4
+fueling:
+  lean: 1
+  condiments: 3
+  greens: 3
+---
 # Cheesy Enchilada Stuffed Peppers
 
 Makes 4 servings

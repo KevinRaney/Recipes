@@ -1,3 +1,15 @@
+---
+title: "Cauliflower Ranch Chips"
+description: "Cauliflower Ranch Chips - American Lean & Green appetizer."
+tags:
+  - appetizer
+  - cauliflower
+  - american
+servings: 7
+fueling:
+  condiments: 3
+  greens: 1.75
+---
 # Cauliflower Ranch Chips
 
 ## Ingredients

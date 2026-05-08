@@ -1,3 +1,17 @@
+---
+title: "Margherita Cauliflower Crust Pizza"
+description: "Margherita Cauliflower Crust Pizza - Vegetarian lean & green main."
+tags:
+  - main
+  - vegetarian
+  - cauliflower
+  - pizza
+servings: 3
+fueling:
+  lean: 1
+  condiments: 0.5
+  greens: 2
+---
 # Margherita Cauliflower Crust Pizza
 
 ## Ingredients

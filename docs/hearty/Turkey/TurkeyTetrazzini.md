@@ -1,3 +1,18 @@
+---
+title: "Turkey Tetrazzini"
+description: "Turkey Tetrazzini - Italian Lean & Green main featuring turkey."
+tags:
+  - main
+  - turkey
+  - spaghetti-squash
+  - italian
+servings: 8
+fueling:
+  leaner: 0.5
+  healthy_fats: 0.25
+  condiments: 3
+  greens: 2
+---
 # Turkey Tetrazzini
 
 ## Yields

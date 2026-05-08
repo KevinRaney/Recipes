@@ -1,3 +1,17 @@
+---
+title: "Layered Enchilada Bake"
+description: "Layered Enchilada Bake - Mexican Lean & Green main featuring chicken from the oven."
+tags:
+  - main
+  - chicken
+  - oven
+  - mexican
+servings: 4
+fueling:
+  leaner: 1
+  condiments: 1
+  greens: 3
+---
 # Layered Enchilada Bake
 
 This is layered like a lasagna. Make rectangular spinach "noodles" instead of round "shells".

@@ -1,3 +1,14 @@
+---
+title: "Monterey Chicken"
+description: "Monterey Chicken - Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+servings: 3
+fueling:
+  leaner: 1
+  condiments: 2
+---
 # Monterey Chicken
 
 Makes 3 servings

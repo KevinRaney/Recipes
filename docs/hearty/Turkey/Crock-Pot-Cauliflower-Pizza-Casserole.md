@@ -1,3 +1,17 @@
+---
+title: "Crock Pot Cauliflower Pizza Casserole"
+description: "Crock Pot Cauliflower Pizza Casserole - Lean & Green main featuring turkey made in the slow cooker."
+tags:
+  - main
+  - turkey
+  - slow-cooker
+  - cauliflower
+  - casserole
+  - pizza
+servings: 6
+fueling:
+  greens: 3
+---
 # Crock Pot Cauliflower Pizza Casserole
 
 Makes 6 servings 

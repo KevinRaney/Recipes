@@ -1,3 +1,15 @@
+---
+title: "Melt in Your Mouth Chicken"
+description: "Melt in Your Mouth Chicken - Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+servings: 4
+fueling:
+  leaner: 1
+  healthy_fats: 1
+  condiments: 2.5
+---
 # Melt in Your Mouth Chicken
 
 Yield:

@@ -1,3 +1,18 @@
+---
+title: "Cheesy Italian Chicken Spaghetti Squash Casserole"
+description: "Cheesy Italian Chicken Spaghetti Squash Casserole - Italian Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - spaghetti-squash
+  - italian
+  - casserole
+fueling:
+  lean: 1
+  healthy_fats: 1
+  condiments: 3
+  greens: 3
+---
 # Cheesy Italian Chicken Spaghetti Squash Casserole
 ⁪
 Yields: 1 Serving

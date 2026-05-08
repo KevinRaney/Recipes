@@ -1,3 +1,18 @@
+---
+title: "Laughing cow stuffed chicken"
+description: "Laughing cow stuffed chicken - Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - cauliflower
+  - stuffed
+servings: 1
+fueling:
+  lean: 1
+  healthy_fats: 1
+  condiments: 2
+  greens: 3
+---
 # Laughing cow stuffed chicken
 
 Yield:

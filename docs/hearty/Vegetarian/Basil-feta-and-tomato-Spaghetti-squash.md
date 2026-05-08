@@ -1,3 +1,19 @@
+---
+title: "Basil, feta, and tomato Spaghetti squash"
+description: "Basil, feta, and tomato Spaghetti squash - Mediterranean Vegetarian lean & green main."
+tags:
+  - main
+  - vegetarian
+  - zucchini
+  - spaghetti-squash
+  - mediterranean
+servings: 3
+fueling:
+  lean: 0.25
+  healthy_fats: 1
+  condiments: 1
+  greens: 1
+---
 # Basil, feta, and tomato Spaghetti squash
 
 ## Ingredients

@@ -1,3 +1,17 @@
+---
+title: "Seared Scallops with Coconut Curry Sauce"
+description: "Seared Scallops with Coconut Curry Sauce - Asian Lean & Green main featuring seafood."
+tags:
+  - main
+  - seafood
+  - scallops
+  - cauliflower
+  - asian
+fueling:
+  lean: 1
+  healthy_fats: 2
+  condiments: 3
+---
 # Seared Scallops with Coconut Curry Sauce
 Slightly adapted from Robin Seidel
 

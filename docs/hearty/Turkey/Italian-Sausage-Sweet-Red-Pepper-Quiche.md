@@ -1,3 +1,17 @@
+---
+title: "Italian Sausage Sweet Red Pepper Quiche"
+description: "Italian Sausage Sweet Red Pepper Quiche - Italian Lean & Green main featuring turkey."
+tags:
+  - main
+  - turkey
+  - cauliflower
+  - italian
+servings: 4
+fueling:
+  lean: 1
+  condiments: 1
+  greens: 1.5
+---
 # Italian Sausage Sweet Red Pepper Quiche
 
 ## Ingredients

@@ -1,3 +1,15 @@
+---
+title: "Taco Dip"
+description: "Taco Dip - Mexican Lean & Green appetizer."
+tags:
+  - appetizer
+  - mexican
+  - dip
+fueling:
+  healthy_fats: 1
+  condiments: 2
+  greens: 1
+---
 # Taco Dip
 
 Servings: 12

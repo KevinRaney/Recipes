@@ -1,3 +1,14 @@
+---
+title: "Baked Kabocha or Crustless \"Pumpkin\" Pie"
+description: "Baked Kabocha or Crustless \"Pumpkin\" Pie - Vegetarian lean & green main from the oven."
+tags:
+  - main
+  - vegetarian
+  - oven
+fueling:
+  condiments: 1
+  greens: 4
+---
 # Baked Kabocha or Crustless "Pumpkin" Pie
 
 ## Ingredients

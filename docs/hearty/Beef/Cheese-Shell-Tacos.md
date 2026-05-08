@@ -1,3 +1,14 @@
+---
+title: "Cheese Shell Tacos"
+description: "Cheese Shell Tacos - Lean & Green main featuring beef."
+tags:
+  - main
+  - beef
+servings: 6
+fueling:
+  lean: 1
+  condiments: 3
+---
 # Cheese Shell Tacos
 
 Yield:

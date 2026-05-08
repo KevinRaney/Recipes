@@ -1,3 +1,17 @@
+---
+title: "Sun-dried Tomato, Spinach, and Cheese Stuffed Chicken Breast"
+description: "Sun-dried Tomato, Spinach, and Cheese Stuffed Chicken Breast - Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - stuffed
+servings: 3
+fueling:
+  leaner: 1
+  healthy_fats: 2
+  condiments: 3
+  greens: 1
+---
 # Sun-dried Tomato, Spinach, and Cheese Stuffed Chicken Breast
 
 ## Ingredients

@@ -1,3 +1,17 @@
+---
+title: "Twice Baked Cauliflower"
+description: "Twice Baked Cauliflower - Vegetarian lean & green main from the oven."
+tags:
+  - main
+  - vegetarian
+  - oven
+  - shrimp
+  - cauliflower
+fueling:
+  lean: 0.75
+  condiments: 3
+  greens: 2
+---
 # Twice Baked Cauliflower
 
 ## Ingredients

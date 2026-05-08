@@ -1,3 +1,16 @@
+---
+title: "Turkey Chili"
+description: "Turkey Chili - Lean & Green soup made in the slow cooker."
+tags:
+  - soup
+  - slow-cooker
+servings: 4
+fueling:
+  lean: 0.17
+  healthy_fats: 1
+  condiments: 3
+  greens: 3
+---
 # Turkey Chili
 
 ## Makes 4 servings

@@ -1,3 +1,18 @@
+---
+title: "Jicama Tuna Salad Stuffed Peppers"
+description: "Jicama Tuna Salad Stuffed Peppers - Lean & Green main featuring seafood."
+tags:
+  - main
+  - seafood
+  - tuna
+  - stuffed
+servings: 1
+fueling:
+  lean: 1
+  healthy_fats: 1
+  condiments: 3
+  greens: 3
+---
 # Jicama Tuna Salad Stuffed Peppers
 
 ## Ingredients

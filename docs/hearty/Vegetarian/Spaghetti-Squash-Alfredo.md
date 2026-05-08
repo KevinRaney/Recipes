@@ -1,3 +1,16 @@
+---
+title: "Spaghetti Squash Alfredo"
+description: "Spaghetti Squash Alfredo - Italian Vegetarian lean & green main."
+tags:
+  - main
+  - vegetarian
+  - spaghetti-squash
+  - italian
+fueling:
+  lean: 1
+  condiments: 1
+  greens: 3
+---
 # Spaghetti Squash Alfredo
 
 ## Ingredients

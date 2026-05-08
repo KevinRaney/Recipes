@@ -1,3 +1,19 @@
+---
+title: "Creamy Buffalo Chicken Bake Dip"
+description: "Creamy Buffalo Chicken Bake Dip - American Lean & Green main featuring chicken from the oven."
+tags:
+  - main
+  - chicken
+  - oven
+  - american
+  - dip
+servings: 2
+fueling:
+  lean: 1
+  healthy_fats: 1
+  condiments: 1.5
+  greens: 3
+---
 # Creamy Buffalo Chicken Bake Dip
 
 Yield:

@@ -1,3 +1,14 @@
+---
+title: "Broccoli, Sun-dried Tomato & Chicken Caesar Salad"
+description: "Broccoli, Sun-dried Tomato & Chicken Caesar Salad - Lean & Green salad."
+tags:
+  - salad
+servings: 1
+fueling:
+  leaner: 1
+  healthy_fats: 1
+  greens: 3
+---
 # Broccoli, Sun-dried Tomato & Chicken Caesar Salad
 ⁠
 ## Ingredients

@@ -1,3 +1,18 @@
+---
+title: "Stuffed Chicken Parmesan Meatloaf"
+description: "Stuffed Chicken Parmesan Meatloaf - Italian Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - spaghetti-squash
+  - italian
+  - stuffed
+  - meatballs
+servings: 8
+fueling:
+  lean: 1
+  condiments: 3
+---
 # Stuffed Chicken Parmesan Meatloaf
 
 Yield: Makes 8 Servings

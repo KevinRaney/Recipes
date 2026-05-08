@@ -1,3 +1,14 @@
+---
+title: "Fresh Poke and Avocado Salad"
+description: "Fresh Poke and Avocado Salad - Lean & Green salad."
+tags:
+  - salad
+  - tuna
+servings: 2
+fueling:
+  leanest: 1
+  condiments: 3
+---
 # Fresh Poke and Avocado Salad
 
 Makes 2 servings

@@ -1,3 +1,14 @@
+---
+title: "Salted Caramel Jicama Salad"
+description: "Salted Caramel Jicama Salad - Lean & Green salad."
+tags:
+  - salad
+servings: 4
+fueling:
+  leaner: 0.25
+  condiments: 1.5
+  greens: 1.5
+---
 # Salted Caramel Jicama Salad
 
 YIELD:

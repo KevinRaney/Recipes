@@ -1,3 +1,17 @@
+---
+title: "Loaded Cauliflower bake"
+description: "Loaded Cauliflower bake - Vegetarian lean & green main from the oven."
+tags:
+  - main
+  - vegetarian
+  - oven
+  - cauliflower
+servings: 5
+fueling:
+  lean: 1
+  condiments: 0.5
+  greens: 2
+---
 # Loaded Cauliflower bake
 
 ~~

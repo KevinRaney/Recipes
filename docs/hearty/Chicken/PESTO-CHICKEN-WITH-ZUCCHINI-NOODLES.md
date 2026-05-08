@@ -1,3 +1,18 @@
+---
+title: "PESTO CHICKEN WITH ZUCCHINI NOODLES"
+description: "PESTO CHICKEN WITH ZUCCHINI NOODLES - Italian Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - zucchini
+  - italian
+servings: 2
+fueling:
+  leaner: 1
+  healthy_fats: 1
+  condiments: 3
+  greens: 3
+---
 # PESTO CHICKEN WITH ZUCCHINI NOODLES
 
 Makes 2 servings and per serving you receive:

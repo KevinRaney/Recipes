@@ -1,3 +1,18 @@
+---
+title: "Cauliflower Mexican Rice with Chicken"
+description: "Cauliflower Mexican Rice with Chicken - Mexican Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - cauliflower
+  - mexican
+servings: 2
+fueling:
+  leaner: 1
+  healthy_fats: 1
+  condiments: 3
+  greens: 3
+---
 # Cauliflower Mexican Rice with Chicken
 
 # Cauliflower Mexican Rice with Chicken

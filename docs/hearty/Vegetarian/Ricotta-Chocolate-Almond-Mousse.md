@@ -1,3 +1,15 @@
+---
+title: "Ricotta Chocolate Almond Mousse"
+description: "Ricotta Chocolate Almond Mousse - Italian Vegetarian lean & green main."
+tags:
+  - main
+  - vegetarian
+  - italian
+servings: 1
+fueling:
+  lean: 0.5
+  condiments: 1.75
+---
 # Ricotta Chocolate Almond Mousse
 
 1 Serving: 1/2 Lean, 1 3/4 Condiments, 1 Snack

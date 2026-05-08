@@ -1,3 +1,18 @@
+---
+title: "Zucchini Pizza Casserole"
+description: "Zucchini Pizza Casserole - Vegetarian lean & green main."
+tags:
+  - main
+  - vegetarian
+  - zucchini
+  - casserole
+  - pizza
+servings: 6
+fueling:
+  lean: 1
+  condiments: 3
+  greens: 3
+---
 # Zucchini Pizza Casserole
 
 ## Ingredients

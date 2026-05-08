@@ -1,3 +1,15 @@
+---
+title: "BBQ Ranch Chicken Salad Sandwich"
+description: "BBQ Ranch Chicken Salad Sandwich - American Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - american
+fueling:
+  lean: 1
+  healthy_fats: 1
+  condiments: 2.4
+---
 # BBQ Ranch Chicken Salad Sandwich
 
 Yield: 1 Serving

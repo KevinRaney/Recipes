@@ -1,3 +1,15 @@
+---
+title: "Buffalo Chicken Appetizer"
+description: "Buffalo Chicken Appetizer - American Lean & Green appetizer."
+tags:
+  - appetizer
+  - american
+servings: 2
+fueling:
+  leaner: 1
+  healthy_fats: 1
+  condiments: 3
+---
 # Buffalo Chicken Appetizer
 
 Makes 2 Servings!

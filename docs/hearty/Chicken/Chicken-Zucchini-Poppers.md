@@ -1,3 +1,16 @@
+---
+title: "Chicken Zucchini Poppers"
+description: "Chicken Zucchini Poppers - Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - zucchini
+servings: 2
+fueling:
+  leaner: 1
+  condiments: 3
+  greens: 3
+---
 # Chicken Zucchini Poppers
 
 2 servings with each:

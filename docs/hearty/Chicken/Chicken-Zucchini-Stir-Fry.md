@@ -1,3 +1,18 @@
+---
+title: "Chicken Zucchini Stir-Fry"
+description: "Chicken Zucchini Stir-Fry - Asian Lean & Green main featuring chicken on the stovetop."
+tags:
+  - main
+  - chicken
+  - stovetop
+  - zucchini
+  - asian
+servings: 1
+fueling:
+  leaner: 1
+  condiments: 3
+  greens: 3
+---
 # Chicken Zucchini Stir-Fry
 
 Yield:

@@ -1,3 +1,15 @@
+---
+title: "Oodles of Zucchini Noodles and Turkey Sausage"
+description: "Oodles of Zucchini Noodles and Turkey Sausage - Lean & Green main featuring turkey."
+tags:
+  - main
+  - turkey
+  - zucchini
+servings: 3
+fueling:
+  lean: 1
+  condiments: 1
+---
 # Oodles of Zucchini Noodles and Turkey Sausage
 
 Yield:

@@ -1,3 +1,14 @@
+---
+title: "Tomatillo & Green Chile Pork Stew"
+description: "Tomatillo & Green Chile Pork Stew - Mexican Lean & Green soup."
+tags:
+  - soup
+  - mexican
+fueling:
+  lean: 1
+  condiments: 3
+  greens: 3
+---
 # Tomatillo & Green Chile Pork Stew
 
 ## Ingredients

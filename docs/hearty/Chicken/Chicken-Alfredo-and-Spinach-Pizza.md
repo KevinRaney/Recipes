@@ -1,3 +1,19 @@
+---
+title: "Chicken Alfredo and Spinach \"Pizza\""
+description: "Chicken Alfredo and Spinach \"Pizza\" - Italian Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - cauliflower
+  - italian
+  - pizza
+servings: 1
+fueling:
+  lean: 1
+  healthy_fats: 1
+  condiments: 2
+  greens: 3
+---
 # Chicken Alfredo and Spinach "Pizza"
 
 Yield:

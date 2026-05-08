@@ -1,3 +1,18 @@
+---
+title: "Spaghetti Squash Lasagna Casserole"
+description: "Spaghetti Squash Lasagna Casserole - Lean & Green main featuring turkey."
+tags:
+  - main
+  - turkey
+  - spaghetti-squash
+  - casserole
+servings: 4
+fueling:
+  lean: 1
+  healthy_fats: 0.5
+  condiments: 1
+  greens: 3
+---
 # Spaghetti Squash Lasagna Casserole
 
 ## Ingredients

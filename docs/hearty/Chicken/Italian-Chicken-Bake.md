@@ -1,3 +1,16 @@
+---
+title: "Italian Chicken Bake"
+description: "Italian Chicken Bake - Italian Lean & Green main featuring chicken from the oven."
+tags:
+  - main
+  - chicken
+  - oven
+  - italian
+servings: 2
+fueling:
+  leaner: 1
+  condiments: 3
+---
 # Italian Chicken Bake
 
 Makes 2 servings

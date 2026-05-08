@@ -1,3 +1,17 @@
+---
+title: "Vietnamese Spring Rolls"
+description: "Vietnamese Spring Rolls - Lean & Green main featuring seafood."
+tags:
+  - main
+  - seafood
+  - shrimp
+servings: 1
+fueling:
+  leanest: 1
+  healthy_fats: 2
+  condiments: 2
+  greens: 3
+---
 # Vietnamese Spring Rolls
 
 Nutrition:

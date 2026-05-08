@@ -1,3 +1,17 @@
+---
+title: "Crab-stuffed Mushrooms"
+description: "Crab-stuffed Mushrooms - Lean & Green main featuring seafood."
+tags:
+  - main
+  - seafood
+  - crab
+  - stuffed
+servings: 1
+fueling:
+  leanest: 0.5
+  condiments: 3
+  greens: 3
+---
 # Crab-stuffed Mushrooms
 
 Yield:

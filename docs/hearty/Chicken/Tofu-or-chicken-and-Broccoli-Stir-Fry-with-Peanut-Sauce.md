@@ -1,3 +1,17 @@
+---
+title: "Tofu {or chicken} and Broccoli Stir Fry with Peanut Sauce"
+description: "Tofu {or chicken} and Broccoli Stir Fry with Peanut Sauce - Asian Lean & Green main featuring chicken on the stovetop."
+tags:
+  - main
+  - chicken
+  - stovetop
+  - tofu
+  - asian
+servings: 2
+fueling:
+  leaner: 1
+  condiments: 2.5
+---
 # Tofu {or chicken} and Broccoli Stir Fry with Peanut Sauce
 
 Yield:

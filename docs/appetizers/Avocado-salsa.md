@@ -1,3 +1,13 @@
+---
+title: "Avocado salsa"
+description: "Avocado salsa - Lean & Green appetizer."
+tags:
+  - appetizer
+servings: 16
+fueling:
+  healthy_fats: 1
+  condiments: 2.5
+---
 # Avocado salsa
 
 # Avocado salsa

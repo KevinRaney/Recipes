@@ -1,3 +1,14 @@
+---
+title: "Egg Drop Soup"
+description: "Egg Drop Soup - Lean & Green soup."
+tags:
+  - soup
+servings: 1
+fueling:
+  lean: 0.33
+  healthy_fats: 0.12
+  condiments: 1.3
+---
 # Egg Drop Soup 
 
 1 serving 

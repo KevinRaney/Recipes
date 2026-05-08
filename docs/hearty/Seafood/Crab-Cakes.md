@@ -1,3 +1,16 @@
+---
+title: "Crab Cakes"
+description: "Crab Cakes - Lean & Green main featuring seafood."
+tags:
+  - main
+  - seafood
+  - crab
+servings: 3
+fueling:
+  leaner: 1
+  healthy_fats: 1
+  condiments: 3
+---
 # Crab Cakes
 
 ## Ingredients

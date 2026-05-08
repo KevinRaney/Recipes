@@ -1,3 +1,17 @@
+---
+title: "Bang Bang Shrimp"
+description: "Bang Bang Shrimp - Lean & Green main featuring seafood made in the air fryer."
+tags:
+  - main
+  - seafood
+  - air-fryer
+  - shrimp
+fueling:
+  leanest: 1
+  healthy_fats: 1
+  condiments: 1
+  greens: 3
+---
 # Bang Bang Shrimp
 
 ## Ingredients

@@ -1,3 +1,14 @@
+---
+title: "Egg McMuffin"
+description: "Egg McMuffin - Lean & Green main featuring turkey."
+tags:
+  - main
+  - turkey
+servings: 1
+fueling:
+  leaner: 1
+  condiments: 2
+---
 # Egg McMuffin
 
 Yield:

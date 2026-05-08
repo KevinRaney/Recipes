@@ -1,3 +1,14 @@
+---
+title: "Zucchini Tots!!"
+description: "Zucchini Tots!! - Vegetarian lean & green main."
+tags:
+  - main
+  - vegetarian
+  - zucchini
+servings: 4
+fueling:
+  condiments: 2.5
+---
 # Zucchini Tots!!
 
 ## Ingredients

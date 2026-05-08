@@ -1,3 +1,18 @@
+---
+title: "Teriyaki Tuna Kabobs"
+description: "Teriyaki Tuna Kabobs - Asian Lean & Green main featuring seafood."
+tags:
+  - main
+  - seafood
+  - tuna
+  - asian
+servings: 4
+fueling:
+  leanest: 1
+  healthy_fats: 4
+  condiments: 2
+  greens: 3
+---
 # Teriyaki Tuna Kabobs
 
 ## Ingredients

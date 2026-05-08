@@ -1,3 +1,16 @@
+---
+title: "Mama Mia Meatball Soup"
+description: "Mama Mia Meatball Soup - Lean & Green soup."
+tags:
+  - soup
+  - zucchini
+  - meatballs
+servings: 1
+fueling:
+  lean: 1
+  condiments: 2
+  greens: 3
+---
 # Mama Mia Meatball Soup
 
 Yield:

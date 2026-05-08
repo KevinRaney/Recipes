@@ -1,3 +1,17 @@
+---
+title: "Pasta-less Italian Salad"
+description: "Pasta-less Italian Salad - Italian Lean & Green salad."
+tags:
+  - salad
+  - zucchini
+  - italian
+servings: 7
+fueling:
+  leanest: 1
+  healthy_fats: 2
+  condiments: 3
+  greens: 3
+---
 # Pasta-less Italian Salad
 
 Makes 7 servings, per serving you enjoy:

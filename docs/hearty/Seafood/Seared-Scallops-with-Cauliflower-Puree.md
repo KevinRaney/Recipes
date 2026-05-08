@@ -1,3 +1,16 @@
+---
+title: "Seared Scallops with Cauliflower Puree"
+description: "Seared Scallops with Cauliflower Puree - Lean & Green main featuring seafood."
+tags:
+  - main
+  - seafood
+  - scallops
+  - cauliflower
+servings: 1
+fueling:
+  healthy_fats: 2
+  condiments: 0.5
+---
 # Seared Scallops with Cauliflower Puree
 
 # Seared Scallops with Cauliflower Puree

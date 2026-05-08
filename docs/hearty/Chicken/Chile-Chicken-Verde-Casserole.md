@@ -1,3 +1,19 @@
+---
+title: "Chile Chicken Verde Casserole"
+description: "Chile Chicken Verde Casserole - Mexican Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - cauliflower
+  - mexican
+  - casserole
+servings: 4
+fueling:
+  leaner: 1
+  healthy_fats: 1
+  condiments: 2.75
+  greens: 2
+---
 # Chile Chicken Verde Casserole
 
 Yield:

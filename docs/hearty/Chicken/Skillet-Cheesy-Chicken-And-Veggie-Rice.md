@@ -1,3 +1,18 @@
+---
+title: "Skillet Cheesy Chicken And Veggie “Rice”"
+description: "Skillet Cheesy Chicken And Veggie “Rice” - Lean & Green main featuring chicken on the stovetop."
+tags:
+  - main
+  - chicken
+  - stovetop
+  - cauliflower
+servings: 2
+fueling:
+  leaner: 1
+  healthy_fats: 2
+  condiments: 2
+  greens: 2
+---
 # Skillet Cheesy Chicken And Veggie “Rice”
 
 Makes 2 servings

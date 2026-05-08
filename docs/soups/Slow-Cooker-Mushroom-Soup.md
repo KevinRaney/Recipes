@@ -1,3 +1,13 @@
+---
+title: "Slow Cooker Mushroom Soup"
+description: "Slow Cooker Mushroom Soup - Lean & Green soup made in the slow cooker."
+tags:
+  - soup
+  - slow-cooker
+fueling:
+  condiments: 3
+  greens: 3
+---
 # Slow Cooker Mushroom Soup
 
 Serves 4

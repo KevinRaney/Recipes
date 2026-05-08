@@ -1,3 +1,16 @@
+---
+title: "Summer Shrimp Salad"
+description: "Summer Shrimp Salad - Lean & Green main featuring seafood."
+tags:
+  - main
+  - seafood
+  - shrimp
+fueling:
+  lean: 1
+  healthy_fats: 2
+  condiments: 2
+  greens: 3
+---
 # Summer Shrimp Salad
 
 ## Ingredients

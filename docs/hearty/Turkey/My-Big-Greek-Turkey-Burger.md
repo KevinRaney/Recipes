@@ -1,3 +1,16 @@
+---
+title: "My Big Greek Turkey Burger"
+description: "My Big Greek Turkey Burger - Mediterranean Lean & Green main featuring turkey."
+tags:
+  - main
+  - turkey
+  - mediterranean
+  - burgers
+fueling:
+  lean: 1
+  condiments: 3
+  greens: 1
+---
 # My Big Greek Turkey Burger
 
 Per serving:

@@ -1,3 +1,17 @@
+---
+title: "Mongolian Beef over Cauliflower Rice"
+description: "Mongolian Beef over Cauliflower Rice - Asian Lean & Green main featuring beef."
+tags:
+  - main
+  - beef
+  - cauliflower
+  - asian
+servings: 2
+fueling:
+  lean: 1
+  condiments: 3
+  greens: 3
+---
 # Mongolian Beef over Cauliflower Rice
 
 ## Ingredients

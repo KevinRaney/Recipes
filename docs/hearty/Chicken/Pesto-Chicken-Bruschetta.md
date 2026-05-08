@@ -1,3 +1,17 @@
+---
+title: "Pesto Chicken Bruschetta"
+description: "Pesto Chicken Bruschetta - Italian Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - italian
+servings: 4
+fueling:
+  leaner: 1
+  healthy_fats: 1
+  condiments: 3
+  greens: 3
+---
 # Pesto Chicken Bruschetta
 
 ## Ingredients

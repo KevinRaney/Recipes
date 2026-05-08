@@ -1,3 +1,17 @@
+---
+title: "Firecracker Grilled Salmon"
+description: "Firecracker Grilled Salmon - Lean & Green main featuring seafood off the grill."
+tags:
+  - main
+  - seafood
+  - grill
+  - salmon
+servings: 4
+fueling:
+  lean: 1
+  condiments: 3
+  greens: 1
+---
 # Firecracker Grilled Salmon
 
 ## Ingredients

@@ -1,3 +1,18 @@
+---
+title: "Simple Beef with Broccoli Stir Fry"
+description: "Simple Beef with Broccoli Stir Fry - Asian Lean & Green main featuring beef on the stovetop."
+tags:
+  - main
+  - beef
+  - stovetop
+  - cauliflower
+  - asian
+servings: 2
+fueling:
+  lean: 1
+  condiments: 3
+  greens: 3
+---
 # Simple Beef with Broccoli Stir Fry
 
 Yield:

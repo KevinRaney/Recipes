@@ -1,3 +1,16 @@
+---
+title: "Skillet Steak Fajitas"
+description: "Skillet Steak Fajitas - Lean & Green main featuring beef on the stovetop."
+tags:
+  - main
+  - beef
+  - stovetop
+servings: 1
+fueling:
+  lean: 1
+  condiments: 3
+  greens: 3
+---
 # Skillet Steak Fajitas
 
 Makes 1 serving:

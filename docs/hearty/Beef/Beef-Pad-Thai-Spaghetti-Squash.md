@@ -1,3 +1,17 @@
+---
+title: "Beef Pad Thai (Spaghetti Squash)"
+description: "Beef Pad Thai (Spaghetti Squash) - Asian Lean & Green main featuring beef."
+tags:
+  - main
+  - beef
+  - spaghetti-squash
+  - asian
+servings: 3
+fueling:
+  lean: 1
+  condiments: 1.4
+  greens: 3
+---
 # Beef Pad Thai (Spaghetti Squash)
 
 Makes 3 servings, per serving you enjoy:

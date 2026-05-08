@@ -1,3 +1,16 @@
+---
+title: "Swedish Meatballs with Zucchini Ribbons"
+description: "Swedish Meatballs with Zucchini Ribbons - Lean & Green main featuring beef."
+tags:
+  - main
+  - beef
+  - zucchini
+servings: 1
+fueling:
+  lean: 1
+  condiments: 3
+  greens: 3
+---
 # Swedish Meatballs with Zucchini Ribbons
 
 Yield:

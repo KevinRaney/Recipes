@@ -1,3 +1,16 @@
+---
+title: "Spaghetti Squash Pizza Crust"
+description: "Spaghetti Squash Pizza Crust - Vegetarian lean & green main."
+tags:
+  - main
+  - vegetarian
+  - spaghetti-squash
+  - pizza
+servings: 4
+fueling:
+  lean: 1
+  greens: 3
+---
 # Spaghetti Squash Pizza Crust
 
 Yield:

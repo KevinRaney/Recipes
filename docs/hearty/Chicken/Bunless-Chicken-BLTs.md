@@ -1,3 +1,13 @@
+---
+title: "Bunless Chicken BLTs"
+description: "Bunless Chicken BLTs - Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+servings: 4
+fueling:
+  leaner: 1
+---
 # Bunless Chicken BLTs
 
 ## Pre-Prepare (Optional)

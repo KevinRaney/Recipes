@@ -1,3 +1,16 @@
+---
+title: "Coco-Lime Noodles with Chili Tamari Tofu (Vegan)"
+description: "Coco-Lime Noodles with Chili Tamari Tofu (Vegan) - Vegetarian lean & green main."
+tags:
+  - main
+  - vegetarian
+  - tofu
+fueling:
+  lean: 1
+  healthy_fats: 1
+  condiments: 3
+  greens: 3
+---
 # Coco-Lime Noodles with Chili Tamari Tofu (Vegan)
 
 Yield: 2 Servings

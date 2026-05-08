@@ -1,3 +1,15 @@
+---
+title: "Dijon Salmon Cakes and Arugula with Lemon-Caper Oil"
+description: "Dijon Salmon Cakes and Arugula with Lemon-Caper Oil - Lean & Green main featuring seafood."
+tags:
+  - main
+  - seafood
+  - salmon
+servings: 2
+fueling:
+  lean: 1
+  condiments: 3
+---
 # Dijon Salmon Cakes and Arugula with Lemon-Caper Oil
 
 Yield:

@@ -1,3 +1,20 @@
+---
+title: "Cajun Style Shrimp Skillet"
+description: "Cajun Style Shrimp Skillet - Cajun Lean & Green main featuring seafood on the stovetop."
+tags:
+  - main
+  - seafood
+  - stovetop
+  - shrimp
+  - cauliflower
+  - cajun
+servings: 2
+fueling:
+  leanest: 1
+  healthy_fats: 2
+  condiments: 3
+  greens: 3
+---
 # Cajun Style Shrimp Skillet
 
 ## Ingredients

@@ -1,3 +1,16 @@
+---
+title: "Kung Pao Chicken"
+description: "Kung Pao Chicken - Asian Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - zucchini
+  - asian
+servings: 4
+fueling:
+  leaner: 1
+  condiments: 3
+---
 # Kung Pao Chicken
 
 Makes 4 servings

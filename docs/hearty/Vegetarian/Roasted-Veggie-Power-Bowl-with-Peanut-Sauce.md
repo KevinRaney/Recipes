@@ -1,3 +1,19 @@
+---
+title: "Roasted Veggie Power Bowl with Peanut Sauce"
+description: "Roasted Veggie Power Bowl with Peanut Sauce - Asian Vegetarian lean & green main from the oven."
+tags:
+  - main
+  - vegetarian
+  - oven
+  - cauliflower
+  - tofu
+  - asian
+servings: 4
+fueling:
+  lean: 1
+  condiments: 3
+  greens: 3
+---
 # Roasted Veggie Power Bowl with Peanut Sauce
 
 Yield:

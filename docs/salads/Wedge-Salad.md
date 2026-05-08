@@ -1,3 +1,14 @@
+---
+title: "Wedge Salad"
+description: "Wedge Salad - Lean & Green salad."
+tags:
+  - salad
+servings: 1
+fueling:
+  lean: 1
+  condiments: 3
+  greens: 3
+---
 # Wedge Salad
 
 1 serving

@@ -1,3 +1,17 @@
+---
+title: "Cowboy Butter Chicken with Zoodles"
+description: "Cowboy Butter Chicken with Zoodles - Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - zucchini
+servings: 5
+fueling:
+  leaner: 1
+  healthy_fats: 1
+  condiments: 3
+  greens: 2
+---
 # Cowboy Butter Chicken with Zoodles
 
 Makes 5 servings

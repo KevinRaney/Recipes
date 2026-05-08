@@ -1,3 +1,18 @@
+---
+title: "Green Chile Chicken Enchilada Stuffed Spaghetti Squash"
+description: "Green Chile Chicken Enchilada Stuffed Spaghetti Squash - Mexican Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - spaghetti-squash
+  - mexican
+  - stuffed
+servings: 3
+fueling:
+  leaner: 1
+  condiments: 3
+  greens: 1
+---
 # Green Chile Chicken Enchilada Stuffed Spaghetti Squash
 
 ![Green Chile Chicken Enchilada Stuffed Spaghetti Squash](./Green-Chile-Chicken-Enchilada-Stuffed-Spaghetti-Squash.jpeg)

@@ -1,3 +1,16 @@
+---
+title: "Alice Springs Chicken"
+description: "Alice Springs Chicken - Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+servings: 1
+fueling:
+  lean: 1
+  healthy_fats: 1
+  condiments: 2.25
+  greens: 1
+---
 # Alice Springs Chicken
 
 Yield:

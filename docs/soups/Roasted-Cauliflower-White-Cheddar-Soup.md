@@ -1,3 +1,15 @@
+---
+title: "Roasted Cauliflower White Cheddar Soup"
+description: "Roasted Cauliflower White Cheddar Soup - Lean & Green soup from the oven."
+tags:
+  - soup
+  - oven
+  - cauliflower
+servings: 6
+fueling:
+  healthy_fats: 2
+  condiments: 3
+---
 # Roasted Cauliflower White Cheddar Soup
 
 Yield:

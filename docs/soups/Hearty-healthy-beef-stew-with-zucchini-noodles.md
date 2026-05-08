@@ -1,3 +1,14 @@
+---
+title: "Hearty & Healthy Beef Stew with Zucchini Noodles"
+description: "Hearty & Healthy Beef Stew with Zucchini Noodles - Lean & Green soup."
+tags:
+  - soup
+  - zucchini
+servings: 6
+fueling:
+  lean: 1
+  condiments: 3
+---
 # Hearty & Healthy Beef Stew with Zucchini Noodles
 
 Makes 6 servings

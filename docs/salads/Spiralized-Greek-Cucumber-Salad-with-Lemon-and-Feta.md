@@ -1,3 +1,15 @@
+---
+title: "Spiralized Greek Cucumber Salad with Lemon and Feta"
+description: "Spiralized Greek Cucumber Salad with Lemon and Feta - Mediterranean Lean & Green salad."
+tags:
+  - salad
+  - mediterranean
+servings: 3
+fueling:
+  healthy_fats: 1
+  condiments: 3
+  greens: 1
+---
 # Spiralized Greek Cucumber Salad with Lemon and Feta
 
 Yield:

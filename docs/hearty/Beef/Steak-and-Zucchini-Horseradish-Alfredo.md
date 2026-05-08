@@ -1,3 +1,16 @@
+---
+title: "Steak and Zucchini Horseradish Alfredo"
+description: "Steak and Zucchini Horseradish Alfredo - Italian Lean & Green main featuring beef."
+tags:
+  - main
+  - beef
+  - zucchini
+  - italian
+fueling:
+  lean: 1
+  condiments: 2.25
+  greens: 3
+---
 # Steak and Zucchini Horseradish Alfredo
 
 Serves 4

@@ -1,3 +1,15 @@
+---
+title: "Greek Chicken Burgers with Tzatziki Sauce"
+description: "Greek Chicken Burgers with Tzatziki Sauce - Mediterranean Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - mediterranean
+fueling:
+  healthy_fats: 1
+  condiments: 3
+  greens: 3
+---
 # Greek Chicken Burgers with Tzatziki Sauce
 
 ## Ingredients

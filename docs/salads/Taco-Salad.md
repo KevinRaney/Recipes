@@ -1,3 +1,15 @@
+---
+title: "Taco Salad"
+description: "Taco Salad - Mexican Lean & Green salad."
+tags:
+  - salad
+  - mexican
+fueling:
+  leaner: 0.5
+  healthy_fats: 1
+  condiments: 2
+  greens: 3
+---
 # Taco Salad
 
 ## Ingredients

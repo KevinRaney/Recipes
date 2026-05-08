@@ -1,3 +1,15 @@
+---
+title: "Bell Pepper Nachos"
+description: "Bell Pepper Nachos - Lean & Green appetizer."
+tags:
+  - appetizer
+servings: 1
+fueling:
+  lean: 1
+  healthy_fats: 0.5
+  condiments: 3
+  greens: 3
+---
 # Bell Pepper Nachos
 
 Yield:

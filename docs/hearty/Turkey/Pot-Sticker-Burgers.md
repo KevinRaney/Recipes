@@ -1,3 +1,15 @@
+---
+title: "Pot Sticker Burgers"
+description: "Pot Sticker Burgers - Lean & Green main featuring turkey."
+tags:
+  - main
+  - turkey
+servings: 4
+fueling:
+  leanest: 1
+  condiments: 3
+  greens: 1
+---
 # Pot Sticker Burgers
 
 Yield:

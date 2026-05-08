@@ -1,3 +1,18 @@
+---
+title: "Grilled Buffalo Shrimp"
+description: "Grilled Buffalo Shrimp - American Lean & Green main featuring seafood off the grill."
+tags:
+  - main
+  - seafood
+  - grill
+  - shrimp
+  - american
+servings: 1
+fueling:
+  lean: 1
+  healthy_fats: 1
+  condiments: 2
+---
 # Grilled Buffalo Shrimp
 
 Yield:

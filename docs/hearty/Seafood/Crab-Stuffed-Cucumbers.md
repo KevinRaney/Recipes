@@ -1,3 +1,16 @@
+---
+title: "Crab-Stuffed Cucumbers"
+description: "Crab-Stuffed Cucumbers - Lean & Green main featuring seafood."
+tags:
+  - main
+  - seafood
+  - crab
+  - stuffed
+fueling:
+  healthy_fats: 1
+  condiments: 1
+  greens: 3
+---
 # Crab-Stuffed Cucumbers
 
 Serves 4

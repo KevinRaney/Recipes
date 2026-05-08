@@ -1,3 +1,15 @@
+---
+title: "Pressure Cooker Lemon Olive Chicken"
+description: "Pressure Cooker Lemon Olive Chicken - Lean & Green main featuring chicken made in the pressure cooker."
+tags:
+  - main
+  - chicken
+  - pressure-cooker
+fueling:
+  leaner: 1
+  healthy_fats: 1
+  condiments: 3
+---
 # Pressure Cooker Lemon Olive Chicken
 
 Yield: 4 servings

@@ -1,3 +1,16 @@
+---
+title: "Chicken Egg Foo Young"
+description: "Chicken Egg Foo Young - Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - zucchini
+fueling:
+  lean: 1
+  healthy_fats: 1.5
+  condiments: 1.75
+  greens: 3
+---
 # Chicken Egg Foo Young
 
 ## Ingredients

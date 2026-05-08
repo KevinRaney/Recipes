@@ -1,3 +1,17 @@
+---
+title: "Chipotle Chicken with Avocado Salsa"
+description: "Chipotle Chicken with Avocado Salsa - Mexican Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - cauliflower
+  - zucchini
+  - mexican
+servings: 2
+fueling:
+  leaner: 1
+  condiments: 3
+---
 # Chipotle Chicken with Avocado Salsa
 
 Makes 2 servings

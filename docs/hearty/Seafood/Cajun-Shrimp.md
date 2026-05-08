@@ -1,3 +1,17 @@
+---
+title: "Cajun Shrimp"
+description: "Cajun Shrimp - Cajun Lean & Green main featuring seafood."
+tags:
+  - main
+  - seafood
+  - shrimp
+  - cajun
+servings: 2
+fueling:
+  lean: 1
+  healthy_fats: 1
+  condiments: 1.75
+---
 # Cajun Shrimp
 
 Makes 2 Serving

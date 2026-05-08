@@ -1,3 +1,17 @@
+---
+title: "Chinese Orange Chicken"
+description: "Chinese Orange Chicken - Asian Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - cauliflower
+  - asian
+fueling:
+  lean: 1
+  healthy_fats: 1
+  condiments: 3
+  greens: 2
+---
 # Chinese Orange Chicken
 
 ## Ingredients

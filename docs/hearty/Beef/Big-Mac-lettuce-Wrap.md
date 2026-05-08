@@ -1,3 +1,17 @@
+---
+title: "Big Mac lettuce Wrap"
+description: "Big Mac lettuce Wrap - Lean & Green main featuring beef."
+tags:
+  - main
+  - beef
+  - wraps
+servings: 1
+fueling:
+  leaner: 1
+  healthy_fats: 1
+  condiments: 3
+  greens: 1
+---
 # Big Mac lettuce Wrap
 
 Makes 1 serving!

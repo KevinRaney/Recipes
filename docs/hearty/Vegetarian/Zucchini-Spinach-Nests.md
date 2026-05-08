@@ -1,3 +1,14 @@
+---
+title: "Zucchini Spinach Nests"
+description: "Zucchini Spinach Nests - Vegetarian lean & green main."
+tags:
+  - main
+  - vegetarian
+  - zucchini
+servings: 6
+fueling:
+  condiments: 2.67
+---
 # Zucchini Spinach Nests
 
 # Zucchini Spinach Nests

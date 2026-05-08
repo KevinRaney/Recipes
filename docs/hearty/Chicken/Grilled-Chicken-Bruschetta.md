@@ -1,3 +1,16 @@
+---
+title: "Grilled Chicken Bruschetta"
+description: "Grilled Chicken Bruschetta - Lean & Green main featuring chicken off the grill."
+tags:
+  - main
+  - chicken
+  - grill
+fueling:
+  leaner: 1
+  healthy_fats: 1
+  condiments: 3
+  greens: 2
+---
 # Grilled Chicken Bruschetta
 
 Serving size: 4
