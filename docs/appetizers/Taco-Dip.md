@@ -35,15 +35,10 @@ Per serving:
 - [ ] 1 pound mini bell peppers, sliced in half lengthwise, stems and seeds removed, for serving instead of chips
 
 ## Directions
-* Combine softened cream cheese, greek yogurt, chicken, salsa, and taco seasoning until smooth and well combined. 
-
-* Spread into a rectangle baking dish or pie plate (I used an 11"x7" baking pan). 
-
-* Refrigerate for an hour to let flavors combine (optional). 
-
-* Top with remaining ingredients. Enjoy!
+1. Combine softened cream cheese, greek yogurt, chicken, salsa, and taco seasoning until smooth and well combined.
+2. Spread into a rectangle baking dish or pie plate (I used an 11"x7" baking pan).
+3. Refrigerate for an hour to let flavors combine (optional).
+4. Top with remaining ingredients. Enjoy!
 
 ![Taco Dip](./Taco-Dip.png)
-
-* 
 

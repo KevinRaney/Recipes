@@ -30,17 +30,15 @@ fueling:
 - [ ] 1/4 c. Sour cream, for serving (2 healthy fats)
 
 ## Directions
-* In a large bowl, stir together shrimp, cumin, lime juice, cilantro, garlic, and 1 tsp oil and season with salt and pepper. Toss until combined, then let marinate in the fridge 10 minutes.
+1. In a large bowl, stir together shrimp, cumin, lime juice, cilantro, garlic, and 1 tsp oil and season with salt and pepper. Toss until combined, then let marinate in the fridge 10 minutes.
+2. In a large skillet over medium heat, heat remaining tsp oil. Add shrimp and marinade cook until pink, 2 minutes per side.
+3. Assemble wraps: Add shrimp and avocado to lettuce, drizzle with sour cream, and garnish with cilantro.
 
-* In a large skillet over medium heat, heat remaining tsp oil. Add shrimp and marinade cook until pink, 2 minutes per side.
-
-* Assemble wraps: Add shrimp and avocado to lettuce, drizzle with sour cream, and garnish with cilantro. 
-
-1. Makes 3 servings:
-2. 1 leanest
-3. ~3 condiments
-4. 2 healthy fats
-5. 2 greens
+Makes 3 servings:
+- 1 leanest
+- ~3 condiments
+- 2 healthy fats
+- 2 greens
 
 ![Cilantro-Lime Shrimp Wraps](./Cilantro-Lime-Shrimp-Wraps.png)
 

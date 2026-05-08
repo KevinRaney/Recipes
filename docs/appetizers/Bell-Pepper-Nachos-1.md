@@ -52,7 +52,7 @@ Per serving:
 4. For the Taco seasoned beef:
 5. In a large skillet over medium heat, add meat and seasonings. Cook and break up meat until cooked thoroughly about 6 to 7 min. Drain meat of any excess fat.
 
-* If you want to use 85 to 94% lean ground beef, omit the guacamole or avocado.
+Note: If you want to use 85 to 94% lean ground beef, omit the guacamole or avocado.
 
 ![Bell Pepper Nachos-1](./Bell-Pepper-Nachos-1.png)
 
