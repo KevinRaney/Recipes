@@ -1,3 +1,17 @@
+---
+title: "Sour Cream Beef Bake"
+description: "Sour Cream Beef Bake - Lean & Green main featuring beef from the oven."
+tags:
+  - main
+  - beef
+  - oven
+  - cauliflower
+servings: 6
+fueling:
+  lean: 1
+  condiments: 2
+  greens: 3
+---
 # Sour Cream Beef Bake
 
 Makes 6 servings

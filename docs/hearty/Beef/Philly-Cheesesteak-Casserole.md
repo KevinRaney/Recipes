@@ -1,3 +1,17 @@
+---
+title: "Philly Cheesesteak Casserole"
+description: "Philly Cheesesteak Casserole - American Lean & Green main featuring beef."
+tags:
+  - main
+  - beef
+  - american
+  - casserole
+servings: 6
+fueling:
+  leaner: 1
+  condiments: 2
+  greens: 1
+---
 # Philly Cheesesteak Casserole
 
 Makes 6 servings

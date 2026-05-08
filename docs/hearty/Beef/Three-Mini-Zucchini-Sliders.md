@@ -1,3 +1,13 @@
+---
+title: "Three Mini Zucchini Sliders"
+description: "Three Mini Zucchini Sliders - Lean & Green main featuring beef."
+tags:
+  - main
+  - beef
+  - zucchini
+fueling:
+  condiments: 3
+---
 # Three Mini Zucchini Sliders
 
 (1 Complete Lean & Green w/3 condiments)

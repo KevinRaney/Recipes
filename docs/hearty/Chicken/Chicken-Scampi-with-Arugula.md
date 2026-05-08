@@ -1,3 +1,17 @@
+---
+title: "Chicken Scampi with Arugula"
+description: "Chicken Scampi with Arugula - Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - zucchini
+servings: 4
+fueling:
+  leaner: 1
+  healthy_fats: 4
+  condiments: 3
+  greens: 0.5
+---
 # Chicken Scampi with Arugula
 
  

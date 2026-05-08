@@ -1,3 +1,17 @@
+---
+title: "Spicy Cauliflower Cheese Bake"
+description: "Spicy Cauliflower Cheese Bake - Vegetarian lean & green main from the oven."
+tags:
+  - main
+  - vegetarian
+  - oven
+  - cauliflower
+servings: 1
+fueling:
+  lean: 1
+  condiments: 1
+  greens: 3
+---
 # Spicy Cauliflower Cheese Bake
 
 Yield:

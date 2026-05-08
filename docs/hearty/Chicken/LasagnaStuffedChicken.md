@@ -1,3 +1,16 @@
+---
+title: "Lasagna Stuffed Chicken"
+description: "Lasagna Stuffed Chicken - Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - stuffed
+servings: 4
+fueling:
+  leaner: 1
+  condiments: 2
+  greens: 1
+---
 # Lasagna Stuffed Chicken
 
 ## Ingredients

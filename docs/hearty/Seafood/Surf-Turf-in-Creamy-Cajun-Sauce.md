@@ -1,3 +1,17 @@
+---
+title: "Surf & Turf in Creamy Cajun Sauce"
+description: "Surf & Turf in Creamy Cajun Sauce - Cajun Lean & Green main featuring seafood."
+tags:
+  - main
+  - seafood
+  - shrimp
+  - cauliflower
+  - cajun
+fueling:
+  lean: 1
+  condiments: 3
+  greens: 3
+---
 # Surf & Turf in Creamy Cajun Sauce
 
 ## Ingredients 

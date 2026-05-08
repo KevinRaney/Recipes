@@ -1,3 +1,15 @@
+---
+title: "Cheesy Cauliflower Au Gratin"
+description: "Cheesy Cauliflower Au Gratin - Vegetarian lean & green main."
+tags:
+  - main
+  - vegetarian
+  - cauliflower
+servings: 8
+fueling:
+  healthy_fats: 1
+  condiments: 1
+---
 # Cheesy Cauliflower Au Gratin
 
 ## Ingredients

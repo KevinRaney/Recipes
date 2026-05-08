@@ -1,3 +1,17 @@
+---
+title: "Taco Beef and Zucchini Skillet"
+description: "Taco Beef and Zucchini Skillet - Mexican Lean & Green main featuring beef on the stovetop."
+tags:
+  - main
+  - beef
+  - stovetop
+  - zucchini
+  - mexican
+fueling:
+  lean: 1
+  condiments: 3
+  greens: 3
+---
 # Taco Beef and Zucchini Skillet
 
 Yield: 1 Serving

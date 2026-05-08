@@ -1,3 +1,18 @@
+---
+title: "Philly Cheesesteak Stuffed Peppers"
+description: "Philly Cheesesteak Stuffed Peppers - American Lean & Green main featuring beef."
+tags:
+  - main
+  - beef
+  - american
+  - stuffed
+servings: 4
+fueling:
+  lean: 1
+  healthy_fats: 1
+  condiments: 2
+  greens: 2
+---
 # Philly Cheesesteak Stuffed Peppers
 
 ## Yields

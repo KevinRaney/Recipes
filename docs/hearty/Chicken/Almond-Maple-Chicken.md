@@ -1,3 +1,15 @@
+---
+title: "Almond Maple Chicken"
+description: "Almond Maple Chicken - Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+servings: 1
+fueling:
+  lean: 1
+  healthy_fats: 1
+  condiments: 2
+---
 # Almond Maple Chicken
 
 ## Ingredients

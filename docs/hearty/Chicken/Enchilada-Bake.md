@@ -1,3 +1,18 @@
+---
+title: "Enchilada Bake"
+description: "Enchilada Bake - Mexican Lean & Green main featuring chicken from the oven."
+tags:
+  - main
+  - chicken
+  - oven
+  - mexican
+servings: 3
+fueling:
+  lean: 1
+  healthy_fats: 3
+  condiments: 3
+  greens: 1
+---
 # Enchilada Bake
 
 3 Servings 

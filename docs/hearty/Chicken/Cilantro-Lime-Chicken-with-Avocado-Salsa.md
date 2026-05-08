@@ -1,3 +1,14 @@
+---
+title: "Cilantro Lime Chicken with Avocado Salsa"
+description: "Cilantro Lime Chicken with Avocado Salsa - Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+servings: 4
+fueling:
+  leaner: 1
+  healthy_fats: 1
+---
 # Cilantro Lime Chicken with Avocado Salsa
 
 Makes 4 servings

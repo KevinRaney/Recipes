@@ -1,3 +1,16 @@
+---
+title: "Lean Parmesan Chicken Strips"
+description: "Lean Parmesan Chicken Strips - Italian Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - italian
+servings: 2
+fueling:
+  lean: 1
+  healthy_fats: 1
+  condiments: 3
+---
 # Lean Parmesan Chicken Strips
 
 ## Ingredients

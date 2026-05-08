@@ -1,3 +1,17 @@
+---
+title: "Chimichurri Shrimp"
+description: "Chimichurri Shrimp - Lean & Green main featuring seafood."
+tags:
+  - main
+  - seafood
+  - shrimp
+  - zucchini
+servings: 4
+fueling:
+  leanest: 1
+  healthy_fats: 2
+  condiments: 3
+---
 # Chimichurri Shrimp
 
 Makes 4 servings

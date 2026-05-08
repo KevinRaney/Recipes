@@ -1,3 +1,16 @@
+---
+title: "Tuna wrap"
+description: "Tuna wrap - Lean & Green main featuring seafood."
+tags:
+  - main
+  - seafood
+  - tuna
+  - wraps
+fueling:
+  leanest: 1
+  healthy_fats: 1
+  greens: 1
+---
 # Tuna wrap
 
 1 leanest, 1 green and 1 healthy fat.

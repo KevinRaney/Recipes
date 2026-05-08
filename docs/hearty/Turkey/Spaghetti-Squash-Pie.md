@@ -1,3 +1,14 @@
+---
+title: "Spaghetti Squash Pie"
+description: "Spaghetti Squash Pie - Lean & Green main featuring turkey."
+tags:
+  - main
+  - turkey
+  - spaghetti-squash
+servings: 5
+fueling:
+  lean: 1
+---
 # Spaghetti Squash Pie
 
 ## Ingredients

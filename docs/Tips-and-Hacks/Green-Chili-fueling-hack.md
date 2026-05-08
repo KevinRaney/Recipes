@@ -1,3 +1,9 @@
+---
+title: "Green Chili “fueling hack”"
+description: "Green Chili “fueling hack” - Lean & Green tip and plan hack."
+tags:
+  - tip
+---
 # Green Chili “fueling hack”
 
 ## Ingredients

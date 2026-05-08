@@ -1,3 +1,13 @@
+---
+title: "Chile Relleno Chicken Soup"
+description: "Chile Relleno Chicken Soup - Mexican Lean & Green soup."
+tags:
+  - soup
+  - mexican
+servings: 4
+fueling:
+  condiments: 3
+---
 # Chile Relleno Chicken Soup
 
 ## Servings

@@ -1,3 +1,17 @@
+---
+title: "Cheesy Tuna and Noodles"
+description: "Cheesy Tuna and Noodles - Lean & Green main featuring seafood."
+tags:
+  - main
+  - seafood
+  - tuna
+  - zucchini
+servings: 2
+fueling:
+  lean: 1
+  condiments: 2
+  greens: 3
+---
 # Cheesy Tuna and Noodles
 
 Yield:

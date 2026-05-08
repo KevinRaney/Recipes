@@ -1,3 +1,17 @@
+---
+title: "Greek Lemon Chicken Salad"
+description: "Greek Lemon Chicken Salad - Mediterranean Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - mediterranean
+servings: 2
+fueling:
+  leaner: 1
+  healthy_fats: 1
+  condiments: 2.5
+  greens: 1
+---
 # Greek Lemon Chicken Salad
 
 Yield:

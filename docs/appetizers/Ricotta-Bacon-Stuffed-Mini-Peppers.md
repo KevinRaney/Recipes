@@ -1,3 +1,16 @@
+---
+title: "Ricotta Bacon Stuffed Mini Peppers"
+description: "Ricotta Bacon Stuffed Mini Peppers - Italian Lean & Green appetizer."
+tags:
+  - appetizer
+  - italian
+  - stuffed
+servings: 2
+fueling:
+  lean: 0.5
+  condiments: 1.5
+  greens: 1.5
+---
 # Ricotta Bacon Stuffed Mini Peppers
 
 ## Ingredients

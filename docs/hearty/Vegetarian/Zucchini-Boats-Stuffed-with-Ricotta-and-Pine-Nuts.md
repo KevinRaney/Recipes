@@ -1,3 +1,16 @@
+---
+title: "Zucchini Boats Stuffed with Ricotta and Pine Nuts"
+description: "Zucchini Boats Stuffed with Ricotta and Pine Nuts - Italian Vegetarian lean & green main."
+tags:
+  - main
+  - vegetarian
+  - zucchini
+  - italian
+  - stuffed
+servings: 4
+fueling:
+  condiments: 3
+---
 # Zucchini Boats Stuffed with Ricotta and Pine Nuts
 
 Makes 4 servings

@@ -1,3 +1,16 @@
+---
+title: "Air Fried Coconut Shrimp"
+description: "Air Fried Coconut Shrimp - Lean & Green appetizer made in the air fryer."
+tags:
+  - appetizer
+  - air-fryer
+  - shrimp
+servings: 1
+fueling:
+  leanest: 1
+  healthy_fats: 2
+  condiments: 3
+---
 # Air Fried Coconut Shrimp
 
 ## Ingredients

@@ -1,3 +1,18 @@
+---
+title: "Cauliflower Pizza with Chicken & Tzatziki"
+description: "Cauliflower Pizza with Chicken & Tzatziki - Mediterranean Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - cauliflower
+  - mediterranean
+  - pizza
+fueling:
+  leaner: 1
+  healthy_fats: 1
+  condiments: 1
+  greens: 3
+---
 # Cauliflower Pizza with Chicken & Tzatziki
 
 Yield: 4 servings

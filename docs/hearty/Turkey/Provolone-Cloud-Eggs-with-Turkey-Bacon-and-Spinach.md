@@ -1,3 +1,14 @@
+---
+title: "Provolone Cloud Eggs with Turkey Bacon and Spinach"
+description: "Provolone Cloud Eggs with Turkey Bacon and Spinach - Lean & Green main featuring turkey."
+tags:
+  - main
+  - turkey
+fueling:
+  lean: 1
+  condiments: 1
+  greens: 3
+---
 # Provolone Cloud Eggs with Turkey Bacon and Spinach
 
 ## Ingredients 

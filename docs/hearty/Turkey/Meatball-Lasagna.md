@@ -1,3 +1,16 @@
+---
+title: "Meatball Lasagna"
+description: "Meatball Lasagna - Lean & Green main featuring turkey."
+tags:
+  - main
+  - turkey
+  - zucchini
+  - meatballs
+fueling:
+  lean: 1
+  condiments: 2
+  greens: 3
+---
 # Meatball Lasagna
 
 Per recipe:

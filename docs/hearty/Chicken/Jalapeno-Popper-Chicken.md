@@ -1,3 +1,15 @@
+---
+title: "Jalapeno Popper Chicken"
+description: "Jalapeno Popper Chicken - Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+servings: 6
+fueling:
+  lean: 1
+  condiments: 3
+  greens: 0.33
+---
 # Jalapeno Popper Chicken
 
 6 Servings, per serving:

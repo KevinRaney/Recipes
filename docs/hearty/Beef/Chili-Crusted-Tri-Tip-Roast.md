@@ -1,3 +1,15 @@
+---
+title: "Chili-Crusted Tri-Tip Roast"
+description: "Chili-Crusted Tri-Tip Roast - Lean & Green main featuring beef from the oven."
+tags:
+  - main
+  - beef
+  - oven
+servings: 4
+fueling:
+  lean: 1
+  condiments: 3
+---
 # Chili-Crusted Tri-Tip Roast
 
 4 Servings

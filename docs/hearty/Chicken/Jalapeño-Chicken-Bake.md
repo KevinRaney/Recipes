@@ -1,3 +1,16 @@
+---
+title: "Jalapeño Chicken Bake"
+description: "Jalapeño Chicken Bake - Lean & Green main featuring chicken from the oven."
+tags:
+  - main
+  - chicken
+  - oven
+servings: 6
+fueling:
+  leaner: 1
+  condiments: 3
+  greens: 0.33
+---
 # Jalapeño Chicken Bake
 
 Makes 6 servings

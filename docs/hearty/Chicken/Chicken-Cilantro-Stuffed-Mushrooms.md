@@ -1,3 +1,16 @@
+---
+title: "Chicken Cilantro Stuffed Mushrooms"
+description: "Chicken Cilantro Stuffed Mushrooms - Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - stuffed
+servings: 1
+fueling:
+  lean: 1
+  condiments: 2.5
+  greens: 3
+---
 # Chicken Cilantro Stuffed Mushrooms
 
 1 serving

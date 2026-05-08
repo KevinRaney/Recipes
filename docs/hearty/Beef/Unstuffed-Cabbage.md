@@ -1,3 +1,15 @@
+---
+title: "Unstuffed Cabbage"
+description: "Unstuffed Cabbage - Lean & Green main featuring beef."
+tags:
+  - main
+  - beef
+servings: 5
+fueling:
+  lean: 1
+  condiments: 1.7
+  greens: 3
+---
 # Unstuffed Cabbage
 
 ## Ingredients

@@ -1,3 +1,14 @@
+---
+title: "Broccoli Taco Bowl"
+description: "Broccoli Taco Bowl - Mexican Lean & Green salad."
+tags:
+  - salad
+  - mexican
+servings: 1
+fueling:
+  lean: 1
+  condiments: 3
+---
 # Broccoli Taco Bowl
 
 Yield:

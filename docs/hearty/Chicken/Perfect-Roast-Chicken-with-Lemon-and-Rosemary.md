@@ -1,3 +1,15 @@
+---
+title: "Perfect Roast Chicken with Lemon and Rosemary"
+description: "Perfect Roast Chicken with Lemon and Rosemary - Lean & Green main featuring chicken from the oven."
+tags:
+  - main
+  - chicken
+  - oven
+servings: 5
+fueling:
+  leaner: 1
+  condiments: 2
+---
 # Perfect Roast Chicken with Lemon and Rosemary
 
 Makes 5 servings

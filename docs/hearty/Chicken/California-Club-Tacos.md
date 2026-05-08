@@ -1,3 +1,16 @@
+---
+title: "California Club Tacos"
+description: "California Club Tacos - Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+servings: 1
+fueling:
+  leaner: 1
+  healthy_fats: 1
+  condiments: 1
+  greens: 3
+---
 # California Club Tacos
 
 1 Serving: 1 leaner | 3 greens | 1 healthy fat | 1 condiment

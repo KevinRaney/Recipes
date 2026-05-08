@@ -1,3 +1,17 @@
+---
+title: "Mexican Mac and Cheese"
+description: "Mexican Mac and Cheese - Mexican Lean & Green main featuring beef."
+tags:
+  - main
+  - beef
+  - cauliflower
+  - mexican
+servings: 4
+fueling:
+  lean: 1
+  condiments: 3
+  greens: 3
+---
 # Mexican Mac and Cheese
 
 ## Ingredients

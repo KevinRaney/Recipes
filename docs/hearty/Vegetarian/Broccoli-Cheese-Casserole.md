@@ -1,3 +1,16 @@
+---
+title: "Broccoli Cheese Casserole"
+description: "Broccoli Cheese Casserole - Vegetarian lean & green main."
+tags:
+  - main
+  - vegetarian
+  - casserole
+servings: 1
+fueling:
+  lean: 1
+  healthy_fats: 0.5
+  condiments: 2.5
+---
 # Broccoli Cheese Casserole
 
 1 Serving

@@ -1,3 +1,16 @@
+---
+title: "Baked Cheese and Tomatoes"
+description: "Baked Cheese and Tomatoes - Vegetarian lean & green main from the oven."
+tags:
+  - main
+  - vegetarian
+  - oven
+  - spaghetti-squash
+fueling:
+  lean: 1
+  condiments: 0.25
+  greens: 3
+---
 # Baked Cheese and Tomatoes
 
 ## Yields

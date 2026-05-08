@@ -1,3 +1,18 @@
+---
+title: "Crockpot Gumbo"
+description: "Crockpot Gumbo - Cajun Lean & Green soup made in the slow cooker."
+tags:
+  - soup
+  - slow-cooker
+  - shrimp
+  - cauliflower
+  - cajun
+servings: 8
+fueling:
+  lean: 1
+  condiments: 3
+  greens: 1
+---
 # Crockpot Gumbo
 
 ## Ingredients 

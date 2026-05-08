@@ -1,3 +1,15 @@
+---
+title: "Green Chile Chicken Soup"
+description: "Green Chile Chicken Soup - Mexican Lean & Green soup."
+tags:
+  - soup
+  - mexican
+fueling:
+  leaner: 1
+  healthy_fats: 1
+  condiments: 3
+  greens: 0.5
+---
 # Green Chile Chicken Soup
 
 Yield: 2 servings

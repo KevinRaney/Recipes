@@ -1,3 +1,17 @@
+---
+title: "Oven-Roasted Chicken Shawarma"
+description: "Oven-Roasted Chicken Shawarma - Asian Lean & Green main featuring chicken from the oven."
+tags:
+  - main
+  - chicken
+  - oven
+  - asian
+servings: 4
+fueling:
+  leaner: 1
+  healthy_fats: 1
+  condiments: 3
+---
 # Oven-Roasted Chicken Shawarma
 
 Makes 4 servings

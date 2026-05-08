@@ -1,3 +1,16 @@
+---
+title: "Parmesan Meatloaf (Gluten Free)"
+description: "Parmesan Meatloaf (Gluten Free) - Italian Lean & Green main featuring beef."
+tags:
+  - main
+  - beef
+  - italian
+  - meatballs
+servings: 6
+fueling:
+  lean: 1
+  condiments: 2
+---
 # Parmesan Meatloaf (Gluten Free)
 
 Makes 6 servings

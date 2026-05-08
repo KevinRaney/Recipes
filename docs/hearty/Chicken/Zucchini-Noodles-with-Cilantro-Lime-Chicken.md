@@ -1,3 +1,16 @@
+---
+title: "Zucchini Noodles with Cilantro Lime Chicken"
+description: "Zucchini Noodles with Cilantro Lime Chicken - Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - zucchini
+servings: 3
+fueling:
+  leaner: 1
+  condiments: 3
+  greens: 3
+---
 # Zucchini Noodles with Cilantro Lime Chicken
 
 Makes 3 servings and per serving you receive:

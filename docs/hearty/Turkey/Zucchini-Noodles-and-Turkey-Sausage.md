@@ -1,3 +1,16 @@
+---
+title: "Zucchini Noodles and Turkey Sausage!!"
+description: "Zucchini Noodles and Turkey Sausage!! - Lean & Green main featuring turkey."
+tags:
+  - main
+  - turkey
+  - zucchini
+servings: 3
+fueling:
+  lean: 1
+  condiments: 1.33
+  greens: 3
+---
 # Zucchini Noodles and Turkey Sausage!!
 
 Makes 3 servings

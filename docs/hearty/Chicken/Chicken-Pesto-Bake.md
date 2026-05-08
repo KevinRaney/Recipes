@@ -1,3 +1,17 @@
+---
+title: "Chicken Pesto Bake"
+description: "Chicken Pesto Bake - Italian Lean & Green main featuring chicken from the oven."
+tags:
+  - main
+  - chicken
+  - oven
+  - italian
+servings: 2
+fueling:
+  leaner: 1
+  condiments: 0.5
+  greens: 1
+---
 # Chicken Pesto Bake
 
 Makes 2 servings

@@ -1,3 +1,17 @@
+---
+title: "Mock Tabbouleh Recipe"
+description: "Mock Tabbouleh Recipe - Mediterranean Vegetarian lean & green main."
+tags:
+  - main
+  - vegetarian
+  - cauliflower
+  - mediterranean
+servings: 4
+fueling:
+  healthy_fats: 3
+  condiments: 3
+  greens: 2
+---
 # Mock Tabbouleh Recipe
 
 Makes 4 servings

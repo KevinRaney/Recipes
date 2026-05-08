@@ -1,3 +1,16 @@
+---
+title: "Indian Shrimp Curry"
+description: "Indian Shrimp Curry - Lean & Green main featuring seafood."
+tags:
+  - main
+  - seafood
+  - shrimp
+  - cauliflower
+servings: 4
+fueling:
+  condiments: 3
+  greens: 2
+---
 # Indian Shrimp Curry
 
 Makes 4 servings

@@ -1,3 +1,16 @@
+---
+title: "Broccoli and Cheese Stuffed Chicken"
+description: "Broccoli and Cheese Stuffed Chicken - Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - stuffed
+servings: 3
+fueling:
+  leaner: 1
+  healthy_fats: 1
+  condiments: 2.33
+---
 # Broccoli and Cheese Stuffed Chicken
 
 ## Ingredients

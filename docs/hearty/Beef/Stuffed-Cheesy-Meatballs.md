@@ -1,3 +1,15 @@
+---
+title: "Stuffed Cheesy Meatballs"
+description: "Stuffed Cheesy Meatballs - Lean & Green main featuring beef."
+tags:
+  - main
+  - beef
+  - stuffed
+servings: 1
+fueling:
+  lean: 1
+  condiments: 3
+---
 # Stuffed Cheesy Meatballs
 
 Makes 1 servings

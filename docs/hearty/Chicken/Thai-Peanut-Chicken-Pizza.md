@@ -1,3 +1,17 @@
+---
+title: "Thai Peanut Chicken Pizza"
+description: "Thai Peanut Chicken Pizza - Asian Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - cauliflower
+  - asian
+  - pizza
+fueling:
+  lean: 0.25
+  condiments: 2.5
+  greens: 0.25
+---
 # Thai Peanut Chicken Pizza
 
 ## Ingredients

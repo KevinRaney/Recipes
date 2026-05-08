@@ -1,3 +1,17 @@
+---
+title: "Buffalo Chicken Wraps"
+description: "Buffalo Chicken Wraps - American Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - american
+  - wraps
+servings: 4
+fueling:
+  leaner: 1
+  condiments: 3
+  greens: 1.25
+---
 # Buffalo Chicken Wraps
 
 ## Ingredients

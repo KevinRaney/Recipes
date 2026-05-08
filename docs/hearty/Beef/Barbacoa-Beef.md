@@ -1,3 +1,17 @@
+---
+title: "Barbacoa Beef"
+description: "Barbacoa Beef - Mexican Lean & Green main featuring beef made in the Instant Pot."
+tags:
+  - main
+  - beef
+  - instant-pot
+  - pressure-cooker
+  - mexican
+servings: 4
+fueling:
+  lean: 1
+  condiments: 3
+---
 # Barbacoa Beef
 
 Makes 4 servings

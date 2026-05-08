@@ -1,3 +1,15 @@
+---
+title: "Tex-Mex Chopped Chicken Salad Recipe"
+description: "Tex-Mex Chopped Chicken Salad Recipe - Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+servings: 4
+fueling:
+  leaner: 1
+  condiments: 3
+  greens: 2
+---
 # Tex-Mex Chopped Chicken Salad Recipe
 
 Makes 4 servings:

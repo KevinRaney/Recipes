@@ -1,3 +1,16 @@
+---
+title: "Cauliflower Potato Salad"
+description: "Cauliflower Potato Salad - Lean & Green salad."
+tags:
+  - salad
+  - cauliflower
+servings: 2
+fueling:
+  lean: 0.33
+  healthy_fats: 1
+  condiments: 2
+  greens: 3
+---
 # Cauliflower Potato Salad
 
 ## Ingredients

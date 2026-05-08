@@ -1,3 +1,14 @@
+---
+title: "Easy Chicken and Veggie Salad"
+description: "Easy Chicken and Veggie Salad - Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+servings: 1
+fueling:
+  leaner: 1
+  greens: 3
+---
 # Easy Chicken and Veggie Salad
 
 ## Ingredients

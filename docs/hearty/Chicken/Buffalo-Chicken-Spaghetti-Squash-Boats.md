@@ -1,3 +1,17 @@
+---
+title: "Buffalo Chicken Spaghetti Squash Boats"
+description: "Buffalo Chicken Spaghetti Squash Boats - American Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - spaghetti-squash
+  - american
+fueling:
+  leaner: 1
+  healthy_fats: 1
+  condiments: 1
+  greens: 3
+---
 # Buffalo Chicken Spaghetti Squash Boats
 
 ## Ingredients

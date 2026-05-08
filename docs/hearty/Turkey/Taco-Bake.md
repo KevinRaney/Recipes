@@ -1,3 +1,18 @@
+---
+title: "Taco Bake"
+description: "Taco Bake - Mexican Lean & Green main featuring turkey from the oven."
+tags:
+  - main
+  - turkey
+  - oven
+  - cauliflower
+  - mexican
+servings: 8
+fueling:
+  lean: 1
+  condiments: 3
+  greens: 3
+---
 # Taco Bake
 
 ## Ingredients

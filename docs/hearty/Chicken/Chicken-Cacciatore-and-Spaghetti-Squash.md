@@ -1,3 +1,15 @@
+---
+title: "Chicken Cacciatore and Spaghetti Squash"
+description: "Chicken Cacciatore and Spaghetti Squash - Italian Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - spaghetti-squash
+  - italian
+servings: 6
+fueling:
+  condiments: 2.67
+---
 # Chicken Cacciatore and Spaghetti Squash
 
 Makes 6 servings

@@ -1,3 +1,18 @@
+---
+title: "Chicken, hearts of palm, spinach and Alfredo pizza on a spaghetti squash crust"
+description: "Chicken, hearts of palm, spinach and Alfredo pizza on a spaghetti squash crust - Italian Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - spaghetti-squash
+  - italian
+  - pizza
+servings: 4
+fueling:
+  lean: 1
+  condiments: 1
+  greens: 3
+---
 # Chicken, hearts of palm, spinach and Alfredo pizza on a spaghetti squash crust
 
 Makes 4 servings

@@ -1,3 +1,15 @@
+---
+title: "Thai Chicken Zucchini Noodles with Spicy Peanut Sauce"
+description: "Thai Chicken Zucchini Noodles with Spicy Peanut Sauce - Asian Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - zucchini
+  - asian
+fueling:
+  healthy_fats: 1
+  condiments: 3
+---
 # Thai Chicken Zucchini Noodles with Spicy Peanut Sauce
 
 Serves: 4

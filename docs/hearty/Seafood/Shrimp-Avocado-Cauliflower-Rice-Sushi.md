@@ -1,3 +1,19 @@
+---
+title: "Shrimp & Avocado Cauliflower Rice Sushi"
+description: "Shrimp & Avocado Cauliflower Rice Sushi - Asian Lean & Green main featuring seafood."
+tags:
+  - main
+  - seafood
+  - shrimp
+  - cauliflower
+  - asian
+servings: 2
+fueling:
+  leanest: 1
+  healthy_fats: 2
+  condiments: 3
+  greens: 3
+---
 # Shrimp & Avocado Cauliflower Rice Sushi
 
 Yield:

@@ -1,3 +1,15 @@
+---
+title: "Healthy Chicken Pho with Zucchini Noodles"
+description: "Healthy Chicken Pho with Zucchini Noodles - Lean & Green soup."
+tags:
+  - soup
+  - zucchini
+fueling:
+  leaner: 1
+  healthy_fats: 1
+  condiments: 3
+  greens: 3
+---
 # Healthy Chicken Pho with Zucchini Noodles
 
 Serves: 4 large bowls

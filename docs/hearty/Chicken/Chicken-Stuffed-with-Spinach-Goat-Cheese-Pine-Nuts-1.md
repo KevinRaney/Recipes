@@ -1,3 +1,16 @@
+---
+title: "Chicken Stuffed with Spinach, Goat Cheese & Pine Nuts"
+description: "Chicken Stuffed with Spinach, Goat Cheese & Pine Nuts - Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - stuffed
+servings: 4
+fueling:
+  leaner: 1
+  healthy_fats: 1
+  condiments: 2
+---
 # Chicken Stuffed with Spinach, Goat Cheese & Pine Nuts
 
 Makes 4 servings

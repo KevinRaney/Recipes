@@ -1,3 +1,16 @@
+---
+title: "Filipino Chicken Adobo"
+description: "Filipino Chicken Adobo - Asian Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - cauliflower
+  - asian
+servings: 5
+fueling:
+  leaner: 1
+  condiments: 3
+---
 # Filipino Chicken Adobo
 
 ## Ingredients

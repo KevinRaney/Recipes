@@ -1,3 +1,15 @@
+---
+title: "Bell Pepper Nachos"
+description: "Bell Pepper Nachos - Lean & Green appetizer."
+tags:
+  - appetizer
+servings: 1
+fueling:
+  lean: 1
+  healthy_fats: 1
+  condiments: 1
+  greens: 3
+---
 # Bell Pepper Nachos
 
 Makes 1 serving:

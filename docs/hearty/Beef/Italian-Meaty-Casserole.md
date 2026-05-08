@@ -1,3 +1,16 @@
+---
+title: "Italian Meaty Casserole"
+description: "Italian Meaty Casserole - Italian Lean & Green main featuring beef."
+tags:
+  - main
+  - beef
+  - italian
+  - casserole
+servings: 4
+fueling:
+  lean: 1
+  greens: 0.75
+---
 # Italian Meaty Casserole
 
 Yield:

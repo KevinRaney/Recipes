@@ -1,3 +1,17 @@
+---
+title: "Caprese Chicken Stuffed Peppers"
+description: "Caprese Chicken Stuffed Peppers - Italian Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - italian
+  - stuffed
+fueling:
+  leaner: 1
+  healthy_fats: 1
+  condiments: 1.5
+  greens: 3
+---
 # Caprese Chicken Stuffed Peppers
 
 # Caprese Chicken Stuffed Peppers

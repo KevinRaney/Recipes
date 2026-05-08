@@ -1,3 +1,18 @@
+---
+title: "Sweet Chili Coconut-Lime Grilled Chicken with Coconut-Lime Cauliflower Rice"
+description: "Sweet Chili Coconut-Lime Grilled Chicken with Coconut-Lime Cauliflower Rice - Lean & Green main featuring chicken off the grill."
+tags:
+  - main
+  - chicken
+  - grill
+  - cauliflower
+servings: 4
+fueling:
+  leaner: 1
+  healthy_fats: 1
+  condiments: 3
+  greens: 12
+---
 # Sweet Chili Coconut-Lime Grilled Chicken with Coconut-Lime Cauliflower Rice
 
 ## Ingredients

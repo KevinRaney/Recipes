@@ -1,3 +1,18 @@
+---
+title: "Spaghetti Squash Caprese Bake"
+description: "Spaghetti Squash Caprese Bake - Italian Vegetarian lean & green main from the oven."
+tags:
+  - main
+  - vegetarian
+  - oven
+  - spaghetti-squash
+  - italian
+servings: 2
+fueling:
+  lean: 1
+  condiments: 3
+  greens: 3
+---
 # Spaghetti Squash Caprese Bake
 
 Yield:

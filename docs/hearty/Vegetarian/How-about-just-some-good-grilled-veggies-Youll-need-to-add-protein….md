@@ -1,3 +1,17 @@
+---
+title: "Grilled Zucchini with Lemon and Feta"
+description: "Grilled Zucchini with Lemon and Feta - Mediterranean Vegetarian lean & green main off the grill."
+tags:
+  - main
+  - vegetarian
+  - grill
+  - zucchini
+  - mediterranean
+servings: 3
+fueling:
+  condiments: 3
+  greens: 2
+---
 # Grilled Zucchini with Lemon and Feta
 
 Note: you'll need to add a protein for a complete meal.

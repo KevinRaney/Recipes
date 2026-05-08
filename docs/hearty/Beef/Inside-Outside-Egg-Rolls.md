@@ -1,3 +1,15 @@
+---
+title: "Inside Outside Egg Rolls"
+description: "Inside Outside Egg Rolls - Lean & Green main featuring beef."
+tags:
+  - main
+  - beef
+fueling:
+  lean: 1
+  healthy_fats: 1
+  condiments: 3
+  greens: 0.5
+---
 # Inside Outside Egg Rolls
 
 ## Ingredients

@@ -1,3 +1,19 @@
+---
+title: "Greek Stuffed Chicken"
+description: "Greek Stuffed Chicken - Mediterranean Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - zucchini
+  - mediterranean
+  - stuffed
+servings: 4
+fueling:
+  leaner: 1
+  healthy_fats: 1
+  condiments: 2.5
+  greens: 1.5
+---
 # Greek Stuffed Chicken
 
 Makes 4 servings

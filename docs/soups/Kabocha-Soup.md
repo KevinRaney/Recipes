@@ -1,3 +1,13 @@
+---
+title: "Kabocha Soup"
+description: "Kabocha Soup - Lean & Green soup."
+tags:
+  - soup
+  - crab
+servings: 6
+fueling:
+  condiments: 3
+---
 # Kabocha Soup
 
 Yield:

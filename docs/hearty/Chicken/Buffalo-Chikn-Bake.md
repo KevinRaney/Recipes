@@ -1,3 +1,18 @@
+---
+title: "Buffalo Chik'n Bake"
+description: "Buffalo Chik'n Bake - American Lean & Green main featuring chicken from the oven."
+tags:
+  - main
+  - chicken
+  - oven
+  - cauliflower
+  - american
+servings: 4
+fueling:
+  lean: 1
+  healthy_fats: 2
+  condiments: 2
+---
 # Buffalo Chik'n Bake
 
 # Buffalo Chik'n Bake

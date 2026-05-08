@@ -1,3 +1,17 @@
+---
+title: "Mexican Beef Egg Burrito"
+description: "Mexican Beef Egg Burrito - Mexican Lean & Green main featuring beef."
+tags:
+  - main
+  - beef
+  - mexican
+servings: 1
+fueling:
+  lean: 1
+  healthy_fats: 0.5
+  condiments: 1.75
+  greens: 0.5
+---
 # Mexican Beef Egg Burrito
 
 Yield:

@@ -1,3 +1,11 @@
+---
+title: "Asparagus Stuffed Chicken Breast"
+description: "Asparagus Stuffed Chicken Breast - Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - stuffed
+---
 # Asparagus Stuffed Chicken Breast
 
 ## Ingredients

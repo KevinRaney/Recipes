@@ -1,3 +1,16 @@
+---
+title: "Cheeseburger Casserole"
+description: "Cheeseburger Casserole - Lean & Green main featuring beef."
+tags:
+  - main
+  - beef
+  - cauliflower
+  - casserole
+servings: 5
+fueling:
+  lean: 1
+  condiments: 3
+---
 # Cheeseburger Casserole
 
 Makes 5 servings

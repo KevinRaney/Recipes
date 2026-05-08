@@ -1,3 +1,15 @@
+---
+title: "Cauliflower Crust Grilled Cheese"
+description: "Cauliflower Crust Grilled Cheese - Vegetarian lean & green main off the grill."
+tags:
+  - main
+  - vegetarian
+  - grill
+  - cauliflower
+servings: 2
+fueling:
+  condiments: 2.25
+---
 # Cauliflower Crust Grilled Cheese
 
 Yield:

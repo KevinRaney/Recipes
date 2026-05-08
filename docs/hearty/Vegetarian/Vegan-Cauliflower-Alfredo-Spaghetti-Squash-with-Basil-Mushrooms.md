@@ -1,3 +1,17 @@
+---
+title: "Vegan Cauliflower Alfredo Spaghetti Squash with Basil & Mushrooms"
+description: "Vegan Cauliflower Alfredo Spaghetti Squash with Basil & Mushrooms - Italian Vegetarian lean & green main."
+tags:
+  - main
+  - vegetarian
+  - cauliflower
+  - spaghetti-squash
+  - italian
+fueling:
+  healthy_fats: 1
+  condiments: 3
+  greens: 3
+---
 # Vegan Cauliflower Alfredo Spaghetti Squash with Basil & Mushrooms
 
 ## Ingredients

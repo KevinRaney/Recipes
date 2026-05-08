@@ -1,3 +1,17 @@
+---
+title: "Mexican Style Shredded Pork"
+description: "Mexican Style Shredded Pork - Mexican Lean & Green main featuring pork made in the slow cooker."
+tags:
+  - main
+  - pork
+  - slow-cooker
+  - mexican
+servings: 4
+fueling:
+  lean: 4
+  condiments: 2
+  greens: 1
+---
 # Mexican Style Shredded Pork
 
 ## Ingredients

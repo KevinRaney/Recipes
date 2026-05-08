@@ -1,3 +1,16 @@
+---
+title: "Creamy Tuscan Garlic Chicken"
+description: "Creamy Tuscan Garlic Chicken - Italian Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - zucchini
+  - italian
+servings: 3
+fueling:
+  leaner: 1
+  condiments: 3
+---
 # Creamy Tuscan Garlic Chicken
 
 Makes 3 servings

@@ -1,3 +1,13 @@
+---
+title: "Onion Roasted Chicken"
+description: "Onion Roasted Chicken - Lean & Green soup from the oven."
+tags:
+  - soup
+  - oven
+servings: 8
+fueling:
+  condiments: 3
+---
 # Onion Roasted Chicken
 
 Makes 8 servings

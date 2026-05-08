@@ -1,3 +1,15 @@
+---
+title: "Zuppa Toscana Soup"
+description: "Zuppa Toscana Soup - Lean & Green soup."
+tags:
+  - soup
+  - cauliflower
+servings: 4
+fueling:
+  lean: 1
+  condiments: 3
+  greens: 3
+---
 # Zuppa Toscana Soup
 (an adaptation of Olive Garden’s soup)
 

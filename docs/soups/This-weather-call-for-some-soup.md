@@ -1,3 +1,14 @@
+---
+title: "Crock Pot Beef Soup"
+description: "Crock Pot Beef Soup - Lean & Green soup made in the slow cooker."
+tags:
+  - soup
+  - slow-cooker
+servings: 5
+fueling:
+  lean: 1
+  condiments: 3
+---
 # Crock Pot Beef Soup
 
 Yield:

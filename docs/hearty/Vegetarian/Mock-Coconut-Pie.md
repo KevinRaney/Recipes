@@ -1,3 +1,17 @@
+---
+title: "Mock Coconut Pie"
+description: "Mock Coconut Pie - Vegetarian lean & green main."
+tags:
+  - main
+  - vegetarian
+  - spaghetti-squash
+servings: 2
+fueling:
+  lean: 0.17
+  healthy_fats: 0.5
+  condiments: 2
+  greens: 1
+---
 # Mock Coconut Pie
 
 Yield:

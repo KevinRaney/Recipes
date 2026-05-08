@@ -1,3 +1,14 @@
+---
+title: "Jalapeno Cheddar Turkey Burgers"
+description: "Jalapeno Cheddar Turkey Burgers - Lean & Green main featuring turkey."
+tags:
+  - main
+  - turkey
+servings: 4
+fueling:
+  leaner: 1
+  condiments: 1.33
+---
 # Jalapeno Cheddar Turkey Burgers
 
 Yield:

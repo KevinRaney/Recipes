@@ -1,3 +1,15 @@
+---
+title: "Louisiana Hot Crab Dip"
+description: "Louisiana Hot Crab Dip - Lean & Green appetizer."
+tags:
+  - appetizer
+  - crab
+  - dip
+servings: 7
+fueling:
+  healthy_fats: 1
+  condiments: 3
+---
 # Louisiana Hot Crab Dip
 
 Makes 7 servings and per serving you receive:

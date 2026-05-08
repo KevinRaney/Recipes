@@ -1,3 +1,16 @@
+---
+title: "Zucchini Chicken Enchiladas"
+description: "Zucchini Chicken Enchiladas - Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - zucchini
+servings: 5
+fueling:
+  leaner: 1
+  condiments: 3
+  greens: 3
+---
 # Zucchini Chicken Enchiladas
 
 Makes 5 servings

@@ -1,3 +1,16 @@
+---
+title: "Greek Chicken Stew"
+description: "Greek Chicken Stew - Mediterranean Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - cauliflower
+  - mediterranean
+servings: 4
+fueling:
+  leaner: 1
+  condiments: 2
+---
 # Greek Chicken Stew
 
 Makes 4 servings

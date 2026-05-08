@@ -1,3 +1,14 @@
+---
+title: "Braised Balsamic Chicken"
+description: "Braised Balsamic Chicken - Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+servings: 6
+fueling:
+  leaner: 1
+  condiments: 3
+---
 # Braised Balsamic Chicken
 
 ## Ingredients

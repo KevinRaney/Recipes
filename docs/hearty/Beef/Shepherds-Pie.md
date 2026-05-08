@@ -1,3 +1,15 @@
+---
+title: "Shepherd's Pie"
+description: "Shepherd's Pie - Lean & Green main featuring beef."
+tags:
+  - main
+  - beef
+servings: 4
+fueling:
+  lean: 1
+  condiments: 0.75
+  greens: 0.75
+---
 # Shepherd's Pie
 
 Yield:

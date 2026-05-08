@@ -1,3 +1,15 @@
+---
+title: "Best Eggplant Rollatini with Spinach"
+description: "Best Eggplant Rollatini with Spinach - Vegetarian lean & green main."
+tags:
+  - main
+  - vegetarian
+  - eggplant
+fueling:
+  lean: 0.5
+  condiments: 2
+  greens: 2
+---
 # Best Eggplant Rollatini with Spinach
 
 Serves: 5. Each serving provides ~1/2 lean protein, ~2 greens, and ~2 condiments.

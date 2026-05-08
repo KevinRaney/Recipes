@@ -1,3 +1,13 @@
+---
+title: "Turkey Spaghetti Squash Bake"
+description: "Turkey Spaghetti Squash Bake - Lean & Green main featuring turkey from the oven."
+tags:
+  - main
+  - turkey
+  - oven
+  - spaghetti-squash
+servings: 2
+---
 # Turkey Spaghetti Squash Bake
 
 Yield:

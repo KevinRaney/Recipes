@@ -1,3 +1,17 @@
+---
+title: "Pizza Casserole"
+description: "Pizza Casserole - Lean & Green main featuring turkey."
+tags:
+  - main
+  - turkey
+  - casserole
+  - pizza
+servings: 5
+fueling:
+  lean: 1
+  condiments: 1
+  greens: 4.5
+---
 # Pizza Casserole
 
 Makes 5 servings

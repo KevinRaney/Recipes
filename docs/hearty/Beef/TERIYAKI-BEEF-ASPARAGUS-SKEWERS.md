@@ -1,3 +1,16 @@
+---
+title: "TERIYAKI BEEF ASPARAGUS SKEWERS"
+description: "TERIYAKI BEEF ASPARAGUS SKEWERS - Asian Lean & Green main featuring beef."
+tags:
+  - main
+  - beef
+  - asian
+servings: 2
+fueling:
+  lean: 1
+  condiments: 3
+  greens: 1
+---
 # TERIYAKI BEEF ASPARAGUS SKEWERS
 
 Makes 2 servings

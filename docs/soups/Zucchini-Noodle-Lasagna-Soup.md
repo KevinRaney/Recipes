@@ -1,3 +1,13 @@
+---
+title: "Zucchini Noodle Lasagna Soup"
+description: "Zucchini Noodle Lasagna Soup - Lean & Green soup."
+tags:
+  - soup
+  - zucchini
+servings: 3
+fueling:
+  greens: 1
+---
 # Zucchini Noodle Lasagna Soup
 Makes 3 servings:
 

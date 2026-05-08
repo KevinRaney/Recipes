@@ -1,3 +1,15 @@
+---
+title: "Chile Rellenos"
+description: "Chile Rellenos - Mexican Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - mexican
+fueling:
+  lean: 1
+  condiments: 1.25
+  greens: 1.5
+---
 # Chile Rellenos
 
 Yield: 4 Serving

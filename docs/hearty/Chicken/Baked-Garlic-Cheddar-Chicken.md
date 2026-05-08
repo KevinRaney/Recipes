@@ -1,3 +1,16 @@
+---
+title: "Baked Garlic Cheddar Chicken"
+description: "Baked Garlic Cheddar Chicken - Lean & Green main featuring chicken from the oven."
+tags:
+  - main
+  - chicken
+  - oven
+servings: 8
+fueling:
+  leaner: 1
+  healthy_fats: 1
+  condiments: 3
+---
 # Baked Garlic Cheddar Chicken 
 Makes 8 servings
 Per serving

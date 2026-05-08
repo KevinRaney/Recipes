@@ -1,3 +1,18 @@
+---
+title: "SHAWARMA SPICED GRILLED VEGETABLES"
+description: "SHAWARMA SPICED GRILLED VEGETABLES - Asian Vegetarian lean & green main off the grill."
+tags:
+  - main
+  - vegetarian
+  - grill
+  - zucchini
+  - eggplant
+  - asian
+servings: 6
+fueling:
+  condiments: 3
+  greens: 3
+---
 # SHAWARMA SPICED GRILLED VEGETABLES
 
 Makes 6 servings

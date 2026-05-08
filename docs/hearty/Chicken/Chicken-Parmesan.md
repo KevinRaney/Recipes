@@ -1,3 +1,15 @@
+---
+title: "Chicken Parmesan"
+description: "Chicken Parmesan - Italian Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - italian
+fueling:
+  leaner: 1
+  healthy_fats: 1
+  condiments: 3
+---
 # Chicken Parmesan
 
 Yield: 2 Servings

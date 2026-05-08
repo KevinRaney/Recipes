@@ -1,3 +1,15 @@
+---
+title: "Huevos Rancheros"
+description: "Huevos Rancheros - Mexican Vegetarian lean & green main."
+tags:
+  - main
+  - vegetarian
+  - mexican
+servings: 1
+fueling:
+  healthy_fats: 2
+  condiments: 3
+---
 # Huevos Rancheros
 
 ## Ingredients

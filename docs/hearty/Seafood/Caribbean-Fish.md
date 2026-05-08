@@ -1,3 +1,15 @@
+---
+title: "Caribbean Fish"
+description: "Caribbean Fish - Lean & Green main featuring seafood."
+tags:
+  - main
+  - seafood
+servings: 4
+fueling:
+  leanest: 1
+  condiments: 3
+  greens: 2
+---
 # Caribbean Fish
 
 Yield:

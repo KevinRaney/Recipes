@@ -1,3 +1,15 @@
+---
+title: "Vegan Tikka Kababs"
+description: "Vegan Tikka Kababs - Vegetarian lean & green main."
+tags:
+  - main
+  - vegetarian
+servings: 2
+fueling:
+  lean: 1
+  healthy_fats: 0.5
+  condiments: 1.5
+---
 # Vegan Tikka Kababs
 
 Yields:

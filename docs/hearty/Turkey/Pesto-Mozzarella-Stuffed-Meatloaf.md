@@ -1,3 +1,18 @@
+---
+title: "Pesto & Mozzarella Stuffed Meatloaf"
+description: "Pesto & Mozzarella Stuffed Meatloaf - Italian Lean & Green main featuring turkey."
+tags:
+  - main
+  - turkey
+  - italian
+  - stuffed
+  - meatballs
+fueling:
+  lean: 1
+  healthy_fats: 1
+  condiments: 1
+  greens: 1.33
+---
 # Pesto & Mozzarella Stuffed Meatloaf
 
 Servings 6 servings

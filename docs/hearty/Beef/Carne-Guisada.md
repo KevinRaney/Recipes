@@ -1,3 +1,17 @@
+---
+title: "Carne Guisada"
+description: "Carne Guisada - Mexican Lean & Green main featuring beef made in the slow cooker."
+tags:
+  - main
+  - beef
+  - slow-cooker
+  - mexican
+servings: 4
+fueling:
+  lean: 1
+  condiments: 3
+  greens: 1
+---
 # Carne Guisada
 
 Makes 4 servings

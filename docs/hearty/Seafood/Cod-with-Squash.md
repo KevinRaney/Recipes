@@ -1,3 +1,17 @@
+---
+title: "Cod with Squash"
+description: "Cod with Squash - Lean & Green main featuring seafood."
+tags:
+  - main
+  - seafood
+  - cod
+  - zucchini
+fueling:
+  leanest: 1
+  healthy_fats: 2
+  condiments: 1
+  greens: 3
+---
 # Cod with Squash
 
 (4 servings: 1 leanest, 2 healthy fats, 3 green, and 1 condiment per serving)

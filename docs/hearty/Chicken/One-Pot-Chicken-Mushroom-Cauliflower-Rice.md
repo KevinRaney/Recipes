@@ -1,3 +1,15 @@
+---
+title: "One-Pot Chicken & Mushroom Cauliflower Rice"
+description: "One-Pot Chicken & Mushroom Cauliflower Rice - Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - cauliflower
+servings: 3
+fueling:
+  lean: 1
+  condiments: 3
+---
 # One-Pot Chicken & Mushroom Cauliflower Rice
 
 Yield:

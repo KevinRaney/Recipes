@@ -1,3 +1,17 @@
+---
+title: "Poblano Chicken Casserole"
+description: "Poblano Chicken Casserole - Mexican Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - mexican
+  - casserole
+servings: 4
+fueling:
+  lean: 1
+  healthy_fats: 1
+  greens: 3
+---
 # Poblano Chicken Casserole
 
 # Poblano Chicken Casserole

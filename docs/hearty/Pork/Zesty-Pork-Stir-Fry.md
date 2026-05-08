@@ -1,3 +1,16 @@
+---
+title: "Zesty Pork Stir-Fry"
+description: "Zesty Pork Stir-Fry - Asian Lean & Green main featuring pork on the stovetop."
+tags:
+  - main
+  - pork
+  - stovetop
+  - asian
+servings: 2
+fueling:
+  lean: 1
+  condiments: 3
+---
 # Zesty Pork Stir-Fry
 
 Makes 2 servings, each serving is 

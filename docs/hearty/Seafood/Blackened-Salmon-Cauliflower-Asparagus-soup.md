@@ -1,3 +1,18 @@
+---
+title: "Blackened Salmon Cauliflower Asparagus soup"
+description: "Blackened Salmon Cauliflower Asparagus soup - Lean & Green main featuring seafood made in the air fryer."
+tags:
+  - main
+  - seafood
+  - air-fryer
+  - salmon
+  - cauliflower
+servings: 1
+fueling:
+  lean: 1
+  condiments: 1
+  greens: 2
+---
 # Blackened Salmon Cauliflower Asparagus soup
 
 1 serving lean and green

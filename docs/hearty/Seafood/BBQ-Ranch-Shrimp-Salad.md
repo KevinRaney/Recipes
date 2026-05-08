@@ -1,3 +1,18 @@
+---
+title: "BBQ Ranch Shrimp Salad"
+description: "BBQ Ranch Shrimp Salad - American Lean & Green main featuring seafood."
+tags:
+  - main
+  - seafood
+  - shrimp
+  - american
+servings: 1
+fueling:
+  leanest: 1
+  healthy_fats: 2
+  condiments: 3
+  greens: 3
+---
 # BBQ Ranch Shrimp Salad
 
 ## Ingredients

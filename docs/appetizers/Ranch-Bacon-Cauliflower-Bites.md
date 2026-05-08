@@ -1,3 +1,16 @@
+---
+title: "Ranch Bacon Cauliflower Bites"
+description: "Ranch Bacon Cauliflower Bites - American Lean & Green appetizer."
+tags:
+  - appetizer
+  - cauliflower
+  - american
+servings: 4
+fueling:
+  lean: 0.75
+  condiments: 3
+  greens: 2
+---
 # Ranch Bacon Cauliflower Bites
 
 ## Ingredients

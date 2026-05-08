@@ -1,3 +1,15 @@
+---
+title: "Zucchini Ravioli"
+description: "Zucchini Ravioli - Vegetarian lean & green main."
+tags:
+  - main
+  - vegetarian
+  - zucchini
+servings: 2
+fueling:
+  lean: 1
+  condiments: 3
+---
 # Zucchini Ravioli
 
 Yield:

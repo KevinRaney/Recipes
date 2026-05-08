@@ -1,3 +1,19 @@
+---
+title: "Light Tuna Casserole"
+description: "Light Tuna Casserole - Lean & Green main featuring seafood."
+tags:
+  - main
+  - seafood
+  - tuna
+  - spaghetti-squash
+  - casserole
+servings: 2
+fueling:
+  lean: 1
+  healthy_fats: 1
+  condiments: 1.5
+  greens: 2
+---
 # Light Tuna Casserole
 
 Yield:

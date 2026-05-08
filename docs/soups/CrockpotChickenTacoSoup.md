@@ -1,3 +1,16 @@
+---
+title: "Crockpot Chicken Taco Soup"
+description: "Crockpot Chicken Taco Soup - Mexican Lean & Green soup made in the slow cooker."
+tags:
+  - soup
+  - slow-cooker
+  - mexican
+servings: 2
+fueling:
+  lean: 1
+  condiments: 2.25
+  greens: 3
+---
 # Crockpot Chicken Taco Soup
 
 ## Yield

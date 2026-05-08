@@ -1,3 +1,16 @@
+---
+title: "Jalapeño Popper Chicken Dip"
+description: "Jalapeño Popper Chicken Dip - Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - dip
+servings: 4
+fueling:
+  lean: 1
+  healthy_fats: 1
+  condiments: 1.75
+---
 # Jalapeño Popper Chicken Dip
 
 Makes 4 servings, per serving you enjoy:

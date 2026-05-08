@@ -1,3 +1,15 @@
+---
+title: "Roasted Shrimp And Veggie Salad"
+description: "Roasted Shrimp And Veggie Salad - Lean & Green main featuring seafood from the oven."
+tags:
+  - main
+  - seafood
+  - oven
+  - shrimp
+servings: 4
+fueling:
+  condiments: 3
+---
 # Roasted Shrimp And Veggie Salad
 
 Makes 4 servings

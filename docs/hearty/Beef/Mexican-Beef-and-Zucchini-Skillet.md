@@ -1,3 +1,18 @@
+---
+title: "Mexican Beef and Zucchini Skillet"
+description: "Mexican Beef and Zucchini Skillet - Mexican Lean & Green main featuring beef on the stovetop."
+tags:
+  - main
+  - beef
+  - stovetop
+  - zucchini
+  - mexican
+servings: 1
+fueling:
+  lean: 1
+  condiments: 3
+  greens: 3
+---
 # Mexican Beef and Zucchini Skillet
 
 Yield:

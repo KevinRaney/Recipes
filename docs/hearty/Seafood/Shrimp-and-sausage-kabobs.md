@@ -1,3 +1,17 @@
+---
+title: "Shrimp and sausage kabobs"
+description: "Shrimp and sausage kabobs - Lean & Green main featuring seafood."
+tags:
+  - main
+  - seafood
+  - shrimp
+servings: 1
+fueling:
+  leaner: 1
+  healthy_fats: 1
+  condiments: 2
+  greens: 3
+---
 # Shrimp and sausage kabobs
 
 1 serving

@@ -1,3 +1,15 @@
+---
+title: "Pepper Stuffed \"Shells\""
+description: "Pepper Stuffed \"Shells\" - Vegetarian lean & green main."
+tags:
+  - main
+  - vegetarian
+  - stuffed
+servings: 4
+fueling:
+  lean: 1
+  greens: 3
+---
 # Pepper Stuffed "Shells"
 
 Makes 4 servings

@@ -1,3 +1,17 @@
+---
+title: "Thai Chicken Zoodle Soup"
+description: "Thai Chicken Zoodle Soup - Asian Lean & Green soup."
+tags:
+  - soup
+  - zucchini
+  - asian
+servings: 4
+fueling:
+  leaner: 4
+  healthy_fats: 1
+  condiments: 3
+  greens: 1
+---
 # Thai Chicken Zoodle Soup
 
 ## Ingredients

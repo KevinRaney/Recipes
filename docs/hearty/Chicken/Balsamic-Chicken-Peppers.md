@@ -1,3 +1,16 @@
+---
+title: "Balsamic Chicken & Peppers"
+description: "Balsamic Chicken & Peppers - Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+servings: 4
+fueling:
+  lean: 1
+  healthy_fats: 1
+  condiments: 3
+  greens: 1
+---
 # Balsamic Chicken & Peppers
 Makes 4 servings
 Per serving:

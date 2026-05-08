@@ -1,3 +1,17 @@
+---
+title: "Chicken with Chipotle Mushroom Cream Sauce"
+description: "Chicken with Chipotle Mushroom Cream Sauce - Mexican Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - mexican
+servings: 2
+fueling:
+  leaner: 1
+  healthy_fats: 1
+  condiments: 2
+  greens: 1.5
+---
 # Chicken with Chipotle Mushroom Cream Sauce
 
 ## Ingredients

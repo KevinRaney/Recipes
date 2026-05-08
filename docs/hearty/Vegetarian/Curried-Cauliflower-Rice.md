@@ -1,3 +1,14 @@
+---
+title: "Curried Cauliflower Rice"
+description: "Curried Cauliflower Rice - Vegetarian lean & green main."
+tags:
+  - main
+  - vegetarian
+  - cauliflower
+servings: 4
+fueling:
+  condiments: 3
+---
 # Curried Cauliflower Rice
 
 Yield:

@@ -1,3 +1,14 @@
+---
+title: "Big Mac Salad"
+description: "Big Mac Salad - Lean & Green salad."
+tags:
+  - salad
+fueling:
+  leaner: 1
+  healthy_fats: 1
+  condiments: 3
+  greens: 3
+---
 # Big Mac Salad
 
 Yield: 1 serving

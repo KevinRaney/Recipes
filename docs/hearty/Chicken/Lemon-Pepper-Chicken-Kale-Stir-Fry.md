@@ -1,3 +1,16 @@
+---
+title: "Lemon Pepper Chicken & Kale Stir Fry"
+description: "Lemon Pepper Chicken & Kale Stir Fry - Asian Lean & Green main featuring chicken on the stovetop."
+tags:
+  - main
+  - chicken
+  - stovetop
+  - asian
+servings: 3
+fueling:
+  leaner: 1
+  condiments: 3
+---
 # Lemon Pepper Chicken & Kale Stir Fry
 
 Yield:

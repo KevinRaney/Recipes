@@ -1,3 +1,16 @@
+---
+title: "Cauliflower Crust Pot Pie"
+description: "Cauliflower Crust Pot Pie - Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - cauliflower
+servings: 4
+fueling:
+  leaner: 1
+  condiments: 3
+  greens: 3
+---
 # Cauliflower Crust Pot Pie
 
 Makes 4 servings

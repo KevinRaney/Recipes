@@ -1,3 +1,15 @@
+---
+title: "Lasagna"
+description: "Lasagna - Lean & Green main featuring beef."
+tags:
+  - main
+  - beef
+servings: 4
+fueling:
+  lean: 1
+  condiments: 1.6
+  greens: 1
+---
 # Lasagna
 
 Yield:

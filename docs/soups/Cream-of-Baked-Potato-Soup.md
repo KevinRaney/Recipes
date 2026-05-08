@@ -1,3 +1,16 @@
+---
+title: "Cream of Baked “Potato” Soup"
+description: "Cream of Baked “Potato” Soup - Lean & Green soup from the oven."
+tags:
+  - soup
+  - oven
+  - cauliflower
+servings: 1
+fueling:
+  lean: 0.12
+  condiments: 3
+  greens: 3
+---
 # Cream of Baked “Potato” Soup
 
 ## Ingredients

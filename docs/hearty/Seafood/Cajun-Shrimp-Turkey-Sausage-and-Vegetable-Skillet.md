@@ -1,3 +1,20 @@
+---
+title: "Cajun Shrimp, Turkey Sausage, and Vegetable Skillet"
+description: "Cajun Shrimp, Turkey Sausage, and Vegetable Skillet - Cajun Lean & Green main featuring seafood on the stovetop."
+tags:
+  - main
+  - seafood
+  - stovetop
+  - shrimp
+  - zucchini
+  - cajun
+servings: 6
+fueling:
+  leanest: 1
+  healthy_fats: 1
+  condiments: 2.33
+  greens: 3
+---
 # Cajun Shrimp, Turkey Sausage, and Vegetable Skillet
 
 Yield:

@@ -1,3 +1,15 @@
+---
+title: "Rotisserie Style Chicken in the Slow Cooker"
+description: "Rotisserie Style Chicken in the Slow Cooker - Lean & Green main featuring chicken made in the slow cooker."
+tags:
+  - main
+  - chicken
+  - slow-cooker
+servings: 4
+fueling:
+  lean: 1
+  condiments: 2.3
+---
 # Rotisserie Style Chicken in the Slow Cooker
 
 4 Servings with 1 Lean and 2.3 Condiments per serving

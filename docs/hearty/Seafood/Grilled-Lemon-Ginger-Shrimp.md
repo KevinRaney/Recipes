@@ -1,3 +1,16 @@
+---
+title: "Grilled Lemon Ginger Shrimp"
+description: "Grilled Lemon Ginger Shrimp - Lean & Green main featuring seafood off the grill."
+tags:
+  - main
+  - seafood
+  - grill
+  - shrimp
+fueling:
+  lean: 1
+  healthy_fats: 2
+  condiments: 3
+---
 # Grilled Lemon Ginger Shrimp
 
 ## Ingredients

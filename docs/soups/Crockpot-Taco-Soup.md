@@ -1,3 +1,17 @@
+---
+title: "Crockpot Taco Soup"
+description: "Crockpot Taco Soup - Mexican Lean & Green soup made in the slow cooker."
+tags:
+  - soup
+  - slow-cooker
+  - mexican
+servings: 3
+fueling:
+  leaner: 1
+  healthy_fats: 1
+  condiments: 3
+  greens: 2
+---
 # Crockpot Taco Soup
 
 ## Ingredients

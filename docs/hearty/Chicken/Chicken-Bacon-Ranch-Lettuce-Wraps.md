@@ -1,3 +1,17 @@
+---
+title: "Chicken Bacon Ranch Lettuce Wraps"
+description: "Chicken Bacon Ranch Lettuce Wraps - American Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+  - american
+  - wraps
+servings: 4
+fueling:
+  lean: 1
+  condiments: 0.5
+  greens: 1
+---
 # Chicken Bacon Ranch Lettuce Wraps 
 
 ## Ingredients

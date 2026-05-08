@@ -1,3 +1,16 @@
+---
+title: "Spinach Mushroom Chicken"
+description: "Spinach Mushroom Chicken - Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+servings: 6
+fueling:
+  leaner: 1
+  healthy_fats: 6
+  condiments: 0.67
+  greens: 4
+---
 # Spinach Mushroom Chicken
 
 Makes 6 servings

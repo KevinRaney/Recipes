@@ -1,3 +1,11 @@
+---
+title: "Tomato Shrimp Salad"
+description: "Tomato Shrimp Salad - Lean & Green main featuring seafood."
+tags:
+  - main
+  - seafood
+  - shrimp
+---
 # Tomato Shrimp Salad
 
 1 complete Lean & Green

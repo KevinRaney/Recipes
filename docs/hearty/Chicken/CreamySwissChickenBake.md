@@ -1,3 +1,16 @@
+---
+title: "Creamy Swiss Chicken Bake"
+description: "Creamy Swiss Chicken Bake - Lean & Green main featuring chicken from the oven."
+tags:
+  - main
+  - chicken
+  - oven
+servings: 8
+fueling:
+  leaner: 1
+  condiments: 3
+  greens: 3
+---
 # Creamy Swiss Chicken Bake
 
 Makes 8 servings

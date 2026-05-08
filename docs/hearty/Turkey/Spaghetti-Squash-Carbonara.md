@@ -1,3 +1,15 @@
+---
+title: "Spaghetti Squash Carbonara"
+description: "Spaghetti Squash Carbonara - Italian Lean & Green main featuring turkey."
+tags:
+  - main
+  - turkey
+  - spaghetti-squash
+  - italian
+servings: 8
+fueling:
+  condiments: 3
+---
 # Spaghetti Squash Carbonara
 
 ## Ingredients

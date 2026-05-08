@@ -1,3 +1,15 @@
+---
+title: "Savory Brisket"
+description: "Savory Brisket - Lean & Green main featuring beef made in the slow cooker."
+tags:
+  - main
+  - beef
+  - slow-cooker
+servings: 6
+fueling:
+  lean: 1
+  condiments: 2
+---
 # Savory Brisket
 
 Makes 6 servings

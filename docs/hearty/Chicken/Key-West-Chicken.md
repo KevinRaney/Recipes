@@ -1,3 +1,15 @@
+---
+title: "Key West Chicken"
+description: "Key West Chicken - Lean & Green main featuring chicken."
+tags:
+  - main
+  - chicken
+servings: 2
+fueling:
+  leaner: 2
+  healthy_fats: 1
+  condiments: 3
+---
 # Key West Chicken
 
 Makes 2 servings, each serving gives 2 leaners (6 ounces cooked chicken each), 3 condiments, and 1 healthy fat.

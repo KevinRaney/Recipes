@@ -1,3 +1,15 @@
+---
+title: "Bacon Cheeseburger Soup With Cauliflower"
+description: "Bacon Cheeseburger Soup With Cauliflower - Lean & Green soup."
+tags:
+  - soup
+  - cauliflower
+servings: 1
+fueling:
+  lean: 1
+  condiments: 2
+  greens: 2
+---
 # Bacon Cheeseburger Soup With Cauliflower
 
 1 Serving
