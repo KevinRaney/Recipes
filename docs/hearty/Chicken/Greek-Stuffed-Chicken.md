@@ -42,13 +42,13 @@ Roughly 2 1/2 condiments
 - [ ] Extra dill and fresh parsley for garnish
 
 ## Directions
-* Preheat oven to 350F. Line a sheet pan with parchment paper or spray with non-stick cooking spray.
-* Place chicken on prepared sheet pan. Using a sharp knife make 5-6 slits on the back of the chicken about ¾ of the way through the chicken (careful not to slice all the way through).
-* In a small bowl, mix olive oil, lemon juice, dill, parsley, garlic and salt and pepper. Brush chicken breasts (including inside the slits) with olive oil mixture. Set aside any remaining olive oil mixture.
-* In a large bowl, add zucchini slices, yellow squash, tomato (or roasted red pepper) and red onion. Drizzle remaining olive oil mixture over vegetables and gently mix to coat.
-* Stuff the slits on the back of the chicken with zucchini, yellow squash, tomato and red onion and feta. Sprinkle mozzarella and feta on top of stuffed chicken breast.
-* Bake until chicken is cooked through (about 20-25 minutes) . If desired switch the oven from bake to broil for the last 5-10 minutes of cooking for a more bubbly and browned cheese.
-1. Garnish with additional fresh dill and parsley
+1. Preheat oven to 350F. Line a sheet pan with parchment paper or spray with non-stick cooking spray.
+2. Place chicken on prepared sheet pan. Using a sharp knife make 5-6 slits on the back of the chicken about ¾ of the way through the chicken (careful not to slice all the way through).
+3. In a small bowl, mix olive oil, lemon juice, dill, parsley, garlic and salt and pepper. Brush chicken breasts (including inside the slits) with olive oil mixture. Set aside any remaining olive oil mixture.
+4. In a large bowl, add zucchini slices, yellow squash, tomato (or roasted red pepper) and red onion. Drizzle remaining olive oil mixture over vegetables and gently mix to coat.
+5. Stuff the slits on the back of the chicken with zucchini, yellow squash, tomato and red onion and feta. Sprinkle mozzarella and feta on top of stuffed chicken breast.
+6. Bake until chicken is cooked through (about 20-25 minutes) . If desired switch the oven from bake to broil for the last 5-10 minutes of cooking for a more bubbly and browned cheese.
+7. Garnish with additional fresh dill and parsley
 
 ![Greek Stuffed Chicken](./Greek-Stuffed-Chicken.png)
 

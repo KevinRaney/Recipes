@@ -22,10 +22,10 @@ fueling:
 - [ ] 1 teaspoon chives⠀
 
 ## Directions
-* Preheat oven to 375°. Pulse cauliflower in a food processor until it forms large crumbs.
-* Place cauliflower in paper towels or cheesecloth and wring out any excess water. Pour cauliflower crumbles into a large bowl.
-* Add eggs, 1 cup cheese, ranch seasoning, about 3/4s of the bacon, and chives.
-* Grease a muffin tin with cooking spray, then fill each one about 2/3s full. Top with a sprinkle of cheese and crumbled bacon. Bake for about 20 to 22 minutes, or until lightly golden. Garnish with additional chives before serving.
+1. Preheat oven to 375°. Pulse cauliflower in a food processor until it forms large crumbs.
+2. Place cauliflower in paper towels or cheesecloth and wring out any excess water. Pour cauliflower crumbles into a large bowl.
+3. Add eggs, 1 cup cheese, ranch seasoning, about 3/4s of the bacon, and chives.
+4. Grease a muffin tin with cooking spray, then fill each one about 2/3s full. Top with a sprinkle of cheese and crumbled bacon. Bake for about 20 to 22 minutes, or until lightly golden. Garnish with additional chives before serving.
 
 1. Makes 4 servings⠀
 2. Each serving provides⠀
