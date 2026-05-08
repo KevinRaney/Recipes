@@ -1,0 +1,165 @@
+---
+title: "Browse by cuisine"
+description: "Lean & Green recipes grouped by cuisine: Mexican, Italian, Asian, Mediterranean, Cajun, American."
+tags:
+  - overview
+  - by-cuisine
+hide:
+  - toc
+---
+# Browse by cuisine
+
+Recipes grouped by cuisine. Tags are derived from titles and may be inexact for fusion dishes.
+
+## Mexican
+
+_33 recipes_
+
+- [Barbacoa Beef](../hearty/Beef/Barbacoa-Beef/)
+- [Broccoli Taco Bowl](../salads/Broccoli-Taco-Bowl/)
+- [Carne Guisada](../hearty/Beef/Carne-Guisada/)
+- [Cauliflower Mexican Rice with Chicken](../hearty/Chicken/Cauliflower-Mexican-Rice-with-Chicken/)
+- [Cheesy Enchilada Stuffed Peppers](../hearty/Beef/Cheesy-Enchilada-Stuffed-Peppers/)
+- [Chicken with Chipotle Mushroom Cream Sauce](../hearty/Chicken/Chicken-with-Chipotle-Mushroom-Cream-Sauce/)
+- [Chile Chicken Verde Casserole](../hearty/Chicken/Chile-Chicken-Verde-Casserole/)
+- [Chile Relleno Chicken Soup](../soups/ChileRellenoChickenSoup/)
+- [Chile Rellenos](../hearty/Chicken/Chile-Rellenos/)
+- [Chipotle Chicken with Avocado Salsa](../hearty/Chicken/Chipotle-Chicken-with-Avocado-Salsa/)
+- [Crockpot Chicken Taco Soup](../soups/CrockpotChickenTacoSoup/)
+- [Crockpot Taco Soup](../soups/Crockpot-Taco-Soup/)
+- [Enchilada Bake](../hearty/Chicken/Enchilada-Bake/)
+- [Green Chile Chicken Enchilada Stuffed Spaghetti Squash](../hearty/Chicken/Green-Chile-Chicken-Enchilada-Stuffed-Spaghetti-Squash/)
+- [Green Chile Chicken Soup](../soups/Green-Chile-Chicken-Soup/)
+- [Huevos Rancheros](../hearty/Vegetarian/Huevos-Rancheros/)
+- [Instant Pot Chipotle Chicken & Cauliflower Rice Bowls](../hearty/Chicken/Instant-Pot-Chipotle-Chicken-Cauliflower-Rice-Bowls/)
+- [Layered Enchilada Bake](../hearty/Chicken/Layered-Enchilada-Bake/)
+- [Mexican Beef and Zucchini Skillet](../hearty/Beef/Mexican-Beef-and-Zucchini-Skillet/)
+- [Mexican Beef Egg Burrito](../hearty/Beef/Mexican-Beef-Egg-Burrito/)
+- [Mexican Chicken](../hearty/Chicken/Mexican-Chicken/)
+- [Mexican Mac and Cheese](../hearty/Beef/Mexican-Mac-and-Cheese-1/)
+- [Mexican Mac and Cheese](../hearty/Beef/Mexican-Mac-and-Cheese-2/)
+- [Mexican Mac and Cheese](../hearty/Beef/Mexican-Mac-and-Cheese/)
+- [Mexican Style Shredded Pork](../hearty/Pork/Mexican-Style-Shredded-Pork/)
+- [Poblano Chicken Casserole](../hearty/Chicken/Poblano-Chicken-Casserole/)
+- [Sour Cream Chicken Enchilada Skillet](../hearty/Chicken/Sour-Cream-Chicken-Enchilada-Skillet/)
+- [Taco Bake](../hearty/Turkey/Taco-Bake/)
+- [Taco Beef and Zucchini Skillet](../hearty/Beef/Taco-Beef-and-Zucchini-Skillet/)
+- [Taco Dip](../appetizers/Taco-Dip/)
+- [Taco Salad](../salads/Taco-Salad/)
+- [TACO STUFFED TOMATOES](../hearty/Beef/TACO-STUFFED-TOMATOES/)
+- [Tomatillo & Green Chile Pork Stew](../soups/Tomatillo-Green-Chile-Pork-Stew/)
+
+## Italian
+
+_30 recipes_
+
+- [Caprese Chicken Stuffed Peppers](../hearty/Chicken/Caprese-Chicken-Stuffed-Peppers/)
+- [Caprese Salad](../salads/Caprese-Salad/)
+- [Cheesy Italian Chicken Spaghetti Squash Casserole](../hearty/Chicken/Cheesy-Italian-Chicken-Spaghetti-Squash-Casserole-1/)
+- [Cheesy Italian Chicken Spaghetti Squash Casserole](../hearty/Chicken/Cheesy-Italian-Chicken-Spaghetti-Squash-Casserole/)
+- [Chicken Alfredo and Spinach \"Pizza\"](../hearty/Chicken/Chicken-Alfredo-and-Spinach-Pizza/)
+- [Chicken Cacciatore and Spaghetti Squash](../hearty/Chicken/Chicken-Cacciatore-and-Spaghetti-Squash/)
+- [Chicken Parmesan](../hearty/Chicken/Chicken-Parmesan/)
+- [Chicken Pesto Bake](../hearty/Chicken/Chicken-Pesto-Bake/)
+- [Chicken Pesto Roll-Ups](../hearty/Chicken/Chicken-Pesto-Roll-Ups/)
+- [Chicken, hearts of palm, spinach and Alfredo pizza on a spaghetti squash crust](../hearty/Chicken/Chicken-hearts-of-palm-spinach-and-Alfredo-pizza-on-a-spaghetti…/)
+- [Creamy Tuscan Garlic Chicken](../hearty/Chicken/Creamy-Tuscan-Garlic-Chicken/)
+- [Italian Chicken Bake](../hearty/Chicken/Italian-Chicken-Bake/)
+- [Italian Meaty Casserole](../hearty/Beef/Italian-Meaty-Casserole/)
+- [Italian Sausage Sweet Red Pepper Quiche](../hearty/Turkey/Italian-Sausage-Sweet-Red-Pepper-Quiche/)
+- [Lean Parmesan Chicken Strips](../hearty/Chicken/Lean-Parmesan-Chicken-Strips/)
+- [Parmesan Meatloaf (Gluten Free)](../hearty/Beef/Parmesan-Meatloaf-Gluten-Free/)
+- [Pasta-less Italian Salad](../salads/Pasta-less-Italian-Salad/)
+- [Pesto & Mozzarella Stuffed Meatloaf](../hearty/Turkey/Pesto-Mozzarella-Stuffed-Meatloaf/)
+- [Pesto Chicken Bruschetta](../hearty/Chicken/Pesto-Chicken-Bruschetta/)
+- [PESTO CHICKEN WITH ZUCCHINI NOODLES](../hearty/Chicken/PESTO-CHICKEN-WITH-ZUCCHINI-NOODLES/)
+- [Ricotta Bacon Stuffed Mini Peppers](../appetizers/Ricotta-Bacon-Stuffed-Mini-Peppers/)
+- [Ricotta Chocolate Almond Mousse](../hearty/Vegetarian/Ricotta-Chocolate-Almond-Mousse/)
+- [Spaghetti Squash Alfredo](../hearty/Vegetarian/Spaghetti-Squash-Alfredo/)
+- [Spaghetti Squash Caprese Bake](../hearty/Vegetarian/Spaghetti-Squash-Caprese-Bake/)
+- [Spaghetti Squash Carbonara](../hearty/Turkey/Spaghetti-Squash-Carbonara/)
+- [Steak and Zucchini Horseradish Alfredo](../hearty/Beef/Steak-and-Zucchini-Horseradish-Alfredo/)
+- [Stuffed Chicken Parmesan Meatloaf](../hearty/Chicken/Stuffed-Chicken-Parmesan-Meatloaf/)
+- [Turkey Tetrazzini](../hearty/Turkey/TurkeyTetrazzini/)
+- [Vegan Cauliflower Alfredo Spaghetti Squash with Basil & Mushrooms](../hearty/Vegetarian/Vegan-Cauliflower-Alfredo-Spaghetti-Squash-with-Basil-Mushrooms/)
+- [Zucchini Boats Stuffed with Ricotta and Pine Nuts](../hearty/Vegetarian/Zucchini-Boats-Stuffed-with-Ricotta-and-Pine-Nuts/)
+
+## Asian
+
+_26 recipes_
+
+- [Beef Pad Thai (Spaghetti Squash)](../hearty/Beef/Beef-Pad-Thai-Spaghetti-Squash/)
+- [Chicken Zucchini Stir-Fry](../hearty/Chicken/Chicken-Zucchini-Stir-Fry/)
+- [Chinese Orange Chicken](../hearty/Chicken/Chinese-Orange-Chicken/)
+- [Filipino Chicken Adobo](../hearty/Chicken/Filipino-Chicken-Adobo/)
+- [Grilled Chicken with Peanut Sauce](../hearty/Chicken/Grilled-Chicken-with-Peanut-Sauce-1/)
+- [Grilled Chicken with Peanut Sauce](../hearty/Chicken/Grilled-Chicken-with-Peanut-Sauce/)
+- [Kung Pao Chicken](../hearty/Chicken/Kung-Pao-Chicken/)
+- [Lemon Pepper Chicken & Kale Stir Fry](../hearty/Chicken/Lemon-Pepper-Chicken-Kale-Stir-Fry/)
+- [Mongolian Beef over Cauliflower Rice](../hearty/Beef/Mongolian-Beef-over-Cauliflower-Rice/)
+- [Oven-Roasted Chicken Shawarma](../hearty/Chicken/Oven-Roasted-Chicken-Shawarma/)
+- [Roasted Veggie Power Bowl with Peanut Sauce](../hearty/Vegetarian/Roasted-Veggie-Power-Bowl-with-Peanut-Sauce/)
+- [Seared Scallops with Coconut Curry Sauce](../hearty/Seafood/Seared-Scallops-with-Coconut-Curry-Sauce/)
+- [SHAWARMA SPICED GRILLED VEGETABLES](../hearty/Vegetarian/SHAWARMA-SPICED-GRILLED-VEGETABLES/)
+- [Shrimp & Avocado Cauliflower Rice Sushi](../hearty/Seafood/Shrimp-Avocado-Cauliflower-Rice-Sushi/)
+- [Simple Beef with Broccoli Stir Fry](../hearty/Beef/Simple-Beef-with-Broccoli-Stir-Fry/)
+- [Slow Cooker Cashew Chicken](../hearty/Chicken/Slow-Cooker-Cashew-Chicken/)
+- [Spaghetti Squash Pad Thai](../hearty/Seafood/Spaghetti-Squash-Pad-Thai/)
+- [Taste of Thai Crock Pot Chicken](../hearty/Chicken/Taste-of-Thai-Crock-Pot-Chicken/)
+- [TERIYAKI BEEF ASPARAGUS SKEWERS](../hearty/Beef/TERIYAKI-BEEF-ASPARAGUS-SKEWERS/)
+- [Teriyaki Salmon Bites](../hearty/Seafood/Teriyaki-Salmon-Bites/)
+- [Teriyaki Tuna Kabobs](../hearty/Seafood/Teriyaki-Tuna-Kabobs/)
+- [Thai Chicken Zoodle Soup](../soups/Thai-Chicken-Zoodle-Soup/)
+- [Thai Chicken Zucchini Noodles with Spicy Peanut Sauce](../hearty/Chicken/Thai-Chicken-Zucchini-Noodles-with-Spicy-Peanut-Sauce/)
+- [Thai Peanut Chicken Pizza](../hearty/Chicken/Thai-Peanut-Chicken-Pizza/)
+- [Tofu {or chicken} and Broccoli Stir Fry with Peanut Sauce](../hearty/Chicken/Tofu-or-chicken-and-Broccoli-Stir-Fry-with-Peanut-Sauce/)
+- [Zesty Pork Stir-Fry](../hearty/Pork/Zesty-Pork-Stir-Fry/)
+
+## Mediterranean / Greek
+
+_10 recipes_
+
+- [Basil, feta, and tomato Spaghetti squash](../hearty/Vegetarian/Basil-feta-and-tomato-Spaghetti-squash/)
+- [Cauliflower Pizza with Chicken & Tzatziki](../hearty/Chicken/Cauliflower-Pizza-with-Chicken-Tzatziki/)
+- [Greek Chicken Burgers with Tzatziki Sauce](../hearty/Chicken/Greek-Chicken-Burgers-with-Tzatziki-Sauce/)
+- [Greek Chicken Stew](../hearty/Chicken/Greek-Chicken-Stew/)
+- [Greek Lemon Chicken Salad](../hearty/Chicken/Greek-Lemon-Chicken-Salad/)
+- [Greek Stuffed Chicken](../hearty/Chicken/Greek-Stuffed-Chicken/)
+- [Grilled Zucchini with Lemon and Feta](../hearty/Vegetarian/How-about-just-some-good-grilled-veggies-Youll-need-to-add-protein…/)
+- [Mock Tabbouleh Recipe](../hearty/Vegetarian/Mock-Tabbouleh-Recipe/)
+- [My Big Greek Turkey Burger](../hearty/Turkey/My-Big-Greek-Turkey-Burger/)
+- [Spiralized Greek Cucumber Salad with Lemon and Feta](../salads/Spiralized-Greek-Cucumber-Salad-with-Lemon-and-Feta/)
+
+## Cajun & Creole
+
+_6 recipes_
+
+- [Cajun Shrimp](../hearty/Seafood/Cajun-Shrimp/)
+- [Cajun Shrimp, Turkey Sausage, and Vegetable Skillet](../hearty/Seafood/Cajun-Shrimp-Turkey-Sausage-and-Vegetable-Skillet/)
+- [Cajun Style Shrimp Skillet](../hearty/Seafood/Cajun-Style-Shrimp-Skillet/)
+- [Creamy Zucchini Pasta Jambalaya](../hearty/Seafood/Creamy-Zucchini-Pasta-Jambalaya/)
+- [Crockpot Gumbo](../soups/Crockpot-Gumbo/)
+- [Surf & Turf in Creamy Cajun Sauce](../hearty/Seafood/Surf-Turf-in-Creamy-Cajun-Sauce/)
+
+## American comfort
+
+_18 recipes_
+
+- [BBQ Ranch Chicken Salad Sandwich](../hearty/Chicken/BBQ-Ranch-Chicken-Salad-Sandwich/)
+- [BBQ Ranch Shrimp Salad](../hearty/Seafood/BBQ-Ranch-Shrimp-Salad/)
+- [Buffalo Chicken Appetizer](../appetizers/Buffalo-Chicken-Appetizer/)
+- [Buffalo Chicken Spaghetti Squash Boats](../hearty/Chicken/Buffalo-Chicken-Spaghetti-Squash-Boats/)
+- [Buffalo Chicken Stuffed Peppers](../hearty/Chicken/Buffalo-Chicken-Stuffed-Peppers/)
+- [Buffalo Chicken Wraps](../hearty/Chicken/Buffalo-Chicken-Wraps-1/)
+- [Buffalo Chicken Wraps](../hearty/Chicken/Buffalo-Chicken-Wraps/)
+- [Buffalo Chik'n Bake](../hearty/Chicken/Buffalo-Chikn-Bake/)
+- [Cauliflower Ranch Chips](../appetizers/Cauliflower-Ranch-Chips/)
+- [Chicken Bacon Ranch Lettuce Wraps](../hearty/Chicken/Chicken-Bacon-Ranch-Lettuce-Wraps/)
+- [Creamy Buffalo Chicken Bake Dip](../hearty/Chicken/Creamy-Buffalo-Chicken-Bake-Dip/)
+- [Grilled Buffalo Shrimp](../hearty/Seafood/Grilled-Buffalo-Shrimp/)
+- [Loaded Cauliflower and Buffalo Chicken Casserole](../hearty/Chicken/Loaded-Cauliflower-and-Buffalo-Chicken-Casserole/)
+- [Mini BBQ Cheddar Meatloaf](../hearty/Beef/Mini-BBQ-Cheddar-Meatloaf/)
+- [Philly Cheesesteak Casserole](../hearty/Beef/Philly-Cheesesteak-Casserole/)
+- [Philly Cheesesteak Stuffed Peppers](../hearty/Beef/PhillyCheesesteakPeppers/)
+- [Philly Steak Cheese Skillet](../hearty/Beef/Philly-Steak-Cheese-Skillet/)
+- [Ranch Bacon Cauliflower Bites](../appetizers/Ranch-Bacon-Cauliflower-Bites/)
