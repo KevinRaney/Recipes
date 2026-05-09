@@ -1,6 +1,6 @@
 ---
 title: "Soups"
-description: "All Lean & Green soups recipes (21 total)."
+description: "All Lean & Green soups recipes (22 total)."
 tags:
   - overview
   - soup
@@ -11,7 +11,7 @@ hide:
 
 Brothy, creamy, and chunky soups - cozy without breaking the plan.
 
-_21 recipes._
+_22 recipes._
 
 - [Bacon Cheeseburger Soup With Cauliflower](Bacon-Cheeseburger-Soup-With-Cauliflower/)
 - [Chile Relleno Chicken Soup](ChileRellenoChickenSoup/)
@@ -29,6 +29,7 @@ _21 recipes._
 - [Onion Roasted Chicken](Onion-Roasted-Chicken/)
 - [Roasted Cauliflower White Cheddar Soup](Roasted-Cauliflower-White-Cheddar-Soup/)
 - [Slow Cooker Mushroom Soup](Slow-Cooker-Mushroom-Soup/)
+- [Soups](index/)
 - [Thai Chicken Zoodle Soup](Thai-Chicken-Zoodle-Soup/)
 - [Tomatillo & Green Chile Pork Stew](Tomatillo-Green-Chile-Pork-Stew/)
 - [Turkey Chili](TurkeyChili/)

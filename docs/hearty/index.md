@@ -1,6 +1,6 @@
 ---
 title: "Mains"
-description: "All Lean & Green mains recipes (237 total)."
+description: "All Lean & Green mains recipes (238 total)."
 tags:
   - overview
   - main
@@ -10,6 +10,10 @@ hide:
 # Mains
 
 Every Lean & Green main, grouped by protein.
+
+## Mains (1)
+
+- [Mains](index/)
 
 ## Beef (38)
 

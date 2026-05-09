@@ -1,6 +1,6 @@
 ---
 title: "Appetizers"
-description: "All Lean & Green appetizers recipes (10 total)."
+description: "All Lean & Green appetizers recipes (11 total)."
 tags:
   - overview
   - appetizer
@@ -11,9 +11,10 @@ hide:
 
 Small bites and starters that fit Lean & Green.
 
-_10 recipes._
+_11 recipes._
 
 - [Air Fried Coconut Shrimp](AirFriedCoconutShrimp/)
+- [Appetizers](index/)
 - [Avocado salsa](Avocado-salsa/)
 - [Bell Pepper Nachos](Bell-Pepper-Nachos-1/)
 - [Bell Pepper Nachos](Bell-Pepper-Nachos/)

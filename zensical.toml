@@ -5,6 +5,7 @@ repo_url = "https://github.com/KevinRaney/Recipes"
 repo_name = "KevinRaney/Recipes"
 edit_uri = "edit/main/docs/"
 copyright = "Copyright © 2026 Recipes.Raney.co"
+extra_css = ["stylesheets/lean-green-badge.css"]
 
 [project.theme]
 features = [
