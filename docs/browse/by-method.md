@@ -17,17 +17,19 @@ Recipes grouped by primary cooking method. Many recipes work multiple ways - lis
 - [Bang Bang Shrimp](../hearty/Seafood/Bang-Bang-Shrimp/)
 - [Blackened Salmon Cauliflower Asparagus soup](../hearty/Seafood/Blackened-Salmon-Cauliflower-Asparagus-soup/)
 
-## Instant Pot (2)
+## Instant Pot (3)
 
 - [Barbacoa Beef](../hearty/Beef/Barbacoa-Beef/)
 - [Instant Pot Chipotle Chicken & Cauliflower Rice Bowls](../hearty/Chicken/Instant-Pot-Chipotle-Chicken-Cauliflower-Rice-Bowls/)
+- [Mains](../hearty/index/)
 
-## Pressure cooker (2)
+## Pressure cooker (3)
 
 - [Barbacoa Beef](../hearty/Beef/Barbacoa-Beef/)
+- [Mains](../hearty/index/)
 - [Pressure Cooker Lemon Olive Chicken](../hearty/Chicken/Pressure-Cooker-Lemon-Olive-Chicken/)
 
-## Slow cooker / crockpot (13)
+## Slow cooker / crockpot (15)
 
 - [Carne Guisada](../hearty/Beef/Carne-Guisada/)
 - [Crock Pot Beef Soup](../soups/This-weather-call-for-some-soup/)
@@ -35,11 +37,13 @@ Recipes grouped by primary cooking method. Many recipes work multiple ways - lis
 - [Crockpot Chicken Taco Soup](../soups/CrockpotChickenTacoSoup/)
 - [Crockpot Gumbo](../soups/Crockpot-Gumbo/)
 - [Crockpot Taco Soup](../soups/Crockpot-Taco-Soup/)
+- [Mains](../hearty/index/)
 - [Mexican Style Shredded Pork](../hearty/Pork/Mexican-Style-Shredded-Pork/)
 - [Rotisserie Style Chicken in the Slow Cooker](../hearty/Chicken/Rotisserie-Style-Chicken-in-the-Slow-Cooker/)
 - [Savory Brisket](../hearty/Beef/Savory-Brisket/)
 - [Slow Cooker Cashew Chicken](../hearty/Chicken/Slow-Cooker-Cashew-Chicken/)
 - [Slow Cooker Mushroom Soup](../soups/Slow-Cooker-Mushroom-Soup/)
+- [Soups](../soups/index/)
 - [Taste of Thai Crock Pot Chicken](../hearty/Chicken/Taste-of-Thai-Crock-Pot-Chicken/)
 - [Turkey Chili](../soups/TurkeyChili/)
 

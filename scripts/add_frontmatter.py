@@ -2,10 +2,13 @@
 """Generate Zensical front matter for every recipe under docs/.
 
 Re-runnable: existing `---` front matter is stripped and regenerated so
-the script is the single source of truth for tags/description/fueling.
+the script is the single source of truth for tags/description/LeanAndGreen
+data, and the rendered nutrition badge between `<!-- LG:BEGIN -->` and
+`<!-- LG:END -->` is also stripped and regenerated.
 """
 import json
 import re
+import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -74,7 +77,13 @@ LEAN_RE = re.compile(rf"({NUM})\s+(leanest|leaner|lean)s?\b", re.I)
 HEALTHY_FAT_RE = re.compile(rf"({NUM})\s+healthy\s*fats?", re.I)
 CONDIMENT_RE = re.compile(rf"({NUM})\s+condiments?", re.I)
 GREEN_RE = re.compile(rf"({NUM})\s+greens?\b", re.I)
+SNACK_RE = re.compile(rf"({NUM})\s+(?:optional\s+)?snacks?\b", re.I)
 FRONT_MATTER_RE = re.compile(r"\A---\s*\n.*?\n---\s*\n?", re.S)
+LG_BLOCK_RE = re.compile(
+    r"\n*<!-- LG:BEGIN -->.*?<!-- LG:END -->\n*", re.S
+)
+
+LG_KEYS = ("lean", "leaner", "leanest", "healthy_fats", "greens", "condiments", "snack")
 
 
 def parse_number(s: str):
@@ -192,29 +201,42 @@ def derive_meta(path: Path, content: str) -> dict:
                 pass
             break
 
-    fueling: dict = {}
+    lg: dict = {k: 0 for k in LG_KEYS}
     lm = extract_fueling(LEAN_RE, summary, content)
     if lm:
         v = fmt_num(parse_number(lm.group(1)))
         if v is not None:
-            fueling[lm.group(2).lower()] = v
+            lg[lm.group(2).lower()] = v
     hm = extract_fueling(HEALTHY_FAT_RE, summary, content)
     if hm:
         v = fmt_num(parse_number(hm.group(1)))
         if v is not None:
-            fueling["healthy_fats"] = v
+            lg["healthy_fats"] = v
     cm = extract_fueling(CONDIMENT_RE, summary, content)
     if cm:
         v = fmt_num(parse_number(cm.group(1)))
         if v is not None:
-            fueling["condiments"] = v
+            lg["condiments"] = v
     gm = extract_fueling(GREEN_RE, summary, content)
     if gm:
         v = fmt_num(parse_number(gm.group(1)))
         if v is not None:
-            fueling["greens"] = v
-    if fueling:
-        out["fueling"] = fueling
+            lg["greens"] = v
+    sm = extract_fueling(SNACK_RE, summary, content)
+    if sm:
+        v = fmt_num(parse_number(sm.group(1)))
+        if v is not None:
+            lg["snack"] = v
+
+    tier_sum = sum(float(lg[k]) for k in ("lean", "leaner", "leanest"))
+    if not (abs(tier_sum) < 1e-6 or abs(tier_sum - 1) < 1e-6):
+        rel = path.relative_to(ROOT).as_posix()
+        print(
+            f"WARN {rel}: lean+leaner+leanest = {tier_sum} (expected 0 or 1)",
+            file=sys.stderr,
+        )
+
+    out["LeanAndGreen"] = lg
     return out
 
 
@@ -255,6 +277,133 @@ def yaml_str(s: str) -> str:
     return json.dumps(s, ensure_ascii=False)
 
 
+COLOR_RANK = {"green": 0, "yellow": 1, "red": 2}
+
+
+def _fmt_value(v) -> str:
+    if isinstance(v, float) and abs(v - round(v)) < 1e-6:
+        return str(int(round(v)))
+    return str(v)
+
+
+def evaluate_lean_and_green(lg: dict) -> list[dict]:
+    """Return per-row dicts with label, value, color, and tooltip."""
+    lean = float(lg.get("lean", 0))
+    leaner = float(lg.get("leaner", 0))
+    leanest = float(lg.get("leanest", 0))
+    healthy_fats = float(lg.get("healthy_fats", 0))
+    greens = float(lg.get("greens", 0))
+    condiments = float(lg.get("condiments", 0))
+    snack = float(lg.get("snack", 0))
+
+    tier_sum = lean + leaner + leanest
+    if abs(tier_sum - 1) < 1e-6:
+        tier_color = "green"
+        tier_tip = "Lean + leaner + leanest = 1 portion (meets)."
+    elif tier_sum > 1 + 1e-6:
+        tier_color = "red"
+        tier_tip = f"Lean + leaner + leanest = {_fmt_value(tier_sum)} (over 1 portion)."
+    elif tier_sum > 1e-6:
+        tier_color = "yellow"
+        tier_tip = f"Lean + leaner + leanest = {_fmt_value(tier_sum)} (under 1 portion)."
+    else:
+        tier_color = "green"
+        tier_tip = "No protein declared."
+
+    fats_target = 2 * leanest + 1 * leaner + 0 * lean
+    if abs(healthy_fats - fats_target) < 1e-6:
+        fats_color = "green"
+    elif healthy_fats < fats_target:
+        fats_color = "yellow"
+    else:
+        fats_color = "red"
+    fats_tip = (
+        f"Healthy fats target for this tier mix is {_fmt_value(fats_target)} "
+        f"(leanest 2 / leaner 1 / lean 0)."
+    )
+
+    if abs(greens - 3) < 1e-6:
+        greens_color = "green"
+    elif greens < 3:
+        greens_color = "yellow"
+    else:
+        greens_color = "red"
+    greens_tip = "Lean & Green calls for 3 servings of non-starchy vegetables."
+
+    if condiments <= 3 + 1e-6:
+        condiments_color = "green"
+    else:
+        condiments_color = "red"
+    condiments_tip = "Up to 3 condiment servings per day."
+
+    if snack <= 1 + 1e-6:
+        snack_color = "green"
+    else:
+        snack_color = "red"
+    snack_tip = "Up to 1 optional snack per day."
+
+    return [
+        {"key": "lean", "label": "Lean", "value": _fmt_value(lean),
+         "color": tier_color, "title": tier_tip},
+        {"key": "leaner", "label": "Leaner", "value": _fmt_value(leaner),
+         "color": tier_color, "title": tier_tip},
+        {"key": "leanest", "label": "Leanest", "value": _fmt_value(leanest),
+         "color": tier_color, "title": tier_tip},
+        {"key": "healthy_fats", "label": "Healthy fats",
+         "value": _fmt_value(healthy_fats), "color": fats_color,
+         "title": fats_tip},
+        {"key": "greens", "label": "Greens", "value": _fmt_value(greens),
+         "color": greens_color, "title": greens_tip},
+        {"key": "condiments", "label": "Condiments",
+         "value": _fmt_value(condiments), "color": condiments_color,
+         "title": condiments_tip},
+        {"key": "snack", "label": "Snack", "value": _fmt_value(snack),
+         "color": snack_color, "title": snack_tip},
+    ]
+
+
+def render_lean_and_green_badge(meta: dict) -> str:
+    """Render the per-recipe Lean & Green nutrition badge as HTML."""
+    lg = meta.get("LeanAndGreen") or {k: 0 for k in LG_KEYS}
+    rows = evaluate_lean_and_green(lg)
+    overall = max((r["color"] for r in rows), key=lambda c: COLOR_RANK[c])
+
+    lines = [
+        "<!-- LG:BEGIN -->",
+        f'<aside class="lg-badge lg-badge--{overall}" '
+        'aria-label="Lean and Green nutrition summary">',
+        '  <header class="lg-badge__title">Lean &amp; Green</header>',
+        '  <ul class="lg-badge__rows">',
+    ]
+    for r in rows:
+        lines.append(
+            f'    <li class="lg-badge__row lg-badge__row--{r["color"]}" '
+            f'title="{r["title"]}">'
+            f'<span class="lg-badge__label">{r["label"]}</span>'
+            f'<span class="lg-badge__value">{r["value"]}</span>'
+            '<span class="lg-badge__swatch" aria-hidden="true"></span>'
+            '</li>'
+        )
+    lines.append("  </ul>")
+    lines.append("</aside>")
+    lines.append("<!-- LG:END -->")
+    return "\n".join(lines)
+
+
+def inject_badge(body: str, badge: str) -> str:
+    """Insert the badge block immediately after the first H1 in the body."""
+    body = LG_BLOCK_RE.sub("\n\n", body, count=1)
+    m = re.search(r"^#\s+.+?$", body, re.M)
+    if not m:
+        return body
+    end = m.end()
+    after = body[end:]
+    after = re.sub(r"^\s*\n+", "\n\n", after, count=1)
+    if not after.startswith("\n\n"):
+        after = "\n\n" + after.lstrip("\n")
+    return body[:end] + "\n\n" + badge + after
+
+
 def to_front_matter(title, description, tags, meta) -> str:
     lines = [
         "---",
@@ -266,10 +415,10 @@ def to_front_matter(title, description, tags, meta) -> str:
         lines.extend(f"  - {t}" for t in tags)
     if "servings" in meta:
         lines.append(f"servings: {meta['servings']}")
-    if "fueling" in meta:
-        lines.append("fueling:")
-        for k, v in meta["fueling"].items():
-            lines.append(f"  {k}: {v}")
+    if "LeanAndGreen" in meta:
+        lines.append("LeanAndGreen:")
+        for k in LG_KEYS:
+            lines.append(f"  {k}: {meta['LeanAndGreen'][k]}")
     lines.append("---")
     lines.append("")
     return "\n".join(lines)
@@ -285,11 +434,15 @@ def should_skip(path: Path) -> bool:
 def process(path: Path) -> None:
     content = path.read_text()
     content = FRONT_MATTER_RE.sub("", content, count=1)
+    content = LG_BLOCK_RE.sub("\n\n", content, count=1)
     fallback = path.stem.replace("-", " ").replace("_", " ")
     title = extract_title(content, fallback)
     tags = derive_tags(path, content, title)
     meta = derive_meta(path, content)
     description = build_description(title, tags)
+    if not is_tip(path) and "LeanAndGreen" in meta:
+        badge = render_lean_and_green_badge(meta)
+        content = inject_badge(content, badge)
     path.write_text(to_front_matter(title, description, tags, meta) + content)
 
 

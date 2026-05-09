@@ -1,6 +1,6 @@
 ---
 title: "Lean & Green Recipes"
-description: "Browse 283 Lean & Green recipes by protein, method, cuisine, or dish type."
+description: "Browse 288 Lean & Green recipes by protein, method, cuisine, or dish type."
 tags:
   - overview
 hide:
@@ -10,7 +10,7 @@ hide:
 
 Welcome! Every recipe here fits the Lean & Green plan and is tagged for easy browsing. Use the search at the top, click any tag chip on a recipe to find similar dishes, or dive into the curated browse pages below.
 
-**283 recipes and tips** indexed.
+**288 recipes and tips** indexed.
 
 ## Browse pages
 
@@ -21,8 +21,8 @@ Welcome! Every recipe here fits the Lean & Green plan and is tagged for easy bro
 
 ## Course
 
-- [Appetizers](appetizers/) (10)
-- [Soups](soups/) (21)
-- [Salads](salads/) (11)
-- [Mains](hearty/) (237)
-- [Tips & Hacks](Tips-and-Hacks/) (4)
+- [Appetizers](appetizers/) (11)
+- [Soups](soups/) (22)
+- [Salads](salads/) (12)
+- [Mains](hearty/) (238)
+- [Tips & Hacks](Tips-and-Hacks/) (5)
