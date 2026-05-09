@@ -8,6 +8,9 @@ Generates:
   docs/browse/by-method.md
   docs/browse/by-cuisine.md
   docs/browse/by-dish.md
+  docs/<course>/index.md   - per-course landing pages so the Course
+                             links from the landing (and the nav-tab
+                             section indexes) resolve to a real page.
 
 Each browse page groups recipes by tag within its dimension. Run after
 adding or renaming recipes (or after running add_frontmatter.py).
@@ -105,6 +108,34 @@ COURSE_COUNTS = [
     ("main", "Mains", "hearty/"),
     ("tip", "Tips & Hacks", "Tips-and-Hacks/"),
 ]
+# Maps each course tag to (heading, intro, directory containing recipes).
+COURSE_PAGES = {
+    "appetizer": (
+        "Appetizers",
+        "Small bites and starters that fit Lean & Green.",
+        "appetizers",
+    ),
+    "soup": (
+        "Soups",
+        "Brothy, creamy, and chunky soups - cozy without breaking the plan.",
+        "soups",
+    ),
+    "salad": (
+        "Salads",
+        "Hearty entrée salads and lighter sides.",
+        "salads",
+    ),
+    "main": (
+        "Mains",
+        "Every Lean & Green main, grouped by protein.",
+        "hearty",
+    ),
+    "tip": (
+        "Tips & Hacks",
+        "Cheats, swaps, and shopping notes that make Lean & Green easier.",
+        "Tips-and-Hacks",
+    ),
+}
 
 
 def front_matter(title: str, description: str, tags: list[str]) -> str:
@@ -144,6 +175,48 @@ def render_dimension(heading: str, intro: str, taxonomy, recipes) -> str:
 def write_page(path: Path, fm: str, body: str) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(fm + body)
+
+
+def link_within_course(recipe, course_dir: str) -> str:
+    """Link from docs/<course_dir>/index.md to a recipe under that dir."""
+    rel = recipe["rel"]
+    prefix = course_dir + "/"
+    assert rel.startswith(prefix), (rel, prefix)
+    inner = rel[len(prefix):]
+    return f"[{recipe['title']}]({page_url(inner)})"
+
+
+def render_course_page(course_tag: str, recipes) -> str:
+    heading, intro, course_dir = COURSE_PAGES[course_tag]
+    items = [
+        r for r in recipes
+        if course_tag in r["tags"] and r["rel"].startswith(course_dir + "/")
+    ]
+    items.sort(key=lambda r: r["title"].lower())
+    out = [f"# {heading}", "", intro, ""]
+    if course_tag == "main":
+        # Mains live in hearty/<Protein>/, so group the listing by that
+        # subdirectory to mirror the nav.
+        groups: dict[str, list] = {}
+        for r in items:
+            parts = r["rel"].split("/")
+            protein = parts[1] if len(parts) >= 3 else ""
+            groups.setdefault(protein, []).append(r)
+        for protein in sorted(groups, key=str.lower):
+            bucket = groups[protein]
+            label = protein or heading
+            out.append(f"## {label} ({len(bucket)})")
+            out.append("")
+            for r in bucket:
+                out.append(f"- {link_within_course(r, course_dir)}")
+            out.append("")
+    else:
+        out.append(f"_{len(items)} recipes._")
+        out.append("")
+        for r in items:
+            out.append(f"- {link_within_course(r, course_dir)}")
+        out.append("")
+    return "\n".join(out).rstrip() + "\n"
 
 
 def main() -> None:
@@ -261,8 +334,24 @@ def main() -> None:
         ),
     )
 
+    course_pages_written = 0
+    for course, _, _ in COURSE_COUNTS:
+        if not counts[course]:
+            continue
+        heading, _, course_dir = COURSE_PAGES[course]
+        write_page(
+            DOCS / course_dir / "index.md",
+            front_matter(
+                heading,
+                f"All Lean & Green {heading.lower()} recipes ({counts[course]} total).",
+                ["overview", course],
+            ),
+            render_course_page(course, recipes),
+        )
+        course_pages_written += 1
+
     print(
-        f"Wrote landing + 5 browse pages "
+        f"Wrote landing + 5 browse pages + {course_pages_written} course pages "
         f"({len(recipes)} recipes indexed)"
     )
 
